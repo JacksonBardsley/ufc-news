@@ -1,6 +1,348 @@
 {
- "updated": 1792877650,
+ "updated": 1792885223,
  "items": [
+  {
+   "id": "dde37dd5ca068354",
+   "title": "Dana White on Islam Makhachev after UFC 336 interim title news: 'You can't hold up divisions like this'",
+   "summary": "Dana White, Islam Makhachev and Carlos Prates all commented on the surprising news of UFC 336's new interim title bout.",
+   "link": "https://sports.yahoo.com/mma/article/dana-white-on-islam-makhachev-after-ufc-336-interim-title-news-you-cant-hold-up-divisions-like-this-231910791.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1792883950
+  },
+  {
+   "id": "e985e871117ba157",
+   "title": "UFC 333: Alexander Volkanovski reveals pre-fight illness - Yahoo Sports",
+   "summary": "UFC 333: Alexander Volkanovski reveals pre-fight illness Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGM3aVhDbVNVMk85VjJmenNKcXRKa2JyUmprSXIzQVVRQWl6Sko5cFh3eURPNENscjZ4WWZ6SzZ1NFV4RWhoMTVEeUNGRkJ2ZDhmRFJMN2F5b2ZHUFRScWZTRGxxdHVRUXJKSzRlYWt4aFZMdWtIQU9pdmllcG5UeWducGtzYkJBX0doQQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792883301
+  },
+  {
+   "id": "87f0a2ce2731db66",
+   "title": "UFC 333: Petr Yan full post-fight interview - Yahoo Sports",
+   "summary": "UFC 333: Petr Yan full post-fight interview Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GX0U1NHVDWFJlaXRVWW1HQ2JsdW4wMFlXOVRYR3BCRlIyVldqUWctbUlwNk1WeFJ4WnZhb0ptd2xrbTVwOEVObVhCNzJDcDg2cFRzRXplbHpFcG1Hal94ZnpzWDlINHhzaF9PMURhYnJkbzIzdXhV?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792882729
+  },
+  {
+   "id": "b877221ed8a14259",
+   "title": "Pros react after Alexander Volkanovski TKO’s Movsar Evloev at UFC 333",
+   "summary": "GOAT!",
+   "link": "https://www.bjpenn.com/mma-news/alex-volkanovski/pros-react-after-alexander-volkanovski-tkos-movsar-evloev-at-ufc-333/?utm_source=rss&utm_medium=rss&utm_campaign=pros-react-after-alexander-volkanovski-tkos-movsar-evloev-at-ufc-333",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1792882419
+  },
+  {
+   "id": "1d3c303da4418d0f",
+   "title": "UFC 333 takeaways: Alexander Volkanovski just ended the featherweight GOAT debate",
+   "summary": "UFC 333 finished with a bang on Saturday, with Alexander Volkanovski and Petr Yan's titles staying put in a pair of spectacular showings. Here are the biggest takeaways from a wild day.",
+   "link": "https://sports.yahoo.com/mma/article/ufc-333-takeaways-alexander-volkanovski-just-ended-the-featherweight-goat-debate-movsar-evloev-petr-yan-merab-dvalishvili-225148246.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1792882308
+  },
+  {
+   "id": "1e7af3069181cacc",
+   "title": "Alexander Volkanovski, Petr Yan solidify their greatness at UFC 333 - ESPN",
+   "summary": "Alexander Volkanovski, Petr Yan solidify their greatness at UFC 333 ESPN",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnM2SlUzLXVpSV9pdmtWWWJrazJHcGhEcTlkR1dJVlE5TXFzUjJqZk5FU2piSE1NVEEzZDNXNEJsQlVZX2tDQnVlTEZqNFIzZFBHcE5IQWY1ZUx6OVI4UEtGOWlSVWU3SUxvaTYteGpYeEMyVm9nQlZHOVpyUF8zRVJmdGM?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792881720
+  },
+  {
+   "id": "babd759cffc9aaea",
+   "title": "UFC 333: Dana White praises Petr Yan, Merab Dvalishvili after trilogy - Yahoo Sports",
+   "summary": "UFC 333: Dana White praises Petr Yan, Merab Dvalishvili after trilogy Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VTm82OEpuV3BnMF9HNURMbGpLZkJiWlpZS1lsNWRaVk9hbTJrR2FuUnRsRTJSR3NtOVUwelJ0R2FyZHpVeE5XTUV3NENxWWttUmdOQTJUZzQtbEF2QktVeEEyVmtKSTRRN0VNU0VVNy1faFBJYzdCRWpmalhhZw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792881654
+  },
+  {
+   "id": "e755fb50c5de6cd5",
+   "title": "Dana White explains interim title with Islam Makhachev not fighting at UFC 336 - MMA Junkie",
+   "summary": "Dana White explains interim title with Islam Makhachev not fighting at UFC 336 MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGdRNmczT3RjLXlUMDZ1a1hkZUN0d3g3QVFFcTJYRTYyZVNMbThfUWthU29ldmpvRlVscmtCQkNCcVBLbEJ4b0VjYlhrV0wtWndVbm85X2Z2TS1tdkpfVVBHMmV2bS0wVG9yeGlxT3Z6MEl0aWJjZWxiX2EtT0VzUjFxWnBUTmxzbmVrMmtWc0ltdW5SNzU3djhnWEMwQ0FoaldES3U3ZzJzSEZBdVVUTnlFaWlmMTk3ZWluNi1CZ0JaN00xVEZEMlozRkFKUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792881600
+  },
+  {
+   "id": "179e06d49a97bf1e",
+   "title": "Flyweight Title on the Line at UFC 336 in Toronto - Yahoo Sports",
+   "summary": "Flyweight Title on the Line at UFC 336 in Toronto Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFd5cFFtY2ZUUnJBRkFMYU9LZmJjYjY3RVJrNVFVMGd5U0VQckVlaDZaRC1UVEc2Nk84MV9WaThZWUlhUTNLSkJSNU9RRjhSNE9YcGJjWkRrMDdlYTBwd1dUVldmeWc5X1UzMzkyaUp1S2hSaVVxOURFQjBLVzdhN0tFWQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792881479
+  },
+  {
+   "id": "fca8dcd6e3843ec2",
+   "title": "Marc Goddard deducts another UFC point, this time for illegal strikes",
+   "summary": "Referee Marc Goddard is making fighters pay for fouls.",
+   "link": "https://www.sherdog.com/news/news/Marc-Goddard-deducts-another-UFC-point-this-time-for-illegal-strikes-203328",
+   "source": "Sherdog",
+   "kind": "news",
+   "ts": 1792881425
+  },
+  {
+   "id": "f8f14ba112acbc99",
+   "title": "UFC 333: Dana White praises 'built different' Alexander Volkanovski after win - Yahoo Sports",
+   "summary": "UFC 333: Dana White praises 'built different' Alexander Volkanovski after win Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hWWJSRTN3OVlyLXhTdDBiTDhvWmVVSUdxZzhXVzZkY1h4cU05bGJDMVFTWlRwNG5Gb1RVMndmbzdzWXo2cmViQTZpYU0wbHUzWVF3UGtOVklfdUdYOWc0MWtmMW1FNi1fRkRfQkVCTk95NnZ5d3lGV2dUSXJyQQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792881303
+  },
+  {
+   "id": "e77874ab575ff0de",
+   "title": "Houston's Joshua Van to defend his flyweight title against Manel Kape at UFC 336 in January - Houston Chronicle",
+   "summary": "Houston's Joshua Van to defend his flyweight title against Manel Kape at UFC 336 in January Houston Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbVE2RHZLUE9UeE5QSHBxbjhkRDM0SUxqRzRXLWFGc1NuOHU0d0hOTkxiVmo3enhHRTFyWFk5UVNyR2lHN1pwLUxxYWlWNHBJeU5ZdzF5MDFYdDhUOFdvN3YtdkdOb01pdXppYnk3SEJfMWdlVHR0T01MWXVrYTVtMHgxR244Z0otTUhnVWxrWF9WOVN3Y1pjbUtmQlJVLThBNVdwZUlHMEd4VWxm?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792881259
+  },
+  {
+   "id": "04fe6222b8b84861",
+   "title": "UFC 333 Results: Alexander Volkanovski TKO’s Movsar Evloev (Video)",
+   "summary": "And Still!",
+   "link": "https://www.bjpenn.com/mma-news/alex-volkanovski/ufc-333-results-alexander-volkanovski-tkos-movsar-evloev-video/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-333-results-alexander-volkanovski-tkos-movsar-evloev-video",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1792881157
+  },
+  {
+   "id": "1cc6ec8d4f0097f5",
+   "title": "Volkanovski stops Evloev for record ninth title win",
+   "summary": "Alexander Volkanovski strengthens his claim as the greatest featherweight of all time as he defeated Movsar Evloev inside two rounds at UFC 333 in Abu Dhabi.",
+   "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckvg7j2p471lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "kind": "news",
+   "ts": 1792881045
+  },
+  {
+   "id": "0dddb3fd1a67252b",
+   "title": "‼️Dana White says he can’t say no to Alex Volkanovski if he wants to move up and fight for the LW title",
+   "summary": "SOURCE: UFC 333 post fight presser submitted by /u/Acrobatic-Tackle3998 [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xelrym/dana_white_says_he_cant_say_no_to_alex/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1792881018
+  },
+  {
+   "id": "e0b18a56b2f9a05d",
+   "title": "UFC 333: Alexander Volkanovski earns first finish since 2023, retains featherweight title - The Olympian",
+   "summary": "UFC 333: Alexander Volkanovski earns first finish since 2023, retains featherweight title The Olympian",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MaW1walcwZHdRWmR5dmllYUtsY1FIdC1oN2xkYVR0WWxORTY5dDhJclFubG44aDcyakRCczJOVEQ4WS1EcFZnVG9lY1BnNWpLanJKdVFVRjY5dEVpUUNsQ08zLURldGtLM21IcDYwNXZobU0?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792880405
+  },
+  {
+   "id": "9332f8a6c217bd63",
+   "title": "Dominick Reyes Comeback Story Continues With UFC 333 TKO - Yahoo Sports",
+   "summary": "Dominick Reyes Comeback Story Continues With UFC 333 TKO Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTg2SXJvTnoxWTBDbUs3RWJYaGdLVnVQR0ZkanhicHdRTUE3R2JpVUZyUTZOWi1TbEhLekd6REZOLS1lZFhxaUtnTXRObHdZaTZSRWtpSjU4TDJrTXpER2lHd011U1RHMnpJdHdwZ2I0SGxGejA0NzRYbDlGRnJKY3d1dHVMSGR2dFkyREdnb21jUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792880288
+  },
+  {
+   "id": "4dcf3f257a39f9e0",
+   "title": "Bonuses! Alexander Volkanovski banks $100K for first finish in three years | UFC 333",
+   "summary": "Alexander Volkanovski turned in a classic performance earlier today (Sat., Oct. 24, 2026) at UFC 333 LIVE on Paramount+ from inside Etihad Arena in Abu Dhabi, United Arab Emirates, defeating Movsar Evloev via TKO to retain his UFC featherweight title. In co-main event action, Pe…",
+   "link": "https://www.mmamania.com/ufc-bonuses-and-awards/481431/officiail-ufc-333-post-fight-bonus-winners-results-paramount-volkanovski-evloev-yan-merab",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1792880187
+  },
+  {
+   "id": "14c1120e1f166ad3",
+   "title": "Volkanovski and Yan defend titles at UFC 333",
+   "summary": "With two championship bouts being held in the Middle East and a matinee start time locally in the United States, the high expectations provided early fireworks for global combat fans.",
+   "link": "https://sports.yahoo.com/articles/volkanovski-yan-defend-titles-ufc-221557561.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1792880157
+  },
+  {
+   "id": "7f97a13a3bb3d657",
+   "title": "'The FW GOAT:' Alexander Volkanovski's unreal UFC 333 knockout has fighters talking all-time greatness",
+   "summary": "Alexander Volkanovski just keeps finding ways to add to his legend.",
+   "link": "https://sports.yahoo.com/mma/article/the-fw-goat-alexander-volkanovskis-unreal-ufc-333-knockout-has-fighters-talking-all-time-greatness-221406513.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1792879950
+  },
+  {
+   "id": "bfc59b9a685ad13d",
+   "title": "Latest UFC odds: Justin Gaethje opens as betting favorite to smash Alex Volkanovski … but not by much",
+   "summary": "Reigning UFC featherweight champion Alex Volkanovski retained his 145-pound title by smashing and trashing Movsar Evloev atop the UFC 333 MMA event earlier today in Abu Dhabi, handing the Russian his first loss in 21 professional fights. So what’s next for the 38-year-old Aussie…",
+   "link": "https://www.mmamania.com/ufc-odds/481818/latest-ufc-odds-justin-gaethje-opens-betting-favorite-smash-alex-volkanovski-not-by-much",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1792879902
+  },
+  {
+   "id": "da113a570521dfc5",
+   "title": "Bonus Coverage | UFC 333: Volkanovski vs Evloev",
+   "summary": "The Performances Awarded An Extra Bonus At Etihad Arena On October 24, 2026 Read the Full Article Here",
+   "link": "https://www.ufc.com/news/bonus-coverage-ufc-333-volkanovski-vs-evloev",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1792879804
+  },
+  {
+   "id": "022ab019e69e7e72",
+   "title": "Alexander Volkanovski Delivers Brutal Finish to End Movsar Evloev’s 20-0 Streak at UFC 333",
+   "summary": "Alexander Volkanovski registered a record 9th title fight win in the featherweight division in the main event of UFC 333.",
+   "link": "https://sports.yahoo.com/articles/alexander-volkanovski-delivers-brutal-finish-220930498.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1792879770
+  },
+  {
+   "id": "f80de922dd594698",
+   "title": "Islam Makhachev Out for UFC 336 as Carlos Prates vs. Michael Morales Headlines Fight Card - Bleacher Report",
+   "summary": "Islam Makhachev Out for UFC 336 as Carlos Prates vs. Michael Morales Headlines Fight Card Bleacher Report",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNG0td0Vqdmk5NWFKZ3RUb2NGWDNiRE93ZlhINllVOVRvajdtUnZjOEtHbkFkZndPTVZOR1pZVjNSQ1k3NHIzb29fOVhZZFhJR3pVVURFNkFLSjB0MzZ3YzBSUi1vek8zZUEtNFBGTS1QZkxqc1lzRXRnbnZ5a0dIU2t1SXBFTVVxRE92b2c5S1NrNGlRZEdDdWp5OTRkR1JpWnl6c0RqeDNUQmxqMzhyclB2eEcxS0FXTjV0WjNLVG41N3Nr?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792879586
+  },
+  {
+   "id": "2a4494fd42773a78",
+   "title": "Lightweight is the only challenge left for Alexander Volkanovski",
+   "summary": "Alexander Volkanovski did it again at UFC 333, dominating a much younger contender in Movsar Evloev to defend his featherweight title for the seventh time over two reigns (watch the highlights here). After two bad losses to Islam Makhachev and a brutal KO by Ilia Topuria, there…",
+   "link": "https://www.mmamania.com/ufc-333-fight-card-start-time-live-stream-volkanovski-vs-evloev/481825/lightweight-is-the-only-challenge-left-for-alexander-volkanovski",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1792879450
+  },
+  {
+   "id": "1d49a074c76a34e9",
+   "title": "UFC 333 Bonuses Revealed Following Abu Dhabi Event",
+   "summary": "Fight of the Night ($100,000 to each fighter): Petr Yan vs. Merab Dvalishvili 3 Performance of the Night ($100,000 to the fighter): Alexander Volkanovski Performance of the Night ($100,000 to the fighter): Lone’er Kavanagh submitted by /u/PikachuWithHerpes [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xel1y1/ufc_333_bonuses_revealed_following_abu_dhabi_event/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1792879057
+  },
+  {
+   "id": "5b275a21bcdf9522",
+   "title": "UFC 333 bonuses: Thrilling title fights earn awards - MMA Junkie",
+   "summary": "UFC 333 bonuses: Thrilling title fights earn awards MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeGJwRVlXajQ3cXpjc0VPUnVSVXFxZ3paSDZ4ckpVQ0dBRkdlbmMwQmhMUXhBY21DNjctRml3TXJpNzI4VHpuMnlkbVVQRU8wTFpzYXFDN0p2ckM3ZEkxakZQb0loRlkwZElsNXpTdll4RTVmOWhuV1RJY2FJcEt1Z0xOdzViZjRwQXFUYjBjbUVKalVBSWpIbHdRR1FNTWZ5UnljSU1PSmRHT2pZTGtXUm1hRTA5d1FnY1ZhUzVB?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792878840
+  },
+  {
+   "id": "ed54a49b02bd7b5d",
+   "title": "Volkanovski keeps promise with quick win over Evloev at UFC 333 - Reuters",
+   "summary": "Volkanovski keeps promise with quick win over Evloev at UFC 333 Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV1hoSkNTNVZhSmxYVGRXUUN6NzRkYlFlZldXazFWeFk3TmdvWV81NkZfS3VjMjd5WmlXejFaQlg0Z3EyVG91WVhyWVNTaWMzNUhkWGxzNWhySFFsLWhobjltUGtaalJEbXdWNDJBUWx3ZEp3cUZMdV9EQnp4ZC1xSDdTWl83YVRDajgtVjkxUmdsYjFGNi01bFBMcmt3LTA5dEFIRU5B?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792878829
+  },
+  {
+   "id": "efab7c39e408357d",
+   "title": "Islam Makhachev unavailable as UFC sets Prates-Morales interim title for UFC 336",
+   "summary": "Carlos Prates and Michael Morales will square off for the Ultimate Fighting Championship interim welterweight title at UFC 336 .",
+   "link": "https://www.sherdog.com/news/news/Islam-Makhachev-unavailable-as-UFC-sets-PratesMorales-interim-title-for-UFC-336-203327",
+   "source": "Sherdog",
+   "kind": "news",
+   "ts": 1792878693
+  },
+  {
+   "id": "11940c5e14d5337b",
+   "title": "Alexander Volkanovski Octagon Interview | UFC 333 - UFC.com",
+   "summary": "Alexander Volkanovski Octagon Interview | UFC 333 UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5uYkt3bU1HOFREZzJCaVRPeXduRGxMRGxSbGlHQ3lrdEEtOUFUUEU5VDdkNktXRExkV3F6THN5ZXFFdFlJWS1v?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792878666
+  },
+  {
+   "id": "c3c7db237387c3da",
+   "title": "Volkanovski TKOs Evloev in Round 2 to retain UFC featherweight title - theScore",
+   "summary": "Volkanovski TKOs Evloev in Round 2 to retain UFC featherweight title theScore",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVowdy10c3c3Q3VUY1N2VUVUa3Q0Vy1COEwydm1zeWhkZ3FyVzgyWm1hTktLcUFtbXpzZ2VqU2ZJSFU3clRFRWZzb2RkZTRlYi1mZG5uUE9IajdzcjBSME10U2NlYUtPRlAxc01WTE1yaWpMRFFCVndOMHlfRS1ha0hWaUxmRnpNQm12NmlLX0E4RFl3TmlweWlRX0dCcHhTTExiX3psc0hhcVdKeVBqdw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792878631
+  },
+  {
+   "id": "c5dbcadcecb3c37a",
+   "title": "Dana White says Islam Makhachev didn't give them a reason for not fighting in January \"Islam fights like once a year. He was slated for January, and then said 'I don't want to fight until after Ramadan.'",
+   "summary": "submitted by /u/ablu3 [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xekvru/dana_white_says_islam_makhachev_didnt_give_them_a/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1792878597
+  },
+  {
+   "id": "012fa6b2ff65b875",
+   "title": "UFC 333 -- Alexander Volkanovski vs. Movsar Evloev: Results, winners, highlights from fight card in Abu Dhabi - CBS Sports",
+   "summary": "UFC 333 -- Alexander Volkanovski vs. Movsar Evloev: Results, winners, highlights from fight card in Abu Dhabi CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN05LNUxzLXpoSFpKOWdfeFJnZVJ4NzRxLVdjWllJM3lCVEhvWHRMWEhxUG9sUGNHUHQwT2d1WlZwb2g5NjA3bDFPekRlQnB0bnFIV0taZUVCUC1wdklfR2R1UWplV24yQWlsZDF4T21xdGNEcmVQZlM4QzJ3SmFkS1lNTk1PMjhxeWNlaVphbG5SdXVxR1U5NHJZT0hNTEVKeHVsNk51NUtIUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792878300
+  },
+  {
+   "id": "7dde140262b90dec",
+   "title": "Forget Sean O’Malley! Song Yadong gets the No. 1 contender rub at UFC 333",
+   "summary": "Sean O’Malley seemed pretty convinced that a Petr Yan win at UFC 333 would result in a “Suga” title shot. But we’re not so sure any more after seeing the UFC push Song Yadong on the Abu Dhabi broadcast. O’Malley holds a controversial split decision win over Yan from 2022, so the…",
+   "link": "https://www.mmamania.com/ufc-333-fight-card-start-time-live-stream-volkanovski-vs-evloev/481819/forget-sean-omalley-song-yadong-gets-the-no-1-contender-rub-at-ufc-333",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1792878257
+  },
+  {
+   "id": "375b2fded2837acc",
+   "title": "4 Petr Yan Next Fight Ideas After a Classic Win at UFC 333, Including an Alex Volkanovski Super-Fight - Yahoo Sports",
+   "summary": "4 Petr Yan Next Fight Ideas After a Classic Win at UFC 333, Including an Alex Volkanovski Super-Fight Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yRTNMOU9sYk5Fck5zU21CRHI0XzA4ZkF3Q3Aza3hjQVVJUTNPSkxyS1ZWYmt4cFV4T3ZpSFVEaHJtYjhHWDJjY19IVGpNYTV4SmZxaXp2RmZrTzFIOXRIRjlrNzl6RGJqaDlrNGl4UTBubmszWUhQakl3?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792878229
+  },
+  {
+   "id": "52f5b0211ed6cdf5",
+   "title": "UFC 333 Results: Bonus Winners, Highlights and Reactions - Forbes",
+   "summary": "UFC 333 Results: Bonus Winners, Highlights and Reactions Forbes",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVFoxSm5ncVktajhVajdXb1ZCa0xKcEhZaTNidGMzZHZKdlhaOHZNMno2WUN1NHFRb0xpa0tyckF0c3NrbVk3MnBVcGNWQjJ5UzRPbW9qdXNPZHdhcFpmSENEMU8xLWdBRFFrck9IZVZQNExkWGZOTVRHQldhMExxcGg3bXkxTGFUMTIwc0k3bk1iYmxZMzFOWXJib2FtZXl2VXFsNF9jTU9IbVpHZlNfTHNJSVRwcXRwSzJTYXY4Sk1hRm9oWUJrQ3RtZXB1bi1IWUFlZ0xzVmhiM1JZRjRFbjJnSU5oMDhtVVV3cg?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792878189
+  },
+  {
+   "id": "681db68732d46493",
+   "title": "Volkanovski And Yan Kept Their Belts At UFC 333, And Their Next Opponents Already Made Themselves Known - Yahoo Sports",
+   "summary": "Volkanovski And Yan Kept Their Belts At UFC 333, And Their Next Opponents Already Made Themselves Known Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0hSZXNGVGdOUWNwbnlxWlh4WHhWN2pwNTNYY1pRdlVxZkE4Sy1qb2JjS1VGQ1p4cU9qWG5sM242czdTQmNmN3dxS1EzaUpySDg0bzkzbVlqYUhuYm1pbVgxNENyMlpINGpxMk5ZWEZqNTZvSTF1QkZ5T3BmTkZkNE4tYTNLUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792878189
+  },
+  {
+   "id": "c03709190354ec23",
+   "title": "UFC announces upcoming 'Fight Night' event in Dallas - WFAA",
+   "summary": "UFC announces upcoming 'Fight Night' event in Dallas WFAA",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeS1NNFdtZEN1UUtteElEQkhESzdkelhQSm9OYUh0QV8wOEtMcDVDX2ctNi0yd3ZqelV0V3A4LVNieHVReC02RUhfRlVrRzMyWkxYUzZQLWdHcmVKakNqbVV3X0ZmZUVTaG9QUkxWYThXaDQtMzlwOTQ5WDV5dDYweXBQTDJFS2tvd1hjazgzWXVZY0xpT28yZTNfdXoyVHB2WnlJemJWTEFGTE9BcHlpdnNGeHA4OEh4SUs4OWNPTmFORzh5SS1qYjNuWU9zb3BMXzAzTTNJR3M?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792877640
+  },
   {
    "id": "bd0857440a0f424a",
    "title": "‘The old lion is still hungry’: Pros react to Alexander Volkanovski dominating Movsar Evloev in UFC 333 main event",
@@ -9,6 +351,15 @@
    "source": "MMA Fighting",
    "kind": "news",
    "ts": 1792877623
+  },
+  {
+   "id": "2f095064cadffbd0",
+   "title": "UFC 333 Cageside View: Alexander Volkanovski, Petr Yan retain titles - Yahoo Sports",
+   "summary": "UFC 333 Cageside View: Alexander Volkanovski, Petr Yan retain titles Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdm1XV3o0ZjU5YnRqWUV1ajdYRVliNExiN0NaTG9ZMUhldS1lZDFEU25kbFFXLUNSSjVTNjgxZzJxcWE5ZUcxS0dkSjFwbUM2V2VlNVZWcnRQWmVTeURwRFluaXJ6a0YzbTNIcU9ORGVNaUhmd1Rxd0g4Q1JJX1ZnQ29aenk?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792877614
   },
   {
    "id": "35d231408a12baa1",
@@ -56,6 +407,15 @@
    "ts": 1792877080
   },
   {
+   "id": "0cc7fb82203451fe",
+   "title": "All-New UFC P4P Rankings: Where Do Petr Yan & Alex Volkanovski Land After Legendary Wins at UFC 333",
+   "summary": "On Saturday, a pair of future UFC Hall of Famers added legendary moments to their esteemed resumes. In the UFC […]",
+   "link": "https://sports.yahoo.com/articles/ufc-p4p-rankings-where-petr-212354529.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1792877034
+  },
+  {
    "id": "e923bceb1b7c5510",
    "title": "UFC 333 results: Fight of the Year contender delivered on epic night",
    "summary": "UFC 333 is in the books after an exciting night of fights at Etihad Arena in Abu Dhabi, United Arab Emirates.",
@@ -63,6 +423,15 @@
    "source": "Yahoo Sports",
    "kind": "news",
    "ts": 1792876926
+  },
+  {
+   "id": "0d4b12d3c9e77924",
+   "title": "Volkanovski Beats Evloev via Historic TKO, Stats & Highlights from UFC 333 - Bleacher Report",
+   "summary": "Volkanovski Beats Evloev via Historic TKO, Stats & Highlights from UFC 333 Bleacher Report",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPck1GcjhLNkVvUGJaZTZFTVZmTmZ0cUxLWEQ5eU5UeVkzcDE5OUtpYjFaeDlpX3FsRk03aERFeVloU3JUNkZMUzh3RkxiYTdGQklsU1h1LVJQOXhRaHlPdld3dDhpWFdkMTYtSFFTNkxTZ2Q2TkJIV24zX3VRNUs5NEkta01uTTlZb3JBRzRxYnBpYmhQNXNFcmNPV3cyZnhaQ1o0VXEtZ09ZLTA?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792876892
   },
   {
    "id": "f85ac98e35e15187",
@@ -99,6 +468,15 @@
    "source": "Reddit r/MMA",
    "kind": "reddit",
    "ts": 1792876724
+  },
+  {
+   "id": "ef96912ddac82ae8",
+   "title": "Alexander Volkanovski Earns R2 TKO In Title Defense | UFC 333 - UFC.com",
+   "summary": "Alexander Volkanovski Earns R2 TKO In Title Defense | UFC 333 UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfcENKblFqOThOT1UzVmNyZnU2ZFpZU2w0aTZmWUhpU09uX3N5V29yaExaWlQ2SldCWG4zQmwtZDFDR0tVN0VJ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792876606
   },
   {
    "id": "5fd74553da4d01ad",
@@ -254,6 +632,15 @@
    "ts": 1792874759
   },
   {
+   "id": "a8e837896a7037b4",
+   "title": "Video replay: UFC 333 post-fight press conference",
+   "summary": "UFC CEO Dana White and the UFC 333 title fight winners are expected to attend the post-fight press conference.",
+   "link": "https://sports.yahoo.com/articles/video-ufc-333-post-fight-204531886.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1792874731
+  },
+  {
    "id": "360e3591ae7f5ae6",
    "title": "Video: UFC 333 post-fight press conference live stream - MMA Junkie",
    "summary": "Video: UFC 333 post-fight press conference live stream MMA Junkie",
@@ -353,6 +740,15 @@
    "ts": 1792873910
   },
   {
+   "id": "48f2564b4c2447ba",
+   "title": "Petr Yan defeats Merab Dvalishvili in UFC 333 trilogy bout - Yahoo Sports",
+   "summary": "Petr Yan defeats Merab Dvalishvili in UFC 333 trilogy bout Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2Jvb003Z0J6Yk5zVjkwclltUWFFbkxUdTBlak5IVkk4REN0VjRheDVkQWpOOWUtOFQ2bmg2VFJqam9zT3h6aDZLNEItSVFmaGlYU3Fka3VYYlJZV3RNWllrY1I5c3NBUFF0UjBIZ2JoMW1VazBZUFRpMTVhQnBDV19tLXFwUHI5djdV?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792873898
+  },
+  {
    "id": "7c6a3f5db10587ff",
    "title": "Petr Yan vs. Merab Dvalishvili 3 full fight video highlights",
    "summary": "Watch Petr Yan vs. Merab Dvailishvili 3 full fight video highlights from their UFC 333 co-main event showdown Saturday afternoon, courtesy of multiple outlets. Yan vs. Dvalishvili 3 took place Oct. 24 at the Etihad Arena in Abu Dhabi, United Arab Emirates. Petr Yan (21-5) and Me…",
@@ -378,6 +774,15 @@
    "source": "MMA Mania",
    "kind": "news",
    "ts": 1792873341
+  },
+  {
+   "id": "69cea1c479c2cb1c",
+   "title": "Islam Makhachev unable to defend title; UFC books interim welterweight title bout - ESPN",
+   "summary": "Islam Makhachev unable to defend title; UFC books interim welterweight title bout ESPN",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2E4SlIzODNtWjlCYXg4cFBfcVdsX1E4c2J1bjctd2VZaHZocUE3eGo1b3dLM3JicHRUQUxybWdLbVVwOUZzbnJpNFVlX3BLZXRJX29aNGpoZDJkVlhfNWNPUHMwZFFuWVpPWGJpR1JBSWR2a0FmX0dVSGc3NVBTVC1UeFdwQjRMbDRWcTQta2s4VUxJamF4ZGhra1U?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792872540
   },
   {
    "id": "d6fd26d9864e9409",
@@ -414,6 +819,15 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1792871891
+  },
+  {
+   "id": "fd2b3a84f8fe5089",
+   "title": "Lone'er Kavanagh shoots into flyweight title talk with devastating finish at UFC 333 - ESPN",
+   "summary": "Lone'er Kavanagh shoots into flyweight title talk with devastating finish at UFC 333 ESPN",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakVvR1pPMEsxSzQtY1FMMlRhdllsVGlUV2Y0WXQ5cGwtc0xEOXNCLVJXX3BSR25JUUdEcllxYnFBMjk1SFpCdDdWZXRoR2NyMHo0aW1PbmN3X3B3MkRmVWxEMmI1VndSWURHOVpta2ppV1M0T1NLQU1VSXJ6MzRxSXVzRk9jeHUxNHFzUHBBMWFzYkZRNVVmTkpsV1hIYWQ4SGhzZGVyT08tOWxPUWpIaDNFU1djdw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792871820
   },
   {
    "id": "2cf67edf369d145a",
@@ -731,6 +1145,24 @@
    "ts": 1792868363
   },
   {
+   "id": "64b70db18e8b7219",
+   "title": "UFC 333 bonuses: Petr Yan, Merab Dvalishvili earn $100,000 for 'FOTN'",
+   "summary": "The Ultimate Fighting Championship 's latest trip to Abu Dhabi saw four fighters earn $100,000 performance bonuses, including two titleholders.",
+   "link": "https://www.sherdog.com/news/news/UFC-333-bonuses-Petr-Yan-Merab-Dvalishvili-earn-36100000-for-FOTN-203316",
+   "source": "Sherdog",
+   "kind": "news",
+   "ts": 1792868232
+  },
+  {
+   "id": "ff38b1c07909529a",
+   "title": "Volkanovski Stops 20-0 Evloev, Yan Beats Dvalishvili at UFC 333",
+   "summary": "Reigning UFC featherweight champion Alexander Volkanovski lived up to his nickname: “The Great.”",
+   "link": "https://www.sherdog.com/news/news/Volkanovski-Stops-200-Evloev-Yan-Beats-Dvalishvili-at-UFC-333-203315",
+   "source": "Sherdog",
+   "kind": "news",
+   "ts": 1792868230
+  },
+  {
    "id": "97a189647c008eea",
    "title": "UFC's Dominick Reyes continues improbable comeback with KO victory - USA Today",
    "summary": "UFC's Dominick Reyes continues improbable comeback with KO victory USA Today",
@@ -738,6 +1170,15 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1792868220
+  },
+  {
+   "id": "0df0972ca07057d3",
+   "title": "Aaron Pico Octagon Interview | UFC 333 - UFC.com",
+   "summary": "Aaron Pico Octagon Interview | UFC 333 UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBbkdEcFVydXpOelpHVjViRS1WeGdoYjQtcE1UelN2ZGFTbGFNN040R1BzSEZSemdVVE9qMU0zaDZnMUh1bWN3?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1792868208
   },
   {
    "id": "89162133e5b0a26f",
@@ -1017,6 +1458,15 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1792862467
+  },
+  {
+   "id": "a5b55edaf8370400",
+   "title": "Alexander Volkanovski Stops Movsar Evloev at UFC 333",
+   "summary": "Alexander Volkanovski remains UFC featherweight champion, ending Movsar Evloev’s undefeated record with a second-round TKO in the UFC 333 main event.",
+   "link": "https://www.mmanews.com/article/alexander-volkanovski-stops-movsar-evloev-ufc-333",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1792862434
   },
   {
    "id": "5912af2107475f6e",
@@ -3150,456 +3600,6 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1792783440
-  },
-  {
-   "id": "68f0f41201723081",
-   "title": "Movsar Evloev’s first UFC title shot could be his only chance, says longtime commentator: “It all comes down to Oct. 24”",
-   "summary": "Only Chance?",
-   "link": "https://www.bjpenn.com/mma-news/ufc/movsar-evloevs-first-ufc-title-shot-could-be-his-only-chance-says-longtime-commentator-it-all-comes-down-to-oct-24/?utm_source=rss&utm_medium=rss&utm_campaign=movsar-evloevs-first-ufc-title-shot-could-be-his-only-chance-says-longtime-commentator-it-all-comes-down-to-oct-24",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1792782374
-  },
-  {
-   "id": "2f4a37884f723774",
-   "title": "UFC 333 Preview Show: Can Alexander Volkanovski cement his GOAT status against Movsar Evloev?",
-   "summary": "Alexander Volkanovski continues to chase greatness, but for how much longer can he defy Father Time? Movsar Evloev aims to find out. On Saturday, Volkanovski defends his UFC featherweight title against Evloev in the main event of UFC 333, in a bout that could cement Volk as the…",
-   "link": "https://www.mmafighting.com/ufc/517035/ufc-333-preview-show-can-alexander-volkanovski-cement-his-goat-status-against-movsar-evloev",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1792782000
-  },
-  {
-   "id": "e753db760518f1b6",
-   "title": "Arman Tsarukyan could lose UFC title shot to Oliveira - MMA Sucka",
-   "summary": "Arman Tsarukyan could lose UFC title shot to Oliveira MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0Q3YzQteldzSXg4Y1ZiLVc1VDJzNlVqdC1McVU5b2Z4bkFCUzZBaE16bHFWZkxzLXdFZExVakV1UVc2UmY1Q2ltSDl3X28xbzR5Z2UxWEV1TVQ4OXFXcVJ3aDRxMEpaeEdUdUZNV2pFZVl5cjlMT2dUTkhieWtITVRCZjBITmFDdWZCWVJ0bVVpNGM?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792781411
-  },
-  {
-   "id": "cc51f8c67b0742bf",
-   "title": "Photos: UFC 333 ceremonial weigh-ins, faceoffs in Abu Dhabi - MMA Junkie",
-   "summary": "Photos: UFC 333 ceremonial weigh-ins, faceoffs in Abu Dhabi MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLUFvaDlNT0dtVlFkaFctLUZQYXlXb3ROcnhmLTFVR0xxQkFrYVJ3c084X2tWQ0xZYUNOdkxiQ054UnZtbGRySzBMTDlIV0oxUW1CTG53QWhPVF9YMldacnNwbG5OV3BPek9NY203WXh3c1cwa19oZ3BERVB4Q0FCTVcyRlZ0OVl2aG1aSVBMV19OcjlqRkhiX2t1S054WVRpRDdYZ3V1OHVPdDBVeXJrMGg2V2xKLWxTQ1ltOXNsbzl3REZkUHllcGhzMHFhVThtcFdFbFRRUW9ZaF9tcUtDWWZR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792781340
-  },
-  {
-   "id": "4656fbb0474514ef",
-   "title": "Dana White Has Clarified His Comments on Farid Basharat's UFC Exit - MMA Sucka",
-   "summary": "Dana White Has Clarified His Comments on Farid Basharat's UFC Exit MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZzFNTzhITk1hM296RFFNYTlVaXNiLTN6QjFmRmVlTFpSNFFHNFhhRFFjTHpxVnRCZVIya2dsd29MUTlTUHh1ejliU1pmdkhNeG5CMUdpd241ZmplTndqZWwtWnVZdVNEWVFFYkE3S0RSS2l5TEhhb2VJeDhqV1hxcjZETGtpQUZWU25HM2VPT1Y3blVLU2c?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792781107
-  },
-  {
-   "id": "d192470fca743717",
-   "title": "Prospect watch: Thomas Blackorby now trains among UFC’s best – and says he’s ‘not far’ behind - MMA Junkie",
-   "summary": "Prospect watch: Thomas Blackorby now trains among UFC’s best – and says he’s ‘not far’ behind MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWjlPaTVIN3RsbEYwN2RYYk5sVTI2N2FramFqM2hTOXp3YTJycDhFVHBtNldLbC1pM0tUa0ppVVlNdGVudWJqXzRDcUlfWlBjeFV0VFVSU2l0MU5pLXlyVUFLTXFNUjBMRkMzQUxCaGFfWGdXb1R6VGlPRVM4aGFsU0gwb1hOWU50MEMwWUt4VS1IX195QWhCbU8ySWFVZkFiTnlmejltX1NvS2Z2U1lzak9NeDBMQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792780800
-  },
-  {
-   "id": "a8777e208b11b4d3",
-   "title": "Main Card Results | UFC 333: Volkanovski vs Evloev",
-   "summary": "UFC 333: Volkanovski vs Evloev Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Etihad Arena In Abu Dhabi On October 24, 2026 Read the Full Article Here",
-   "link": "https://www.ufc.com/news/ufc-333-volkanovski-vs-evloev-results",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1792780778
-  },
-  {
-   "id": "539f129595cfcb08",
-   "title": "Alex Pereira makes his pick for Ciryl Gane vs Josh Hokit at UFC 334: 'Unless he really changes' - Bloody Elbow",
-   "summary": "Alex Pereira makes his pick for Ciryl Gane vs Josh Hokit at UFC 334: 'Unless he really changes' Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUJDQ2NURzg1S1ZJOThBQVk5RnFCUUdKMmF0S1pPanFCa2ZuTV9pczR6Y2NsSTBrVmVJdHJhODE1TUk1MjdURjVDUFg2b3QwNmVIQm1LS1NpVGI5QVd0QUZOM2tzYllDYmJWYmkzdThicVZSOFZBSnd6X0NvSFJTOEtVUGlWU01RdGk1RmtnMkdRdzNZODJtMWRKMUxOSUhudUNXcld2NWhCXzJULVJIaE5jcUVOaG5BcnhINEk5UHhIU1FSZmpv?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792780200
-  },
-  {
-   "id": "aebb3c781c1e171c",
-   "title": "Khamzat Chimaev and Robbie Lawler reveal each other’s favorite UFC fights ahead of RAF 14 - MMA Sucka",
-   "summary": "Khamzat Chimaev and Robbie Lawler reveal each other’s favorite UFC fights ahead of RAF 14 MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1ZzcXRfcGd4WW1WM0piUUx2bnFDSWpHQ1ozSklLb0IxenpzRUc2bXFObm43V2JKQjNmRm85QTF6MEdyYThfNVhsLUZtdWJzV0xST2FxUTFOUFdUN0dNNThVLXhOSnlPQTZXTnhIZHZHVFEyMEtNWU1KX1Rqc0ltbDVhUHBYWF9SRF9SQVdOQkptWkFCSkxqMmliWE04bDlabDBMZG14MWhtZk9LWUNxb0tVQ3ZDZw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792779906
-  },
-  {
-   "id": "24d185992df65003",
-   "title": "UFC Fans Went Bonkers After Learning Merab Dvalishvili Refused Nose Surgery Before the Petr Yan Rematch - MMA Sucka",
-   "summary": "UFC Fans Went Bonkers After Learning Merab Dvalishvili Refused Nose Surgery Before the Petr Yan Rematch MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGd5SnJfZkZUOVdVS01SVEVHb1g1WWpJcmZqT0hIM1ZQaWFEMHphMkVtNmRHcV9tR0M4UzIwYTc0TUVLY1BPajdTR3JkbkdaQUZZdzFyV2RJbVRUUUszbmh5bC0zQldNS1RXQ19Ia2VWb0VqOHZpSTdWOEYzQnNMcVRZUmE2clEzNVYwaWk3clVyUGZrdVBaYzlDcFgwam4zSFVpYlRfSnFwbnJ5Y0h4aWhKLUY4UmJfQjVwbDZ0bFl3aDdlVFE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792779906
-  },
-  {
-   "id": "62dee8a66e58a994",
-   "title": "Expert UFC 333 Predictions & Picks for Saturday's Main Card - Covers.com",
-   "summary": "Expert UFC 333 Predictions & Picks for Saturday's Main Card Covers.com",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5USS04c29vYWJTTHVESjFreEs2NVRLUnQ5US1lTUM2MnpTRzNmaXVDa3ZVNEVWSGI5ekcxSTdQc1o5Q1NOUmJnZzZ2Rnl6TUdVVnU1Z2ZENFBsVlh5QnJJVlRyaVQ4WmpvYUp1MEM4OUtSMEVVWVpHYkx3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792779780
-  },
-  {
-   "id": "6ecc75c92d88c955",
-   "title": "Islam Makhachev withdraws from UFC 336 title fight against Carlos Prates",
-   "summary": "Well, this sucks. Ultimate Fighting Championship (UFC) welterweight champion, Islam Makhachev, has withdrawn from his UFC 336 title fight against No. 1-ranked contender, Carlos Prates, previously scheduled for Sat., Jan. 30, 2027 at Scotiabank Arena in Toronto, Ontario, Canada.…",
-   "link": "https://www.mmamania.com/ufc-news/481183/islam-makhachev-withdraws-ufc-336-title-fight-carlos-prates",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1792779735
-  },
-  {
-   "id": "d6ea2d82118e2fae",
-   "title": "Faceoffs | UFC 333: Volkanovski vs Evloev - UFC.com",
-   "summary": "Faceoffs | UFC 333: Volkanovski vs Evloev UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFByR0NScTlMY2ZkdFd2a2hubFo2REhWQUI3dWw3bmpnS3A1dUkwVmtiWlppaDdHMEx1SWJieUZPQWlTdERjWmFv?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792779559
-  },
-  {
-   "id": "3c2a7accab02a5dd",
-   "title": "Arman Tsarukyan Weighs In on Farid Basharat’s UFC Exit - MMA Sucka",
-   "summary": "Arman Tsarukyan Weighs In on Farid Basharat’s UFC Exit MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnIzRnU1U25TUXpsUGNnWXBzSFp1ZGpiS252SzROVElNd1NISmJUWTk0WTlPZnNGZ2R1T0I2S3QxUzJvNVNjU0JGaE5iWVdVNVNQbE1URTlybW5nampSbFF4NnBkZ1o1dHVMN1FBcW5KOVBKdkFxYUktQnRCNmswOGlza3FJLWpOMWxIXzdHUkpHTGtMY0otTHd1Q21HVVdQeW1DQ2lOQVVESHhoYmV4QlpKT1NUTW5WOERrMFA3T2ZJLXRQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792779314
-  },
-  {
-   "id": "560b9b7a0350bfa8",
-   "title": "UFC 333 weigh-in results: Both title fights are official, prelim fighter whiffs by nearly 5 pounds",
-   "summary": "Almost Perfect",
-   "link": "https://www.bjpenn.com/mma-news/ufc/ufc-333-weigh-in-results-both-title-fights-are-official-prelim-fighter-whiffs-by-nearly-5-pounds/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-333-weigh-in-results-both-title-fights-are-official-prelim-fighter-whiffs-by-nearly-5-pounds",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1792779036
-  },
-  {
-   "id": "d51c6d343726e1f7",
-   "title": "Former UFC Welterweight Champ Wants To Fight Belal Muhammad - MMA Sucka",
-   "summary": "Former UFC Welterweight Champ Wants To Fight Belal Muhammad MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX1o4Zm5nWVVuSlBPTVowVWdKUW1iWXFTS0hxTTNPV2Vod3o0cDgwQmhlU3BEbGVpZFZSNlN6REdjTHFqdGpUUHRqUEowaG53QzhCRXJYMWVBOTUwVXkxN1JiOEt2WTItcUpFaklqXzNjYXNVWFFzYjI2TnNIU1l1Sl9RLU9EckhfcXQw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792778706
-  },
-  {
-   "id": "f7509c6562d9c41f",
-   "title": "Lone’er Kavanagh vows to take lessons learned from Brandon Royval loss into pivotal UFC 333 matchup",
-   "summary": "Lone’er Kavanagh has experienced some intense on-the-job training in his short time with the UFC. This Saturday, Kavanagh takes on another top-ranked flyweight contender when he fights the hard-hitting Ramazan Temirov on the main card of UFC 333 in Abu Dhabi. Since being signed…",
-   "link": "https://www.mmafighting.com/ufc/517177/loneer-kavanagh-vows-to-take-lessons-learned-from-brandon-royval-loss-into-pivotal-ufc-333-matchup",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1792778400
-  },
-  {
-   "id": "85274511a7bf0cd6",
-   "title": "UFC 333 - Volkanovski vs. Evloev - Sherdog",
-   "summary": "UFC 333 - Volkanovski vs. Evloev Sherdog",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Sb2pEZnlpazROSW9DU0lLaFgtbHVYdFZ4MlpFZFlrY2VYRXZVc1N3a2x5TXBFbFZsRlBJNFlSV0NqU0FnRElVaXpvRkZGWDBYVzAwSVVmQ1NIdmJpUUJid1VXd2M5Q2lRZ05kVW5zNGhZbkN6Wmc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792778095
-  },
-  {
-   "id": "85fed57cd19ec2dc",
-   "title": "Islam Makhachev Off UFC 336 Card - Heavy.com",
-   "summary": "Islam Makhachev Off UFC 336 Card Heavy.com",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iUE84UHIzMmdES2hTdUdjVjBfQjl2RTVlZl9CcDhhdm9rbjNjV3lRanUzUVdRdnpIaldMbURHMWhQaTZ5cnBITFVybVBZcDJrZWxYREVpVGMxY3dsNG9WOUZfWXJiZEZPWS1YekppRQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792778083
-  },
-  {
-   "id": "50d83afd0ede3677",
-   "title": "Alexander Volkanovski vs. Movsar Evloev prediction, pick: UFC 333 title fight ends early? - Central Oregon Daily",
-   "summary": "Alexander Volkanovski vs. Movsar Evloev prediction, pick: UFC 333 title fight ends early? Central Oregon Daily",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVmtnUnZRWGN3NEwzdXdLNEdqV0lvbkc4ejJ5ZFQwMnJfM21JVHVyVk1HdGxlSkRQVjd5YlRJbVVFLVFrdEEtUjluYUJkQ3ZaS0x2Q3psWER6OUswaUVrcHpXcktQN2M2eUZOTXBKM2ItejZEY0JjLUlzN1RVUGdsNmNfR2RFVk13eE41RVJmY0l5SU1kMHRQUXF1Y2Z6cEZvejkxS1JYMWlzQVpJQXE1RE5oMVBnNTlhVW42TTlub0JzSHo0ZzE5TE53ZzZ2VEZzUEtSY0hpT2M2VUEzTWt3bkNfM2g0MmxQNGdqZ19ndUdXRUhZODJhYW41aTNZVHJ0LWd2RGQ4eU4?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792777821
-  },
-  {
-   "id": "a2ddc1d7dc75d74f",
-   "title": "UFC 333 full card predictions: Alexander Volkanovski or Petr Yan — which champ loses their belt? - Yahoo Sports",
-   "summary": "UFC 333 full card predictions: Alexander Volkanovski or Petr Yan — which champ loses their belt? Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbWJ3YkNJcVFIUUxCVlhfWm5RenVBU1Q3QlUzdzRaOVQ1ZFpzMW9MSGY2Vlp5cHQzci1RSG5PemxYQURfNHBFSGxDMndNMlp4Mk91STl2NkFJWEtoWC1jSFBBdnZNb2tmNUcxdlRCallkYjdFb09iZ1RmTERRa1RzdlpCdGgtdmVGcTZPbG84ZXVqeDU0TmYycktoaktwRG11R3I5QWNTaExPbzNaVDZ0ZmhKeVYzZUk0Q2ZjeWFSRGd6RGprUVQyVmNpNWRCOGxMNGEtV1BaVG5FOGhpYk9UOVU5aXZ3bHc2UzF3ai1WQWpVeHRXUXhvdDd0bG0?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792777533
-  },
-  {
-   "id": "8cb5f43909a6fb1c",
-   "title": "“They Told Me What Day and Where”: Arman Tsarukyan Reveals UFC Title Fight Plans for Early 2027 - MMA Sucka",
-   "summary": "“They Told Me What Day and Where”: Arman Tsarukyan Reveals UFC Title Fight Plans for Early 2027 MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTBGQTRhdm5SSXV0VndEbGhULUpsaElERDh1REF2OTFEcGlrM0liOGRvMjNGU1otbHFEZjV5a1ZRNG1GS2t5MGdPWHpQX05iNnh2UzV6YkdWZVJ6ZXYxem5EMVBRc1RTUXBNQ0NDQ242VzlWWlktUXhBY1g1OEM0WmJFSGtNZlF4OWJvdHpiSk9fV2U2MGdFVzIwTEhyWnUwV0xUUmJDZ1I3d3ZFYlprWUdsSUtrRWZTWkRR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792777519
-  },
-  {
-   "id": "d121c2ad7f86c076",
-   "title": "Report: Makhachev-Prates no longer targeted for UFC 336 in Toronto - theScore",
-   "summary": "Report: Makhachev-Prates no longer targeted for UFC 336 in Toronto theScore",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BeEdEeDZaaXY2Uzl5VE9IeTNmTTdyRjB5RWo0emJrbjQwUUlHWnhEbWZEMkxTQ1o5RDhZTy1VU2Jab3dOUFFaVEZEUkRGdw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792777510
-  },
-  {
-   "id": "4dfeeae6a464d4d1",
-   "title": "UFC 333's 7 big questions: Is the Volkanovski era over? Which Yan-Dvalishvili fight was a fluke? - Yahoo Sports",
-   "summary": "UFC 333's 7 big questions: Is the Volkanovski era over? Which Yan-Dvalishvili fight was a fluke? Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVktETVJiREpZR0R0VC1wRElTRHRNSkVqVjYtZHlpakdVNS03N1d2dTRvZ09NMEFrVVo5cDAwX3o4c0oyeTE4d3JHNk45YklnUVNPQS1TaXZzWGp4ay1CMlhYNWRQY3dGRzU1SlJ2R0t6dkF6TlN0MFhiYk1QTll1VnZzeHEtYVZsLU1fNzI5dWJVVm4zbUhIMHh5WElCUzdhTm51bHhCMllmbWpqVDJ5OFc1SWY2ZDh5M0VUU1ZiVU5FNnBMZE13d3lQNnY0Ymx1RTRVMHM1SHA0Z2pJ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792776884
-  },
-  {
-   "id": "14629dfe6f4c3297",
-   "title": "UFC weigh-ins - in pictures - www.thenationalnews.com",
-   "summary": "UFC weigh-ins - in pictures www.thenationalnews.com",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPME53U08zd1YwUlllSFdFXzE2ejRBY1pfc1JmbVBKN1NmeHk1UTJmOXdnSnZFZnBhaXJnc09Mak1qRmlnSW11djhOZksyc2NGZ1pyZG50dEZEM2F6TmNyVlFuYnNkc3FUV0hENGpwZ1hGQktvQXBLYWxScHVTQ3N2dFJNSDVXYm83dkdUUHV2bG51OXc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792776635
-  },
-  {
-   "id": "2161ed3455b3b1d3",
-   "title": "Islam Makhachev reportedly falls out of UFC 336 main event with new options being explored - Bloody Elbow",
-   "summary": "Islam Makhachev reportedly falls out of UFC 336 main event with new options being explored Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNEVkYzlZaVVYRmh6VGRYQkotVnpHSWY4cjd0bHBVdHp5TF9wRy1Qb2piX0FZU2o1NFVabk05S05NeVZaQlZOZUdMSURyYTdHdF9mR3pMNXBBSHh0X0xDUURnUkNSUFBXZk12YlJjSTF4QzNUdlZnSERLeWpNem9Gem9TTW1jaC1JcWd0V3JCWnRlOGVPY242Y09pRUJwNlZiSkhkSVNuWjRNZkRLTDJyUk55eGZwNF8wbDBLem5oSWk0d2Q5?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792776479
-  },
-  {
-   "id": "de0329987b3fc5e5",
-   "title": "Islam Makhachev vs. Carlos Prates no longer the target to headline UFC 336",
-   "summary": "Per Ariel Helwani submitted by /u/SittingOnA_Cornflake [link] [comments]",
-   "link": "https://www.reddit.com/r/MMA/comments/1xdkb3o/islam_makhachev_vs_carlos_prates_no_longer_the/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1792776275
-  },
-  {
-   "id": "17dc0c6e35cc349f",
-   "title": "Dana White Interested in Alexander Volkanovski vs. Justin Gaethje - Heavy.com",
-   "summary": "Dana White Interested in Alexander Volkanovski vs. Justin Gaethje Heavy.com",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUttNG5JT0NyTENvS2VtZ0RhOWZWUjZrV1p6RWVRdS1fLW9neHZtM2p5MmRHQUJxQ1cyQlN6MDFoOWxzVjNSallYSHBRQ1ZjcjhKSW1NYllZZHdnNkZ3YjZMa0xsZkVkZXpoQzRtaV82MHJ5ZW03dGdxRXRxLURxQi1MMA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792774896
-  },
-  {
-   "id": "b6f90548c3bb7506",
-   "title": "UFC 333 preview, main card predictions | Volkanovski vs. Evloev",
-   "summary": "Two championship title fights for the price of one (subscription to Paramount+). Ultimate Fighting Championship (UFC) returns with its latest numbered event, UFC 333, featuring the featherweight title fight between current 145-pound champion Alexander Volkanovski and undefeated…",
-   "link": "https://www.mmamania.com/ufc-predictions/480769/ufc-333-preview-main-card-predictions-volkanovski-vs-evloev-mma",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1792774860
-  },
-  {
-   "id": "4a78eab03f0ef634",
-   "title": "UFC 333: Volkanovski vs. Evloev preview show video replay",
-   "summary": "With UFC 333 just hours away it's time to break down the two title fights and other key bouts on the card.",
-   "link": "https://sports.yahoo.com/articles/ufc-333-volkanovski-vs-evloev-170040958.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1792774840
-  },
-  {
-   "id": "6711ea0bcafeb259",
-   "title": "The UFC 333 Collection is Here at UFC Store",
-   "summary": "The Latest Collection Brings “The Great”, “No Mercy” And “The Machine” Into Your Fight-Week Rotation Read the Full Article Here",
-   "link": "https://www.ufc.com/news/ufc-333-collection-here-ufc-store",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1792774800
-  },
-  {
-   "id": "29195aa7cefed131",
-   "title": "UFC 333: Volkanovski vs. Evloev preview show live stream - MMA Junkie",
-   "summary": "UFC 333: Volkanovski vs. Evloev preview show live stream MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORGlSMUo5T1VKNDlLbEdIQ1dVSHV4Z0tLcU5EaUw0V2d0VFlvdElaOFRwbDJ0dkRSWnFZZ3R0dVJGZ3JqWkxFelRacjY2SWJtZlYtMm8zTGFiZUVhUmg1RnFrdFBMbEU3MlZsaVVucW1UeHpDVHNtQl93R2U2YnhyQVNvYnd5RFhBN3piZ0tTT2xWeVYzSVlQUXMzZHhtM3NLcjdpU1czVTNEcnQzR19vNkgwd09idUk3UkV2LTB5NnI5TkxuUnlZRzdPblE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792774800
-  },
-  {
-   "id": "eea186283b0cff9f",
-   "title": "Khamzat Chimaev suggests simple solution to Sean Strickland’s pay dispute with the UFC - Bloody Elbow",
-   "summary": "Khamzat Chimaev suggests simple solution to Sean Strickland’s pay dispute with the UFC Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE1XOWhvVG5CWTRqcmlyZ3lWNGwzSGZVTHJTQnNkbVR4T0NiREVZSVF1Ym9WRjB6NmxoLVVPeThpNlFWYndiYnFCd2NZYVZJOFctcUZSMndKYjJtQjNVdWplWDdDVXRrdVdPY1N6OTkydmZmSjNGTnVUbXMyWnJPRmItUmZMVXRsMWN6cEpCM2NweDdfWDZYd1hUZ3JHSXFDRlVENUsxRHFsVkhvVDZldEdkUElDQmVrTkcyVndB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792774800
-  },
-  {
-   "id": "2f3408080f344144",
-   "title": "Mando Gutierrez - UFC.com",
-   "summary": "Mando Gutierrez UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmMHZQazNTNmMxR0lrN2VxTHVMLUJkbUVNUEktNW9qRi11enhmLVNwU0JHV2t0UHdLZGRxSU4zcUJNX0JMd1pYdzFKaWptUTdWd3owczNB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792774448
-  },
-  {
-   "id": "83f5b2a74d8a21b9",
-   "title": "UFC 333 final faceoffs: Alex Volkanovski, Petr Yan set the stage with intense last staredowns",
-   "summary": "All four of UFC 333's championship competitors squared off for their final faceoffs Friday in Abu Dhabi.",
-   "link": "https://sports.yahoo.com/mma/article/ufc-333-final-faceoffs-alex-volkanovski-petr-yan-set-the-stage-with-intense-last-staredowns-165316930.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1792774396
-  },
-  {
-   "id": "68df27f8788cbc65",
-   "title": "UFC Picks, Predictions Today: UFC 333 Odds, Best Bets, Full Card (Volkanovski vs. Evloev) - FanDuel",
-   "summary": "UFC Picks, Predictions Today: UFC 333 Odds, Best Bets, Full Card (Volkanovski vs. Evloev) FanDuel",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWNXYnpTODV5TU14aWJDSnlYWkljS3lGRUxrckpEX2laSlg4UlVZbmhKQ05kVmdrU3pPMlh6dFVUSjIwLVJaTzJGeXItUmlhTzJuWTdzajJmcWM2NDRBN253RE1YMGxRdGxRNEVnTG5iYW5hZTg5Ul9zdU5jMW5yajBaMzNnT0tERnpaWU5GQUFLR1I4Mjk0eEQ4cXJuam5ZWEpUWGlyY1lwZTJyTThsb0tibVF4dw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792773723
-  },
-  {
-   "id": "8339c3af3a82f956",
-   "title": "Boxing News: COMBAT FC® NEW VENUE UFC Fight PASS » October 23, 2026 - FightNews",
-   "summary": "Boxing News: COMBAT FC® NEW VENUE UFC Fight PASS » October 23, 2026 FightNews",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QeU93eWV5R04zcW4wbC1uMG51Tmk5aDA2UEx0allsc0tiRGNEQ09KU3ljQTdwSF95Y1RrM210bnBOSU1RXzJlQi1EV2NOWEEzRkE2NVc0V2xyVjc5WXQ0cHRQczgxQ21DNU9GNjVuYWI?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792773618
-  },
-  {
-   "id": "7a0a03e440f1bfd6",
-   "title": "UFC 333: Alexander Volkanovski vs. Movsar Evloev Full Fight Card Odds & Best Bets - Sports Illustrated",
-   "summary": "UFC 333: Alexander Volkanovski vs. Movsar Evloev Full Fight Card Odds & Best Bets Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnlpZUF0NjV1Y1J5N2VOaXJnbkNMMWN5R1VaVjNMS3ZXNENtUjlaaURvUXotRFAyd015S3lneTVrQWMwWktXRlpFb0g5dFQxalFhZFMyZjM4WW5FX2VvWWRIaExibVRuYnEtSHJKeTFGTi1RelIxaTZPQ1lTcV9hUUY4bkg0Y1o1ekh1OWt3bVBxT3NxLWhtZXltSUxOVk1LZHRSZUFDODZKUnFKZWN0Q09LRnV1QQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792773609
-  },
-  {
-   "id": "d6bd486e9894e817",
-   "title": "UFC 333: Volkanovski vs. Evloev Live Fight Coverage - ESPN",
-   "summary": "UFC 333: Volkanovski vs. Evloev Live Fight Coverage ESPN",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzUHA4cFpnOWNtbVhfTVZmNVNEcDJnWi1rbkhhaG05SDdzZXVXcjZmX1JVcUdXOG1OamxqV3E3a3hLdVdlNUd0UG5fS3hEeGdEVTZYM0tReVFHcHZ5bzBZZlByaGlmdDU2R3dMUTVkQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792772567
-  },
-  {
-   "id": "d161c5c8cbdef70c",
-   "title": "UFC 335 adds cracking flyweight fight - MMA Junkie",
-   "summary": "UFC 335 adds cracking flyweight fight MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME1YdUd2RFJtOHluZTFuWURqTU1JS3RITWRJTTAwdHBQU184QTNNalQyNG55M2hteDZOUHRtOE5NbVRkOG9zdEg2UWxxaUxzMDNWbmhZbWxWZ2YyZVhuN1BPcVBEMG50NGJIckJqRzJ4YnBfa3psOUFabXlmSDRpbWdaMlRHV1ZnQ1pQSzVXb0FMVDA0OTN5WXZ5WXo2ZE4wWmZZTXVKVUgyUkhxaXlWNQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792771860
-  },
-  {
-   "id": "728d0050d0666524",
-   "title": "UFC 333 fight card predictions: Expert picks, odds for Alexander Volkanovski vs. Movsar Evloev in Abu Dhabi - CBS Sports",
-   "summary": "UFC 333 fight card predictions: Expert picks, odds for Alexander Volkanovski vs. Movsar Evloev in Abu Dhabi CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTm9qQzNFN1lZWC1VZ0V6X25uQVk3Qk5XZGJuWTFrMUgwWVNZVUhEYjB0TW13NVBjWnpTM0MwLS1aM0plUXVUblRtTWJ6VVB4WWRIMmx0aTdCY3Ayc090Ukg1eGxxOVFqaHdweGRjQnJhLS1IRkNXakVDQzl3SGVMYm9iMkQ1TEFEamlWb21kRG94UXI2dVI3LWIzc0g3Rm1ZUndXZGhINkloLWFMejJpcElNQkpLRWFVUFE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792771249
-  },
-  {
-   "id": "89e44f21aba3067f",
-   "title": "Joshua Van: Sean Strickland ‘in a bad spot’ in Dana White feud over UFC pay",
-   "summary": "Joshua Van sides with UFC boss Dana White in his public feud with Sean Strickland. The middleweight champion has complained about offers made to defend his title against Nassourdine Imavov, feeling underpaid and threatening to drop the belt and rush out his deal in a different w…",
-   "link": "https://www.mmafighting.com/ufc/517181/joshua-van-sean-strickland-in-a-bad-spot-in-dana-white-feud-over-ufc-pay",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1792771200
-  },
-  {
-   "id": "013dca542318aa53",
-   "title": "Merab Dvalishvili’s unfixed injury could cost him in a close fight at UFC 333, coach admits - Bloody Elbow",
-   "summary": "Merab Dvalishvili’s unfixed injury could cost him in a close fight at UFC 333, coach admits Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa1ZZcjc5ZlBCQU5KUFNFZVBsOVBKdmFjRDBCell4NmI0ZkJzd05PeHVWUTY3b0RXM2g3U3dBZENSS0pLaENwbW9TUVQtWTRPTlBYdzkzMmNES2x1QUN0bWgwQVEyQTBQZUdibTR2YkdzWHd1MFJVaE92OXJaVTRmYm9BTkFtRm9xTjJvb19DOTVRZ0JwTzFycnpDS2JkMktxaFlpTjBEVk1rZnF1YkQ2VmExNkJ0b3JCa3hxU05OeTJhcUE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792771200
-  },
-  {
-   "id": "0c7515c542c4908d",
-   "title": "UFC 333 Weigh In Results as One Fighter Fails to Make Weight - MMA Sucka",
-   "summary": "UFC 333 Weigh In Results as One Fighter Fails to Make Weight MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43VzJ4SmpfaUtBX19rRk9welRKOGdBMVRXUlBiOGtYUlVwWGNkeTA5OE45Y0NNbFBIdFJLbmdRbktwMzZ1YUk3VFZEMzIzeUNmVWRtRzFyNE1fUHdJTFliOA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792770172
-  },
-  {
-   "id": "2e26a8ce636066a6",
-   "title": "Aaron Pico | Still Learning",
-   "summary": "Talented Featherweight Aaron Pico Talks Win Over Patricio Pitbull At UFC 327, Growing As A Fighter, Matchup With Losene Keita This Weekend At UFC 333 In Abu Dhabi Read the Full Article Here",
-   "link": "https://www.ufc.com/news/aaron-pico-still-learning-taking-on-losene-keita-ufc-333-abu-dhabi",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1792769581
-  },
-  {
-   "id": "8baee67b0969e526",
-   "title": "UFC 333 'Embedded,' No. 5: Volkanovski wigs out in 'Street Fighter' Joe mode - MMA Junkie",
-   "summary": "UFC 333 'Embedded,' No. 5: Volkanovski wigs out in 'Street Fighter' Joe mode MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNnlDbzJob3BwcG9qNVdfWXZHMjFvX1ZVQThYNmM3WVZ4NnlBd2p2MTVkSVZMZE5heWlGWGY5dWpxaTlMZjh0SVZiZXdPUC1RSkh5SlcxTVVadkxwMGVtNmtTX1VUSW9acnRNWmsxN1h0ZXdXSm4xcFdHNkQ1U05zUnFyVlgtcGlrTUppM3o0RU95YVA5ek42dDNzamprNzhmZWRabk5tX2YyZlZpOUkwdkJCMzNUQk5aNmR1UDdkNnRuRnhOY1EtUER4VlR0M3Y5QmZ2UEFabXh6SDlwXzRna0YzZ1p3STZpRGd2RF8yWTBZQnZYS0poQzhzTTN1aW5YcUE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792769340
-  },
-  {
-   "id": "1fa39d50a3dae1d6",
-   "title": "Petr Yan cartwheels after successful UFC 333 weigh-in - MMA Sucka",
-   "summary": "Petr Yan cartwheels after successful UFC 333 weigh-in MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcDFwbnBQUS1QbUdDVVplbVhKREkwZUVyUGZlYnc1UjI0WVE4LTBFU085YXdlbVFIbGxQRkw1Z21mVTZxVkItSkNKd3pYdFhpaFNKMG1ydXUyZnpxWDRXa1FWSzRxLUZhaXRGYlRZTkVxcV9jRER0VkQzVmg4c2RJaFhnQzJmamtVTmt2WWRESjYyOUlTUkxhY2xQLTVsVWs?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792769262
-  },
-  {
-   "id": "b7db41df1e53ac6d",
-   "title": "UFC 333 Embedded | Episode 5 - UFC.com",
-   "summary": "UFC 333 Embedded | Episode 5 UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aeERNLVpZcTRfaGpCTGRoRDR0SUdxZzFtVjZJN3V4Q25JZDdRZnZXcWs1NHFpdEs0YWxfeTdUanJielJxdWZZ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792769069
-  },
-  {
-   "id": "cc544da1ee49bbba",
-   "title": "Evloev: I Asked Nina Drama To Wear A Hijab Hoping She’d Refuse",
-   "summary": "Movsar Evloev says he set the hijab condition hoping Nina Drama would refuse their UFC 333 interview, but she agreed and he had to go through with it.",
-   "link": "https://www.mmanews.com/article/evloev-nina-drama-hijab-hoping-she-would-refuse",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1792768994
-  },
-  {
-   "id": "433ea851d452d4ee",
-   "title": "Josh Hokit will make major change to his game plan for Ciryl Gane fight at UFC 334 - Bloody Elbow",
-   "summary": "Josh Hokit will make major change to his game plan for Ciryl Gane fight at UFC 334 Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaGhBSFh1MG1DUnVJb1ltZTRjbV9WZFp2eFNSdmdoeTdrUjZfeG9ZY2xFMWZieUxOZHFVTi1QM2NDeEZBb2JGb2hSeGNxcEY0RFZrOHpzSXpuZ3U3R0dxYnlMTnZGZ3pHMDFzc3NYYzE4Z251V3FUX2RxUklzRXI1akFMaXlMOWZ0M1JrN1FpNC1pZGV2a0E0Vjc3QXZjN2JqaUVoQmMwMUhiOWUxdTVQOVNpclZrOTQwWlNScDFRSHR2OTJwSDROV3dzaFE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1792768815
   }
  ]
 }
