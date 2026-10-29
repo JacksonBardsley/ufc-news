@@ -1,6 +1,312 @@
 {
- "updated": 1793299267,
+ "updated": 1793314789,
  "items": [
+  {
+   "id": "c8a1caaa9a1fba9f",
+   "title": "Main Card Results | UFC Fight Night: Moicano vs Nolan",
+   "summary": "UFC Fight Night: Moicano vs Nolan Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From Meta APEX In Las Vegas On October 31, 2026 Read the Full Article Here",
+   "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-results",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793314789
+  },
+  {
+   "id": "68757bfc848dbc59",
+   "title": "Prelim Results | UFC Fight Night: Moicano vs Nolan",
+   "summary": "UFC Fight Night: Moicano vs Nolan Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Meta APEX In Las Vegas On October 31, 2026 Read the Full Article Here",
+   "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-prelim-results",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793314789
+  },
+  {
+   "id": "d93ffc9c14bb43e3",
+   "title": "Official Scorecards | UFC Fight Night: Moicano vs Nolan",
+   "summary": "See How The Judges Score Every Round Of Every Fight From UFC Fight Night: Moicano vs Nolan, Live From Meta APEX In Las Vegas On October 31, 2026 Read the Full Article Here",
+   "link": "https://www.ufc.com/news/ufc-fight-night-moicano-vs-nolan-official-scorecards",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793314789
+  },
+  {
+   "id": "9cdcccb10c3aeced",
+   "title": "There's no better boxer in the UFC than Joshua Van - MMA Sucka",
+   "summary": "There's no better boxer in the UFC than Joshua Van MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXhiOUFXWU43MnoyZ25MT2dzdkl3dE1DLVRXck8zbEI4ai16d2h5bjhUUC03YjNoazlKYVk5Z2ZXQUNoZjdGN05DTkV2S0xJSFJnZTdFZzJPdkR1eVp0NEJWNV9JMTNOcFJhNHdQLUxNWjBTZTlWS0h4ZDVZZ3IwUlZGNDBCRXg5RkVoN1NCZXpvUkE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793314691
+  },
+  {
+   "id": "57a7a9bec27c038e",
+   "title": "New UFC Vegas 124 main event announced after Sean Brady’s withdrawal",
+   "summary": "BANGER",
+   "link": "https://www.bjpenn.com/mma-news/sean-brady/new-ufc-vegas-124-headliner-announced-sean-brady-withdrawal/?utm_source=rss&utm_medium=rss&utm_campaign=new-ufc-vegas-124-headliner-announced-sean-brady-withdrawal",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1793314242
+  },
+  {
+   "id": "2fd8e9219dc50532",
+   "title": "Abus Magomedov explains UFC 333 celebration, Gregory Rodrigues callout",
+   "summary": "Abus Magomedov had no idea Nate Diaz hit a similar celebration when he let it fly at UFC 333.",
+   "link": "https://sports.yahoo.com/articles/abus-magomedov-explains-ufc-333-225027224.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1793314227
+  },
+  {
+   "id": "cb4200a22a50908c",
+   "title": "New heavyweight headliner set for UFC Vegas 124 following Bonfim vs. Brady cancelation",
+   "summary": "UFC Vegas 124 has a new main event. MMA Fighting confirmed with sources with knowledge of the matchup that a heavyweight bout between Waldo Cortes-Acosta (17-4) and Johnny Walker (23-10, 1 NC) has been booked as the short-notice headliner for next Saturday’s event at Meta APEX.…",
+   "link": "https://www.mmafighting.com/ufc/518387/new-heavyweight-headliner-set-for-ufc-vegas-124-following-bonfim-vs-brady-cancelation",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1793313152
+  },
+  {
+   "id": "d2d9249797b0b732",
+   "title": "Conor McGregor's Coach Shares Ultimate Verdict on UFC Comeback Fight - Sports Illustrated",
+   "summary": "Conor McGregor's Coach Shares Ultimate Verdict on UFC Comeback Fight Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FZZXFBYjZKSFphTU85cTlzeEpsakdmZi1qc0NIb1ZJNDVaRlhVYWpBNjVoQlBrT0RIRGZlZC1mZFlRZ3M2M3RmRktZR1FBb0hfTEN5MTh4TGo0TW1HdWtzQ1F3b181OFRteGdBN1JvV3d6SElwbWFfOG45TS1aWUtiTlZSc2ZfM1h5WHBPLTFzWlp3a3lSZGludkJYNXNsQnlJV0VFamFhdw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793312631
+  },
+  {
+   "id": "b8ec4ff01101034e",
+   "title": "Sam Alvey books BKFC debut against ‘Big Baby’ in Hershey",
+   "summary": "“Smilin’” Sam is back. Former Ultimate Fighting Championship (UFC) Middleweight-turned Karate Combat champion Sam Alvey has booked his Bare Knuckle Fighting Championship (BKFC) debut. Alvey will compete at BKFC Fight Night Hershey on Fri., Dec. 4, 2026, inside Giant Center in He…",
+   "link": "https://www.mmamania.com/bare-knuckle-boxing-results-rules-ppv/482484/sam-alvey-books-bkfc-debut-against-big-baby-in-hershey",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1793311443
+  },
+  {
+   "id": "fc3816523fce6110",
+   "title": "Kamaru Usman reacts to Islam Makhachev rejecting UFC 336 title defense to make Prates fight Morales - Bloody Elbow",
+   "summary": "Kamaru Usman reacts to Islam Makhachev rejecting UFC 336 title defense to make Prates fight Morales Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONEkyX3hCbmIxUGdib3IyemllaGRBVUlGekVoa2xCcUpFWkk2M0VPVlM4WHVKLXc1UWdjRkh1X0dqN3pWSU0wQlJ0cm1wZk9TdnF4UmZIWkRYMmJLU1FESFFscE1DUm5IQ3pBM0dZVU5wSXVrUjdrdEl0MlA4SFVYVW5PbE9scVBURnJKYWJZU1FlcS1zOGNUTG54cU13OG9yQ1p3TndlNzNMZ3V1OHRfNmVrQ2RoZDI0aTFFWUgyVUJPN2hzd2VONVBxLWszUzlu?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793311200
+  },
+  {
+   "id": "8936743195211520",
+   "title": "Full thickness tear of ACL forces UFC Vegas 124 featherweight out of bout",
+   "summary": "UFC Vegas 124 is taking some hits.",
+   "link": "https://sports.yahoo.com/articles/full-thickness-tear-acl-forces-215650278.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1793311010
+  },
+  {
+   "id": "2771e0b637a7fa96",
+   "title": "Jacqueline Cavalcanti vs. Michelle Montague among two fights added to UFC Qatar",
+   "summary": "submitted by /u/443610 [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xixgcy/jacqueline_cavalcanti_vs_michelle_montague_among/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1793310889
+  },
+  {
+   "id": "3ba2a52cb340d996",
+   "title": "Report: Waldo Cortes-Acosta vs Johnny Walker now headlines UFC Vegas 124",
+   "summary": "Heavyweights are taking over “Sin City.” Ultimate Fighting Championship (UFC) Welterweight contenders Sean Brady and Gabriel Bonfim were originally scheduled to headline UFC Vegas 124 next weekend (Sat., Nov. 7, 2026) inside Meta Apex in Las Vegas, Nevada. However, those plans c…",
+   "link": "https://www.mmamania.com/ufc-fight-announcements/482485/waldo-cortes-acosta-vs-johnny-walker-now-headlines-ufc-vegas-124",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1793308374
+  },
+  {
+   "id": "e04178875402680f",
+   "title": "Elijah Smith guarantees bonus, new contract at UFC Fight Night 293",
+   "summary": "These days, being unbeaten in the UFC guarantees you virtually nothing when it's contract time. Elijah Smith is staring down that barrel.",
+   "link": "https://sports.yahoo.com/articles/elijah-smith-guarantees-bonus-contract-211025815.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1793308225
+  },
+  {
+   "id": "7a925caa809183f3",
+   "title": "Dakota Hope | Staying Patient",
+   "summary": "Featherweight Discusses The Lessons From His UFC Debut And Mindset Heading Into His Sophomore Appearance At UFC Fight Night: Moicano vs Nolan Read the Full Article Here",
+   "link": "https://www.ufc.com/news/dakota-hope-staying-patient-ufc-vegas-123",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793307600
+  },
+  {
+   "id": "d1909f2ce3bc28d9",
+   "title": "New UFC Vegas 124 main event reported featuring Johnny Walker's second heavyweight bout - Bloody Elbow",
+   "summary": "New UFC Vegas 124 main event reported featuring Johnny Walker's second heavyweight bout Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd0RXVXlRMENrcVo2M09kdlhFVjJCQXpCd1FZaXZfbGZISW4wRXRGSXZQQnR3ODdjT2dNTGNXRUN2eEJYaUNyU0hCZ1k5emZ4ck94TDlhMEE2LW0yQW5nS3pTeXNPTENFdUFvRHFXVEdQcTV0Z3ppY09QTG5qMFlyaTZKMTcyMVVscnc3MHVuemk4NllzSXA5QktqbVdGTWpQQkcwR0xzMXdMQ0ZObmY0ekZFbm16OXVJdjdnWFBodw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793307600
+  },
+  {
+   "id": "717905c14d28286f",
+   "title": "UFC Unfiltered | Jacobe Smith, Renato Moicano, UFC Fight Night: Moicano vs Nolan Picks - UFC.com",
+   "summary": "UFC Unfiltered | Jacobe Smith, Renato Moicano, UFC Fight Night: Moicano vs Nolan Picks UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xMjQ4bjFlS0tpeUEyWDJLRWJhNWRvZTJuVUswZkZlUXhsWnJrd2dnZDNEeDVmZTEwUTJ1MHJRR3VHblZ5N2Vr?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793307050
+  },
+  {
+   "id": "278b60938a167d4b",
+   "title": "Lucia Szabová | ‘The Silent Killer’ Is Ready To Make Some Noise",
+   "summary": "Slovakian Starlet Has Captured Championship Gold In Two Weight Classes In Europe. Now She’s Ready To Make Her Mark On The Big Stage Read the Full Article Here",
+   "link": "https://www.ufc.com/news/lucia-szabova-silent-killer-ready-make-some-noise",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793306752
+  },
+  {
+   "id": "7e19e886b20541d1",
+   "title": "UFC's King Green Wants To Fight Michael Chandler Next - MMA Sucka",
+   "summary": "UFC's King Green Wants To Fight Michael Chandler Next MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZGZCR3BLZmo2YmJLVXZoaTJOanAzSjN6UE03SWFyMGlUMjlhRmV5TUUwMDlCdTB3RWItTkx3YTJnNGFYd0NRYlVjOTdCZlpxYTNuODMwZ1hKc3RGd0p2RW8xOHROcXZLU3RXQmIyem1rSzNQamFxa2RlOHFuNjlHZ3U1NExPUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793306728
+  },
+  {
+   "id": "d4344b6a5a34ddf3",
+   "title": "Israel Adesanya vs Shara Magomedov UFC Saudi Arabia Preview - MMA Sucka",
+   "summary": "Israel Adesanya vs Shara Magomedov UFC Saudi Arabia Preview MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWxxWk02aHF4VFAwQmFIYVBFWV8zM1NWMC13QUdlaVd0V1JwOW5SNEk3MV9vYkFvOHpwbG50dHlwQUZLXzhsTHNJV2o4bXZPTzlnNGhHUXRYMEdTdlRCQlg0Ym5FT1JxTktGNGJjM1Ryb3luajNsbDJRVm9tRWFweVFyRjlkSXFXQ29fUFd1UV9FWm9iOVYxWEtEeTNTLUZRMDJGeXQ4RQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793306291
+  },
+  {
+   "id": "7d138fe7fe722ee0",
+   "title": "Sean Brady injured, replaced in UFC Vegas 124 main-event slot",
+   "summary": "UFC Vegas 124 gets a new headliner.",
+   "link": "https://sports.yahoo.com/articles/sean-brady-ufc-finds-replacement-203335990.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1793306015
+  },
+  {
+   "id": "40a2d44bcd59d363",
+   "title": "Renato Moicano Is Still Chasing The Lightweight Elite",
+   "summary": "Brazilian Lightweight Vet Faces A Rising Prospect In The Main Event At Meta APEX, And Hopes Victory Will Land Him A Fight Date With A Pound-For-Pound Star Read the Full Article Here",
+   "link": "https://www.ufc.com/news/renato-moicano-chasing-elite-ufc-vegas-123",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793305994
+  },
+  {
+   "id": "8fea85699c2374e3",
+   "title": "Rising star Bilal Hasan warns Joshua Van about Manel Kape before UFC 336 title fight - MMA Sucka",
+   "summary": "Rising star Bilal Hasan warns Joshua Van about Manel Kape before UFC 336 title fight MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEZUazBBMjdBYkZzc1VNd01CRTU0aG5pYWtVeWVFZHdSa3hEQmdvUnlkbmI2dU0zdEd3QjJuWGE4c01yNDBwdllqMWY1X1JXN3YtRm9XMnk3TjJ4MkVYdGpZX0dtbkpyQm9xWUpOcTBSY1l5N1BvcUtsTXRjVzRvRnVtak5tUnFQYlZHWEsyWkxNa0FTWkVSWjNKUHF3ckZaSnJoeWdUcG91Wm1IRV9XTw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793305994
+  },
+  {
+   "id": "8dd6e74d5d8d5fa6",
+   "title": "Are people — especially UFC fighters — getting carried away with their commentary criticism?",
+   "summary": "UFC commentators like Daniel Cormier have come under heavy fire of late, especially from active fighters like Dominick Reyes. But are they getting carried away?",
+   "link": "https://sports.yahoo.com/mma/article/are-people--especially-ufc-fighters--getting-carried-away-with-their-commentary-criticism-203307860.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1793305987
+  },
+  {
+   "id": "c5c80e521bf69c7b",
+   "title": "Timmy Cuamba shares one-year goal after UFC Edmonton exclamation mark",
+   "summary": "Timmy Cuamba has won three of his most recent four UFC fights.",
+   "link": "https://sports.yahoo.com/articles/timmy-cuamba-shares-one-goal-202026329.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1793305226
+  },
+  {
+   "id": "9d254efaa3e2cf15",
+   "title": "Ranked bantamweights announced for UFC Qatar",
+   "summary": "Jacqueline Cavalcanti faces the undefeated Michelle Montague at UFC Qatar. The UFC announced Thursday that Cavalcanti (10-2) is set to fight Montague (8-0) in a battle of ranked bantamweights set to take place at Ali Bin Hamad al-Attiyah Arena in Doha on Nov. 21. Cavalcanti is N…",
+   "link": "https://www.mmafighting.com/ufc/518366/ranked-bantamweights-announced-for-ufc-qatar",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1793304000
+  },
+  {
+   "id": "eab40501498967b6",
+   "title": "Ex-UFC star responds after receiving backlash for saying the UFC can't have champions of a certain religion - Bloody Elbow",
+   "summary": "Ex-UFC star responds after receiving backlash for saying the UFC can't have champions of a certain religion Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLXJQMDZVR1p4U2M3SVRZV2dQTFhSWDM3QXNOeWhObmwyZHNtb21GUkFzS2FmUmtyaVVLc01ObVJ3cU94UXFBQ080eENPaVRQUDh5YlkxaWVqTkFQM2xFblRzYmJDQlIxa0J5dXd2eUloeWdDNTVMSGtwNWFQd1hCRll0U3ZOVGQ1Tlp1eHRncWZaNmJVYk0tOTBiZll6VDNsVFd0a2ZhUno3THh3LVIwd0YtaC1rZHFKRlhTTWtOclptWDY4QWhKN1ByQkxlUjc3dDF1WjRfZ0NMUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793304000
+  },
+  {
+   "id": "6463d90c7e906ea3",
+   "title": "Report: Sean Brady out of UFC Vegas 124 main event due to injury",
+   "summary": "Sean Brady has withdrawn because of an injury from his scheduled welterweight main event against Gabriel Bonfim at UFC Vegas 124 on Nov. 7, leaving the Brazilian without an opponent at Meta Apex in Las Vegas.",
+   "link": "https://www.sherdog.com/news/news/Report-Sean-Brady-out-of-UFC-Vegas-124-main-event-due-to-injury-203412",
+   "source": "Sherdog",
+   "kind": "news",
+   "ts": 1793301969
+  },
+  {
+   "id": "3f66db29ee222775",
+   "title": "Oliveira Shares Pavlovich Flaw Favoring Pereira At UFC 335 - MMA Sucka",
+   "summary": "Oliveira Shares Pavlovich Flaw Favoring Pereira At UFC 335 MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRTkwZldtUDFJTUU3Rkd4SFdkai1NUl9LeTFMS0piZVlDcnR3bEljZHlJaEhPSGVUb2NDYWNTRE5tZlRVZGxDcTFzc2F2RHM3X19pWEMzWUdlVEQ2OFhndW9BT201eEJ4eEVZRGVlNkZiUEdGaUROVVhpLXYwTHNGcUs3U2owV3cwamZvY00xWQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793301792
+  },
+  {
+   "id": "6489565eb19ab935",
+   "title": "Fedor Emelianenko says Dana White 'doesn't stand by his words'",
+   "summary": "Fedor Emelianenko has criticized Ultimate Fighting Championship CEO Dana White over the promotion’s attempts to sign him, accusing the executive of repeatedly changing his account of their failed negotiations.",
+   "link": "https://www.sherdog.com/news/news/Fedor-Emelianenko-says-Dana-White-doesnt-stand-by-his-words-203411",
+   "source": "Sherdog",
+   "kind": "news",
+   "ts": 1793300953
+  },
+  {
+   "id": "6829d65219baec6d",
+   "title": "MMA Legend Rips Dana White By Unveiling Controversial UFC Contract Tactic - Sports Illustrated",
+   "summary": "MMA Legend Rips Dana White By Unveiling Controversial UFC Contract Tactic Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3lZU1dKVDRTT3l2OWp0aWF1aXphM1h1cVVUWEI0cFItY1VnUGhlU2o3cXNjNEM1bURyZ1V3a2w3akZmZV9ZWTlUaDY1czVhSk1VRHlibC1wVEF6ZklWLUoteWhVVk1ueFBsTFdIY0tyOGpUM3VTcHl2RUNmMEpsTFNGTjVsWGpIeWtEQWZTQUhTcUdkODJ5VlRvWGJlV1FpZGYyMUNtYkc0dVR6MHRabg?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793300400
+  },
+  {
+   "id": "56feab00b2535e82",
+   "title": "Stipe Miocic is 'glad' he never fought current UFC heavyweight he is tipping to become champion - Bloody Elbow",
+   "summary": "Stipe Miocic is 'glad' he never fought current UFC heavyweight he is tipping to become champion Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRThLQ2hpTVREeFc4RmRRa1lUSUFMYnpka1RnakVQWVVacmdHVlRublpQX0lIbjNDWTdwbld2dm5hcUtCV1h3bGJhT0VzS0UwUFFLWlVCT1NJQjFZajB6cXJxa1E2RjZnRUVOM2thalpmU1FCUzVSbm5ZclV3VGxnMVhBY01RMG82LU1lakNvVHJKSGE5M3F5ekE4RWJiU1JORTBuMGRsRlkzSFZVNHRQeTJTTlBiZWFUNUdNbFdKY3hETmxqZFViMg?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793300400
+  },
+  {
+   "id": "a6fd5051697140bf",
+   "title": "Fedor Emelianenko Reveals Why He Never Signed With the UFC - MMA Sucka",
+   "summary": "Fedor Emelianenko Reveals Why He Never Signed With the UFC MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcW1SYmtDNmxvVDBnakhZbEJjd1ZCTDhKb0JNUnVkZzl0cGstX3hKaTgxV0dPWDFxejNaaktiWVdMMnFiYnpzUHFUTlRhbG1ta2RSdzRJVEhVeWpIU2xMOEZ1WmNZWHlmQlNDUWdkZDBTVlEzc0V5ODJvekNydUpzM3BDR1VVUzdPTUxNMV90el9rdUpkbjVkN0JYaEg1M3dFVk5fQTd5LTJoSm92U1FtTkdvZ0hZcEstVU1VYjZXeGM3LXhhSmc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793300355
+  },
+  {
+   "id": "0f761e36d409db06",
+   "title": "Welcome to the UFC, Usman Nurmagomedov: Will it be that simple?",
+   "summary": "PFL lightweight champion Usman Nurmagomedov officially can sign with a new promotion – which in this case, all but certainly means the UFC.",
+   "link": "https://sports.yahoo.com/articles/welcome-ufc-usman-nurmagomedov-simple-184026898.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1793299226
+  },
   {
    "id": "779b3ea28ade360e",
    "title": "Fedor Emelianenko takes exception to Dana White’s past claims: “He simply doesn’t stand by his words”",
@@ -281,6 +587,15 @@
    "ts": 1793290080
   },
   {
+   "id": "c8720dc3d09c145c",
+   "title": "Alex Pereira Gets Major Backing From UFC Legend After Brutal Loss",
+   "summary": "Stipe Miocic backs Alex Pereira to become UFC heavyweight champion despite his knockout loss to Ciryl Gane, believing “Poatan” can still make history.",
+   "link": "https://www.mmanews.com/article/alex-pereira-gets-major-backing-ufc-legend-after-brutal-loss",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1793289754
+  },
+  {
    "id": "2aeae254224c9d95",
    "title": "Fedor Emelianenko addresses Francis Ngannou fight rumor, blasts Dana White: ‘He simply doesn’t stand by his words’",
    "summary": "Fedor Emelianenko still sees himself mentioned among the biggest names in MMA despite long being retired. The Russian legend recently spoke to Ushatayka to address a number of topics, and touched upon a rumor in which he was allegedly in talks to fight former UFC heavyweight cha…",
@@ -324,6 +639,15 @@
    "source": "UFC.com",
    "kind": "news",
    "ts": 1793288782
+  },
+  {
+   "id": "f961dfdac6427e8a",
+   "title": "Paddy Pimblett vows to choke out Justin Gaethje in UFC title rematch",
+   "summary": "Paddy Pimblett has a clear idea of how he would approach a potential rematch against Justin Gaethje .",
+   "link": "https://www.sherdog.com/news/news/Paddy-Pimblett-vows-to-choke-out-Justin-Gaethje-in-UFC-title-rematch-203413",
+   "source": "Sherdog",
+   "kind": "news",
+   "ts": 1793288588
   },
   {
    "id": "02bd67d9b669aa77",
@@ -3276,330 +3600,6 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1793116800
-  },
-  {
-   "id": "1ab4c9fd62016029",
-   "title": "Got next? Alexander Volkov sails past Alex Pereira in UFC 333 rankings update",
-   "summary": "Alexander Volkov wanted to know what steps were required to secure a heavyweight title shot. While he didn’t get a straight answer from UFC CEO Dana White, who may or may not recognize Volkov if he tripped over “Drago” in the subway, the Russian may have answered his own questio…",
-   "link": "https://www.mmamania.com/ufc-mma-rankings/482193/alexander-volkov-soars-past-alex-pereira-ufc-333-rankings-update",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793116581
-  },
-  {
-   "id": "35de2dd3ce4abf18",
-   "title": "Shanelle Dyer Gets UFC Veteran for 10th Professional Fight - MMA Sucka",
-   "summary": "Shanelle Dyer Gets UFC Veteran for 10th Professional Fight MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pczctZTFvQTkzZzAwWWFDRXRNTnEwa0xCRlpNbXQ1bUN6QjJjZG9vTUtUX2libjMzVmktOTMxbk1qM1hnb0pRbU8xVXAyaldSMENBZGlDcjZfR01OYzFxRTBB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793116217
-  },
-  {
-   "id": "8ca4b1e28922c294",
-   "title": "MMA Legend Targets Fight With Alexander Volkanovski After Latest UFC Title Defense - Sports Illustrated",
-   "summary": "MMA Legend Targets Fight With Alexander Volkanovski After Latest UFC Title Defense Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUlhdHhnSFpYYU92N19ub3BmOXV1NjRjWk9Lem02UjBEOFBINC1jLWpNcV8xVXdmeDRNdFZ4anluQmlEV3RzX0stYWllYUJabXdBWXQ5eTB1Y2VMYXZUZ1VlQnpycnJudWREVGdHekI4UUVvV04xeUVzc0I4eFNaQkxJZTdBZ0dWSF9wdlhDbmpYamhkQV8yem1oWjBRZ1VKMTdVekg1X01EcFJCTmRfM3ctcw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793116125
-  },
-  {
-   "id": "992ceafb79d43dc9",
-   "title": "Israel Adesanya Blasts Alex Pereira’s Thinking Ahead Of UFC 335",
-   "summary": "Israel Adesanya questions Alex Pereira’s mindset ahead of Sergei Pavlovich’s fight at UFC 335, urging his former rival to rethink his heavyweight plans.",
-   "link": "https://www.mmanews.com/article/israel-adesanya-blasts-alex-pereiras-thinking-ahead-ufc-335",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1793114329
-  },
-  {
-   "id": "2d60a2140b2798e4",
-   "title": "Demetrious Johnson backs Jean Silva for UFC featherweight title shot",
-   "summary": "Is he ready?",
-   "link": "https://www.bjpenn.com/mma-news/demetrious-johnson/demetrious-johnson-backs-jean-silva-for-ufc-featherweight-title-shot/?utm_source=rss&utm_medium=rss&utm_campaign=demetrious-johnson-backs-jean-silva-for-ufc-featherweight-title-shot",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1793113861
-  },
-  {
-   "id": "6c7809b75d736b97",
-   "title": "UFC Fight Night: Moicano vs Nolan Betting Tips - MMA Sucka",
-   "summary": "UFC Fight Night: Moicano vs Nolan Betting Tips MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdnRLblVGV2VHcklwOXNDLVc1dGwzbkZSQzhXZ0g3OTg2a1lKVDkzZXhuWW9PUTJRX2k1eVVtZTV5R19yS1pMNFVqWnhyM0Z0dWxHOTVsdmEtZlpvdjZfV0IzcnV5azE2MEYwUVZZblFaalRJY3pBSVljU3ZOTXREODBB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793113716
-  },
-  {
-   "id": "866b7a9d32dbfaa9",
-   "title": "Henry Cejudo defends Islam Makhachev not competing at UFC 336",
-   "summary": "An interesting take",
-   "link": "https://www.bjpenn.com/mma-news/henry-cejudo/henry-cejudo-defends-islam-makhachev-not-competing-at-ufc-336/?utm_source=rss&utm_medium=rss&utm_campaign=henry-cejudo-defends-islam-makhachev-not-competing-at-ufc-336",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1793113346
-  },
-  {
-   "id": "4f580b26c0cfc76e",
-   "title": "‘Go back to Chama’: Israel Adesanya questions Alex Pereira for saying he’ll return to 205 with UFC 335 loss",
-   "summary": "Israel Adesanya doesn’t understand Alex Pereira’s line of thinking ahead of his old rival’s sophomore bout in the heavyweight division. The former two-division champion is set to face one-time heavyweight title challenger Sergei Pavlovich at UFC 335, which takes place Dec. 12 at…",
-   "link": "https://www.mmafighting.com/ufc/518042/go-back-to-chama-israel-adesanya-questions-old-rival-alex-pereira-for-saying-hell-return-to-205-with-ufc-335-loss",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1793113200
-  },
-  {
-   "id": "00b17a61f7d09a0f",
-   "title": "PFL Champ Vadim Nemkov Claims UFC Fighters Deserve Much More Money for Risking Their Health - MMA Sucka",
-   "summary": "PFL Champ Vadim Nemkov Claims UFC Fighters Deserve Much More Money for Risking Their Health MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbExnUGdtTG9PdzBHaTdvYlhIeWFZSnFMYzhRR0tlVnR0WkRHdW5ETjF0dVZBaTJESEdpZk1wWDFaTzJtOGFVYVBhN2NNY1RuMTJRNnlEc0l3TWhhU21ZQy1vODRTZ1VCS1QyMWdMOEptZmtWcXJ4Szk5YTluRUhsc0Y5UThVaXdHblIyTk4wbUJYbVdyUU5CQzZWZEIxTWwwLTE5VmZVVk9sVzBGUDY5NXY0ZGlzeDVrcFE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793112987
-  },
-  {
-   "id": "e3d9ba6398821358",
-   "title": "UFC Hall of Famer Stumps for Jean Silva Title Shot - Heavy.com",
-   "summary": "UFC Hall of Famer Stumps for Jean Silva Title Shot Heavy.com",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TSi13MGluSUcyclIyUlE4RC1WRkNMNmk1dy04OUk2eXo5OEZuNW80TklfaXlaNmw1cnNhdkdhS2JEUWN4MDV4bGFQTndyVTBtaUdkeXJwRU1kdHpUakxXRTdmdW0ydmZ3Slc0YXg2c0RvUQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793111666
-  },
-  {
-   "id": "2c3e6035cb0feba8",
-   "title": "UFC Rankings Update Puts Malott In Top 10, Buckley Drops To 12 - MMANews.com",
-   "summary": "UFC Rankings Update Puts Malott In Top 10, Buckley Drops To 12 MMANews.com",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRHZ2TXAwVVZjbG5MS2Q1X2lNamk3NFBITG1zalJwS0QtZmJhNHBQbHV4OUNhMGN1LVRkalVaaHVGMkEyWW9EQzhWalQxTFd2R2R5SGtpQ2luWDdEZXg1UFNoOGh3NTdta2RSNkxmTmotWHlRc25pM0Ytc3RNY3FnUQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793111438
-  },
-  {
-   "id": "99dc9a350ca5eced",
-   "title": "2026 UFC event schedule: Ciryl Gane vs. Josh Hokit, Charles Oliveira vs. Diego Lopes on tap - CBS Sports",
-   "summary": "2026 UFC event schedule: Ciryl Gane vs. Josh Hokit, Charles Oliveira vs. Diego Lopes on tap CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTJuMTZjU01rdVB1NVdhWU9Kby0wNHZMOE5rcDBSXzZaLW85Y09EVFVDR3B3NVhrdzU4NVYwUzdBM05jNThxc3l4Q1lpVUJ2T0FwQVBlMXk2VHZ5UERTeHlVaWsxbFJzbXZ6b0xPcVFsQlNvYnhyeDhsTGF4RzNOWmZvWFpiWm1KN1pEdW9CRmNXY1pES0kzN2oya29FRXZnejVwYVh3TWdnNGNSeW9j?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793110740
-  },
-  {
-   "id": "6d2acc06a2232b02",
-   "title": "UFC Pound-for-Pound Fighter Rankings: Alexander Volkanovski and Petr Yan shine at UFC 333 - CBS Sports",
-   "summary": "UFC Pound-for-Pound Fighter Rankings: Alexander Volkanovski and Petr Yan shine at UFC 333 CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZFpJNHBGcXlzd0dTTTZpY2VjZUtfWU1lOWxBMzJHbFdFZEJzUEszX05tYTZMdGxqOVBEU0liQlVmTnN0Qm12azI4bXV2Ym93MC1NSEZUWUZDZnhRaDZQT202elVKcFlOTC1Hc2VVXzMxcE5OQjk0bUJaUll6dmxMQ2h1QXNvTXhETXFVR3dXVVBRNEVpY09pcXhqQVpEYjNyMDBCRERzZ2VtMHJ5MGVXSQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793110476
-  },
-  {
-   "id": "094a111d2a891651",
-   "title": "Angela Hill Returns for 31st UFC Fight at UFC 335 - Heavy.com",
-   "summary": "Angela Hill Returns for 31st UFC Fight at UFC 335 Heavy.com",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10TVB4SUxZVnM5WVdGdkRSTlFEckJITl9JVWNMYURORWtLOWFUdXhUdENrdTh3bzluYUozZFdaeEJ1QmtOYjNvV0FxckJwX0t0b05wS2Y3MlFERUYzbUdMS280bHQ5VE45OF9sUg?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793110029
-  },
-  {
-   "id": "8512336e1af30ae6",
-   "title": "Fighters rush to defend ‘picky and choosy’ Islam for passing on Prates, condemn UFC for pointless interim title",
-   "summary": "Ultimate Fighting Championship (UFC) wanted Islam Makhachev to defend his 170-pound title against No. 1 contender Carlos Prates at UFC 336 next January in Toronto. Makhachev passed on the offer, forcing matchmakers to book Prates against No. 3-ranked Michael Morales for the inte…",
-   "link": "https://www.mmamania.com/ufc-news/482183/fighters-defend-picky-choosy-islam-passing-prates-condemn-ufc-pointless-interim-title",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793109911
-  },
-  {
-   "id": "40ac6bf6830f5630",
-   "title": "Alistair Overeem: Every TKO/KO win and loss of his UFC career",
-   "summary": "submitted by /u/airplane231 [link] [comments]",
-   "link": "https://www.reddit.com/r/MMA/comments/1xgtd1q/alistair_overeem_every_tkoko_win_and_loss_of_his/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1793109692
-  },
-  {
-   "id": "a79b486572f0a7c4",
-   "title": "Sean O'Malley's teammate earning 'way more' than 'Suga' did at this stage in UFC career says coach - Bloody Elbow",
-   "summary": "Sean O'Malley's teammate earning 'way more' than 'Suga' did at this stage in UFC career says coach Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUDk4aWVxY3lYLW1BR3J6ZVA3U1JUZERXNTJ6Q0lZcy1RWlk4akl2a01VcDNPNFQ5VlRmdmVQYnplVUJxR2h1ejVhRjg4Y2JaTzhoalVXaEF0eDlIRXkwMmZ3RVkwSXQyZEx6Q2tpVmJOUUZMbFZrSGllcDZLUENTSlpxRThQbEFXRDZ0c1ZpS0MwQ040b21yd2VpT19UX0phYlBuZGV3TXF6VTdlN1RSMDNtSmJWNHAyR0ZRQmxNR2JtQTZKR2Nz?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793109600
-  },
-  {
-   "id": "1d8f8c6fa398e656",
-   "title": "MMA Junkie Radio #3714: UFC 333 and RAF 14 recaps, UFC 336 reaction, more",
-   "summary": "Check out the latest episode of MMA Junkie Radio with \"Gorgeous\" George and \"Goze.\"",
-   "link": "https://sports.yahoo.com/articles/mma-junkie-radio-3714-ufc-133100079.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793107860
-  },
-  {
-   "id": "b1bd05015746aa4c",
-   "title": "MMA Junkie Radio #3713: UFC 333, RAF 14 guests, previews - Central Oregon Daily",
-   "summary": "MMA Junkie Radio #3713: UFC 333, RAF 14 guests, previews Central Oregon Daily",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdlFPZTZocERmR1ZlS0tBNDlSVGNNSTVnZ0dHTkdEV3lVWlhEMnpTLXJ6N2hNZkxqbzZNaGhrdGdmZXpTYXFDbC1VMVlfWjFiTE40M184VzMtMzYzQzZmOHEwRzAtbWJ2LTJSWnR2RlVDYXVGQWtyVnZJYUd1S0VSa1loOFNhbWpTM1hOSnVnYjFlR3BBMDdva2Jtcy1OWGQyZHdLblMyQ1BWVEtTdW1rSktNSmhFQktrcXJTcXo1aXozZ3BidFYxRDY2MTIzQ25ZZnhqTkFneUlTNWJp?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793107178
-  },
-  {
-   "id": "6ab5b436f0f4406b",
-   "title": "Alex Pereira Wants Herb Dean Away From His Future Fights, But Can a UFC Fighter Choose His Referee? - Athlon Sports",
-   "summary": "Alex Pereira Wants Herb Dean Away From His Future Fights, But Can a UFC Fighter Choose His Referee? Athlon Sports",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0liRFV3TllnbTd6ZDNJOHpzVGlrSlNzdTdlTTNLWHlaZG5TaHVfYllxZzJ2R3RFMWJPUnZlUUpTLVR3ZnZOSUwzYjJvWVN0Z2dCTW14WVkzQUJYUFlCS2NYQjdXd19ObmlfZi04aVJ2YXM1MHRmaDF6XzBmRVpubFBJdXpBR2RoYTI1TXR6UzRUc2dQTTU4YWhCVjJ0Zko3ZWhBNENYME1yTVVfeXlwZy1DRXhZX0dxQXMyc2tGNHR3T3NX?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793106600
-  },
-  {
-   "id": "fc7f048fa3c974d0",
-   "title": "Why Islam Makhachev turning down UFC 336 makes perfect sense to one ex-champ",
-   "summary": "Henry Cejudo says he likes Carlos Prates vs. Michael Morales \"even better\" than either one of them fighting Islam Makhachev for the title.",
-   "link": "https://sports.yahoo.com/articles/why-islam-makhachev-turning-down-130030557.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793106030
-  },
-  {
-   "id": "0a93c40acd5ef5e0",
-   "title": "Matt Brown defends Islam Makhachev, rips UFC for introducing another ‘f*cking interim title’",
-   "summary": "Islam Makhachev opted not to fight Carlos Prates at UFC 336, and as a result, the promotion is introducing an interim title as the Brazilian now battles Michael Morales instead in January. While Makhachev ultimately turned down a fight, he just defended his belt in August with a…",
-   "link": "https://www.mmafighting.com/ufc/517998/matt-brown-defends-islam-makhachev-rips-ufc-for-introducing-another-fcking-interim-title",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1793106000
-  },
-  {
-   "id": "98dcbee4b6791141",
-   "title": "Alexander Volkanovski defends Movsar Evloev's UFC 333 performance after criticism: 'Watch his next fight' - Bloody Elbow",
-   "summary": "Alexander Volkanovski defends Movsar Evloev's UFC 333 performance after criticism: 'Watch his next fight' Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVjkzaTh4cUNNQlB3TS0xbnJXNFJ1WXA0aGkyb1RhdEw5U3hLQWZ0Mnc5emk5elBGSG9SUjRseXprc3k5eWd5TGRITVFRN3Fya3RtS3RlTUlQT1VkOFhEMU9QUnh2VkR4X0U1V05zcGhaWDhnaHhUWWtrZW1qLUIzTy1wamk1QmNUamoxYVJhU2x4dV9UN2J5RXFpRlQyX0pZbVBwS0tEdXdnay1HT0xMaUFQQ3ptS2tGN3k3RDJhN1R4MjVKR0d1RVRnMXdrMXBoWDBJ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793106000
-  },
-  {
-   "id": "41a9112b7b56dc9f",
-   "title": "UFC Fighter Confirms Retirement Bout at the Meta Apex Irrespective of Result - شبكة تواصل الإخبارية",
-   "summary": "UFC Fighter Confirms Retirement Bout at the Meta Apex Irrespective of Result شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iN1RRLWVsQ1BsNC1naDZmUWQ3alZtZTBMX1NmZHFNLXo5aTlXckVtM1VpY2ZmWkFmaVB5dk5COGR3eUF0cWlNMTBvQXJqOHBNSFNR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793104672
-  },
-  {
-   "id": "de66172a2861a141",
-   "title": "Ariel Helwani blasts UFC for booking Carlos Prates vs. Michael Morales interim title fight - MMA Sucka",
-   "summary": "Ariel Helwani blasts UFC for booking Carlos Prates vs. Michael Morales interim title fight MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXJOQUZYVUJQT0x0V0d2ZGktTTltZk1JY1BqQWdoT2ppaF9oSDJ3RHdWZ3hsY3Frdi1WRi1VRXpkaXFPMEMyRGJwOTc2MVJhZ1gtRHJmR3dvc1hoOFhaZHpZVDJhNklmcUpfRnpQcmxfY0d4eUZyN0dlVkl2QVNYaUpQd01WR0tQRmI3UE9EUFN1UjVRbERpazBMYVpST2lrLWFWZ1dpcEo5UUFqSUNnRmVsRWJkbHc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793104515
-  },
-  {
-   "id": "5043030296fe78d3",
-   "title": "Sean O’Malley says don’t come to UFC to get rich: ‘It’s not gonna happen’",
-   "summary": "There’s been a lot of talk about fighter pay lately. 2026 MMA news has been dominated by fights that haven’t happened and fighters that refuse to fight because the UFC isn’t willing to pay them a little more. Now former bantamweight champion and UFC star Sean O’Malley is coming…",
-   "link": "https://www.mmamania.com/ufc-news/482165/sean-omalley-says-dont-come-to-ufc-to-get-rich-its-not-gonna-happen",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793104119
-  },
-  {
-   "id": "0862f32c76136af6",
-   "title": "UFC power rankings following Fight Night 333 in Abu Dhabi - The Big Lead",
-   "summary": "UFC power rankings following Fight Night 333 in Abu Dhabi The Big Lead",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ195cW92aEdKQVJyOTBfZFF5Y2xDQThjY1diTFd2QkprSlNzdkwyVU1vaE5FNUtpMzQ2alFzS0thcmhrWDZrTTA4OVQxX28tLUt1Z01XY090eW51ODVxWUhJblhZR0pBZEx3bGQ2ZTF0Wm02RUw3ZXhYalhxcERqbWp1M0lLR3VKWGZWWEtXb2s?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793103750
-  },
-  {
-   "id": "54f5773b3d68a134",
-   "title": "Malcolm Wellmaker breaks silence on third-consecutive UFC loss: ‘Still really hurts’",
-   "summary": "Malcolm Wellmaker is still feeling the fallout of his UFC Vegas 122 defeat. “The Machine” started his UFC career with considerable momentum, picking up a thunderous pair of knockouts to establish himself as a bright new talent. Unfortunately, it all fell apart when he faced a sh…",
-   "link": "https://www.mmamania.com/latest-news/482145/malcolm-wellmaker-breaks-silence-on-third-consecutive-ufc-loss-still-really-hurts",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793102520
-  },
-  {
-   "id": "87065a3b444260fa",
-   "title": "Wellmaker Breaks Silence After Third UFC Loss - Yahoo Sports",
-   "summary": "Wellmaker Breaks Silence After Third UFC Loss Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGxkdmRCM1lWTTRkS0sxcnRZYnpsOVprMXlJOExNVFA2Sk50bVlsT1UwRW1HUmNmUEd2eVhiYkIwUUFCV0FvUDhwX2Fta2FhelpGVFlXNTJReldPZ0VrdDRwdFNpM2pJS1p0Skg4U1JGZkRFZ0R3WW1fUW9vN2RHejI3WTQtTGQ1Rzg4?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793102520
-  },
-  {
-   "id": "bef3313a61ea00ff",
-   "title": "UFC Fight Night 292 broadcast team set: Laura Sanko returns to booth after DWCS",
-   "summary": "Laura Sanko returns to commentary after DWCS Season 10 as part of Saturday's UFC Vegas 123 broadcast.",
-   "link": "https://sports.yahoo.com/articles/ufc-fight-night-292-broadcast-120149532.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793102509
-  },
-  {
-   "id": "218eee8123ef36d8",
-   "title": "Morning Report | Paddy Pimblett: Movsar Evloev ‘quit’ in loss to Alexander Volkanovski at UFC 333",
-   "summary": "Paddy Pimblett has a harsh review for Movsar Evloev’s disappointing UFC 333 performance. Evloev challenged Alexander Volkanovski for the featherweight title in this past Saturday’s main event in Abu Dhabi, but failed to make it out of the second round as Volkanovski put him away…",
-   "link": "https://www.mmafighting.com/ufc/517956/morning-report-paddy-pimblett-movsar-evloev-quit-in-loss-to-alexander-volkanovski-at-ufc-333",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1793102400
-  },
-  {
-   "id": "2d3ef3b32a388515",
-   "title": "Khamzat Chimaev ready to chase Sean Strickland to heavyweight for rematch",
-   "summary": "Khamzat Chimaev is laser focused on getting a rematch with Sean Strickland. Chimaev and Strickland fought at UFC 328 back in May, with Strickland defeating a seemingly depleted “Borz” via split decision (48-47, 48-47, 47-48). It was not the best fight. After weeks of threatening…",
-   "link": "https://www.mmamania.com/ufc-news/482158/khamzat-chimaev-ready-to-chase-sean-strickland-to-heavyweight-for-rematch",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793102191
-  },
-  {
-   "id": "4863ca4383f9b7af",
-   "title": "Alex Pereira Plans To Abandon Heavyweight After UFC 335",
-   "summary": "Former UFC two-division champ Alex Pereira says he would drop back to light heavyweight and go straight for the title if Sergei Pavlovich beats him at UFC 335.",
-   "link": "https://www.mmanews.com/article/alex-pereira-light-heavyweight-title-shot-pavlovich-ufc-335",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1793100722
-  },
-  {
-   "id": "1d9a8345cdad2a42",
-   "title": "Smilla Sundell Fighter Profile: MMA Record and UFC Signing - Fightomic",
-   "summary": "Smilla Sundell Fighter Profile: MMA Record and UFC Signing Fightomic",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82c2ZUWEF1UWlUWldHX1RJUTltQU5FR0E3emdTcE9EZWNKMmNkUTU5VGxSbHVtbC1kY0FuU2tkLXJXMzRHN2hPZHZNV0NQRHYxNU1FWmlvd3E?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793100282
-  },
-  {
-   "id": "dbb3726164a74d17",
-   "title": "Arman Tsarukyan Highlights Again Why UFC Need to be Cautious - MMA Sucka",
-   "summary": "Arman Tsarukyan Highlights Again Why UFC Need to be Cautious MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkV1U4ckNvSThwejkxN2dzc0RwLTZsVnV3V1lEcFF4TFcyMzVJTTVBUTZtNEQ4bjZHUDlac05sNXRPQWlyN0t4WU5YWHZtTVVMeWxJVEhMWHV2QkdtTkV3RkNaTDFiNTBQVHc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793099925
-  },
-  {
-   "id": "5f4a6e1b60878ff7",
-   "title": "UFC Lightweight Fighter's Custom Range Rover Gets Wrecked During Livestream As He Reacts To The Shocking Crash - NDTV Sports",
-   "summary": "UFC Lightweight Fighter's Custom Range Rover Gets Wrecked During Livestream As He Reacts To The Shocking Crash NDTV Sports",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV21LWm5DZFZ5ZTlFY21BSG9kNU00LWt1akE3M25VdVowUGhRYl9YUUp5ZnVlSzVRRGNrMWR4b0lVN2pUeEVjdm5FRzFVZUtnODZpbXE4cXRkV0h3NUZ4TzdkSDJpNlo1OXdIVzN0RHNlb1M1SHNKYUhobUw4b3ZjNW5FM2I2TEhwQnBDeDlfc2hZU29sSTR3LTZlQzk2NE5Uc3BZM2haTXFKUk9wUFJpbXdJOW55dkwwb3NkaHhGM2ktUHhfbVU3YWFrMVdNdjNNejFISk1oODFQZWVpY1VmWlBxQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793099607
   }
  ]
 }
