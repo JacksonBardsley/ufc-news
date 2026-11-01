@@ -1,12 +1,345 @@
 {
- "updated": 1793545292,
+ "updated": 1793561743,
  "items": [
+  {
+   "id": "6d8cfff29706d2ba",
+   "title": "Khamzat Chimaev vs Jorge Masvidal announced as ex-UFC BMF's first match since losing to Nate Diaz - Bloody Elbow",
+   "summary": "Khamzat Chimaev vs Jorge Masvidal announced as ex-UFC BMF's first match since losing to Nate Diaz Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVTdBLUdxeGY2UVgxYm4wbEdiZnpkRHdmNXFLTUF1TzE1ZkxqX2IwT08yQ2E1Z1R0aVBNODRhRE92b2VhWTQ3M0Jha3IzLU5lNmJIcDAzRUkxWE5Bcm1NSkdaY2pyZ2lzZi1sMGJCOFdaU1pzWVk2VGt0UHFCX2Q5WnlGcTZIeDVpTF9mVDBUdjh6T3Vpa0tXdk9uVzNPcVVRMFdybHdtbHZENlVpNWRQaG0tOWNFdFVlNjVIMmZtajZwVGV3TlpnUDJuNUY?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793561553
+  },
+  {
+   "id": "ec0c5ad82f96b6eb",
+   "title": "UFC Legend Conor McGregor Announces Last Dance MMA Return With Canelo Alvarez Dig - Sports Illustrated",
+   "summary": "UFC Legend Conor McGregor Announces Last Dance MMA Return With Canelo Alvarez Dig Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeUgzb1pvM1R1NzFVTXQwaFRRY1o5REw3NDM2U05EVWdkdlZCVFFvYWlJNGhCZG1CXzI4N3hYaDQ4bXpqRTdETzVENGdxWmh2Yk44NnpJU2N3Skc2T3hRc0tobGsyYTZIQmxWRlVadlFhdjIzYXZjRWVCcHFJeW0yanhYQUV2SXJlYW1Fcnh2elkzemNiU3pkSVNwUnBVajBHTWEwMDF5LVJLSHZ3aVVlWWg4Z2pXTzd5VDIw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793561423
+  },
+  {
+   "id": "d8e9ae539d7e4a5d",
+   "title": "Luana Santos Issues Statement After UFC Vegas 123 Win - Heavy.com",
+   "summary": "Luana Santos Issues Statement After UFC Vegas 123 Win Heavy.com",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0UEdob2hOT1MySUxIMnVHcG9mRDBQSkpnblpRek1VVF9pRmQxTnpBUDhRUlM4ZDVLejJpc3ZCMDd4MlZDT0R0VmhuOU80TnY5bm1EYlQ3bFdEVU1fRXZIdTBGbEFoemhVMGc2Zm5xWTRRN0NPTlhRU253?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793561070
+  },
+  {
+   "id": "8cb73f6d85dd44e6",
+   "title": "UFC Stars Blast Dan Miragliotta After UFC Vegas 123 - MMA Sucka",
+   "summary": "UFC Stars Blast Dan Miragliotta After UFC Vegas 123 MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeW83UGVfYXBrTU0tWWpNUjNqTDFhRkJqVVRFUFJCRXpzb3hWdFJLdHdPOEJSbm9iRjhtWjlCcXJhYnBBaENlR2g4c2ltU1NPMDk3aGdOM01qbVFXMmtHeG1QZVFacUlHQjZOZjE2Y20yajlYUi0tVjB3QVJsQmRTQ2pCUHN0MzlJTXJVZXlVS2NLZ0JRM21aVm9tX0tqeTBjWlFvR3M2cUN3T19sbFItQk93?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793560827
+  },
+  {
+   "id": "7bdf86d66c5199d7",
+   "title": "UFC Vegas 123 sees two new MMA stars emerge - Lyndy's Sports Annuals",
+   "summary": "UFC Vegas 123 sees two new MMA stars emerge Lyndy's Sports Annuals",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnc2akZoRWRHa0dPNDhBUXI3c3VTQ3dOcnVtcm1HcTVRT0UxejFOTGRxVGVuUVBPNEc3WUhraVgyRlNWMEpxQ3hYWnhhZ2NteDE1aGZZbnhXZ0JLX2hrYmUzV3RzY09BTnJjQlpiSmNWVEZ2eGh1UVBIZWI4cWM2WDNQQ2lNZjVL?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793560320
+  },
+  {
+   "id": "93651b6031e463d7",
+   "title": "Conor McGregor Vows to Break Records for Final UFC Fight - Heavy.com",
+   "summary": "Conor McGregor Vows to Break Records for Final UFC Fight Heavy.com",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81RU8zc1YzQUhVZTZ0WVdudU5rb1FGdU5fUVNXbk1RR0VwSHlfX1dzQWk4bllBNTFyc19GYXRrY0U5VGl4UFdLMjdlRUx2V0Qya2IwMEJBWnFKVGprWkt5NEhWWXBIV1JRbzFpdHhCMDZ2ME5mOFZZMEhn?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793559729
+  },
+  {
+   "id": "c7d5994812ef7d14",
+   "title": "Julian Erosa Secures Fairytale Retirement at UFC Vegas 123 - MMA Sucka",
+   "summary": "Julian Erosa Secures Fairytale Retirement at UFC Vegas 123 MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1VuNmNOWV90clZXMWYzTW9lU0QyN19VNVlwUmlfSTB5ekUzYXdlejZDZ1pFdVJVR3JhclVlZ2pNb1JGWWdwdzl4TmZ6OVp6Q0ltUjdkS2NhMlU3QnlGODM1d0VCV0FRRkUxQTA2RXZlTzhQdUt3QkM5QmFWdnVZTy1WUXFSTnRXT3NQWVotLVo?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793559637
+  },
+  {
+   "id": "8ca28948f49d023b",
+   "title": "Tom Nolan dismisses controversial referee standup vs. Renato Moicano: ‘I think the truth is, that’s how it would have gone’",
+   "summary": "Tom Nolan doesn’t think Dan Miragliotta meaningfully changed the outcome of his fight with Renato Moicano. On Saturday, Nolan picked up the biggest win of his MMA career, stopping Moicano in the main event of UFC Vegas 123. Unfortunately, the win was overshadowed by controversy,…",
+   "link": "https://www.mmafighting.com/ufc/518961/tom-nolan-dismisses-controversial-referee-standup-vs-renato-moicano-i-think-the-truth-is-thats-how-it-would-have-gone",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1793559600
+  },
+  {
+   "id": "2d53094a9d692b05",
+   "title": "UFC urged to sign 9-0 champion after his brutal beatdown forces doctor to stop bloody title fight - Bloody Elbow",
+   "summary": "UFC urged to sign 9-0 champion after his brutal beatdown forces doctor to stop bloody title fight Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRmlWa1ZVbkRUTlphYW8welFfTW5wMHQ2d0pPV2tEV3h0dEZaY21tMDFJYkNfa0FzNmdhV2Y0SDVXNXNSQndaQUtRMjBWXzBCMGxsZWNPZ2kxV0VfOHNBVl9NeVZ3eHVOUEZFdjFwU2lfamZUcFNUZ2FPLW9UWXBMdGw2aS1NWVJOeURheXpwMGpRbEdSRlg2cVBHTGtDQ1pLN3g0a2R1b0RtNlUtTjFsYTFiVG03SFRTcW1TZTlHZnBWb0pYTVltcGtPWG9Pdw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793559600
+  },
+  {
+   "id": "679e6aeac969dc31",
+   "title": "Mike Bohn's UFC Fight Night 292 Matchmaker: Tom Nolan - The Lufkin Daily News",
+   "summary": "Mike Bohn's UFC Fight Night 292 Matchmaker: Tom Nolan The Lufkin Daily News",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcElHVjUtbWlUbW0tdmMxVUZwNkw1RmRxbkJYLUIwMVIwWkhGRU1mUFNzd2JIN1diZ2RDOHAtOGI1Ml81X24xZFJNWDZsRDJ3RWhGRng1QWdweTFXX2RpdXVTZ1ljeHFsTTBKVEVhX3ZEd3J5eUlVWWVocURCcF92RjhvbWd2Rm9henIzQVlUOE9yajVkWm1wakNhWmIwQ2FGbEhpaXN1SjdsTnVSaThfSXMxYm1MaTA3WmcyX054MlRLSERKa2p6RzZqSF81SzFtNlFLa1I5MEVMN0hfLVNFVzRrcw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793559023
+  },
+  {
+   "id": "c8649fa358768c43",
+   "title": "Sean Shelby's Shoes: What's next for Tom Nolan after UFC Vegas 123 win? - MMA Junkie",
+   "summary": "Sean Shelby's Shoes: What's next for Tom Nolan after UFC Vegas 123 win? MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1lISzJQTDJReXZrVHBXemRlY01lRmtvclV1S0p0LS12ZGJfeG13Zm1iMF96TFRlY2E1Mm5kQ2JhMEJjVXZPSmZsaW1vNW1nNE9wV0hxWlAteEZGelZ5ZkFaVWVVU2JISTdCV1J3SHhncDVKVjU4dFNsZUtsYUhJdElhV3RrUlZRSVhQUWNWVjlaemJ3aXNiS2NpcEdLZVlFdkJuNXh5ZEFHWGstMVdDamNTRzdnU21uTEd2N0ptRWRfUXM?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793559000
+  },
+  {
+   "id": "2517b14982351e6a",
+   "title": "Herb Dean Steps Up at UFC Vegas 123, Docks Zachary Reese a Point for Eye Poke - MMA Sucka",
+   "summary": "Herb Dean Steps Up at UFC Vegas 123, Docks Zachary Reese a Point for Eye Poke MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzFDam1DcElaMm5QWTJkUldJNGNLNXZyaWZSLUJBSHRqaURpTnhZQlhtYWY0bmZjbWswRjBIMHo0ZE9RcXIyRnY1QlVZbGtlUjc0WE9FZ1hZYmV1ZDJFYzZaaXVIcFV5MHUwenJ5STdERTc2QzAxMWR4QmFWeVhlTWVrNEVXSXBzSFNmUU9YV0tNdUxPRGRzWkdBUGE5dHpiUzA2VXdn?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793558761
+  },
+  {
+   "id": "756c7c2cc5c8a4e1",
+   "title": "Sean O'Malley Wants Another Chance at UFC Gold at 135 - MMA Sucka",
+   "summary": "Sean O'Malley Wants Another Chance at UFC Gold at 135 MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHcyaVhyOVA3STU0d2owbmtVRU5aMkNEV1RTWTg5ZnJXdlR0X1FIZ3hEQ3lTUk1WLUJlMk9qNXR1UF9WMS1PR2duU3lQcjFZTV95YkJJZnJhTmJ4QzBWR3ZxN0ZnRHF0ODZPLTNlY2dMc2I4SUY3bmluZk5yX3c3b2xwdl9RcW1VVDlFRlNhR2JwdTNWVXo5SWQ3ZWIzRWxQLVB0U0drTDkwWmc1dTBneHNsN05hU0F3cGc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793558424
+  },
+  {
+   "id": "39ee16183b64bbe2",
+   "title": "Conor McGregor touts star power, promises to sell ‘final fight’ when he returns from injury",
+   "summary": "Conor McGregor has been the biggest draw in the UFC for many years, but the former two-division champion still seems unsatisfied with the credit he receives for being a global superstar. As he continues to recover from ACL surgery in his knee, McGregor took to Twitter to tout hi…",
+   "link": "https://www.mmafighting.com/ufc/519031/conor-mcgregor-touts-star-power-promises-to-sell-final-fight-when-he-returns-from-injury",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1793556576
+  },
+  {
+   "id": "39b4ee6df2f6445f",
+   "title": "Conor McGregor declares his ‘final fight’ will blow Canelo Alvarez away at box office",
+   "summary": "Conor McGregor says his next fight will be his last and promises the event will be bigger than anything Canelo Alvarez has ever done. The Irish sports star is currently rehabbing an injured knee that he blew out a minute into his highly anticipated return to the UFC back in July…",
+   "link": "https://www.mmamania.com/ufc-news/483513/conor-mcgregor-declares-his-final-fight-will-blow-canelo-alvarez-away-at-box-office",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1793556154
+  },
+  {
+   "id": "ace42049b18f040b",
+   "title": "Marwan Rahiki vs. JooSang Yoo featherweight scrap heads to UFC Sydney - MMA Junkie",
+   "summary": "Marwan Rahiki vs. JooSang Yoo featherweight scrap heads to UFC Sydney MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUnB1Wm9tcFR2M21wTnFMOFBvV1N6V1FmWkhqWUJqbVBOUUhUQXE1UG00d0hNVVlqX2RDa1BSRkpCMHBtZ1dxeFF6UjVSdkRvUjZkdmVOc2w2UDZ5aUFwNGtmSjVTRlBPVnBJem9sNU9tTnJaUXlnZDFyeXlxRWh3S2xGc2lwOGd3cUxISGR1M0VwVFpvVnNSbThOVjhPWTVnR2tjWnJIZng0UWlRSkhUOHZsdl9MZXhHSUpHZnNnczkwcHZNWXluQjJWeFVQeWNhSFBlMFVpMmZDVENhWmRDaVVsSENCRFRl?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793556000
+  },
+  {
+   "id": "c1f675ae0140f276",
+   "title": "Colby Covington to face top-10 UFC bantamweight after Dillon Danis pulls out two days before match - Bloody Elbow",
+   "summary": "Colby Covington to face top-10 UFC bantamweight after Dillon Danis pulls out two days before match Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWJMZmlJekxkbHZYemlfTV93WnVzdnVHSk9wOEtkRk5NYmdkY1VBd3VQUWo2UWw1WkNBRjV1RW1scEZLUGJhaTl6X25WLUJTTDJOQThMUHJ1NHp1VDhEVVVmS0lEXzRKRnNXcWtfWEl0SlMwSWw1ek0xYVVzTWIyOHVQbUJXOHR0SlRGS2ZzZTctWXRCdU96NTNDOEQtemp2c01OTFFPNjZEMEw4UUVNM3R4TkczODk1Zjk2WkFDNzZJWWhMOV9sekpadHlwVWs?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793556000
+  },
+  {
+   "id": "7a2302c54b8eee2e",
+   "title": "UFC Referee Steps Away From 32-Year Undercover Cop Job - MMA Sucka",
+   "summary": "UFC Referee Steps Away From 32-Year Undercover Cop Job MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzJ3V2d2RmxXM2JDSUJJYjVQa1lsazRGdFUzNjJZV2pxSTZfQ2JhM2hCOUx3dzkzZHlOc0VTTlZYckhMYi1wOTFuQ1ZsNjB2MjFBVzJKTW1pc1R3R2FOXzRBZVVIRTc3TjB2Sk9lWjlpYVBDRmJnTGtKdmJrMjcxbzZVNXpXQjYz?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793555737
+  },
+  {
+   "id": "c7a08c1dddfe6eba",
+   "title": "Josh Hokit Trains With Pepper Spray Ahead of UFC 334 - MMA Sucka",
+   "summary": "Josh Hokit Trains With Pepper Spray Ahead of UFC 334 MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUZ6bDExTGlRRExFYTgtVjJxNkgtT2VWeTJKWlRTNzZCX3ZNS20ySC1QaWtrRW9BSXRudzNNSm1KaDRvZ0lRaERlWkVIVk01aUQyUXhWSllTSmhGVUtRdUowbG1wZ3lMOHJROGdpV20tNGJTOUl1b29XZkJqMWhlVTktUnE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793555432
+  },
+  {
+   "id": "a6a928ed49aa45d4",
+   "title": "Paul Heyman: Brock Lesnar Would Have Gone Undefeated In UFC If Not For Diverticulitis",
+   "summary": "WWE Hall of Famer Paul Heyman says had Brock Lesnar not suffered from diverticulitis during his UFC run he'd still be an apex fighter there.",
+   "link": "https://sports.yahoo.com/articles/paul-heyman-brock-lesnar-gone-172625219.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1793553985
+  },
+  {
+   "id": "1e5b291e48c71f7c",
+   "title": "Renato Moicano spares Dan Miragliotta despite fan outrage over UFC Vegas 123 call: “Life goes on”",
+   "summary": "High Road",
+   "link": "https://www.bjpenn.com/mma-news/ufc/renato-moicano-spares-dan-miragliotta-despite-fan-outrage-over-ufc-vegas-123-call-life-goes-on/?utm_source=rss&utm_medium=rss&utm_campaign=renato-moicano-spares-dan-miragliotta-despite-fan-outrage-over-ufc-vegas-123-call-life-goes-on",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1793553490
+  },
+  {
+   "id": "2e052f68fa8e5c5e",
+   "title": "Full Fight | Waldo Cortes Acosta vs Shamil Gaziev - UFC.com",
+   "summary": "Full Fight | Waldo Cortes Acosta vs Shamil Gaziev UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PVC1nMm4tSXBoZ1JNNDFndVd4b2MybjUxbEFLMjBXdmh3d2lydDI3RG5CVUsyemlPbklPT0E0OERtczl5ZGRj?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793553391
+  },
+  {
+   "id": "2945bbd3faec0775",
+   "title": "Jacobe Smith lays out three-fight plan to secure title shot after UFC Vegas 123 win - MMA Junkie",
+   "summary": "Jacobe Smith lays out three-fight plan to secure title shot after UFC Vegas 123 win MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0FkTm5xVWJEMkJNeWNrVFNZRTRXRFJIOEkxeFBxdDk0OUFtV25PU3lMdElDUkM0bThBdlk1TS1tUElHNnp5Ulp1ckRzWDk0OTF1SlVRVVY2QjM0VjR3cFEtVUV3RWtBX012QS1nNVZMVUJBUU5aU29PNjdzczRXaWNzMER5QWVHamlDa01iZ29hZHJBWTh0M2U3WG1wemFwMkFvRWplOVlkTVNLcEExdXZfR0JmSlZJclRHX1dXZWVDdw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793553000
+  },
+  {
+   "id": "f8407eb785c463d1",
+   "title": "Cain Velasquez knew Islam Makhachev was special from early spars: ‘Where the f*ck did that come from?’",
+   "summary": "Cain Velasquez has been a UFC champion twice-over, and he recognized the same greatness when he first started training with Islam Makhachev. Makhachev has carved out his own indelible career, breaking the UFC record for most title defenses at 155 pounds and currently reigning as…",
+   "link": "https://www.mmafighting.com/ufc/518487/cain-velasquez-knew-islam-makhachev-was-special-from-early-spars-where-the-fck-did-that-come-from",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1793552400
+  },
+  {
+   "id": "6eceb07528f41357",
+   "title": "Dana White celebrates Halloween by sharing gruesome pictures of cut fighter after UFC Vegas 123 - Bloody Elbow",
+   "summary": "Dana White celebrates Halloween by sharing gruesome pictures of cut fighter after UFC Vegas 123 Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNam1Za2Uta2NhYmJsR2pCcU1SNVpfelV1RmotOEEtcmdnR2U5VUVTM3QzY253SW9DZ3BwWFEzQ3F2VnNEVjMyczdyWTFKNURaNkNqYm9CcVQxbVJUaUZHTktEM1VkZFdZVVN0NDRvRUZTNnJEb1BNMjFnMEdEdktnUWVFd2Rhc2pDbXNFTXVteWxSUTBqTFdXeE9PQ2E2cVlCektMZzFBTGwxR0x4WHhpVHd5T01yNEIyMmxoWmNERDRnNTRLZklxc1ZIZw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793552340
+  },
+  {
+   "id": "5468835f93ffc8a0",
+   "title": "Renato Moicano refuses to ‘start a war’ over bogus stand-up during UFC Halloween loss",
+   "summary": "Renato Moicano has released another statement following his controversial loss to Tom Nolan at last night’s UFC Halloween event at the Meta Apex. Moicano was doing a good job of getting Nolan down to the canvas and taking his back, getting a body triangle in the second round. Bu…",
+   "link": "https://www.mmamania.com/ufc-news/483505/renato-moicano-refuses-to-start-a-war-over-bogus-stand-up-during-ufc-halloween-loss",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1793552100
+  },
+  {
+   "id": "f5ffd2ea05e9d76e",
+   "title": "Dan Miragliotta casts a shadow on Tom Nolan’s UFC Vegas 123 win amid ref blunder, says Daniel Cormier",
+   "summary": "Dark Shadow",
+   "link": "https://www.bjpenn.com/mma-news/ufc/dan-miragliotta-casts-a-shadow-on-tom-nolans-ufc-vegas-123-win-amid-ref-blunder-says-daniel-cormier/?utm_source=rss&utm_medium=rss&utm_campaign=dan-miragliotta-casts-a-shadow-on-tom-nolans-ufc-vegas-123-win-amid-ref-blunder-says-daniel-cormier",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1793551476
+  },
+  {
+   "id": "0a29588a57e75d98",
+   "title": "Ciryl Gane vs Alex Pereira | FULL FIGHT | Polymarket UFC 334",
+   "summary": "submitted by /u/bullsfan281 [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xl7hp3/ciryl_gane_vs_alex_pereira_full_fight_polymarket/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1793550757
+  },
+  {
+   "id": "792a8ac82a3aab30",
+   "title": "Dana White explains that if you don't like the ground game you should promote kickboxing",
+   "summary": "submitted by /u/OpenNoteGrappling [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xl7cu7/dana_white_explains_that_if_you_dont_like_the/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1793550429
+  },
+  {
+   "id": "0967742e34adec89",
+   "title": "Jack Della Maddalena Interested in Fighting Mike Malott",
+   "summary": "Former UFC welterweight champion Jack Della Maddalena said that he is interested in fighting Mike Malott in his next fight.Della Maddalena is coming off back-to-back losses against Islam Makhachev and Carlos Prates, but those are the top two welterweights in the world, so there…",
+   "link": "https://sports.yahoo.com/articles/jack-della-maddalena-interested-fighting-162210820.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1793550130
+  },
+  {
+   "id": "b28210d098f11cb3",
+   "title": "Video: Every UFC Fight Night 292 finish, including some Halloween horror shows - MMA Junkie",
+   "summary": "Video: Every UFC Fight Night 292 finish, including some Halloween horror shows MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYmNGTTc1WlNXYVc1LUswZlExRE9VbGcydFB2UWFoWGtVR0VJRVVnamhUQXRXWmhGMFowTTdhRWJBQ05aU0JQZE5zTWczTldXSVdYNV9lMi1haHRlRVNWWmdSNURtdl9sejVnMF9mYV9JVExmYWlJY1UyMEVabEpPSFVoSkZWZXZfUWc2dHUxSjQ4LVhDU0FMTG5wRi1KQ3JMdU1uVm1LNEdXN2RGSWg5MlFFQVJKa3poMTlxbWlzcDNINlVIci1Xd1l4YnZfNWJaUS1IRUE4RS1XZHFGeUt3Nk9VVDBKYTZub3hXREFKbDQ4RDU3VEpfMQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793550000
+  },
+  {
+   "id": "f1bb61d7acf68401",
+   "title": "UFC Fight Night broadcast airs Trump ad promising Americans $5,000 for GOP midterm win - Awful Announcing",
+   "summary": "UFC Fight Night broadcast airs Trump ad promising Americans $5,000 for GOP midterm win Awful Announcing",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUjRfX3FJWG9oeGowWVFzZFc5Um1lS21fS2VSUmVWcW5KQ2p5Z1hHSnN3UXdvdmU0Z0xTWjdyUmR4cG1Pbk1GQmJmdTFNUXBUTkM1QXpkTzhxT1lrVS11U1NJeERiRWJUY2RZLWVsNWVFSlpuMWRWWU9WUWQtZDJyYXF4TWoyU3VKeXRGMW52VWg1RWc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793549227
+  },
+  {
+   "id": "6499a93b0121bcfd",
+   "title": "Renato Moicano releases first statement after UFC Vegas 123 loss",
+   "summary": "Renato Moicano was stopped by Tom Nolan in the main event of UFC Vegas 123, which went down Saturday night at the Meta APEX in Las Vegas, but that happened after a highly controversial call by referee Dan Miragliotta. Moicano had Nolan’s back in round two but Miragliotta called…",
+   "link": "https://www.mmafighting.com/ufc/518980/renato-moicano-releases-first-statement-after-ufc-vegas-123-loss",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1793548800
+  },
+  {
+   "id": "769e6b02275fafc3",
+   "title": "Renato Moicano hospitalized alongside one other UFC Vegas 123 fighter after their losses - Bloody Elbow",
+   "summary": "Renato Moicano hospitalized alongside one other UFC Vegas 123 fighter after their losses Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZ3elN6R0dlN2VrYXF6dnppQzdYb3NjOWtoNmU1aFdhdXJhYzhGUzBJRlVQTDBNcnlEUlBjdHozbUxXc3l0ejlMMVd5YnFWTm5rTjlJOUM1bUsxc3Y2Rk55b1lSeG12cE1WMkMzSklnNDBCODVxSmk3UXZXOERNQjZISDUyaXlYZC0zazJVSXFxRlNmMGg3VzR5V25lQUFlQ2lsUmIxeU5jVjh5emI5eEFFcThiTC0xTWgwVk1lWU9GUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793548800
+  },
+  {
+   "id": "b7601a4141819f6b",
+   "title": "Jack Della Maddalena into Mike Malott fight, but on his own timeline",
+   "summary": "Jack Della Maddalena is taking a break from fighting to level up as a mixed martial artist. That’s the message the former UFC welterweight champion shared with Bedtime MMA during a new interview just days ago. Della Maddalena’s name has been coming up a lot lately. There’s a lot…",
+   "link": "https://www.mmamania.com/ufc-news/483497/jack-della-maddalena-into-mike-malott-fight-but-on-his-own-timeline",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1793548173
+  },
+  {
+   "id": "79e510b28d395a55",
+   "title": "UFC analysts scold Dan Miragliotta's 'referee error' in UFC Vegas 123 main event - MMA Junkie",
+   "summary": "UFC analysts scold Dan Miragliotta's 'referee error' in UFC Vegas 123 main event MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMjIxcW5qaVdOdlNvdk45dm1hanJIMTJiX2RLdGVySndLMUVTRGhackI3aVo3OWdrWS10TmZRX1VKUFJxbVczTDRCUnhtWVhSblpjNUF5NnJEWWhBMm9VYU50MUhHQVJicndYWERYeWZQWlk4X1VLWllLMnpqYkMwdnB3MXlyYi1PdXJMZkU0V2tVREtKS3ZiVGNNRjUyY0JQZ2p0YzE0QjFyc2lHeWwzSmhyMjZFQjV3SlZDXzVsRlo4NWVxSFVaZ2VkUVlTX2JhU2E3Yw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793547180
+  },
   {
    "id": "fa99a45ff8e5a05c",
    "title": "MMA community celebrates Halloween with ‘Kill Bill’ homage, Darth GSP, Bisping meets Batman, and more",
    "summary": "With the UFC holding an event on Halloween night this year, it only made sense for the rest of the MMA world to get in on the act. While Tom Nolan was putting a beatdown on Renato Moicano in the UFC Vegas 123 main event (with a truly chilling assist from referee Dan Miragliotta)…",
    "link": "https://www.mmafighting.com/ufc/518833/mma-community-celebrates-halloween-with-kill-bill-homage-darth-gsp-bisping-meets-batman-and-more",
    "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1793545200
+  },
+  {
+   "id": "1f321ed0df125b14",
+   "title": "‘It’s not my fault’… Tom Nolan reacts to benefiting from controversial stand-up at UFC Vegas 123 - Bloody Elbow",
+   "summary": "‘It’s not my fault’… Tom Nolan reacts to benefiting from controversial stand-up at UFC Vegas 123 Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjNMdldtOVZFUWxoZHJYVjBDY2lDOHUxc0V5M0RGRUhrOWZBcVhuQnB4YkU0azMwS3gwTEZiZUJBT0Ixd0lBcDZTazBPa2Utekc5NlM1eV9vMVllT2paaXpCY3lOc0ZsUkFZOHJTMHJGTXpnVlpOSzgwZV9tekQyY3dJc3k1WHlHTUNMN0hDa2E1dmI3RTZEYjVVMFFWS0Qtay1EVHNrOW1hY1BkMGY3Nk0yWWloZlRESVRReldlU01zemE1SF9n?oc=5",
+   "source": "Google News",
    "kind": "news",
    "ts": 1793545200
   },
@@ -52,6 +385,15 @@
    "summary": "UFC Veteran Retires With a 91-Second Knockout — Then Walks Away With $100K Athlon Sports",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1pQNVVHVF9qR2NwNmN0RWpERWp1TEFnMTk3Y2NMZk9Dam91dU1yaU96TmhiaHh4N1lQOTJTOTFpTTlvejRoOGxTc1JRXzFuZUhER2wwZ3pTTkJHOVBkajhrS2ZMWlVLWlZWRFphU2NoN1p6TmdjN2NHSHJpRURHSA?oc=5",
    "source": "Google News",
+   "kind": "news",
+   "ts": 1793542995
+  },
+  {
+   "id": "973cb790861e44bf",
+   "title": "Julian Erosa Retires After 91-Second Knockout and $100K UFC Bonus",
+   "summary": "Julian Erosa ends his UFC career with a 91-second knockout of Jeong Yeong Lee, a $100,000 bonus and an emotional decision to prioritize his family.",
+   "link": "https://sports.yahoo.com/articles/julian-erosa-retires-91-second-142315849.html",
+   "source": "Yahoo Sports",
    "kind": "news",
    "ts": 1793542995
   },
@@ -144,6 +486,24 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1793537275
+  },
+  {
+   "id": "a788271cea053116",
+   "title": "̳̳~~!@!##$$[Here’s*freE TV]*$*UFC Fight Night Alcaraz vs de Minaur LIVE - Pierce Manufacturing",
+   "summary": "̳̳~~!@!##$$[Here’s*freE TV]*$*UFC Fight Night Alcaraz vs de Minaur LIVE Pierce Manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxONmE4UVJ6UXFpNlFiZDhRb2NpaW5JRHdhZTRQdldtd1RQQlFXNjNBanNUWUh6VVlrTWlQU3VaVmFpdy16S2U2OV84QzktNl9YQVBkS21hanBpckJmbi05WlRUSmNoalhQOXQwd2cwd3NES19XT1UteWhOY3hxa0oxOUVVNkRuMmEtODFlRkQ3M2tJOG5YV0NNQUNjU19vZnBqSldnSVU0M0t4YzE4emtpS3lUWWxSRTROdDRxQThKbjlsUzYyVWhKbDJmWHdLcHI1VnBKSzJZNmFaNWtod2Rxd21ta1ZVT3lscGlwaWtBUExMSEZZQ1dRR0ZsS2d2TXg1U2dnSTc5Nlh0UnIySnoyVVhHSFdGOUFXY2ZUdEVCeXhZcFVtaHd5WFpNVUhicGJGTm9USzhWMl8tT25oWVVib1FLUTlwZ2p4MlI2Y1E2dXFadTlFdG1XSlN4Tk05YnNjTTVtNjlIdFRpUVNHRTljYlVuUE9pRXJRR09Bd0pBSEFieHJO?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793537080
+  },
+  {
+   "id": "c79be1a7b9e4cee1",
+   "title": "Where to watch the UFC Fight Night Alcaraz vs de Minaur match on TV and via streaming - Pierce Manufacturing",
+   "summary": "Where to watch the UFC Fight Night Alcaraz vs de Minaur match on TV and via streaming Pierce Manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOWXNjcUI3VkZpVmE4WWo2RlVZZjJucFptdEcwU3hqOTB4WnNjSjlZOG1zdUtZcVh0R0JyRTVGaVl5Ny1iV05MV1Zndk9haEJnN3dHaWZHNU1kNE9YZTlnelBSYU5yWS1WUXk3SWRyN0NzU0thM2hBQ2VZLWdJd2l5YVJVZTFKTlYyZ2p5Y1J0eGlNV25PSlR5ZlJTazJUbXNJaDlob0c2R29wVk4yU3pCZm96cmlNWVZFRGU2ek40aGVWckxnOXZnd0NkLU9ZZ2NtUGlmMGlWM2hEQW9SOTFSbUc2MXgwbzhtNTVhVHdMbVhRbHc5SW1sY21Ia3JiUUhhYzBFaFpmYVBfVDhHS2xmeXdnWDZZRlpKRkxrVENMYTJqU1docDBacVdtaFpVdUl2XzYzNjR6TzRIOWNQT0dscHlsRFFOVmF3M1RvaUo4Zlh6X21yVGliV1hmLTF1UFViSzR4ZXZwRTdOcXRsZ0o5TDVDektlYTJXRV9HUk9oY2VRb2Jy?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1793537078
   },
   {
    "id": "df7ac57797a8cca5",
@@ -702,6 +1062,15 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1793498040
+  },
+  {
+   "id": "88a868580b6f9d73",
+   "title": "UFC Vegas 123: 4 Bonos De La Noche",
+   "summary": "",
+   "link": "https://www.ufcespanol.com/news/ufc-vegas-123-4-bonos-de-la-noche",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793497693
   },
   {
    "id": "fd0718a30708bf9f",
@@ -2729,6 +3098,24 @@
    "ts": 1793447692
   },
   {
+   "id": "0a96f0bb2412196f",
+   "title": "UFC Vegas 123: Jacobe Smith Brilla En Coestelar",
+   "summary": "",
+   "link": "https://www.ufcespanol.com/news/ufc-vegas-123-jacobe-smith-brilla-en-coestelar",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793446154
+  },
+  {
+   "id": "9a58b55e1a7339f1",
+   "title": "Jean-Paul Lebosnoyani: Striking, Show Y Festejo",
+   "summary": "",
+   "link": "https://www.ufcespanol.com/news/jean-paul-lebosnoyani-striking-show-y-festejo",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793445932
+  },
+  {
    "id": "1067ee0ebaf10b38",
    "title": "UFC Vegas 123 Predictions, Picks, Projections, Best Bets for Saturday, October 31",
    "summary": "Read our UFC Vegas 123 predictions for this live event on Saturday from the UFC Apex in Las Vegas. The prelims kick off at 5:00 p.m. ET on",
@@ -2736,6 +3123,33 @@
    "source": "Yahoo Sports",
    "kind": "news",
    "ts": 1793445899
+  },
+  {
+   "id": "0a0e96743cacc1ea",
+   "title": "Julian Erosa: Recuperación Milagrosa Y KO",
+   "summary": "",
+   "link": "https://www.ufcespanol.com/news/julian-erosa-recuperacion-milagrosa-y-ko",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793445465
+  },
+  {
+   "id": "54c0694c88d20d74",
+   "title": "Piera Rodríguez: Clínica De Golpeo Y 4to Triunfo Al Hilo",
+   "summary": "",
+   "link": "https://www.ufcespanol.com/news/piera-rodriguez-clinica-de-golpeo-y-4to-triunfo-al-hilo",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793445030
+  },
+  {
+   "id": "f7986348c6f4626d",
+   "title": "Nolan Da El Golpe: TKO A Moicano En Estelar",
+   "summary": "",
+   "link": "https://www.ufcespanol.com/news/nolan-da-el-golpe-tko-moicano-en-estelar",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1793444703
   },
   {
    "id": "8eb449ec589a7d6a",
@@ -3186,420 +3600,6 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1793397988
-  },
-  {
-   "id": "9536f6cd5e5c8287",
-   "title": "Volkanovski Eyes Gaethje for a Final UFC Superfight - SportsGrid",
-   "summary": "Volkanovski Eyes Gaethje for a Final UFC Superfight SportsGrid",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbkdJY29ZYXB0VFQ1TUd0YWlCZ1lNUHhvQ2psdlFVaVFHV1lsWGNYY3M2NlJsdlZBd0E0Z3d6aVNHRXcyV0puTlV1LXhQUEF0djducm51WVdyb05WelZncTBCTTBGOFFJSFNVRThxUnhaRnBySjdNNGxURTN6T0FEWllOWWxmNVJlOXYzcHlTand0V1FzdzhVdmI0dnU0NU02VE9tWXN3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793397513
-  },
-  {
-   "id": "b1f110c5697631b3",
-   "title": "Lucia Szabova Calls Nina Milosevic Her “Inspiration” Ahead of UFC Debut - MMA Sucka",
-   "summary": "Lucia Szabova Calls Nina Milosevic Her “Inspiration” Ahead of UFC Debut MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTTcyX0VoenZkRTdNZDZoZDRtVkFIbFZIYVFxaUEwR0NfM0RkUHlaNUNHeGZWZ3NvMHZ1UmdOdXJTQWZQNFo4Q0JMNm9qSTh1cGNzUzdKbWtkNnJ2N1Q5aWxvSFd4bml3TmpmaFNxYmhJd2tIUVhKRmI1ZUFQQUZ2Zms2dTVoYzI2VFF2UmRzUl9SYzhfSXRJVEU5LTU?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793397270
-  },
-  {
-   "id": "4c48afe1399606ac",
-   "title": "Islam Makhachev says his next fight will be 'one of the last' in his UFC career - CBS Sports",
-   "summary": "Islam Makhachev says his next fight will be 'one of the last' in his UFC career CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OYkJzeW51aW4zdmRJZFNDNzQzX0VnQU9JcWNmZUluRDNVbU1ORk9aSnIxTkNKWG8wTWFaZHRmc1RPN1VmV2xyaEZ2Ui1mQ0dPYWdxTVlXMFNhSXN6dGJJc3lYLXdiMFV2cFVZWDQ4aGZ0cS1vY2pTODRNWkJEQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793397161
-  },
-  {
-   "id": "eb6870c9245570a3",
-   "title": "UFC champion Makhachev confirms retirement plans",
-   "summary": "UFC welterweight champion Islam Makhachev says his next fight will be \"one of the last\" of his illustrious career.",
-   "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cq70p7lx04eeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "kind": "news",
-   "ts": 1793396732
-  },
-  {
-   "id": "bc64a61692580bd6",
-   "title": "UFC: Islam Makhachev confirms retirement plans before Prates-Morales fight - BBC",
-   "summary": "UFC: Islam Makhachev confirms retirement plans before Prates-Morales fight BBC",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reWQ3TXVqdG5ZWkJPNF9RWDBNWm1rTzMxOTdYckZsYW4wTWhkYndLdG9iY0JPOTNBcEN0WThHOEl2QmdFaTBPUnpsTXFPN2pEVU9EZi15ZTI2RjJQZWJlNkM5QnpKSVJfLWN4MmgzTWdlYV9ZTnc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793396732
-  },
-  {
-   "id": "2b35a81339caed12",
-   "title": "Jonny Parsons On \"Bad Habits\" Behind 3-Year UFC Hiatus - MMA Sucka",
-   "summary": "Jonny Parsons On \"Bad Habits\" Behind 3-Year UFC Hiatus MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSUtrZUI5M1JiaEdmTUtkTWdIODkxVmJZZVdEN0JlNmVaTkR1ZVI3bkIweVhpUEhZazBMaExBdlFVbXY3UTM5b2VwVzYzUjNvRGduOGhha3psQlVWMWN4M2hBMC1rUk1Ma2REcUhUVnZGQW9UYmJMSlhtYUJ4aVU3M1BlWWo5MlIzZVByX3R6Z2hUNkFYSjR3clhNVmFTVVk?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793396673
-  },
-  {
-   "id": "6f55fbf11ddb40d7",
-   "title": "Sean Brady pulls out of UFC Fight Night bout vs. Gabriel Bonfim with injury - Sportsnet.ca",
-   "summary": "Sean Brady pulls out of UFC Fight Night bout vs. Gabriel Bonfim with injury Sportsnet.ca",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFJFV1Z0NS1vSUZKTXZ6SDdVSHU2ZF9DaU0yX1F0NUk3VUtoeFI3LTJIdDBjZndPa0w2cUJKZllRQi1HQThpSnVoRnBGRTFKRzd5aTdaUGhla2NNWDYwSUdNd2pDZlgyYUFiVlA4ZWt2RWp4ZUJva3FrV3B4QXFRUjdlWGlWaWstWkpySlB6aWFTQ3Bia1owNGZvTEFyWjVidVVGRG93V2gwTVdtMUVjWC1n?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793396100
-  },
-  {
-   "id": "a6798e6445514788",
-   "title": "Islam Makhachev reveals UFC timeline, addresses Carlos Prates vs. Michael Morales",
-   "summary": "Islam Makhachev won't be around for much longer",
-   "link": "https://sports.yahoo.com/articles/islam-makhachev-reveals-ufc-timeline-213148763.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793395908
-  },
-  {
-   "id": "5bfed19737692842",
-   "title": "UFC's Islam Makhachev: Next fight will be 'one of the last' of career - ESPN",
-   "summary": "UFC's Islam Makhachev: Next fight will be 'one of the last' of career ESPN",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVS05VU53UUZ2bkZtWExHbC1iU0lRQ1ozN3U4T21FZjAzUGVITFRWNkpEb0JjM1JHcVNCX09IWmRzWVllaW9TVlFQRnVUWHd4QlIycFAtUGlOaVZ1UC1mZV9acVJJZXFaNFFxYTJmaTZZdWtoeUpnT2VIeng5T1NDTkdqbXdZX2JqREh3QUV1M1RjLVhpRDN0RQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793395380
-  },
-  {
-   "id": "2d14d8344cb104d1",
-   "title": "Here’s MMAmania.com’s UFC Vegas 123 betting odds ‘Weekend Lock’ … what’s yours?",
-   "summary": "UFC Vegas 123 is less than 24 hours away … It all goes down this weekend on Halloween (Sat., Oct. 31, 2026), inside the META APEX in Las Vegas, Nevada. In the main event, No. 8-ranked Ultimate Fighting Championship (UFC) Lightweight Renato Moicano returns to action against Austr…",
-   "link": "https://www.mmamania.com/ufc-odds/482513/heres-mmamania-coms-ufc-vegas-123-betting-odds-weekend-lock-whats-yours",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793395200
-  },
-  {
-   "id": "ec0d245745ed7ffc",
-   "title": "Santos vs. Santos decision prop is UFC Vegas 123 Lock/Best Bet - MMA Mania",
-   "summary": "Santos vs. Santos decision prop is UFC Vegas 123 Lock/Best Bet MMA Mania",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlBTYUZZbWVydWlhbjRHRkdWbDAwRVNqeklhRlJoLUdUMGZDYjExM3VoaTh2WUptYTdQWGFQdFRNNGNORkdRM3FrRTlvcGV4YjJwTkxJMmkxTElKZEJSckVMMHlxWTNOSm1Rc2NYanl3ci1NcDZpTTVGMGIyLURsMVNFUmR4bTljMnZSZzNUb2poX3BPTjJCb09SQ0M5clpicUJBeDJtTXNBSHZVSFJEMmpR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793395200
-  },
-  {
-   "id": "1e70034e78d7cb61",
-   "title": "RAF superstar Colby Covington reveals which UFC icons could make him return to MMA - MMA Sucka",
-   "summary": "RAF superstar Colby Covington reveals which UFC icons could make him return to MMA MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUQ2Y29QME9hb2hXVHFpd1ZiNDlWSXhWa29pbU1XOG9ycXZ5aHZxSUlxelNXanNPVHJTbU5GZjB1UlVHeWJVSnRYNnpsMmM3aFVjTURDTU9BUXJoamlLaTBmbWxrUERYc1pENGMzMmNkVnYybDlEWTAzeGM4M0p0UjVnOGtRenczWkxzUlpTNGpXWlhpMHNsS2F2VU8zN0VaenFVVkM1NDhhd0hkTmc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793395173
-  },
-  {
-   "id": "114dfccb5e27ae9e",
-   "title": "Updates To UFC Fight Night: Bonfim vs Brady",
-   "summary": "Key Information For The Las Vegas Event Happening November 7 At Meta APEX Read the Full Article Here",
-   "link": "https://www.ufc.com/news/ufc-fight-night-bonfim-vs-brady-updates",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1793394264
-  },
-  {
-   "id": "6b3531de67ff29b6",
-   "title": "Two-Division UFC Champion Islam Makhachev Teases End of Career With Retirement Hint - MMA Sucka",
-   "summary": "Two-Division UFC Champion Islam Makhachev Teases End of Career With Retirement Hint MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZF9IaE1GT3RPT09YY3ZIRll0TEd2N0xmOGdNTnRKNjluejFtaHNJR1N0em4zSi1aLUwxeTNDN2FxVlRFWW5JVXdBczRKRzRzb2VPSGt0YUREVy1ZZ0ZLSDEwbVpiXzA1OFFNVk9qMDkweUZwTnpMNmpOZkRmRkRST2tPYXNKcHEzY3hhaUh6YnlwaFJpa21IMWpxVUFRNF9OU2tHOGx0SGxfdk9PRnVucFhtSFB5Zw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793393925
-  },
-  {
-   "id": "dd53bebe6378cb84",
-   "title": "UFC 334: 14 Bouts Including 2 Title Fights Set For MSG - Forbes",
-   "summary": "UFC 334: 14 Bouts Including 2 Title Fights Set For MSG Forbes",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmQ3b1hrMWF3ZWsxV2wwWTR3aWlpLU10eEoyVHZNREpRN2psR1hQNEI1c1A5Vnh6TENXQUxybENKLVpwdkllVlBIWUljRHktRFNnaHhYdTZLMjJ6N09QWEFOeGdVR1E3cy1GY2RBRjdLM0lLTDlFM3ZNVkJXUkdEZFc4aERpeDRKODZTUmdIRW8yTXZoYnQyZlJSaWp4Y0pLYTBLeVZnNGpfUlh5aXc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793393186
-  },
-  {
-   "id": "a50e1abfdb4e3e75",
-   "title": "Gabriel Bonfim confused by Sean Brady’s UFC Vegas 124 main event pullout",
-   "summary": "STATEMENT",
-   "link": "https://www.bjpenn.com/mma-news/gabriel-bonfim/gabriel-bonfim-confused-sean-brady-ufc-vegas-124-pullout/?utm_source=rss&utm_medium=rss&utm_campaign=gabriel-bonfim-confused-sean-brady-ufc-vegas-124-pullout",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1793393113
-  },
-  {
-   "id": "a9a520dbb1e0b031",
-   "title": "Tainara Lisboa knows UFC Vegas 123 fight could determine her future - MMA Sucka",
-   "summary": "Tainara Lisboa knows UFC Vegas 123 fight could determine her future MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUHZNaThJNWxqcmFSUjZsUDM0ZVU2Y3hIbWRZb2lRck5tV21tR3BKb3c4OUxmTDBpUXlYcDZSYVFlS2JXUGlHcm5EY1dRS2ZKRHE1WXFUWUV6a05aaDVLUFJYczBaZkhOUkphZTJGUG5ERE1YVmhGQnRCa0tCQ01Dem03cVRoQ0VzYkE2b3JTZHptSUJ2djREbVpR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793393022
-  },
-  {
-   "id": "69d195d517409fa0",
-   "title": "UFC Legend Rips Potential Justin Gaethje vs. Alexander Volkanovski Mega Fight - Sports Illustrated",
-   "summary": "UFC Legend Rips Potential Justin Gaethje vs. Alexander Volkanovski Mega Fight Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEM0RHh3ZkFkYVVncGxiOW1NUDJnc2NxWmc4REw1cDF0d3U5QXZqcEdoT0c0QUhpTDZja25CZURwMkpCaTZGdXFPLVpiZUJIdWFxSWgwYU5VUDl1bEFySDBjV1ZCVFhOdEhyMDh4RGdUYkZnZWxTdHZLTHgyS0p3ZFlScDREdk9tbUVyNV9ENVlHS0ltOW1aYUkzUV9nRVM4eWpDSEk3ODZIQU16WjA2REhyMWo?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793392898
-  },
-  {
-   "id": "5e5cd2cdcf47fcdc",
-   "title": "Former Brock Lesnar Manager Reveals the Reason His UFC Reign Ended Too Soon - NY Fights",
-   "summary": "Former Brock Lesnar Manager Reveals the Reason His UFC Reign Ended Too Soon NY Fights",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fWHBIWGVDTXhmUDNQdVl6UllEaG5HVzYtWDc5bjlkY2xhN3YyMmpzYWV3ajdUcmhUYUhPNElucHREMDE2eU1rTGdwLVFoaEJNbmtZbUhQVHprbTlzTFNqRFV5bmo5dnEwS0ZoQ1hYOFlGUQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793392532
-  },
-  {
-   "id": "ef9eaf1b0776dd3e",
-   "title": "Brock Lesnar ‘would still be UFC champion’ if not for weak, pouchy colon — ‘No one would get out of the first round’",
-   "summary": "Paul Heyman, Brock Lesnar’s longtime friend and manager, has convinced himself (and probably Brock) that Lesnar would still be UFC champion at age 49 had the WWE superstar not contracted diverticulitis, which is described as inflammation of irregular bulging pouches in the wall…",
-   "link": "https://www.mmamania.com/ufc-news/482759/brock-lesnar-still-be-ufc-champion-diverticulitis-no-one-would-get-out-of-first-round",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793392430
-  },
-  {
-   "id": "e38928f4bb1d2d3f",
-   "title": "Islam Makhachev Reveals Shocking UFC Career News - Heavy.com",
-   "summary": "Islam Makhachev Reveals Shocking UFC Career News Heavy.com",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UQm1xWVAtQ1luT01IVnZJbV85NzJVTU5FTFkxeU4xdE9XN1NJVFJURzltOFotQVdJS2g5dVBSVURNOUJIc3JaeEd1emtiUm8yNUZqMVp4SVFBZnZhalFyX0Ztd1c3a3Yydkk0ZVNFdkI0WFp3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793392326
-  },
-  {
-   "id": "a3c79f678168c74c",
-   "title": "Arman Tsarukyan Eddie Hearn Meeting Sparks UFC Rumors - MMA Sucka",
-   "summary": "Arman Tsarukyan Eddie Hearn Meeting Sparks UFC Rumors MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVjEtR1NpdVRTamg5U1RvNkFhbWRyVkpSYUR2UTRvT3haMHhFZ1YzcE10Q0p4blVsRzc0anVZM0FLVkhBR3NBMlUxRWxBcXMwaGppNlNZbnkxNWFrT0RGMVdtOGMzdjJkVnpyUzB6cDJTTGJ4S0V1ZC1jVXZObS1NUHN3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793392131
-  },
-  {
-   "id": "2160243f566ba35a",
-   "title": "Preview Show | UFC Fight Night: Moicano vs Nolan - UFC.com",
-   "summary": "Preview Show | UFC Fight Night: Moicano vs Nolan UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10UWVlTF9ZSEUtSmF3N0RKTnpvNzM1aVh6bkt2S09PNXlMVE5GTEJOZ0ZpbVpzdml4WGFLU2p2WGhwSTgtUEJr?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793392083
-  },
-  {
-   "id": "5c12b50ed0e5cffb",
-   "title": "Paul Heyman Claims Brock Lesnar Would Still Be UFC Champion at 49",
-   "summary": "Paul Heyman claims Brock Lesnar would still be UFC champion at 49 if not for diverticulitis, but one early career loss challenges his argument.",
-   "link": "https://sports.yahoo.com/articles/paul-heyman-claims-brock-lesnar-202430898.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793391870
-  },
-  {
-   "id": "d41d160704291085",
-   "title": "Paul Heyman Says Brock Lesnar Would Still Be UFC Champion at 49 — If Not for One Illness - Athlon Sports",
-   "summary": "Paul Heyman Says Brock Lesnar Would Still Be UFC Champion at 49 — If Not for One Illness Athlon Sports",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1dEY1OVRXYVBWSU9tTnNYYVNQZDFGYmZITUM3R3N1blNmQWh5allMRzN5T0M1VU9Ncy0tbGstYzhXdnlyYnZHaUZFS3BCZl9SUnBPVWhUeE1Nd3VLd1VOS0VOSFRqY1lUVHdnX0FLMlRaY0E?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793391870
-  },
-  {
-   "id": "e9311258e9bcf21c",
-   "title": "Islam Makhachev wants toughest contender for 'one of the last' fights in career",
-   "summary": "Islam Makhachev hints that his next fight could be one of his last in the UFC.",
-   "link": "https://sports.yahoo.com/articles/islam-makhachev-wants-toughest-contender-202018231.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793391618
-  },
-  {
-   "id": "23a68ce223fe5b64",
-   "title": "UFC Vegas 123 Weigh-Ins: Exciting Halloween Card a Go - MMA Sucka",
-   "summary": "UFC Vegas 123 Weigh-Ins: Exciting Halloween Card a Go MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWQ5bTl6X1pDdjlfbUxIZFU4MnZSVElLTFUyZ09seW05SHVlTGlzQXB0V2FHQVdsY2g2a2NvOFRlTGhxOXR5UUtJVkJYLTlPdXo0bk9CQWNlZXIyaTBHY01QdVhSVVZnRmNCa2cwc3hfb2J0OHZUWmRxN0hrWHRmSXNlYWhvNV9sQl9zdjkxOTFITlNrSFFB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793391478
-  },
-  {
-   "id": "901d75341c8e4fe6",
-   "title": "UFC Fight Night: Moicano vs. Nolan Betting Trends, Odds & Data - Lineups",
-   "summary": "UFC Fight Night: Moicano vs. Nolan Betting Trends, Odds & Data Lineups",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVy14UjhFdi1ZdHZabFhVNVNpUUp5MzladzBPYkM1NnFyREZ0VGF3MmR3M2g5VlBNT1lQWW11MkthRjV1dDJYa0Y4NkhrLVdfbDdRRU1WVTd2SFFKMkkyaVNUYkI3S0hObTBWYXUzRlF4WFNzenE3MUJ5Rk5MWlhnaVhrd0dleXQ5eVQ4RVlxS0NSTWVmc1E?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793391366
-  },
-  {
-   "id": "a5c94393260a82ff",
-   "title": "Islam Makhachev reveals his next UFC fight 'is one of the last in my career'",
-   "summary": "Makhachev, the UFC welterweight champion and MMA’s current pound-for-pound king, announced Friday that his Hall of Fame-worthy career is nearing its end.",
-   "link": "https://sports.yahoo.com/mma/article/islam-makhachev-reveals-his-next-ufc-fight-is-one-of-the-last-in-my-career-200006451.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793390406
-  },
-  {
-   "id": "f034cf6b66472d09",
-   "title": "Sean Brady reveals the injury that forced him out of UFC Vegas 124 main event - MMA Fighting",
-   "summary": "Sean Brady reveals the injury that forced him out of UFC Vegas 124 main event MMA Fighting",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnBhUk5PYzR1NExZQXlOS3hlVk5YRVlibnV6Tk5hTkxYUnctQVJ1Y3pXV3dzc1o2YUdTZGYwUkVuQURTeDVOOEFFdzV6S2lvYzRMNkNreFdTajZpZzhZdXdSci1jc0thdWw1UlBOTWxiNUFZOU9Lc1hLamZTd3hqUjNYUUJGcE5QUTE0algtaGV6RTBEdzFpVEc0TjZMZUFOMTBwcjdlUFBldTFfUXp5Nnpn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793390400
-  },
-  {
-   "id": "377a444e3f4361cd",
-   "title": "Sean Brady reveals injury that forced him out of UFC Vegas 124 main event",
-   "summary": "Top-ranked welterweight Sean Brady was forced to withdrawal from the Nov. 7 UFC Vegas 124 main event due to a staph infection on his left knee, he revealed in an interview with SteadyPicks. Gabriel Bonfim was also pulled from the event with no replacement. Brady said his knee wa…",
-   "link": "https://www.mmafighting.com/ufc/518528/sean-brady-reveals-injury-that-forced-him-out-of-ufc-vegas-124-main-event",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1793390400
-  },
-  {
-   "id": "c884894a07641197",
-   "title": "UFC Vegas 123 full card official weigh-in highlights: Moicano vs. Nolan - Yahoo Sports",
-   "summary": "UFC Vegas 123 full card official weigh-in highlights: Moicano vs. Nolan Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KYXIwMm1Hc3NmZldnNHQwVG5rSmY1Zmoxems2Vl92WFdwd0MtQ0dRVndINFlCZW85ektjUUZ4Wm5OVkVRVmRZR3RydGpTaGpsSXNlbnA3c0VGT1M4Z19DT3U2M192c1dTVUlOZnFjTFVfYTk1UXo5X253?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793390127
-  },
-  {
-   "id": "7f22d5ceda00e6af",
-   "title": "Jacobe Smith UFC Fight Night: Opponent, Date and How To Watch - FloWrestling",
-   "summary": "Jacobe Smith UFC Fight Night: Opponent, Date and How To Watch FloWrestling",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnk0NkY0MTh2MGpaM1YzaEg2MEVuSGdfRnRZOWdmYlJsa1A4UTY0YngwN2RzVUc4VWZnRXdPX0VqNWJGd1JaTFpHRll3eWdRNm01OE5fMHJuLTZLaDNuNDJoLUtnNkcteFpBbHc0azhwTEFCQm9jOVpkcFR6N0szR2ZoVC15QmVUSEdfdUlJUkI1MWVZZFZkQ09rNV9yTmsyNFJfU3hxMVNtdw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793389757
-  },
-  {
-   "id": "a5bf94bf56c60020",
-   "title": "Jacobe Smith Returns To UFC Action: Can The Undefeated Wrestler Stay Perfect?",
-   "summary": "Jacobe Smith puts his perfect record on the line against UFC veteran Randy Brown. Can the former Oklahoma State All-American keep his rise rolling?",
-   "link": "https://sports.yahoo.com/articles/jacobe-smith-returns-ufc-action-194817306.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793389697
-  },
-  {
-   "id": "31ead5b6f1643a70",
-   "title": "Joe Pyfer vs. Bo Nickal UFC Cleveland Betting Odds Revealed",
-   "summary": "The betting odds for the upcoming middleweight bout at UFC Cleveland between Joe Pyfer and Bo Nickal have been revealed.Pyfer and Nickal were originally set to meet at UFC 335 on December 12 at T-Mobile Arena in Las Vegas, Nevada.However, Nickal recently broke the news that his…",
-   "link": "https://sports.yahoo.com/articles/joe-pyfer-vs-bo-nickal-194747326.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793389667
-  },
-  {
-   "id": "31b9de191ed8153a",
-   "title": "UFC Vegas 123 weigh-ins marred by one miss, Renato Moicano and Tom Nolan on point",
-   "summary": "Almost Perfect",
-   "link": "https://www.bjpenn.com/mma-news/ufc/ufc-vegas-123-weigh-ins-marred-by-one-miss-renato-moicano-and-tom-nolan-on-point/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-vegas-123-weigh-ins-marred-by-one-miss-renato-moicano-and-tom-nolan-on-point",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1793389466
-  },
-  {
-   "id": "6f7ec5efb506eae7",
-   "title": "UFC Fight Night: Moicano vs. Nolan DFS Picks & Prop Predictions - Lineups",
-   "summary": "UFC Fight Night: Moicano vs. Nolan DFS Picks & Prop Predictions Lineups",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnhNOFZ0ZUpsNE4wNG5WVWtud1hXU0VDeHdKT1k3eXZsUWVWc3pzVjR4cnVaS2YxeHBPOVZuN2pKUTVKQlNiSFc0MTJZMWwtYy13WDJ6UW5VbDhUV2NCeWVWSzJQcGJmcGlzYnlDV0k3Z3RNbUVHelA5ZDhRWHFNczlqSmNNOHFtcDdGbDFTdDltSEpGanBxdzNUSmNRbXYzem5YMW5UQ2o5emdsTGo4?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793389304
-  },
-  {
-   "id": "73cb873d70a1af09",
-   "title": "UFC Vegas 123 preview and predictions: Can Tom Nolan take Renato Moicano's spot on Halloween?",
-   "summary": "Renato Moicano and Tom Nolan collide in a battle of ranked lightweights in UFC Vegas 123's main event.",
-   "link": "https://sports.yahoo.com/mma/article/ufc-vegas-123-preview-and-predictions-can-tom-nolan-take-renato-moicanos-spot-on-halloween-193412284.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793388852
-  },
-  {
-   "id": "3fe1b5c532147d3b",
-   "title": "UFC alum nearly robbed of rare submission at ACA 209",
-   "summary": "The referee appeared to intervene but never fully stopped the fight.",
-   "link": "https://sports.yahoo.com/articles/ufc-alum-nearly-robbed-rare-193035676.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793388635
-  },
-  {
-   "id": "fc61c2634ae3f5ed",
-   "title": "UFC fans back Quillan Salkilld to beat Benoit Saint Denis after latest training camp photos - MMA Sucka",
-   "summary": "UFC fans back Quillan Salkilld to beat Benoit Saint Denis after latest training camp photos MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUFjTVN0a2ZRM0ttSXl4X1VMYllpMFlocGo3cTdYcXZzdWRIaDRpbi1TQjFhYXlUeHpmQ1RKVU11bHFwaUZ6LTJSVkVVTHU5ejc4ekRLMi1oT3pTbHhkZVVlZmVyOUxpMFV5cDRCRlFLbW5NZFVONEhLTFlpbGFBZlRhLUQ1UlJDTXlTbWVMYVFuM0NYcW1RXzFVMnpQZjJ3aHFnUnZ1THVTV1ZxeDZXTGQyRmdLcmtaZEE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793387926
-  },
-  {
-   "id": "69cd4bd5a3a1b417",
-   "title": "Former UFC heavyweight champion reveals how Islam Makhachev stunned him in sparring - Bloody Elbow",
-   "summary": "Former UFC heavyweight champion reveals how Islam Makhachev stunned him in sparring Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYXhtRHBsYjV1ZF9QdDlaQm5FbkQ4VXRBWkI5QU53VzBJSTAtTGVScHFEdnZyWTYyZTBndzk4TlQ1WGNveU0yTkY3LVlnVVBGSFNuSHNaUWRyTkpnbTVkNUh3QlpfZ21peFdnTGszUGJJYTk3ZWlQdFZZVnp5bmhiSHlCTllMeG00T0YxN21SdFRXSmxTS2pfckhsNi1pTExGTTlLZ3dJc3RaSGxkUUNmRVoxTHN1cGtMeWZv?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793386800
-  },
-  {
-   "id": "91107cc9db520e3e",
-   "title": "Ffion Davies Strangles Jaine Fragoso In UFC BJJ First Round - MMA Sucka",
-   "summary": "Ffion Davies Strangles Jaine Fragoso In UFC BJJ First Round MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcGtLVmxsaUFSdWlULVgxYUMyYUJHUER3dktpWHFUMFlhLVFPR3VlWUFRWlF2ODZ5Vnl5NFRVUEFxNnYyR2p6YTFldnFzckZIZXBtX0tXeFI3UTZKcW55OHd4MTZ3eTR5SkVXT2h1Q1R6ak9vdV9falU4bEhfQ3g1NUo1ajBjOW4tNFV3ZmY0OW5mQmV0aGRGOUk2dWFfRkhzem80TmRn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793386725
-  },
-  {
-   "id": "6bdfca116072c7ee",
-   "title": "Sergei Pavlovich’s biggest weakness will be his downfall against Alex Pereira, predicts UFC legend",
-   "summary": "Don't Count Him Out",
-   "link": "https://www.bjpenn.com/mma-news/ufc/sergei-pavlovichs-biggest-weakness-will-be-his-downfall-against-alex-pereira-predicts-ufc-legend/?utm_source=rss&utm_medium=rss&utm_campaign=sergei-pavlovichs-biggest-weakness-will-be-his-downfall-against-alex-pereira-predicts-ufc-legend",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1793386542
-  },
-  {
-   "id": "b4eb2a12bf8c2d6a",
-   "title": "Video: UFC Vegas 123 full card faceoffs with Renato Moicano vs. Tom Nolan - Yahoo",
-   "summary": "Video: UFC Vegas 123 full card faceoffs with Renato Moicano vs. Tom Nolan Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ydjN5eEQ4ZjNQZTlmdWZCQ25jUDBkbXhjNDU5M05qQjhRS2NDT2l3aGJRRUR0YTJFdUYwNlpkQWJZQUtUSjBQMjVlZXVtRUlqY0ZxSEpHNmtrODVFSF96MDZRSC1YN1ZHWnJRRWgwM1U2eG9xaFc1YWgyV0M?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793386469
-  },
-  {
-   "id": "54aa5f2c219c5cc3",
-   "title": "UFC Vegas 123 full card final faceoffs: Renato Moicano vs. Tom Nolan - Yahoo Sports",
-   "summary": "UFC Vegas 123 full card final faceoffs: Renato Moicano vs. Tom Nolan Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IbnV2Z3ppVW5DTnRfOFpKUFdveFNfTmFhWXRWdnJBNUM1RTc1LTJQaGFhQ0FvdlNDTjJVQ2JydjFlUGY4WW5LclBtVXVLM1g3cG5fQTFQX1l1SUxlY19SYVFiRGZXVU9yR25nVDBXTUxRZXlDb1ItQ3Rn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793386331
-  },
-  {
-   "id": "53c28108bc6f3a54",
-   "title": "Tom Nolan Eyeing Dream Matchup Against UFC Icon Charles Oliveira - MMA Sucka",
-   "summary": "Tom Nolan Eyeing Dream Matchup Against UFC Icon Charles Oliveira MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjh0QzlMUlhPX2F2VEYzSklDZ1l5RUE2dkZYWFUxQk03Yk1tdmRMUExzN0FScW83QjZWSUVUUzBtYnlIYkVwQVNiLXN5SGF4Qm92MEQ3a1JBeVZIZTBlbVNGVEpNUUVMTUVCOURCT2dYc09zRTVieHhRQzNxcDY1cDgyUzRBYzdwYU1RRUhhbnotLXR1R1E?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793385889
   }
  ]
 }
