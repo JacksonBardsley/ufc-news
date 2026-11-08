@@ -1,6 +1,636 @@
 {
- "updated": 1794105758,
+ "updated": 1794130393,
  "items": [
+  {
+   "id": "14d0c01ef8229502",
+   "title": "Israel Adesanya Opens as Favorite in UFC Saudi Arabia Headliner",
+   "summary": "Former UFC middleweight champion Israel Adesanya opened as the betting favorite to win his main event fight at UFC Saudi Arabia.On Saturday, the promotion officially announced that it is going to ANB Arena in Riyadh, Saudi Arabia, on December 5 for the penultimate UFC event of 2…",
+   "link": "https://sports.yahoo.com/articles/israel-adesanya-opens-favorite-ufc-082348763.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794126228
+  },
+  {
+   "id": "0ee8db6e8c0e851d",
+   "title": "UFC Vegas 124 results: Sooo … About last night | Cortes-Acosta vs. Walker",
+   "summary": "Last night (Sat., Nov. 7, 2026), Ultimate Fighting Championship (UFC) remained inside the Meta Apex in Las Vegas, Nevada for UFC Vegas 124. Unfortunately, the original main event between Sean Brady vs. Gabriel Bonfim was scrapped after the Philadelphia-native withdrew due to inj…",
+   "link": "https://www.mmamania.com/ufc-results/484596/ufc-vegas-124-results-sooo-about-last-night-cortes-acosta-vs-walker",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794124800
+  },
+  {
+   "id": "01911f723762c93c",
+   "title": "UFC boss to meet with Trump to discuss press secretary job offer - The Independent",
+   "summary": "UFC boss to meet with Trump to discuss press secretary job offer The Independent",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWZxaFJjbE9XSm9sdGEyTktjSnJVUHJqN0o2TVlEa0hHQ0R3MzZDcnhIckxLeU9PM0RVaHp0NjNYMXM1bVpoVmk4SV9IaXM3NFgwSEsyNDZpQk42NV9wTi01WEZycVZzN0F6Vm9FQ1YyRlVHTWloY0Y2S0FpSjRtZE5HSlJ0UHM0MmZ1ck5yaFAyTFhaenF2SndCcFJoVk9fUW5YTFluOWlDWjdQdzByVU4yTW1kUDFrXzRUUmg4U2dyWEJaa2JCWDNOQlFYX29JSnhEenFwanh1MWhKeW01SVBsbkM?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794124500
+  },
+  {
+   "id": "3be0aae07f5c1d73",
+   "title": "UFC Vegas 124 Highlights: Waldo Cortes-Acosta vs. Johnny Walker - Yahoo Sports",
+   "summary": "UFC Vegas 124 Highlights: Waldo Cortes-Acosta vs. Johnny Walker Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFM1YkQ5M090Y3ptcW02NHZPcUxNeXhBTG12ZTczbUplTnVqeVpyUFBlQmViU244VThjaThZSzBVWS1RS3QxeERpcldieHBUSlRUT0NYcndBS2JyX0ZWSWtmZmhHWHAySUo5Vms0MlVRUkp1N29PZUxmVnh2NFRqZllGN0FWZw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794123720
+  },
+  {
+   "id": "ce99ff51931f88a3",
+   "title": "Adesanya vs Magomedov headlines UFC Fight Night in Riyadh in December - Fightmag",
+   "summary": "Adesanya vs Magomedov headlines UFC Fight Night in Riyadh in December Fightmag",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVm5RRmhQa2llQXNTVWVJajVYajdzUEJkaU5fNjdEMW5UM19GMk02d3NoWS1nTno4UjZBMkhYemxrZGZHYjBNVi1oLWlyNXoteV9ydW9iMUZsdWVvSFNHVGI5OVlVc21QSHB0Q29aUDNzLWdtLVE3aGl3cXpYbEZ5dHlpcENvVWw4eXdYOEU5aXJlNWlOdEoyTGhYVQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794123589
+  },
+  {
+   "id": "bc430bc458158fea",
+   "title": "UFC Vegas 124 Bonuses Revealed Following Fun Event - Yahoo Sports",
+   "summary": "UFC Vegas 124 Bonuses Revealed Following Fun Event Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFpiRThzaUlCWFBNTjdteUE2MzBUaTBCZFFvNmR2UUw4YkE3ZFQxdFhmTmppanRyeXNmS2o3VzE1aEZwY0plaXJYRnJwazZHR3hXajc4TGFVNEZEVEgzRFVWbi1ac2xYbWNQWmExZjVxdTlrcHpMamk0M1FiU1NlbGVCLWhoUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794122880
+  },
+  {
+   "id": "233419b174c3befe",
+   "title": "UFC Vegas 124 Results, Bonus Winners and Highlights - Forbes",
+   "summary": "UFC Vegas 124 Results, Bonus Winners and Highlights Forbes",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNEFmWlVlaTFXbC16c1JvWFlvcGVrZ055ZnJVYnNkMUo2QWxod1VGZ3VIMHdnMGN4eUFqTFNBVzRKYjVySWlvU0REcVRHM0RmZl9kTURLMTZKbUZkZV9hRmxtbGx2R25EMU03NmFoSmhwMEJHVE01Sk8yVVdoWXQ1RmdycEN1RHVreXp1aHBFbTE5VWVQREdyX2gxcXVsazBUZ3M2SnVnZEc0MTkwdHk1NFhJazh2Z2M?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794122755
+  },
+  {
+   "id": "cea47216dcddbb4e",
+   "title": "Johnny Walker Picks Up Wild Finish Over Waldo Cortes Acosta",
+   "summary": "Johnny Walker has picked up another win at heavyweight after winning last month by knockout against Mick Parkin. The Brazilian fighter won in the third round by knockout against Waldo Cortes Acosta at UFC Vegas 124 at the Meta Apex. Walker and Cortes Acosta took the fight on sho…",
+   "link": "https://sports.yahoo.com/articles/johnny-walker-picks-wild-finish-071419211.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794122059
+  },
+  {
+   "id": "10d0b2d683394b62",
+   "title": "Islam Makhachev Accepts Colby Covington’s Challenge for $200K Charity Padel or Wrestling Match",
+   "summary": "Islam Makhachev could have his first wrestling or padel opponent outside the UFC as he accepts Colby Covington's recent charity challenge.",
+   "link": "https://sports.yahoo.com/articles/islam-makhachev-accepts-colby-covington-070453592.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794121493
+  },
+  {
+   "id": "0e01441d629ef363",
+   "title": "Trump offers UFC boss White House press secretary role: 'Dana, please take the job!' - Euronews.com",
+   "summary": "Trump offers UFC boss White House press secretary role: 'Dana, please take the job!' Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3NSekdiWjV3eVlPZmlTeVhDeEpxcUdOSXFNaEk3dnJXWUNnQzdCQU1UcE4zSHRaeXRsTmxuaE9NR0RkMG5rZlpWTEpqRzI5REp4cEEwSURQWnE2RnI1R05JeENwUGZVeG5yTWlqUWFWS2N1NnVQMENfUW02OHR5TjItUDltOThpN1IyTzBBOGJWUXFyRTl5UEwzWXdQTVlGVjhPUENR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794121477
+  },
+  {
+   "id": "e5359cb9693e300f",
+   "title": "Ciryl Gane Reacts to Josh Hokit Leapfrogging Alexander Volkov for UFC 334 Title Shot - Yahoo Sports",
+   "summary": "Ciryl Gane Reacts to Josh Hokit Leapfrogging Alexander Volkov for UFC 334 Title Shot Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSjZ0SzZ0ZjQxdUJVR1NWY1VNemRfUEpGRVhwd3ZxMzk2aklqaTBXcUxUWE9JMFZJR1NMRERFdTlNNnlJb1VDdlJ0NmFEM2ktZU15RXFpVmtjZ2JXeWUzZ2kxNmlCWFpvRkhxRG5yU0RNQk5KdmNza3E5VkprejlZUjFCaw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794119760
+  },
+  {
+   "id": "e836c65b617de760",
+   "title": "Israel Adesanya Heads to Saudi Arabia for Main Event Fight",
+   "summary": "On December 5, the UFC will hold an event in the Kingdom of Saudi Arabia. In the main event, former middleweight champion Israel Adesanya returns to the Octagon. He takes on Shara Magomedov. It’s the third time the UFC has held an event in Saudi Arabia and the second time Adesan…",
+   "link": "https://sports.yahoo.com/articles/israel-adesanya-heads-saudi-arabia-063229110.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794119549
+  },
+  {
+   "id": "2104bf04bfaae1f5",
+   "title": "Ian Machado Garry Takes On Division’s Dark Horse at UFC Saudi Arabia - Yahoo Sports",
+   "summary": "Ian Machado Garry Takes On Division’s Dark Horse at UFC Saudi Arabia Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbGZjU0luZnlxQnJZZ2NCcGFxVEZ6UWRRRGM3bGlOT0dCeFI1ejFhblNHREppRElYeVBCdlBCODNaSlpXUjBSSWQ1Z2VZY1gzRDFGNHJxRVBsc2M4b2luNXFORjhfVGJKV1dQMHYyakU4TUNqb3pzTll0T1NMakpfMHZ2SHBWU1pr?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794119520
+  },
+  {
+   "id": "9c39f7cdd42636c3",
+   "title": "UFC Fight Night 293: Johnny Walker post-fight interview - Yahoo Sports",
+   "summary": "UFC Fight Night 293: Johnny Walker post-fight interview Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iMmRIZGI0Tkw3ZzAxU3hXSS15NlVJWUdtWm4zSlZqN1BYN0FHaFh4LXpNYnlQSjV2S2kxNmtwU084aUdYSW5BQUJMdlhmMDZGNFBYOWEtWFBncGhRT3ZqNkNWeS1wQUZlLUF1VmRuM2ZSb1lPc3hWQzdNLVRmZw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794118456
+  },
+  {
+   "id": "1e18ca6bef727020",
+   "title": "UFC Vegas 124 post-fight show: Reaction to Johnny Walker’s knockout in wild main event - Yahoo Sports",
+   "summary": "UFC Vegas 124 post-fight show: Reaction to Johnny Walker’s knockout in wild main event Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43TE1qRFZ1elB3TU8yX0w1bzFYTnM0ZkxkNjZuM0tkd2NVS19lZjJoNm9JV2l2Y1prZmxEUXRrQ05NYnRmVE9zSUI0aE9xN1lDYlk4aXlBVmU3MzBTdGJQeGh2bHlxRmRYNWEtUDBJd0FZUWJFcXN5c1czUG5iQQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794117420
+  },
+  {
+   "id": "a056b57621307cb5",
+   "title": "UFC Fight Night: Cortes Acosta vs. Walker Fight Results - ESPN",
+   "summary": "UFC Fight Night: Cortes Acosta vs. Walker Fight Results ESPN",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLUDBfdGR1b00tZTFkUk5CMEpjR2loTFQxNTNMM2NiX0VtMU1IQkFFRUMycFFnNlpCdDZrNW0wV1BhRm1zdEI1ajBmQkJtTEVUekd0MGZUQUFQbmJaaE9kNkdNVE1FNlJRd2M0RFJObw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794117410
+  },
+  {
+   "id": "df5cdf070bbd0125",
+   "title": "Shavkat Rakhmonov Suffers Another Knee Injury, UFC Comeback Pushed Back to June 2027",
+   "summary": "Shavkat Rakhmonov's UFC return will have to wait for another extended period as the Kazakh reportedly injured his knee once again.",
+   "link": "https://sports.yahoo.com/articles/shavkat-rakhmonov-suffers-another-knee-055013307.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794117013
+  },
+  {
+   "id": "303e90be704f6f7e",
+   "title": "Bonus Coverage | UFC Fight Night: Cortes Acosta vs Walker",
+   "summary": "The Performances Awarded An Extra Bonus At Meta APEX On November 7, 2026 Read the Full Article Here",
+   "link": "https://www.ufc.com/news/bonus-coverage-ufc-fight-night-cortes-acosta-vs-walker",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1794116640
+  },
+  {
+   "id": "f52070efcb523c68",
+   "title": "Trump asks UFC boss Dana White to become White House press secretary - Sky News",
+   "summary": "Trump asks UFC boss Dana White to become White House press secretary Sky News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT1VYTk9jVHVqRXcxajR4SlRHTDJpbURpVnNTYzBrcjN2UERITS1jeFpSY1hzMEk3UGlqV3BOd0NXUnRRTHZ1M0phV3hFQTE4LTZUV2Y0NkY1ODJidGZVQ0I3N3NJNHpsZmRzYkxVX2lhN1g3UkUwTzBvSElfVzJLVUMtM0tDaTJvT3I0OEotaGVjZkQ1UUkzQmlSOWtYX3hGUFJSOXBRUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794116047
+  },
+  {
+   "id": "aeca5a6508d7b793",
+   "title": "Johnny Walker Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
+   "summary": "Johnny Walker Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBFT2hpbDZEbGl3UEN2NU9iWUktNDZwUkNDSzVPaTByOWFtUGdGZE9DNzZVNElTY3lRMFBDMi1nRTVuUVVGZ19v?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794115925
+  },
+  {
+   "id": "f973607e053d2bb1",
+   "title": "Bonuses! Elijah Smith banks $100K after becoming first fighter to knock out Davey Grant | UFC Vegas 124",
+   "summary": "Johnny Walker stole the show last night (Sat., Nov. 7, 2026) at UFC Vegas 124 LIVE on Paramount+ from inside Meta Apex in Las Vegas, Nevada, as the Brazilian veteran laid waste to heavyweight counterpart Waldo Cortes-Acosta with a third-round TKO (watch HERE). In addition to the…",
+   "link": "https://www.mmamania.com/ufc-bonuses-and-awards/484643/official-ufc-vegas-124-post-fight-bonus-winners-results-paramount-waldo-walker",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794115047
+  },
+  {
+   "id": "1c57dc49ced57d69",
+   "title": "UFC Vegas 124 Bonuses! Smith Banks $100K After Becoming First To KO Grant - Yahoo Sports",
+   "summary": "UFC Vegas 124 Bonuses! Smith Banks $100K After Becoming First To KO Grant Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGVBOHRiSm9iTGRucWt2bFR3QzYxZXpLRndLeFpodWdOQnR1Z0IyaEc1VzFLUDFxMjlWdm5oTHZqdnZtbnZtaC1oMEtoU1l2TG1LOW1ST3N6eVlxS3V4cFZjVUJNZWRfWGxuczJHV2lBaTdPQ1dPbjMwTDEtWVZCVW9B?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794115020
+  },
+  {
+   "id": "002149164a2a8a7d",
+   "title": "Johnny Walker scores signature KO at UFC Fight Night - Mahoning Matters",
+   "summary": "Johnny Walker scores signature KO at UFC Fight Night Mahoning Matters",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56c2dwV0lTYUNJc3lTbDJ0dlJJN1o1bkVZNW84UHFsMW9yQkFjUmNXSWJMbUdmRjhHR1lnMHJON1JQYVhET0s4RkNvUkhTdzM3a0VZNE5Wb0xWNmpCTU9mRGEwRVJJSzlnRG1pVQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794114908
+  },
+  {
+   "id": "d258147e9f73ada3",
+   "title": "Donald Trump Offers Dana White White House Press Secretary Role, UFC CEO Responds - Yahoo",
+   "summary": "Donald Trump Offers Dana White White House Press Secretary Role, UFC CEO Responds Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMGdfb1ZPRjZkcGN1Tk05anFBZ1pFUUNTM1Rhc01VWE1ncGpVdnBzV25SS0NZdDNWaDBXOTl1ZXhWcXFFbnRTaEJrMm1IMnk0d3NOSmFERHZKbUlvQWtYYkd1NUZBclVaVnVfMmVEOWZLR2ZzTUx0eVBUU2FpbmpEamp5bVViQXV4ZkFKcjJsYjdPT1VY?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794114180
+  },
+  {
+   "id": "c3118a5d015e690c",
+   "title": "Israel Adesanya vs. Shara Magomedov, Ian Machado Garry vs. Yaroslav Amosov set for UFC Saudi Arabia",
+   "summary": "A pair of five-round bouts are heading to the octagon in Saudi Arabia. The promotion announced during Saturday’s UFC Vegas 124 event that former middleweight champion Israel Adesanya is set to face Shara Magomedov in the main event of UFC Saudi Arabia, which is slated to take pl…",
+   "link": "https://www.mmafighting.com/ufc/519978/israel-adesanya-vs-shara-magomedov-ian-machado-garry-vs-yaroslav-amosov-set-for-ufc-saudi-arabia",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1794114000
+  },
+  {
+   "id": "c4f7f39c1d9d590e",
+   "title": "Elijah Smith speaks to UFC brass after final fight on contract - Yahoo Sports",
+   "summary": "Elijah Smith speaks to UFC brass after final fight on contract Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMGVpOGZwbk03V1ZaR0MwWmZxQ0lTQ2hLa2poSm9hTUU1aVdUakFvSmhJdWpaRmNzUG55cl95VUlDdlVrSkwtMXBSRDY1STBfeE1ZVWZUMHVZWHNFY1B6bC1EUWtURkRZems4U05sVXhLNXhZeUxBQXNLdjlSRlNia3hB?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794114000
+  },
+  {
+   "id": "f42f37754e421a8f",
+   "title": "UFC Vegas 124 Bonus Report: Elijah Smith one of four ‘POTN’ winners",
+   "summary": "Bonus Report",
+   "link": "https://www.bjpenn.com/mma-news/ufc-vegas-124/ufc-vegas-124-bonus-report-elijah-smith-one-of-four-potn-winners/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-vegas-124-bonus-report-elijah-smith-one-of-four-potn-winners",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794113861
+  },
+  {
+   "id": "eabd28e6fa6eba55",
+   "title": "UFC Fight Night 293 bonuses: Walker winds up, worms way to wicked $100K - MMA Junkie",
+   "summary": "UFC Fight Night 293 bonuses: Walker winds up, worms way to wicked $100K MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLXhUbUdqX1ViT0R4Y2lEVmwxZFNKcm1oQUZhTmZ6OWdzb0NJeUNRQjJVRXVvMzhBNmpIREFIUXp1TU42VDZiUGFTY3R2RXRnRGlVSnRXQWZKRElzQUFNcF9tOHctTGZOX0FxNXlrZzdrZzJ5Q3plbWExWm5tZ1VvZ2JmaWxGTWE4RFBMNlo2RGFWTU1vTHJ6aWlsVDVXYllOWkVnT0VLSF9COVBBMGlaUDkwV0o5d2NqU1Z5NGt3SDJTUi1mLWpGbkJUd3BRNU05REx4NXRORXBoWEN5TDVwRC1oV2VJQ0lkM0VzNFZYXzhQTDhYT1hTcE1KSmRMUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794113640
+  },
+  {
+   "id": "997bc7e9ca16a76d",
+   "title": "UFC Fight Night 293: Tatiana Suarez post-fight interview - Yahoo Sports",
+   "summary": "UFC Fight Night 293: Tatiana Suarez post-fight interview Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nRWI5SFU3X2stYWpVemt1VExSaEdEMUItLTVxWUtzeDh0YUFXS0VPa1gyUUh0Z1pERjd0R2Rsd3JDQVMtVGZiakZZanpTSzJuLTl1Njk4WGN5bzNEQWxmbExyTUR1dC12bFlNWmtfTWtJc3plMTFINEEtWGgyaDA?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794113496
+  },
+  {
+   "id": "77d8e144c62aa466",
+   "title": "Israel Adesanya vs. Sharabutdin Magomedov set to headline UFC Riyadh",
+   "summary": "The Ultimate Fighting Championship returns to Saudi Arabia with a couple of exciting fights.",
+   "link": "https://www.sherdog.com/news/news/Israel-Adesanya-vs-Sharabutdin-Magomedov-set-to-headline-UFC-Riyadh-203534",
+   "source": "Sherdog",
+   "kind": "news",
+   "ts": 1794113123
+  },
+  {
+   "id": "5fd46227a25d1f09",
+   "title": "‘At the APEX is criminal’: Pros react to insane Johnny Walker knockout win in UFC Vegas 124 main event - MMA Fighting",
+   "summary": "‘At the APEX is criminal’: Pros react to insane Johnny Walker knockout win in UFC Vegas 124 main event MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSEZ3YXBaZnU0OEI5d2VuTGtaLXBldUVQbV9JZ1lpN3JBVWxSdjNRbzF4UWZiT2l5YmpTamY2ZUdkVm1Xa0VfMVpsYm9UdGhDZ256d3hBbThXaFNzV3JpSVNQVTdETkR2R1JtVVRjQjZtVm5wc1RUMktkdGtTaDdiQ1QwRDByUW1XSU9RMGI0eWdDRE1DYlRNSDV3UVZ5WUhtNzhGbDdUOTNvYUx1bHo0bHpvTGhMM3ZQZzRmbGo1dHV1R1BVU19JZ1k0VHEwRVhXZ1ZETQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794112800
+  },
+  {
+   "id": "143731b9b41ebf95",
+   "title": "Tatiana Suarez back in title picture with decision win at UFC Fight Night - ESPN",
+   "summary": "Tatiana Suarez back in title picture with decision win at UFC Fight Night ESPN",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR1hNX01lTUVPZTBXc18wZjBSY0xxdGYtQjlGZkphbGFwRGl4ZEVKUlRMUmk1OXMtSTFGMEhKN3g1V3FFT3drSnRFdDgxSXBMXzEzQkx1QTMxRU5hMW1kSjNGUGpxMHRNR19nTElUQmFGaS0zdmU1bGwyRDFtUnBHR1BQUmZULUtRVElCamt1LVRCYzF5eGJoTnpMS2hTaEk?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794112740
+  },
+  {
+   "id": "08d994cf9e37f69d",
+   "title": "Johnny Walker Octagon Interview | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
+   "summary": "Johnny Walker Octagon Interview | UFC Fight Night: Cortes Acosta vs Walker UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5QSDNxVXhZakJ4ZDBKT1dLTVBKR3ZUbjk2ZHQtX3MwcFZONmNadG9CTG5wZnlmV2dfTDhSemlRSk1HaV9MWlVj?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794112336
+  },
+  {
+   "id": "070052ea5260ca49",
+   "title": "Tatiana Suarez Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
+   "summary": "Tatiana Suarez Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yLVBlREN6dU0tQnVFRWtBSlp1cHlxOUQxTzZORWs4S0RkSjA0dHlKa1NRRmJFekg1LUxRQW1JX1E1V0h2d0FB?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794112332
+  },
+  {
+   "id": "1d8d2a583a179655",
+   "title": "Johnny Walker scores wild knockout of Waldo Cortes-Acosta in UFC Vegas 124 main event",
+   "summary": "Johnny Walker has long been a fan favorite, and in the main event of UFC Vegas 124, he delivered another highlight-reel performance.",
+   "link": "https://www.sherdog.com/news/news/Johnny-Walker-scores-wild-knockout-of-Waldo-CortesAcosta-in-UFC-Vegas-124-main-event-203533",
+   "source": "Sherdog",
+   "kind": "news",
+   "ts": 1794112119
+  },
+  {
+   "id": "33fdfde54ef832a5",
+   "title": "Pros react after Johnny Walker TKO’s Waldo Cortes-Acosta at UFC Vegas 124",
+   "summary": "Expect the unexpected!",
+   "link": "https://www.bjpenn.com/mma-news/johnny-walker/pros-react-after-johnny-walker-tkos-waldo-cortes-acosta-at-ufc-vegas-124/?utm_source=rss&utm_medium=rss&utm_campaign=pros-react-after-johnny-walker-tkos-waldo-cortes-acosta-at-ufc-vegas-124",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794111787
+  },
+  {
+   "id": "dbdeb942816c5f47",
+   "title": "UFC Vegas 124 results: Johnny Walker stuns with TKO of Waldo Cortes Acosta",
+   "summary": "Johnny Walker is a real threat in the UFC's heavyweight division.",
+   "link": "https://sports.yahoo.com/articles/ufc-vegas-124-results-johnny-042225704.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794111745
+  },
+  {
+   "id": "ba381a69a587ee4b",
+   "title": "Highlights! Johnny Walker proves heavyweight worth, cracks Waldo Cortes-Acosta with wild main event knockout | UFC Vegas 124",
+   "summary": "Johnny Walker delivered the biggest win of his career earlier tonight (Sat., Nov. 7, 2026) at UFC Vegas 124 LIVE on Paramount+ from inside Meta Apex in Las Vegas, Nevada, stopping ranked heavyweight Waldo Cortes-Acosta with a wild third-round TKO (head kick and punches) in the m…",
+   "link": "https://www.mmamania.com/ufc-paramount-plus-news-hub-fight-cards-schedule/484633/watch-ufc-vegas-124-video-highlights-results-paramount-walker-knockout-waldo",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794111547
+  },
+  {
+   "id": "b51ce91054fcf9f8",
+   "title": "UFC Fight Night 293: Elijah Smith post-fight interview - Yahoo Sports",
+   "summary": "UFC Fight Night 293: Elijah Smith post-fight interview Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iaWItTmowNjU4aDZxaUEtTkJrZTliXzRCYTFtWW9mSDJLOEM4TWdJYkZsdVdqRDNjRndaTld1eW5Dc0FNNXZnSC1aQU9QME9QMXU1blFxY2JBOU94ekRHamp2Ml8tMk13Z3dhMGhpNmNidllYMTVjT3hucVN3dw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794111480
+  },
+  {
+   "id": "df03405027408e21",
+   "title": "'Super impressive': Fighters react to Johnny Walker's wild TKO at UFC Vegas 124 - MMA Junkie",
+   "summary": "'Super impressive': Fighters react to Johnny Walker's wild TKO at UFC Vegas 124 MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaWZ4VUVZcHAyTXRhZ3Y0Z0w2NTFSQ1pXV0xtcGJ6dTNpN05wT2thMW9FdjVOOWg4c2xMUVRFckJWOGM5NkZ1MjlwM09Fekp4ZmM1YzRrRGMtMTdlcUlGel9HOFdkQVlpaE8wb2hBR1JRQ2pfWFc1TjdVOVdiVzVWTDZPNmQyVngxTjdUblNyVU1xSVM0dmUtbFRtdVJOdlR0VmlpYm5Dc01YRDlla2FEa1lXVG9iZHRLQ0xQUmhOZlc1b3M2T29JdGlDVmkyUVE0N3hrX1BKZ3dXcEJ2cG5DVkZ1VzExZFpSaFE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794111377
+  },
+  {
+   "id": "6bb30cdf97f172a8",
+   "title": "UFC Vegas 124 Results: Johnny Walker stops Waldo Cortes-Acosta (Video)",
+   "summary": "Finish Him!",
+   "link": "https://www.bjpenn.com/mma-news/johnny-walker/ufc-vegas-124-results-johnny-walker-stops-waldo-cortes-acosta-video/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-vegas-124-results-johnny-walker-stops-waldo-cortes-acosta-video",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794111224
+  },
+  {
+   "id": "bc410b3f809ebecf",
+   "title": "[SPOILER] Cody Stamann vs. Jake Peacock | UFC veteran vs. former ONE Championship fighter | MMT11: MMA vs. Muay Thai",
+   "summary": "submitted by /u/Yodsanan [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xqphrp/spoiler_cody_stamann_vs_jake_peacock_ufc_veteran/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1794111214
+  },
+  {
+   "id": "fa604029d48a8ff2",
+   "title": "Johnny Walker puts Waldo Cortes Acosta down and out with nasty knockout in UFC Vegas 124 main event",
+   "summary": "Johnny Walker’s heavyweight experiment is going very well so far. Following a huge knockout in his debut, Walker followed that up with another emphatic finish over Waldo Cortes Acosta in the UFC Vegas 124 main event on Saturday. Walker delivered with an explosive combination of…",
+   "link": "https://www.mmafighting.com/ufc/519983/johnny-walker-puts-waldo-cortes-acosta-down-and-out-with-nasty-knockout-in-ufc-vegas-124-main-event",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1794111194
+  },
+  {
+   "id": "51b4f1dbe718f048",
+   "title": "UFC Vegas 124 results: Johnny Walker becomes the first man to KO Waldo Cortes-Acosta in chaotic Heavyweight war",
+   "summary": "Waldo Cortes-Acosta vs. Johnny Walker squared off in a Heavyweight bout earlier tonight (Sat., Nov. 7, 2026) inside Meta Apex in Las Vegas, Nevada for UFC Vegas 124. After an absolutely crazy fight, Walker walked away with another knockout victory. Walker opened the fight with t…",
+   "link": "https://www.mmamania.com/ufc-results/484600/ufc-vegas-124-results-johnny-walker-becomes-the-first-man-to-ko-waldo-cortes-acosta-in-chaotic-heavyweight-war",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794111099
+  },
+  {
+   "id": "ec2dbfa2cd852607",
+   "title": "UFC Vegas 124 Post-Fight Press Conference",
+   "summary": "Tune into the UFC Vegas 124 Post-Fight Press Conference following tonight's event.",
+   "link": "https://sports.yahoo.com/articles/ufc-vegas-124-post-fight-041003384.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794111003
+  },
+  {
+   "id": "483a482a4d3d607e",
+   "title": "UFC Vegas 124: Johnny Walker stuns Waldo Cortes-Acosta for second straight win at heavyweight - Yahoo Sports",
+   "summary": "UFC Vegas 124: Johnny Walker stuns Waldo Cortes-Acosta for second straight win at heavyweight Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWR4NXZxLW5PTmdCclZVWm96eUxyZUhqWHhhX0lEckxFWWFEcm03eldfQUZSUFd0WnhndnZBcjM2S0x1V3hkcEFIWUhPc0E5OFozekpvQUtkNV9tV0RISWl0RmtZRXdwVUw4Qk05ZUl3a1RzVEJtSkVGT21Bb29JV0dPMmtTZGR4Ql9ybXI4N1FSNTRmZ2FOREUzeDJoRGx1a083cHBnc0dzTjhhVmg4NHQwakd0NjNXSmJFdmoyVFlabndjYjUwYnNfRE5KYzAyOVNnSUJyU3hrOWNXajRBR1o2R3NuNmc1X0Ewd2p0bw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794111000
+  },
+  {
+   "id": "93e9d97d263e18ce",
+   "title": "Johnny Walker Stops Cortes Acosta In Round 3 | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
+   "summary": "Johnny Walker Stops Cortes Acosta In Round 3 | UFC Fight Night: Cortes Acosta vs Walker UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBab2VPSGsxTTZPRUJUSnQ4VHBFVWJoZGd1clJPQUtOTUZTUktDRktVUzZ1YWN1cHdGbk9UNzRyekkyRktjWDFN?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794110946
+  },
+  {
+   "id": "8939ce707e8bb105",
+   "title": "[Official] UFC Fight Night: Cortes Acosta vs. Walker - Press Conference & Post-Fight Discussion Thread",
+   "summary": "Welcome to r/mma 's post-event discussion of UFC Fight Night: Cortes Acosta vs. Walker . Card Info Main Card on Paramount+ @ 8PM ET (click for your time) Fight Weight Waldo Cortes Acosta vs. Johnny Walker 265 lbs Virna Jandiroba vs. Tatiana Suarez 115 lbs Davey Grant vs. Elijah…",
+   "link": "https://www.reddit.com/r/MMA/comments/1xqpcmp/official_ufc_fight_night_cortes_acosta_vs_walker/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1794110737
+  },
+  {
+   "id": "8201bd34934f71b3",
+   "title": "Lucas Fernando Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
+   "summary": "Lucas Fernando Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LR2dNM0RxZUpJRzRQVU5ROEZFOU1tcVBidkhPMXhJTWNuTUFITnRPTUJ0bmJaVFQxUzB4c1IwS3E0eU5uQXJF?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794109919
+  },
+  {
+   "id": "609d0005fe05ad8c",
+   "title": "Elijah Smith Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
+   "summary": "Elijah Smith Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xMnNkb3RtZ04yMFZiVG4yUGM5YUtROFUwNnJrREg4bi1iZkUzQVBZQS1pWEZUUGRteDFDcXJRSU1aQ1ZLVm9j?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794109916
+  },
+  {
+   "id": "9df9ecb8e1180c45",
+   "title": "LIVE! Watch UFC Vegas 124 post-fight press conference video stream | Waldo vs. Walker",
+   "summary": "With the action officially in the books from UFC Vegas 124 last night (Sat., Nov. 7, 2026) LIVE on Paramount+ from inside Meta Apex in Las Vegas, Nevada, fight fans can check out the post-fight presser for all the best reaction and official bonus winners. On a night that feature…",
+   "link": "https://www.mmamania.com/ufc-press-conference-video/484650/live-watch-ufc-vegas-124-post-fight-press-conference-video-stream-waldo-vs-walker-results-white-paramount",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794109500
+  },
+  {
+   "id": "f2d12b02bce8aca3",
+   "title": "LIVE! Watch UFC Vegas 124 Post-Fight Presser",
+   "summary": "With the action officially in the books from UFC Vegas 124 last night (Sat., Nov. 7, 2026) LIVE on Paramount+ from inside Meta Apex in Las Vegas, Nevada, fight fans can check out the post-fight presser for all the best reaction and official bonus winners. On a night that feature…",
+   "link": "https://sports.yahoo.com/articles/live-watch-ufc-vegas-124-034500391.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794109500
+  },
+  {
+   "id": "0f1cafad95ca627a",
+   "title": "UFC Vegas 124 results: Tatiana Suarez calls for title shot after defeating Virna Jandiroba",
+   "summary": "Tatiana Suarez made her case for a title shot in the co-main event of UFC Vegas 124 by getting past Virna Jandiroba.",
+   "link": "https://sports.yahoo.com/articles/ufc-vegas-124-results-tatiana-034324102.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794109404
+  },
+  {
+   "id": "7e7f50d944cc4179",
+   "title": "Card for UFC in Saudi Arabia",
+   "summary": "submitted by /u/JozefKotry [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xqovp9/card_for_ufc_in_saudi_arabia/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1794109151
+  },
+  {
+   "id": "7aa6035184965357",
+   "title": "Ian Machado Garry vs. Yaroslav Amosov set for UFC Saudi Arabia co-headliner",
+   "summary": "Yaroslav Amosov will get his chance to break through vs. Ian Machado Garry in the UFC Saudi Arabia co-main event.",
+   "link": "https://sports.yahoo.com/articles/ian-machado-garry-vs-yaroslav-033706474.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794109026
+  },
+  {
+   "id": "327af71c970fd542",
+   "title": "UFC Vegas 124 results: Tatiana Suarez grinds her way to decision win over Virna Jandiroba - MMA Fighting",
+   "summary": "UFC Vegas 124 results: Tatiana Suarez grinds her way to decision win over Virna Jandiroba MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmRQaC05RkdKZEtLdlF6TkVvdnA3Z25ZZnVhTkFQUVFDdm9LT1dHSkE0azM1RWhLTjlDQm9hclZoTHFIZXhyenViRTRveUd2algxNDJoOFFCYzlSRDRHbTZQdFcxR3prQklydWMzRG1vOVBTZDBoQjYxNXBZNjhPZnpJVHViM1NIc0JPaU51NTlpZFhMbUt5RXZaa0NLMXZVREhwcVNJVjkxOFpDakM0QWJReDJma1ZKNmU3NkZIbGdJRzZBUXc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794109020
+  },
+  {
+   "id": "9a28f7c59b763a8e",
+   "title": "Israel Adesanya draws rising middleweight in UFC Saudi Arabia return",
+   "summary": "Israel Adesanya makes his return against a fellow dynamic striker in the UFC Saudi Arabia headliner.",
+   "link": "https://sports.yahoo.com/articles/israel-adesanya-draws-rising-middleweight-033534603.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794108934
+  },
+  {
+   "id": "06791755e31de870",
+   "title": "Israel Adesanya vs. Shara Magomedov, Ian Garry vs. Yaroslav Amosov set for UFC Fight Night in Saudi Arabia - CBS Sports",
+   "summary": "Israel Adesanya vs. Shara Magomedov, Ian Garry vs. Yaroslav Amosov set for UFC Fight Night in Saudi Arabia CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmt6RGx6cmwxMVJNZ0hGTDdKVnFQZ2dOdnUxTm11ZXQ2SVpreVNyZVhQQUdIZjE5N3RhVHNIMXBYd2Y1S2VjV1NtSDdqZjJrcXFpQTJ0aG5uRVpLVzBsV2tvOG9JZGRIMy1DR3FDNHdEcXZRUXpnTUI1OGRELV82SFl1cjBWc2xWeFdGcmU1YlFYS19kZlh6QmRvNllHVmlLWnpseXdPYnhKSUZ4eWc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794108860
+  },
+  {
+   "id": "aaa6ab3f659879fc",
+   "title": "UFC Vegas 124 live blog: Waldo Cortes-Acosta vs. Johnny Walker - MMA Fighting",
+   "summary": "UFC Vegas 124 live blog: Waldo Cortes-Acosta vs. Johnny Walker MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb1M2cloxOTVzc1pIUm90QWdfT1N0MmJWZnhILVlRU09RcEJxaHN5OV9GSGVXNVpDOEozV28tZzc2OVV1Y1pzUXUtOUJWdlF4cDJqUElOcW12VEdKWldtb3FsOXczYW0yTWdLSkUxNkQyMDRxT1JnTU1Ib2Q0RGFzWV9jNjU0TVdKcTJmZmNUS3VYTWtZX2gySzZsZ2lGNDBK?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794108840
+  },
+  {
+   "id": "419d47ea252f341b",
+   "title": "Elijah Smith Gets Job Done With 1:00 KO | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
+   "summary": "Elijah Smith Gets Job Done With 1:00 KO | UFC Fight Night: Cortes Acosta vs Walker UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TMVpSQnNzengzUHN1cUxybU54TXFJeW1vaGZhQW1yZ09yMjFTc2RHSEtvbXR2QVpGWEdUeFljNW5yRVlXV05J?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794108716
+  },
+  {
+   "id": "eb3d274fc4c08cbb",
+   "title": "UFC Vegas 124 Results: Tatiana Suarez defeats Virna Jandiroba (Highlights)",
+   "summary": "3 in a row!",
+   "link": "https://www.bjpenn.com/mma-news/tatiana-suarez/ufc-vegas-124-results-tatiana-suarez-defeats-virna-jandiroba-highlights/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-vegas-124-results-tatiana-suarez-defeats-virna-jandiroba-highlights",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794108688
+  },
+  {
+   "id": "388594fe6533533e",
+   "title": "Trump asks UFC chief Dana White to be White House press secretary - Al Jazeera",
+   "summary": "Trump asks UFC chief Dana White to be White House press secretary Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXdtN3cwTV9vVWVSSE5LNl8yMEowcG5fc2tzbzlnQi14bHBUZjVQMzQxLVQxMEhRUktZVjVzLU5xOWxrSUsxblZmR3hENGh0UnNKTGRwUmt0bUdvd0FmdHFTRG1XZlgyR1B6U2FwZlJRdE96UDVJQ1BwT05CRXVpamFHbkdBajNwRlZ1U0VndjFkdnN5Q3ZLTVUyY1poZkxQckEtWFRFbUVsd9IBrwFBVV95cUxQb2pqUzMweVBZVnJ4NTVhQ3ExVWF0OUlYbjRDdTR5cEF6QTR1ZlhwYlFoSEUtdUFITEZ6b0tLMlFKYnkydG1jTTEycEdPTkVKdDJUU3NVd3dJWjl1aUcxOW04cHdzYm1XLWFDZV85cDkxV0ZYVkZYMTNnUVdwZkVJWjNrYklpbGVqOTR6UHFsQzd0Sk1QcjBfV3BNbmJ1V0xJVWZuR3FqdlJpUmRFQ3VF?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794107979
+  },
+  {
+   "id": "e1ef818524bf72fe",
+   "title": "Nina Milošević Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
+   "summary": "Nina Milošević Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA3OUYyaUI0UVFRUlI5Vl9FSG1fakwzUjZvTDFfbkRKTS0tYTFkRk1hQUtJM2VveGcyNnVXcWhjV2s3U2VoTkhn?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794107816
+  },
+  {
+   "id": "c39c1aa6067c8927",
+   "title": "Conor McGregor Updates UFC Future in NSFW Video, Eyes Max Holloway Trilogy Fight Amid Injury Rehab - Bleacher Report",
+   "summary": "Conor McGregor Updates UFC Future in NSFW Video, Eyes Max Holloway Trilogy Fight Amid Injury Rehab Bleacher Report",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnl5cDRBU3AzN3BpR2QtQWIzMkVXS3NLR2VBQjFROElPZ0liNzhrNGRxT1VoenJMWUFYa1lYZi1laGhlQTdXeGdHOTlpZ3Q1RWhPcWp1Q3pLaXhtbTAwdkxnZFdLdDNqMzg2MnllMFpDdGdJVUpqYjhkVXVTRUhBNktwWGhKT3dKMnN0TkJ3T1I1OVFaY2J2S2FjbGJILXVxX0VsZlhiWHhhYVJIaGplWTRfdXdTc3ctbzlhdXZEOUo5ZGtyQUxTS2pqcnoyZ1NNUXpfbnRn?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794107684
+  },
+  {
+   "id": "626a54be9366635b",
+   "title": "Highlights! Elijah Smith stuns Davey Grant with violent 60-second knockout | UFC Vegas 124",
+   "summary": "Elijah Smith became the first person to finish Davey Grant by knockout earlier tonight (Sat., Nov. 7, 2026) at UFC Vegas 124 LIVE on Paramount+ from inside Meta Apex in Las Vegas, Nevada, as the 24-year-old Smith brutally stopped “Dangerous” in just one minute into the first rou…",
+   "link": "https://www.mmamania.com/ufc-paramount-plus-news-hub-fight-cards-schedule/484639/watch-ufc-vegas-124-video-highlights-results-paramount-smith-knockout-grant",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794107227
+  },
+  {
+   "id": "bbc948f2f05a20d7",
+   "title": "UFC Vegas 124 video: Elijah Smith demolishes Davey Grant with blistering 60-second knockout - Yahoo Sports",
+   "summary": "UFC Vegas 124 video: Elijah Smith demolishes Davey Grant with blistering 60-second knockout Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS2ZzRkNUMUtqWDRyeC1KVGFEWVYzWVRZT0c1OXp2NHEtMEVVTU5EVkVCN1dBT3RUOFhHMndhRkd3di1lN2NhdUZyYlJiUmg1YWI4QmdxdTBTYkp0QUVYSE9tT1lrSWk4VFhaWmNxYmotdU9rQ2hia0NhMzZJRkl6Yw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794107040
+  },
+  {
+   "id": "dc74c82421ca78d9",
+   "title": "UFC Vegas 124 video: Elijah Smith brutally KOs Davey Grant in 60 seconds",
+   "summary": "Elijah Smith flattened Davey Grant in just 60 seconds at UFC Vegas 124.",
+   "link": "https://sports.yahoo.com/articles/ufc-vegas-124-video-elijah-030323226.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794107003
+  },
+  {
+   "id": "fe6a31844ae5969e",
+   "title": "UFC Vegas 124 live blog: Tatiana Suarez vs. Virna Jandiroba - MMA Fighting",
+   "summary": "UFC Vegas 124 live blog: Tatiana Suarez vs. Virna Jandiroba MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVM1TVZoQ19hYjFUOFRtSnk0NHJBNG5VSkhueVB6dTREZWpXNjhzQWx0YTVzY3JaWXZGMElOcFVFT014REtNbFdUOTZUZFhBRUVJMEpjaEp4b3Z4eTFSdXE3NlVNbnUyWXFWR2pLd3gwR3FDZWtVUzhET195T1Q1MXJ1YjB1WEpXeEhFSENRZ1VpVGVtQlVuYU1Kd3Q?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794106500
+  },
+  {
+   "id": "8634ce1047516e47",
+   "title": "Highlights! Nina Milosevic puts division on notice, smashes ‘Zombie Girl’ with brutal TKO | UFC Vegas 124",
+   "summary": "Nina Milosevic put the UFC women’s bantamweight division on notice earlier tonight (Sat., Nov. 7, 2026) at UFC Vegas 124 LIVE on Paramount+ from inside Meta Apex in Las Vegas, Nevada, pushing her UFC record to 2-0 with a smashing TKO (punches) over veteran Priscila Cachoeira. Mi…",
+   "link": "https://www.mmamania.com/ufc-paramount-plus-news-hub-fight-cards-schedule/484641/watch-ufc-vegas-124-video-highlights-results-paramount-milosevic-knockout-cachoeira",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794106379
+  },
+  {
+   "id": "52fb6072bdb45686",
+   "title": "Mitch Raposo Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
+   "summary": "Mitch Raposo Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zSWh5YS10UjYzV3NRbUZuSGY1WlY4c19kVGtEbVNZQk0tcnlvQ2s3SVpMTU1mMi0ySVlYUFEyNEtYTF8tWFdv?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794106322
+  },
   {
    "id": "bfe0fdd3c70ce285",
    "title": "Ollie Schmid Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
@@ -47,6 +677,33 @@
    "ts": 1794103971
   },
   {
+   "id": "8b0250d5aea32531",
+   "title": "UFC 334: 5 Reasons Amanda Nunes vs. Kayla Harrison Is Women's MMA's Biggest Fight of 2026",
+   "summary": "Amanda Nunes returns to face Kayla Harrison for the UFC 334 bantamweight title. Here are five reasons this blockbuster showdown is must-watch.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-5-reasons-amanda-021100928.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794103860
+  },
+  {
+   "id": "e962a2615d231460",
+   "title": "Trump offers White House press secretary job to UFC executive Dana White - CBS News",
+   "summary": "Trump offers White House press secretary job to UFC executive Dana White CBS News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcTNFa0RFVVkyTndTQnBYdzZVWVFJVndaQzF0dURYdXRCMlJ2Q0owS0VKR0pFb21GUmpla1llYkcxSzRHWTVCdlNYT1ZRRzJrWVk0Z252eno3YW9jYnVkVm40c1VuNnhYRjluRW1YOF9Ha3BUMFE2a3BfZ0xET0ZuR29XOUZiVmk1Wk84VmlBclY5ODF1RHhvN005dzNaX3lYcnQyT2N5WU1iZy1jd0E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794102840
+  },
+  {
+   "id": "e143bc210a0ad5f0",
+   "title": "Post-Fight Press Conference | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
+   "summary": "Post-Fight Press Conference | UFC Fight Night: Cortes Acosta vs Walker UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBYYzdNYjlhUDhCNzNLQzVORndqOGRpa1dKdlJ5R2UxRzE0YlRrS2MtSk9NRE16YWNfYTJQeTJxSURQcGU2eTZj?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794102529
+  },
+  {
    "id": "030eb413c737422c",
    "title": "UFC Fight Night 293: Karine Silva post-fight interview - Yahoo Sports",
    "summary": "UFC Fight Night 293: Karine Silva post-fight interview Yahoo Sports",
@@ -56,6 +713,15 @@
    "ts": 1794100817
   },
   {
+   "id": "696ff3b9a523e15e",
+   "title": "Karine Silva Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker - UFC.com",
+   "summary": "Karine Silva Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fc0duUk1qckhxNjh1YllLUklRcVZ1Y0VkS01EUThCOWprM2FRc3oyM1hYR253YlpTTkRhVDJUSTE1S3VJLTdB?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794100614
+  },
+  {
    "id": "3efbb8001012b084",
    "title": "Conor McGregor gets heated on Max Holloway, wants trilogy for UFC finale - Yahoo Sports",
    "summary": "Conor McGregor gets heated on Max Holloway, wants trilogy for UFC finale Yahoo Sports",
@@ -63,6 +729,15 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1794100560
+  },
+  {
+   "id": "ff3ccf1c53671caf",
+   "title": "Trump offers UFC boss press secretary post, urges criminal probes of Democrats - AFP.com",
+   "summary": "Trump offers UFC boss press secretary post, urges criminal probes of Democrats AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVUdXZk9kVDAxLWtMdENIaWQ0andJa285SVRpTG5kNWtzc3hPYXdqd3UtRjNhREY4MlplMU03SW9yVk54X193VW9Jam5zQklsR1VYY01USXhZN0loZmdMNDZKa2owQ1VFa0I1Z3hpT2lySWdTLTVCSXdXbzdlS0F3V290NkNQa1pZMlZtYXdaNURlWGpGdGwybnFKb3FoUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794100120
   },
   {
    "id": "214652808b517b40",
@@ -227,6 +902,24 @@
    "ts": 1794095866
   },
   {
+   "id": "5857ea10eda6bdea",
+   "title": "UFC Vegas 124 bonuses: Johnny Walker, 3 more earn $100,000",
+   "summary": "Johnny Walker 's spectacular UFC Vegas 124 main event win got even better after being awarded a $100,000 performance bonus.",
+   "link": "https://www.sherdog.com/news/news/UFC-Vegas-124-bonuses-Johnny-Walker-3-more-earn-36100000-203528",
+   "source": "Sherdog",
+   "kind": "news",
+   "ts": 1794095832
+  },
+  {
+   "id": "6b5d176aac2b810a",
+   "title": "Matches to make after UFC Vegas 124",
+   "summary": "The Ultimate Fighting Championship returned to the Meta Apex in Las Vegas for UFC Vegas 124.",
+   "link": "https://sports.yahoo.com/articles/matches-ufc-vegas-124-235710919.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794095830
+  },
+  {
    "id": "3a08b72b7bc5cd6c",
    "title": "Dana White next White House press secretary? UFC boss set for meeting with President on Monday - CBS Sports",
    "summary": "Dana White next White House press secretary? UFC boss set for meeting with President on Monday CBS Sports",
@@ -362,6 +1055,15 @@
    "ts": 1794093300
   },
   {
+   "id": "591bd517a40b4f94",
+   "title": "Johnny Walker Lands Sudden Head Kick, KOs Waldo Cortes-Acosta",
+   "summary": "Johnny Walker found some early trouble, but a head kick completely turned the tide, allowing him to get a finish of Waldo Cortes-Acosta in the UFC Vegas 124 main event.",
+   "link": "https://www.mmanews.com/article/johnny-walker-head-kick-kos-waldo-cortes-acosta",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1794093153
+  },
+  {
    "id": "9addbed0a8739d88",
    "title": "UFC Vegas 124 live results, highlights, play-by-play | Cortes-Acosta vs. Walker",
    "summary": "Ultimate Fighting Championship (UFC) is live TONIGHT (Sat., Nov. 7, 2026) with UFC Vegas 124, streaming live online via Paramount+. The event goes down inside the familiar META APEX in Las Vegas, Nevada. The main event was supposed to be Sean Brady vs. Gabriel Bonfim; however, a…",
@@ -416,6 +1118,15 @@
    "ts": 1794092400
   },
   {
+   "id": "d15bdafc20b81bdf",
+   "title": "UFC Saudi Arabia Officially Announced for December 5",
+   "summary": "After some time of speculation, UFC Saudi Arabia has been officially announced for Dec. 5. Israel Adesanya vs. Shara Magomedov serves as main event, alongside Ian Machado Garry vs. Yaroslav Amosov.",
+   "link": "https://www.mmanews.com/article/ufc-saudi-arabia-announced-december-5",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1794092311
+  },
+  {
    "id": "5b8e844f348dd5ce",
    "title": "Jose Souza KO UFC Vegas 124 - The Daily News | Texas' Oldest Newspaper",
    "summary": "Jose Souza KO UFC Vegas 124 The Daily News | Texas' Oldest Newspaper",
@@ -441,6 +1152,15 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1794091308
+  },
+  {
+   "id": "f3dea20b794d24e7",
+   "title": "Tatiana Suarez Controls Ground Battle at UFC Vegas 124",
+   "summary": "In a battle of two accomplished grapplers and former title challengers, Tatiana Suarez’s wrestling proved to be too much for Virna Jandiroba at UFC Vegas 124.",
+   "link": "https://www.mmanews.com/article/tatiana-suarez-controls-ground-ufc-vegas-124",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1794091123
   },
   {
    "id": "b747b11ea47986d4",
@@ -558,6 +1278,15 @@
    "source": "Yahoo Sports",
    "kind": "news",
    "ts": 1794088980
+  },
+  {
+   "id": "b845698740773a25",
+   "title": "Elijah Smith Violently Starches Davey Grant in Quick Fashion",
+   "summary": "Elijah Smith has put the bantamweight division on notice, as he needed only about a minute to deliver a violent knockout of Davey Grant at UFC Vegas 124.",
+   "link": "https://www.mmanews.com/article/elijah-smith-violently-starches-davey-grant",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1794088947
   },
   {
    "id": "df8c80b8f417dc95",
@@ -2871,735 +3600,6 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1793980992
-  },
-  {
-   "id": "ac034bd42a5881f7",
-   "title": "Seokhyeon Ko vs. Wellington Turman prediction, odds, pick for UFC Vegas 124 - Yahoo Sports",
-   "summary": "Seokhyeon Ko vs. Wellington Turman prediction, odds, pick for UFC Vegas 124 Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQm02VGgwSGRSWENWc2tjRklXeTJ6WF92UFpuRWl6M0pIQ2NHdkYxWVgwY1pRU0MtWXZ5MXlIU2otSE9oTzc1RWNJaXhPTUlZSzUyLUY5SFpwWEo3RURiX3J0Q0xHa1ltZ3RwWWRVbnJobjN1R2gtZlhJNTJUWFh4ZC1YU1dYdEpXUUE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793980981
-  },
-  {
-   "id": "c4e0e2760a7019ef",
-   "title": "UFC Fight Night 293 weigh-in results, live video stream",
-   "summary": "Check out the results from the official UFC Fight Night 293 fighter weigh-ins.",
-   "link": "https://sports.yahoo.com/articles/ufc-fight-night-293-weigh-160050029.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793980850
-  },
-  {
-   "id": "d92b55143f590229",
-   "title": "UFC champion reveals mother may have final say in retirement call: ‘I will obey her word’",
-   "summary": "Islam Makhachev to let mother decide his fighting future",
-   "link": "https://sports.yahoo.com/articles/ufc-champion-reveals-mother-may-160000757.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793980800
-  },
-  {
-   "id": "96d8b12240b79198",
-   "title": "Jose Souza vs. Jonny Parsons prediction, odds, pick for UFC Vegas 124 - Yahoo Sports",
-   "summary": "Jose Souza vs. Jonny Parsons prediction, odds, pick for UFC Vegas 124 Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWjdwRFFmdkhGS3V2T3lDdzFvc004ckdwdVpCT3dLTlp4a2FYcllYbE1JSXV2S2o3ekN3b2k5YzdFMmxxblFRMG1OaGNySlp0b19Da3ZCYjVXVVdfWjVPNTVTdFJKZU8yUnl4RmV4a21mTFg1cGxmcGpFTVphNkJGeUZ3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793980778
-  },
-  {
-   "id": "e8f83b9237b4c391",
-   "title": "UFC Should Cut Conor McGregor, Says Henry Cejudo - Heavy.com",
-   "summary": "UFC Should Cut Conor McGregor, Says Henry Cejudo Heavy.com",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wT3Myd3pub2dhYkRNeTJSbGY2bE5KQUNEaGN1a1luNmd6Ym5Tekx3WmxVbDczRWhmQUZIOERLV0ZBWk0xSE4wWjdpWGRKeHBQa1ZDNzJuVlgyWTNOY2NydWM0UnVHdWNWaFRVTkNoQVl6SGc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793979293
-  },
-  {
-   "id": "59ae635d8a4b3053",
-   "title": "14-year veteran, ex-title challenger announces farewell fight for UFC 334 at Madison Square Garden — ‘My last one’",
-   "summary": "Stephen Thompson is stepping away from cage fighting. The former kickboxer, who turns 44 in February, is scheduled to throw hands opposite welterweight veteran Charles Radtke as part of the upcoming UFC 334 MMA event on Paramount+, scheduled for Sat., Nov. 14, 2026 at Madison Sq…",
-   "link": "https://www.mmamania.com/ufc-news/484286/14-year-ufc-334-veteran-ex-title-challenger-farewell-fight-madison-square-garden-my-last-one",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793979011
-  },
-  {
-   "id": "2125bbe3d0d72932",
-   "title": "UFC veterans in combat sports action Nov. 7-8 - MMA Junkie",
-   "summary": "UFC veterans in combat sports action Nov. 7-8 MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2pKMnhSZnB3M21wR1FDZVgtR25QWThJY09YRjZwT2ZhZXpzMDJieGdKazZPVmxHODJyUTZRazBQVDhRbUd5c3pGcFRSZzNiQ2ZCSGlIejhvczZIaHR3WC1jTDVrUFJZUU5JdTc0VWF1V2MyZ01SVVEtZENiUTllMFBHNnRzSUxTZEhzdlVwMm9iZExxbnRBMVY1SEVndDB2bVJubjVvZUt6SUhCZnlrLW0zb19za0JDWktVZ1ZITFlrX183SHplMDBR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793979000
-  },
-  {
-   "id": "fcb23063a229c75a",
-   "title": "UFC 334 start time and full card as Dana White explains how Josh Hokit got Ciryl Gane title shot - talkSPORT",
-   "summary": "UFC 334 start time and full card as Dana White explains how Josh Hokit got Ciryl Gane title shot talkSPORT",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGxtOTVxUGVkeS1vdTF0ZUFRWThCYm1rV0dzMmVzNmZyMEs5a0l2OUdGcUlnYzRwZEJ4ZXMwVS1yOWNDaGJoMENxN08yVjlPeDExdkxjMHJobExNdkl6MGF2T3hvNGtNSEVoWEd4MzJacmNNd1FMcFFJdDZETm5CNW9qNHFpSjQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793977249
-  },
-  {
-   "id": "1ad25ab8d3dff63c",
-   "title": "SNL star brands UFC boss Dana White ‘evil’ over fighter pay and ties to President Donald Trump - Bloody Elbow",
-   "summary": "SNL star brands UFC boss Dana White ‘evil’ over fighter pay and ties to President Donald Trump Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbjg5Ymdob2FCX1cxQnRydmttazJmLWFRRHM2SUY0ZEpackQ5dEtXeGxKZFc2ZTJoaTFlYWxQMmhBOXpQeWRtTGJXZFl6XzV0c3FuVDg4X2FmNVFkN2xIVTBodzdvbnMtNllWNU9nRWV4Q0ZtQkdvd1VJNDNiQ3p4TTdZaFRmU2t0MnhIaGFWSWZQN0ptWnFFZ3BxYldFVU1JSEtWMVlPVEZEcVBaV0FKREtsLWkyZ0JCMnJsX29CaGExMTBlVjJB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793977200
-  },
-  {
-   "id": "275618f22839dde6",
-   "title": "UFC Vegas 124 DFS Breakdown: Model, Preview, Picks for Cortes Acosta vs. Walker, More Saturday Fights - FantasyLabs",
-   "summary": "UFC Vegas 124 DFS Breakdown: Model, Preview, Picks for Cortes Acosta vs. Walker, More Saturday Fights FantasyLabs",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ0Q1YTU1MnZlamxMTzg0NWdmSkhwakk4T2tCVktCeUh5NXRmanZTV0tFdTFrdDZWTE1vcEJ6TVBlTlhUVlBqTlpqUXFCR3BtcWJfUThwS1JWQkFhMVhxd2lwQVo3VHprbFc5ajNvcDBiX0V3Y1JCRXE4VEZvOVkwRkNXRlVmT191SXdyaE13Qk9pU3VqX3M3dUVQN01YYXB3QlVTdThKY1BGN0ZDNGJMUU9mUTJkSmpuMFhHVk83UjByLVVYODBoNFFnSWVSVlU?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793977115
-  },
-  {
-   "id": "7bcb8a02b1df56dd",
-   "title": "Stephen Thompson Drops Retirement Bombshell Ahead Of UFC 334 Showdown - NDTV Sports",
-   "summary": "Stephen Thompson Drops Retirement Bombshell Ahead Of UFC 334 Showdown NDTV Sports",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjU4dUpoQWNjWVdMcU5lUUR3TGpwN3FtYWdLc0VOVElybmFPTy1DR1ZXTGhMZjk5cGpteDd6Ql93ZVlzamR0dDNGZ2Z1c05vT0pKX1d2ekM5M1J4NlpTeEQwdGx2ZGdKZnVLTk52WGl5aVMyZXV5WGpDajVmbHlxY0JuUG8zN3VZVFhoMWVPUG40S042NllxYUgyVWVZc25Tc1JpcnhUQjNBYllwdWc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793976767
-  },
-  {
-   "id": "5e90a3980a88baa8",
-   "title": "UFC Vegas 124 preview: ‘Cortes Acosta vs. Walker’ main, co-main event predictions",
-   "summary": "Ultimate Fighting Championship (UFC) is just one day away from the upcoming UFC Vegas 124 mixed martial arts (MMA) event, which is set to go down tomorrow night (Sat., Nov. 7, 2026) on Paramount+ from inside Meta Apex in Las Vegas, Nevada. UFC Vegas 124 features a heavyweight ma…",
-   "link": "https://www.mmamania.com/ufc-predictions/484043/ufc-vegas-124-preview-cortes-acosta-vs-walker-main-co-main-event-predictions",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793975400
-  },
-  {
-   "id": "6129dcb9b22c87f1",
-   "title": "“I’m Surprised He’s Not in the UFC Already”: Beneil Dariush Makes Huge Usman Nurmagomedov Claim - MMA Sucka",
-   "summary": "“I’m Surprised He’s Not in the UFC Already”: Beneil Dariush Makes Huge Usman Nurmagomedov Claim MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkU1S0Z2ZGc5Z2dFSDJZZnJhRGpCcHJBN0ZzdlNKb0xkRC15MkVoOXE3NXpGOHhGZi13N1BHY3ZxNG9sRFpPOUpnWmVQSFpCbmtYVTdscDRRSjRGZzNLajd2RV82cTBlblRxZ0Y1ZEViV2FJQkN6OTkwazYzSlpaNGRpNDB1bXRGU19ab2QwdTR2U0xfOUlsWUtjVXR0emRuQ281YWNjaEs2LVdBSkJkMTV3cUd1dmZo?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793974434
-  },
-  {
-   "id": "2f95659044cded05",
-   "title": "[Official] UFC Fight Night: Cortes Acosta vs. Walker - Weigh-In & Pre-Fight Discussion Thread",
-   "summary": "Welcome to r/mma 's weigh-in and pre-fight discussion of UFC Fight Night: Cortes Acosta vs. Walker! Please keep weigh-in and pre-fight discussion in here . Location: Meta APEX, Las Vegas, Nevada, United States Weigh-in start time: 12PM ET (click for your time) Event start time:…",
-   "link": "https://www.reddit.com/r/MMA/comments/1xpdllr/official_ufc_fight_night_cortes_acosta_vs_walker/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1793973862
-  },
-  {
-   "id": "2dd117dbdef78878",
-   "title": "Waldo Cortes-Acosta aims to take all of Josh Hokit’s teeth in future UFC fight",
-   "summary": "Waldo Cortes-Acosta credits Josh Hokit for helping to move the UFC heavyweight division along, but still wants to hurt the brash up-and-comer. While Hokit prepares to fight Ciryl Gane for the heavyweight title in the main event of UFC 334 on Nov. 14, Cortes-Acosta is set for his…",
-   "link": "https://www.mmafighting.com/ufc/519534/waldo-cortes-acosta-aims-to-take-all-of-josh-hokits-teeth-in-future-ufc-fight",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1793973600
-  },
-  {
-   "id": "d623b42d330317dd",
-   "title": "Eddie Hearn addresses Arman Tsarukyan talk after surprise meeting sparked rumor he may sign UFC star - Bloody Elbow",
-   "summary": "Eddie Hearn addresses Arman Tsarukyan talk after surprise meeting sparked rumor he may sign UFC star Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRmFHTTlDa2dKWTZoaVRMYS1tZWJVSTNkYWxURlRNSVZ0b1l0eTdjeGZpbkl0RjhNdFBrV2hkLW4tWmQyUkc0cENmeDQtQ2diWnVVbkVXam1ac0xUT05sZVZiU2daWjJmdUY5bF9CdUtMNlJzbW1CNzBlZXU5MWV6SFY2WTVkOWpINzB2LUhjZXcxOGIzTEVNaDQ5N09nTExSNVJ1YTFhOFdFd2ktcmVXcXBmT255aGZrRmlNYUFCVG13bjcwcnlhSzNYVGs3cVduemc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793973600
-  },
-  {
-   "id": "b71bc070a8ffe7f9",
-   "title": "Former UFC champion backs Ciryl Gane to beat Josh Hokit at UFC 334",
-   "summary": "Will he get it done?",
-   "link": "https://www.bjpenn.com/mma-news/kamaru-usman/former-ufc-champion-backs-ciryl-gane-to-beat-josh-hokit-at-ufc-334/?utm_source=rss&utm_medium=rss&utm_campaign=former-ufc-champion-backs-ciryl-gane-to-beat-josh-hokit-at-ufc-334",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1793973434
-  },
-  {
-   "id": "ceb9408a4d670be2",
-   "title": "Carlos Prates: Makhachev and Khabib booking UFC fights when they want isn't right",
-   "summary": "Carlos Prates accuses Islam Makhachev and Khabib Nurmagomedov of being inactive champions.",
-   "link": "https://sports.yahoo.com/articles/carlos-prates-makhachev-khabib-booking-135020226.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793973020
-  },
-  {
-   "id": "635759d37b366318",
-   "title": "Comedian Stavros Halkias rips UFC for being ‘a MAGA suck-off’",
-   "summary": "Comedian Stavros Halkias says the UFC’s support of Donald Trump has pushed him away from the sport of mixed martial arts (MMA). Trump occupies a very unique place in the UFC due to his close friendship with CEO Dana White. That’s led to Trump getting the red carpet rolled out at…",
-   "link": "https://www.mmamania.com/ufc-news/484255/comedian-stavros-halkias-rips-ufc-for-being-a-maga-suck-off",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793970953
-  },
-  {
-   "id": "66f8666f56d4eec5",
-   "title": "UFC Fight Night 293 video: Watch Waldo Cortes-Acosta take out Derrick Lewis - MMA Junkie",
-   "summary": "UFC Fight Night 293 video: Watch Waldo Cortes-Acosta take out Derrick Lewis MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX3dTTnlKRjhxbTdrRDQtcnZpUGFfQjZ1aUxMNUJESUVmM0l3VEppX2dGZXFPQ1VUTXdMZGtWUTNZM2xRU3A3bGt0M2VqQ3l1SDdjT1BaTXBtMnM5amIyV0VNY3htNVlrVWR1M3FIVi1xYy10YXNySElXbDNHLW12VU11S29mVlFkMlRHeVNXeENzOWs1LWU2a1BRM2c3ZWtaTERyc0hZSEFkRzByZ1FJRkN4bUk5MUNIcnpraVV2alN6R1ctRlBEUW0tVEZkRm1VdjB3cERwSFh4QzFFdVY1UHZGV093ZmxzYWNSUTZB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793970060
-  },
-  {
-   "id": "5df280c914a1745e",
-   "title": "UFC Vegas 124: Cortes-Acosta vs. Walker Weigh-In Results - Cageside Press",
-   "summary": "UFC Vegas 124: Cortes-Acosta vs. Walker Weigh-In Results Cageside Press",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUhyZHIyU2xQOUZsSm1CTG5aTWlBTHVKcDFNeUJybFVNRnVNNFNQdFpiUDl4MW42R2w5eEd2ZVpvUDQ0OXVhMDNkX08xa0t1aEE4UXJONVJiTDVkbnE5UGVSNVFKdWM5QW1PbzNUdHZtTU9pbzNhSnVkLUFnQUZvNFN4b3FqSzBmTS1nM18yQ09kQS0xdTNR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793970027
-  },
-  {
-   "id": "31396cb60d0ee258",
-   "title": "Morning Report: Henry Cejudo suggests UFC release Conor McGregor instead of paying for final fight",
-   "summary": "Conor McGregor plans to fight out his UFC contract soon, but could the promotion have other plans for him? That’s what former two-division champion Henry Cejudo suggests is a possibility, given McGregor’s notoriously high salary and his guarantee that he will move on to bare-knu…",
-   "link": "https://www.mmafighting.com/ufc/519578/morning-report-henry-cejudo-suggests-ufc-release-conor-mcgregor-instead-of-paying-for-final-fight",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1793970000
-  },
-  {
-   "id": "2718d59bc1b00537",
-   "title": "Ciryl Gane calls the UFC heavyweight division in 2026 the 'best' ever over Miocic and Velasquez eras - Bloody Elbow",
-   "summary": "Ciryl Gane calls the UFC heavyweight division in 2026 the 'best' ever over Miocic and Velasquez eras Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc2VhbllZRUVVR2NNVzhJMFduYXhfRzNHdElsVHAtbGZsMWd5NjhFenFRRVJfU05sSi1jbUxqa2hxUDU0am5VWkwwX2pRVWVTanRnUWx5RXhOLXRieGtQMXp0c25jRnc0Y0tJcGFEalNYN1hFbjBjVWsxYVBkME80R055X1lxZzFNMHRVMG1qZjd6XzQwZ1ozOTdpZXFVdWFzdGdjbHA1YVFIclgxb3VIR0ZIVzlYN1RMU3NHLUZUbjQ5cGhRV2w1cVQ1dVcwYjQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793970000
-  },
-  {
-   "id": "e2bfc666a5c295ad",
-   "title": "UFC Betting Picks: Raposo vs. Degli & Grant vs. Smith - Yahoo Sports",
-   "summary": "UFC Betting Picks: Raposo vs. Degli & Grant vs. Smith Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kcTFXY0ZRbVBVYXBobEhSaG1PLVlLOVh1RU5zeFlmTGg3SEhqczZnZm80dXF4SjhlR2MzSHVwMHFfWEZESHZPNG9pTXJrdDRZcVA2U05abU1FeWI2WDAtLXNnNV9KcXhNX080TkF3MEFzLUk2bUlrdkNUOUMwRUE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793967709
-  },
-  {
-   "id": "77fd2823c78a31af",
-   "title": "Keiichiro Nakamura - UFC.com",
-   "summary": "Keiichiro Nakamura UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zb3Z1SkxTcXlwX0hrOGd4Zk5Oa3gtNVBIS2o5eEh2VFhhaWFPOUZaRUdFWmdWbUkzSEpOVVhDNC1tUzIzS19VNFVUX0YzeGZBcUNiaklzUF9PRlhq?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793967188
-  },
-  {
-   "id": "2703bc3601c4ca57",
-   "title": "BKFC president says Conor McGregor isn't guaranteed a fight after his UFC exit: 'He has to look good' - Bloody Elbow",
-   "summary": "BKFC president says Conor McGregor isn't guaranteed a fight after his UFC exit: 'He has to look good' Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeTAwM0drV2FuRkpEZFNYM1V1a283aFgtZTJ1NHZVYWd3LU9NLVljdkJmTWw1N2ZPM3UtV2JQMTA0SjdrY1NWLUlnMGp2eVJGcXNNcEFJRmQ2ZzQydkZoNG5SX1NDd0Iwd2RUY2lfQm1aT3ZXWHdoRWtJYk5zVXd2YS1rcHZfLWptaXRpNjJYWld5YS1wb3N0d2hqenhvbWNxVlBrcjhxWTJlcXhkejVkMC1fSWs4V3ZRdEhFZC10bFFyYlJXcHFjSWN6UEJLQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793966400
-  },
-  {
-   "id": "cc8b2502e180ab2e",
-   "title": "UFC Reportedly Books Top Prospects for Massive Fight on Israel Adesanya Card - Sports Illustrated",
-   "summary": "UFC Reportedly Books Top Prospects for Massive Fight on Israel Adesanya Card Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHlBbE90ZHRJWVRPaFZyTl9LMGhsMzF0eUxWSDVVbTFlNEc2TUh1QkpTd0VkUmdKRzFrTmgyYTlmakpud1JPVGVmMXF5NFozUTJ5c0tIbnVDMG1jRG5hZTBQdkE2SEpWQnE4akE5bDRwVDQwRUpzSDR4SFNfMkotNEtCNFBYNFF5MVpRY0FJdHRjT291ZXFDTTZucXI?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793964398
-  },
-  {
-   "id": "9c51f85006b2aa67",
-   "title": "UFC Vegas 124: Cortes Acosta vs. Walker: Streaming & Network - sports.betmgm.com",
-   "summary": "UFC Vegas 124: Cortes Acosta vs. Walker: Streaming & Network sports.betmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcTh5aUtrN3loRnZiYm9wR0htc25XY3hKNnhRT1JHb0M4S2FhNFdzTXlmSnU4ekdKNXhpTkFtcjZhN21sajVJMUcwNlE4VDJyMmg4Mk5fbURTeFdYZDF0QmxXM2NmN1VoT0FIU2p6Tl9jakpFWXlsZnZyQkR5OFhkaEo4MzlxSHZNcmZqYjRlTXdkdnI4R2Jz?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793962969
-  },
-  {
-   "id": "e2c42e54eada276c",
-   "title": "UFC veteran openly slams Dana White’s Zuffa Boxing pay - Yahoo Sports",
-   "summary": "UFC veteran openly slams Dana White’s Zuffa Boxing pay Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTThBZ1dGTlNLellQcHJFcG9kWU8tOGdDaXZEVVFxVU5RTWlDU3RzcXpOWVc1TGM4TWZVNVRlQUxhbm9wTDlqZlFWeTNuajhVYVdLOElYSGVXb09PNUdBNTZ6OXAzbmJBRXNzQUxlaW1sNW9HQUQxT3dvcmpCTjhJSmwzVGc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793962262
-  },
-  {
-   "id": "2fadaeb3af6bc4e2",
-   "title": "Josh Hokit | The New Bad Guy - UFC.com",
-   "summary": "Josh Hokit | The New Bad Guy UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBeC1BUGx0TWNnZk9jNEFpeW9yVmstRFJ1YVNPMmRLcnZ4bDhqMkVoVmpLZENhOEFTdnpzejdXS2xERXpUUmZr?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793961475
-  },
-  {
-   "id": "dfc9ed19abb3350b",
-   "title": "Ilia Topuria names desired opponent and date for UFC comeback - The Independent",
-   "summary": "Ilia Topuria names desired opponent and date for UFC comeback The Independent",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmNxQy1ValJLcEx4U3BxNDdFUGFmVWxoS1k3c21NSkJmUmdURTJKVnRKcUx4M0RTVTdjTGJQSXNraGdyMi1VbGV5dWVmVHFLa0ppYUhTbHA5UnFkbXZOcXVfeDhZTUs2V2daTHRzaTV0cGx6eG5OdE1fc0hmWGR2T3o5Y2ZEd0EyampuUVNnOEhYWndzZUp3akc1R0NuUG0zUnpIclNpc0tjZw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793960400
-  },
-  {
-   "id": "5a44ed38552e3fe8",
-   "title": "Kamaru Usman Backs Ciryl Gane to Beat Josh Hokit",
-   "summary": "Kamaru Usman calls Ciryl Gane the most dynamic heavyweight he’s ever seen and doesn’t see Josh Hokit getting it done at UFC 334, though he credits Hokit’s rise.",
-   "link": "https://www.mmanews.com/article/kamaru-usman-backs-ciryl-gane-beat-josh-hokit",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1793958104
-  },
-  {
-   "id": "b21d02818dad2516",
-   "title": "Henry Cejudo Says UFC Should Cut Conor McGregor",
-   "summary": "Henry Cejudo says the UFC should release Conor McGregor instead of paying the $30 million he believes McGregor earns for his last contracted UFC fight.",
-   "link": "https://www.mmanews.com/article/henry-cejudo-says-ufc-should-cut-conor-mcgregor",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1793958076
-  },
-  {
-   "id": "155facd32cc5cdd1",
-   "title": "Ciryl Gane: Heavyweight Division May Be the Best Ever",
-   "summary": "UFC heavyweight champion Ciryl Gane says the division may be at the best moment in its history, despite growing criticism that it’s one of the weakest ever.",
-   "link": "https://www.mmanews.com/article/ciryl-gane-heavyweight-division-may-best-ever",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1793958052
-  },
-  {
-   "id": "39a07b14eae0f7b2",
-   "title": "BKFC President Sets Bar for Conor McGregor’s Debut",
-   "summary": "BKFC president David Feldman says Conor McGregor must look good in his final UFC fight before a bare-knuckle debut is worth getting excited about.",
-   "link": "https://www.mmanews.com/article/bkfc-president-sets-bar-conor-mcgregors-debut",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1793958042
-  },
-  {
-   "id": "d33d30a479167468",
-   "title": "Exclusive | Caio Borralho Shockingly Reveals He Fought Reinier De Ridder With A Shattered Rib At UFC 326 - LowKickMMA.com",
-   "summary": "Exclusive | Caio Borralho Shockingly Reveals He Fought Reinier De Ridder With A Shattered Rib At UFC 326 LowKickMMA.com",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95TjdHRTdJZlRhbjJpdWxma1BLdmI1V0RNSjY0c1A1Z2JteGgxVUZfWEtNc3ZxcFJKMG1FbE9TWWdMaDBnZFFRa3FveTlUSlBzVEI4WW8tNnlGOWxCTG1MQU00eUJ4cVIxXy1EZUFSdjZwUkpjZnYxUllOVnY?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793957732
-  },
-  {
-   "id": "202cb11ba25dda51",
-   "title": "UFC Fight Night 293 - Cortes-Acosta vs. Walker - Sherdog",
-   "summary": "UFC Fight Night 293 - Cortes-Acosta vs. Walker Sherdog",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmZ5RGFsYzhMRlg0UzFBRVlZdmE3SEMzbWttV2Y5U2hMQ0FXOENuY3ZnWVQ0RVo2cjFsZWJkNFNQazYtZWstNEx0RlJ1ZjVSVjk1SnhST1pCNEo5d1lSRnMxRFloQ2FpdkRYa1Fzb2xROUlVVnBBY3g1RDU4cV9FTWtZaDFxckU?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793956040
-  },
-  {
-   "id": "615ff11c8d749ffb",
-   "title": "UFC 335 Reportedly Faces Major Setback as Female Fighter Pulls Out Due to Unknown Reasons - شبكة تواصل الإخبارية",
-   "summary": "UFC 335 Reportedly Faces Major Setback as Female Fighter Pulls Out Due to Unknown Reasons شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MeVJ0Q2hvMUczc3R5NEtETzJsRnFMaEpGNThmbnhObHlndkt0aVRxMUlBU0RZUHJXT2xGeUdrUGE5ZVo5SmVOcDU4RDVLVmVBWDR3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793954391
-  },
-  {
-   "id": "aca41cfd14fd8b1b",
-   "title": "Official Weigh-In Results | Zuffa Boxing 12",
-   "summary": "The Official Weights Of The Athletes Competing At Copper Box Arena In London On November 7, 2026 Read the Full Article Here",
-   "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-12",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1793953850
-  },
-  {
-   "id": "542ca466cddbc78d",
-   "title": "Big John McCarthy Reveals Why He Does Not Officiate UFC Events Anymore",
-   "summary": "Big John McCarthy is known as the Godfather of MMA officiating, having called fights as early as UFC 2. The veteran referee is also one of the most knowledgeable about MMA rules, having written the original rulebook for the UFC and later helped create the Unified MMA rules way b…",
-   "link": "https://sports.yahoo.com/articles/big-john-mccarthy-reveals-why-082625093.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793953585
-  },
-  {
-   "id": "1809a187e6c8bb62",
-   "title": "Stephen Thompson to Call Time on 14-Year Octagon Career at UFC 334",
-   "summary": "Stephen Thompson is set to compete in his MMA swansong at UFC 334 against Charles Radtke at the iconic Madison Square Garden.",
-   "link": "https://sports.yahoo.com/articles/stephen-thompson-call-time-14-080047299.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793952047
-  },
-  {
-   "id": "a513da1ceea7d567",
-   "title": "Former UFC champion Ilia Topuria reflects on first career loss: ‘I’ve experienced the worst day of my profession’",
-   "summary": "Ilia Topuria may have lost his UFC lightweight title to Justin Gaethje at UFC’s White House event earlier this year, but “El Matador” appears to be keeping the same confidence he had before the fight. It feels like it’s been an eternity since fight fans last saw Topuria compete…",
-   "link": "https://www.mmamania.com/latest-news/484228/former-ufc-champion-ilia-topuria-reflects-on-first-career-loss-ive-experienced-the-worst-day-of-my-profession",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793952000
-  },
-  {
-   "id": "93733749e07eab3d",
-   "title": "“It Was a Street Fight”: Islam Makhachev Reveals His Favorite UFC Bout After Recent Pullout - شبكة تواصل الإخبارية",
-   "summary": "“It Was a Street Fight”: Islam Makhachev Reveals His Favorite UFC Bout After Recent Pullout شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsUVRiWEIwek9BZHF4UVlyT05PNkw0dW53b1ltdVdVOG1KWTRKTXhkaTdZVUhCTlNaWTk3LU91SXcyRXFIRGt6WDRrMm9QRW1qWVI0?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793950858
-  },
-  {
-   "id": "08ea3f23d5eb72db",
-   "title": "Yair Rodriguez to End Lengthy Layoff Against Steve Garcia at UFC 335 - NY Fights",
-   "summary": "Yair Rodriguez to End Lengthy Layoff Against Steve Garcia at UFC 335 NY Fights",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GOTZlYkNtUHJOOGx3bFVqWVpjclZZdXB0SGVPWmxZQ0RDVXBSQTlEM21KeHo3S3lOVEVEMVpWM2toMmpkZVZpbk40X0NpbWxicXZvU0laeGUxMTBGMGM3Z2NITjZBakFJdktrcmJnb19xMDdHdkRHQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793947637
-  },
-  {
-   "id": "2723053cd6872172",
-   "title": "Waldo Cortes Acosta vs. Johnny Walker breakdown, prediction for UFC Fight Night 293 - Yahoo Sports",
-   "summary": "Waldo Cortes Acosta vs. Johnny Walker breakdown, prediction for UFC Fight Night 293 Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT2VmRXRORlNkR2pFYzJ3Y216MFN2MUlFaFdIc1QwRERqOG9fSGR2SnlRQnRKaGNOT2tmQTI2bXVhWmdjb3lReW1tU2lGc295SGhHRjBwTEV2TklmOHhzbDVPQ0NnVWNTYmp5QjdaeTdxZ1Y1cFdMU1dfbllHOG5ER0h3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793945183
-  },
-  {
-   "id": "b341ae7d3d4dd9dc",
-   "title": "UFC Revenue Tops $500M In Single Quarter - Yardbarker",
-   "summary": "UFC Revenue Tops $500M In Single Quarter Yardbarker",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmJndzlSN2ZPM0ZMaGhnWWFxV2pQcnFLZU1UTV96WmJnWmVyYmt1Z0JiNkhlYl9BYXpUTU1XTWFHamhOeG9Ka0hTR0ZtSVIzbks5MFRJOG1RMU9DTHV6ZlhTWDJETzdFeHJXZFdNRzlOYTVkRDVDQ2ZEZkhieE9vbVpjTExKRnJLQm1selNPeFFtQTVrTTdMWUE1UkFRdw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793945156
-  },
-  {
-   "id": "8ec1fbf5bd87be2a",
-   "title": "Ilia Topuria Opens Up on Psychological Impact of Justin Gaethje Loss in First Interview Since UFC Freedom 250 - Yahoo Sports",
-   "summary": "Ilia Topuria Opens Up on Psychological Impact of Justin Gaethje Loss in First Interview Since UFC Freedom 250 Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzR0TVZLWTRmVUZUWnZ3akU2b3NPQmJpc1Jsd1o3R1d5S1pDSnE0a0RIdUZoREVYUDNMalpmOE9INTFMTHlWZndhS181N3dMOFRjZ1ppQ3dhUkpoT0dpMGJFaGNHU2xJeHpvOUdFMU1TN0VGUHRmNXNDMlpmTzNRb2ZfWjd3NFdHNDhrcVFFYkxsdw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793944500
-  },
-  {
-   "id": "66b0102db6200124",
-   "title": "Ilia Topuria Drops UFC Return Timeline and Potential Opponent While Addressing Retirement - شبكة تواصل الإخبارية",
-   "summary": "Ilia Topuria Drops UFC Return Timeline and Potential Opponent While Addressing Retirement شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZNVQyZ3dweUdqdTM0ZGhFUDkyR1NxQXFuQ1JDOEdiV05EZHlwZlNod3AwTUVTa0FMX3dIbWNCdTFaQjRhNlhlSHdqeDA4VW4wbVZz?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793943952
-  },
-  {
-   "id": "37bad9e406408e60",
-   "title": "UFC Fight Night 295 will be held on Saturday, December 5, at the ANB Arena (8,000 seats) in Riyadh - 매일경제",
-   "summary": "UFC Fight Night 295 will be held on Saturday, December 5, at the ANB Arena (8,000 seats) in Riyadh 매일경제",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHQ2VMU3RKWE44RFpuWDhuX0VjZ3NVcS1MbFlZN3o5RFFTZTZPSml4N2pVRDQxektSQy1TYVFhX3ZjYTkyYVFZVDF4R2lVTnJt?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793942722
-  },
-  {
-   "id": "70ecedfc12892560",
-   "title": "'Wonderdad' Now: Stephen 'Wonderboy' Thompson Says UFC 334 Is His Last Fight — Baby Girl Changed Everything",
-   "summary": "Stephen 'Wonderboy' Thompson confirms UFC 334 vs. Charles Radtke is his last fight, reveals he is father to a baby girl, and leaves the door open for a return.",
-   "link": "https://sports.yahoo.com/articles/wonderdad-now-stephen-wonderboy-thompson-051355966.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793942035
-  },
-  {
-   "id": "96529be111140f12",
-   "title": "Midnight Mania! TKO financial report shows UFC revenue over $500 million in one quarter",
-   "summary": "Welcome to Midnight Mania! Let’s start the night off by taking a look back over the three biggest stories of Thursday, Nov. 5, 2026. Insomnia UFC generated massive revenue for TKO in Q3 of this year. Hokit’s jokes never stop. Official retirement fight! Cha-Ching! Loma is coming…",
-   "link": "https://www.mmamania.com/midnight-mmamania-news/483647/midnight-mania-tko-financial-report-shows-ufc-revenue-over-500-million-in-one-quarter",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793941200
-  },
-  {
-   "id": "ec42415845eb201a",
-   "title": "Midnight Mania! UFC Revenue Eclipsed $500 Million In Q3 - MMA Mania",
-   "summary": "Midnight Mania! UFC Revenue Eclipsed $500 Million In Q3 MMA Mania",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcWpYMURCTk1udjhHcXEtaVBSeXFzZ3V1QVhxbHRmelpKVXhDUDRJTkk0Qlpla1g2STVOWlFrNThhYmhneHFhTVNwbmtKbXpRYUJFc0Y5ajBiVUdTbzROQ0JzWVJCd29VWVZHRXB1VjNHZzJnYkR1c3hZSGtubXk2NGxDM2tBNTdJTVljZnFIV1U3eEhmZjJPUmZIdnlHR2w5cXdxOFEyNlNYYXNuRm53SnVlb25DczZWMENXb0FydFJxV3Z5SVBvVnV3M2hWOWMyX01zU0l5MA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793941200
-  },
-  {
-   "id": "fc350b0996d0440e",
-   "title": "UFC Fight Night - Cortes Acosta vs. Walker MMA DFS Picks & Betting Breakdown - RotoGrinders",
-   "summary": "UFC Fight Night - Cortes Acosta vs. Walker MMA DFS Picks & Betting Breakdown RotoGrinders",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSlFnV29nN29KYnJUWXNlVGdoNnhZOFNXTmdPMzRjS3k4OFJhdERhRGg0UjloMGhTa2pkTXQ4Qzhpa002MkhWVFlHMkRhdjlRWmZtTjlqRjNOUUxmWHRVaDAxcXVPdWlJWUVFR1JhR0RHRzljRHhBaVdMODlhMHh3ZmlmM1hfbTNSTVBQMy01QWRyT2p4bmh4LXVhdEJkVGFoQWpRWjNLVFBRc0U?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793939110
-  },
-  {
-   "id": "a14b8e4ae1e0cf5f",
-   "title": "Vinicius Oliveira-Pat Sabatini set for UFC's Jan. 23 Apex event",
-   "summary": "submitted by /u/443610 [link] [comments]",
-   "link": "https://www.reddit.com/r/MMA/comments/1xp3kzq/vinicius_oliveirapat_sabatini_set_for_ufcs_jan_23/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1793938667
-  },
-  {
-   "id": "509c9523c68ef25a",
-   "title": "How to watch UFC Vegas 124: Start time, Paramount+ stream & full fight card",
-   "summary": "The Ultimate Fighting Championship heads to the Meta Apex for a final time this year on Nov. 7.",
-   "link": "https://sports.yahoo.com/articles/watch-ufc-vegas-124-start-041301674.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793938381
-  },
-  {
-   "id": "3851058878a97dfa",
-   "title": "Carlos Prates says new UFC deal pays him more than $1 million per fight",
-   "summary": "Carlos Prates has opened up about his lucrative new Ultimate Fighting Championship contract.",
-   "link": "https://www.sherdog.com/news/news/Carlos-Prates-says-new-UFC-deal-pays-him-more-than-361-million-per-fight-203518",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1793937515
-  },
-  {
-   "id": "2330ead0f27f7a3d",
-   "title": "Israel Adesanya Loving New UFC Training Camp - Heavy.com",
-   "summary": "Israel Adesanya Loving New UFC Training Camp Heavy.com",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IRV9zbXY4NFF5eWszZFpBY3ZiQURpNXkyczB2Qm5QRXA0ZzlKSmVkMUJmbThuaE81bFdqVnFKOEZ1S0c2V1JoYkpnVGtMZGttTjVTeEV0Wlk3dVRnbXdqYXNvQ0JHQkhzbV9Rem8zYVVORHFyWHZCM1Zn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793935560
-  },
-  {
-   "id": "5386e1aeb9b27359",
-   "title": "Mehemmedali Osmanli reportedly books UFC debut despite ‘TUF 34’ loss",
-   "summary": "“The Ultimate Fighter” finalist Mehemmedali Osmanli has reportedly locked in his Ultimate Fighting Championship debut despite losing in the reality series’ final.",
-   "link": "https://www.sherdog.com/news/news/Mehemmedali-Osmanli-reportedly-books-UFC-debut-despite-TUF-34-loss-203515",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1793934721
-  },
-  {
-   "id": "bcad5e2b95241985",
-   "title": "Opinion: The UFC has a women's MMA problem, but cutting divisions isn't the fix - Yahoo Sports",
-   "summary": "Opinion: The UFC has a women's MMA problem, but cutting divisions isn't the fix Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWl3cEZEUzRENDEtb3phcFFKWmtOa01aV2pGVWVWT1NMcmVKUUd3M296cVZmbmJlUjdQWWc2cmx4TTFmY3NRX29BeVBjMnF4YXQtU0pmdGRzYThPMTE5dlRsOTFWQlN0S2RNZzlpVVZKYUh5TXNjZnh2Ri11b2h4eEpZSUhodw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793934060
-  },
-  {
-   "id": "a48720885346a5b8",
-   "title": "Tainara Lisboa, coach respond to controversial corner work at UFC Vegas 123 - Yahoo Sports",
-   "summary": "Tainara Lisboa, coach respond to controversial corner work at UFC Vegas 123 Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWE9weUlRdVJHemJYVzdkRGFydDV0M2xYbUtXcVFYMnZyQW85R2xQcG45d0FRajY1ZlFQdmoxMjJFY3pGYUNXVnlYSWJiSWxyUXpqbkxLUHFlekRxQUZyelliY05lZHhzTjVpcnp3SUxsZTdrVFNqWG9BU1FvM3hZblNvVEhPbUNMUU5uSFFVZjBiZEM4N0E?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793934000
-  },
-  {
-   "id": "f7545fe27ada2932",
-   "title": "Ilia Topuria reveals who he wants to fight next in the UFC - Sherdog",
-   "summary": "Ilia Topuria reveals who he wants to fight next in the UFC Sherdog",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONUF3QnNSOF8xUWlNeTNvSkNPdWJaSEo0Tnl1aGhMR3RkbXRBMi1tRDdJZGw5SzdGUWd0enA3VnAxTzNiVTQ4TGdRSGEzcloxZXJMU1c2MGhEeTNxbHVwLVN3VDg2M0djV2VBSTBGdV9kTnBpTjdGbTlvcTI4SVdUSWU3c0JFdnN3a21XZWFlcnlST1lfY3N1bWJWalFwRjZ10gGmAUFVX3lxTE5mQTkwYWhzaTU3SVQ2aGI4UFpIYTNESmxsN0RYWXk3SFg1QmNzMzlxNkdQMURDSXdobHpKUnlIRllWbzJKaV9TbnNlbFpDOGFZYlFlZW5PWW5jdmo5Sk5kMkU2R0c3cENQZ051Z2JhTTMwSFg0d3FVWVhJLURmZGt2X2JQUzBPT2k5dkNhNkxQenFaYlcyd0pKZ0tINjRwX0FFbGJQaFE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793933545
-  },
-  {
-   "id": "e05456019b67ae59",
-   "title": "Shem Rock expected more from UFC after fighting injured",
-   "summary": "Shaqueme \"Shem\" Rock believes the Ultimate Fighting Championship didn’t repay the favors he did for the promotion.",
-   "link": "https://www.sherdog.com/news/news/Shem-Rock-expected-more-from-UFC-after-fighting-injured-203512",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1793932231
-  },
-  {
-   "id": "90af0a95535c27b6",
-   "title": "MMA Junkie Radio #3717: Guests Jon Anik, Jean-Paul Lebosnoyani, UFC preview - Yahoo",
-   "summary": "MMA Junkie Radio #3717: Guests Jon Anik, Jean-Paul Lebosnoyani, UFC preview Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWTMtdHQzZUpmbjBtanBzeElmcVdYSG1lTURXTGxHQjlwdUZrQ1d6UzFFekhsbEZsZ0psNmk0QkdkUGk1RXlLMjlrQXhxSW5adk8zc2JZMnJ1U3V4TDBEVEVLSzB1X09PRTRqLVA2Y3pQdWRnV1ZxckNlQ3hPQl9SYzBB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793931660
-  },
-  {
-   "id": "cbf532b51324bb89",
-   "title": "Johnny Walker | Taking Advantage of Every Opportunity",
-   "summary": "Brazilian Heavyweight Johnny Walker Talks New Division, Short Notice Main Event Opposite Waldo Cortes Acosta This Weekend Read the Full Article Here",
-   "link": "https://www.ufc.com/news/johnny-walker-taking-advantage-of-every-opportunity-ufc-vegas-124",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1793931418
-  },
-  {
-   "id": "05d58b349dd96f19",
-   "title": "UFC books Vinicius Oliveira vs. Pat Sabatini - MMA Junkie",
-   "summary": "UFC books Vinicius Oliveira vs. Pat Sabatini MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUJJbktPaHJGMDlNWm1nMThqNVMzNmdMSHg3RTZFaUZydUNRSUpzTS1LNjFBOHlmQVhuRHh3THUyd05mTmhJeHNxMUJDNi1icnE4TXE1dUtORFV6amJ2akJseldKSEpZZ0I5UjU1di1XcDVwNVNqZXRhOFFZYUhoR2lwUUUycXlFWWltNzhBeF9KREJWUjVkYnZSdklGZmJWTGp6N01FSm9CRDl5QkpOMUctNUM?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793928600
-  },
-  {
-   "id": "f971111154b85f56",
-   "title": "Ilia Topuria opens up on loss to Justin Gaethje, calls for Paddy Pimblett in April",
-   "summary": "Ilia Topuria finally lost a fight, and that has set him free to be better than ever. In June, Topuria defended his lightweight title against Justin Gaethje in the main event of UFC White House. Topuria was a heavy favorite, and he won; it was widely anticipated that “El Matador”…",
-   "link": "https://www.mmafighting.com/ufc/519653/ilia-topuria-opens-up-on-loss-to-justin-gaethje-calls-for-paddy-pimblett-in-april",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1793928334
-  },
-  {
-   "id": "7c34aed5b61852c7",
-   "title": "Stephen Thompson announces retirement after UFC 334 fight at Madison Square Garden",
-   "summary": "LAST RIDE",
-   "link": "https://www.bjpenn.com/mma-news/stephen-thompson/stephen-thompson-announces-retirement-ufc-334-fight/?utm_source=rss&utm_medium=rss&utm_campaign=stephen-thompson-announces-retirement-ufc-334-fight",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1793928223
-  },
-  {
-   "id": "28e5888558348263",
-   "title": "It’s been three years since we last saw UFC Vegas 124’s Jonny Parsons ... so where did he go? - MMA Mania",
-   "summary": "It’s been three years since we last saw UFC Vegas 124’s Jonny Parsons ... so where did he go? MMA Mania",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVjU0bnNzMXVVLUVubFA3ajh4YzBidEdkT1UtLTJ4NmMyR3ZWOUNkLVBJby0tbm1pakdMbDNnd0tqcldiWWYzdG1IYkFVS09FZ29JTDlHVi1STHpoQ1dZY01CZXJwQnFSM21GX3dCWGM1X29oNS1xdkI1Z3l0Vnp5MkJIRkJZaEN3ZTN2dU1EWE5fRURObnRfLTVMLU5EOEhQMWRyU0xidzlaNk1sSTE4bExjR3VhcnlLSE5CWjJmaFRkRlFCTjFyakNR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793928180
-  },
-  {
-   "id": "de9f4cd806285713",
-   "title": "Josh Hokit responds after Dana White admitted to giving him unfavorable UFC matchups - Bloody Elbow",
-   "summary": "Josh Hokit responds after Dana White admitted to giving him unfavorable UFC matchups Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUZRQWozaXlTRzhRSHNSOFFLVWVQNmU1UzM4cHEyUjFlVVpyaVJFYTdiYTVxS29Bc0tQeG9HQnBWd0s2WkZFXzhXQlRPa1c3cjgtcDRHelh2aUdMbUpyaFFPZVpreGFpWmk4LWhoVW1LVlV3RVpBNTIxMFpod29IWGF0QkxrS0JSczE4cVJ6aElmczBGOXJrdDd3YW0wdmZiSHhzcWxrbGg4TDZrT2JkMzJsY1JZeXVOei1IWQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793926800
-  },
-  {
-   "id": "94447be132657d83",
-   "title": "Robert Whittaker Open to Alex Pereira Fight at 205 lbs",
-   "summary": "Former UFC middleweight champion Robert Whittaker says he’s open to fighting former UFC light heavyweight champion Alex Pereira at 205 lbs.Whittaker made his 205 lbs debut this summer with a TKO win over Nikita Krylov at UFC 329, while Pereira is currently fighting at heavyweigh…",
-   "link": "https://sports.yahoo.com/articles/robert-whittaker-open-alex-pereira-005506627.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1793926506
-  },
-  {
-   "id": "8ada28c43b71a041",
-   "title": "Ilia Topuria Reveals UFC Comeback Date and Preferred Foe - MMA Sucka",
-   "summary": "Ilia Topuria Reveals UFC Comeback Date and Preferred Foe MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX19Pc0t5dzJ3N195UWpEWk55Q0xEWFg4b3JOMkhzQUNKWEhKV3kwanR6Vkx0cEdKblk0Z0RVbGtJeGJqZTdJZHJQb1M4M0ZwMU9xM1VOMkxCNkptQjRkTVhLc1FVTDFtRTJ6dG1fSm9VMEZTRnpNcmIzYVd2U1RERjJOc2QtVnR2bTRseHlJaEdYR0x3T0hia1RrbE0tdnM?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793925249
-  },
-  {
-   "id": "432f7c17002bd728",
-   "title": "Stephen Thompson to retire after UFC 334 bout vs. Charles Radtke - Sportsnet.ca",
-   "summary": "Stephen Thompson to retire after UFC 334 bout vs. Charles Radtke Sportsnet.ca",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1RDTEZXanQ2WXIwa1FGRGE1VFc1NHBDYm5lM180NjdVejJzQ0IwZmRZbHAwa1NIUFR5MjdUd1pNRDQ4R1VVLXJLaUVhdkdHRVBjcXZoalcwNVJZcmlvWDBzSUZZV0pJY1NIbXBpVkQ0VUlGcXZ3NmcxZlZ6WHRIX09iRmtOLUdKZ3V3WTVaTHc1cFc5RjNHSnhsa0ZTUTF1aVJF?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793924940
-  },
-  {
-   "id": "f3ea642e1defb2aa",
-   "title": "UFC Vegas 124 With Electric Main Card Saturday at Apex - MMA Sucka",
-   "summary": "UFC Vegas 124 With Electric Main Card Saturday at Apex MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2xQVjZxSU56eERneHAyeEhTS1RCUE5JSkhZU1U4MUM0QXdfRTdJdHRJaTB2RUJ4Wld5M3g5WnlFLVE3d1dWT3RBZEN5WDhGNC1ZYk81clNWMzlvbWFfRzZwWkxjNmxCLTRQUnlvTGxBaWFZdVUzd2Y0SlVGN2ttci1wbWprMFJSUkxR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793924201
-  },
-  {
-   "id": "2682c298fa6fcd1b",
-   "title": "Maximize views! TKO reveals talks to expand beyond Paramount+, including UFC on HBO",
-   "summary": "“UFC on HBO” could soon become reality. Ultimate Fighting Championship (UFC) officially moved its entire United States broadcast package to Paramount+ at the beginning of 2026. However, the promotion may eventually spread its programming across several additional networks—includ…",
-   "link": "https://www.mmamania.com/latest-news/484189/maximize-views-tko-reveals-talks-to-expand-beyond-paramount-including-ufc-on-hbo",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1793923200
-  },
-  {
-   "id": "da96dba5476a23e9",
-   "title": "Stephen Thompson announces UFC 334 will be retirement fight - MMA Junkie",
-   "summary": "Stephen Thompson announces UFC 334 will be retirement fight MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ3E5NkJSRVRfWFhock5KVE1NcGl5dDFPQUlzWlpFWmdxRldTd09KYlJKOS1jcWlOZFlNbjlmbkxnVTFHMUlWREdNM3lQa0kwTmhvaGE3TzN2dkx6XzIwYXRMUWNUSXo2RlgyZHFyTUlac3NYZ3ZxbDBCblRKNFBDVl83Mkp1dTZRZ0JrYXhzOEYtR1RMeW9CLVl2QzJqQVA3bEU4TzdGUHR1V1Jxa2NnOXFFQzFQNmJi?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793922600
-  },
-  {
-   "id": "4580ad87190bade2",
-   "title": "UFC Vegas 124: Karine Silva vs. Gabriella Fernandes Predictions & Odds - sports.betmgm.com",
-   "summary": "UFC Vegas 124: Karine Silva vs. Gabriella Fernandes Predictions & Odds sports.betmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0hhR1l5dUVpc1ZzaDBXZk9CZlV3TU1sNXJkOVNGbUVjMU40OFFZUnhhS2ZLbEk4VHhwLTFGYk1sRjdHNXIyQmpxZUZNNzhicjVjQ2k2MXJmZDZCSXFncVRfZUJGUnVoOWhXbjNNU3VPYTM3Qzd4TzVycTYtQkVRVE5vWk45bHVDMVZ4cHFqS0xSaU9Zdkxnam13enBTMlM5dGV0bHFR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793922081
-  },
-  {
-   "id": "4e4660e892d8f2c5",
-   "title": "UFC Vegas 124: Mantas Kondratavicius vs. Andre Petroski Predictions & Odds - sports.betmgm.com",
-   "summary": "UFC Vegas 124: Mantas Kondratavicius vs. Andre Petroski Predictions & Odds sports.betmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWQ1ZGZEXzdKaTF1NmdfVTZybXJIa1VKSGRLZWV0aUJSQWdETlNFN2FWQlRtS3ZyM0xaUUpITTlMVmpRMU0wX2VDMF9BTms5LXlGQ2Mzb2UtYjBfYkViS2RMYjhjVjd6bEdxR2RVdFlHcXlISy1kaC1ZY0RKcnozaXJIZV9WQ0RncElxWnd5QzA0WWRfY3NCMGlNYThDVjUybVlacFh1MWd4elk?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793921358
-  },
-  {
-   "id": "70f2ce6f3f7205f3",
-   "title": "UFC Vegas 124: Seokhyeon Ko vs. Wellington Turman Predictions & Odds - sports.betmgm.com",
-   "summary": "UFC Vegas 124: Seokhyeon Ko vs. Wellington Turman Predictions & Odds sports.betmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0t2dmNxbGo3TS1IZ2RmODFtZEZTd0hoRjNNNzlUOHNLTXpHZ3JhNjdPcDhuMkJnWkxweDBuU19WNVVFMUVWZDhFS094QlROcy1Fc2tuQXlzbjNUT2xfN0NLSkJCeEZPaGpGUkRaUDhpX2xHeDRKMEMwWjdQd1FwWmc0YWRtbldGZlRWcHdlRDQtRHFyWGZra2hqZnBUaExvV00w?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793921238
-  },
-  {
-   "id": "612c27d2b9789540",
-   "title": "UFC Vegas 124: Billy Elekana vs. Lucas Fernando Predictions & Odds - sports.betmgm.com",
-   "summary": "UFC Vegas 124: Billy Elekana vs. Lucas Fernando Predictions & Odds sports.betmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3hkYmV2cEVMbS0wdUhlNFNGOVlWM2R5LVJfRE5VTVM0emtBdEpFbTY4TVhvamtISk1MMjFmSVZjcTlfLXdUNHhuQUVZMmc3bVJWMHE0alFlbnhRRjVpODdOR2lZQUpVUE5LeXZOSHVhYnF1NHZpbUtzeG96Sm9RTzVBa0VuZFc2S0JJOE9TcEQ3ek9UMGdJeUl3MHhRQkc1?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793921238
-  },
-  {
-   "id": "ab50e7bebb5e96fa",
-   "title": "UFC Vegas 124: Tatiana Suarez vs. Virna Jandiroba Predictions & Odds - sports.betmgm.com",
-   "summary": "UFC Vegas 124: Tatiana Suarez vs. Virna Jandiroba Predictions & Odds sports.betmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEx6cWxPX29NQjdPV285UzFJUll5bUU4LWh5NzJsV2g0Q2dmR0tfazRCSEdWQ3A1eG9WS0FKS2JPQ1RzSE1HSFpZczBjUW1wWVlIcDU5bWpsRUJTZGJVanRGdFp2OXNySDBIN1N3bWJTWHdadkd4aldtOEJuY05wbW5EVlh4bkl6eWZyR1d3TmIyZWZEZmdDbDV0cDdVTDI5Yms0?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1793920876
-  },
-  {
-   "id": "ad1f86ff1095ad8b",
-   "title": "Carlos Prates: 8-Fight UFC deal guarantees MORE than $1M per fight. Outlines plans for those fights. \"I'm addicted to winning.\"",
-   "summary": "‘The Nightmare’ has his sights set firmly on the belt, which he fights for at UFC 336 in January, opposite undefeated welterweight phenom Michael Morales. “Do I want a big money boxing match? I really want the UFC belt,” Prates said. “I really want to see how it is to be UFC cha…",
-   "link": "https://www.reddit.com/r/MMA/comments/1xoxhfs/carlos_prates_8fight_ufc_deal_guarantees_more/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1793920824
   }
  ]
 }
