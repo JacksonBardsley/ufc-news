@@ -1,6 +1,555 @@
 {
- "updated": 1794381270,
+ "updated": 1794410401,
  "items": [
+  {
+   "id": "f51e915f89e0ebc2",
+   "title": "Jon Anik Signs Multi-Year Extension To Remain The Voice Of The UFC - Sportsnaut",
+   "summary": "Jon Anik Signs Multi-Year Extension To Remain The Voice Of The UFC Sportsnaut",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yc2pBVjRYcFZSWEZFMnhxVjVlY1llYzAzOUpUcTNUcVFUdGpGb1NkVnU3c3ozZHdSWlRaSm54dkVHa3VCVGhPVmt6eF9YZTg4OXZIb2JPelB0SnpaZGxlSUh5Y1Q0OC1CSUJIeXJaQXBYZVhuYWlRcE5tcw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794410298
+  },
+  {
+   "id": "190dbdcf1d389905",
+   "title": "Stipe Miocic predicts Ciryl Gane vs Josh Hokit and reveals key to UFC title fight - DAZN",
+   "summary": "Stipe Miocic predicts Ciryl Gane vs Josh Hokit and reveals key to UFC title fight DAZN",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFhHSzQ3RldnLUdGMjljUmlEZFNhTlo1WGFReXhTXzFYM2pOelJUeHQtWUVMOTdFdjRUWnMxaTljdnZ1N3F2MS01V1ItMUtNbmpMY0pxWjdCYi1FS2pTeGZQM25SY2xnUnN2VlRDMXVCdGxoWWJlUGVuVVFrWWRUcEIyaVJiZVZRRU5mNmgxQUVacVJSU0VRVFA3bGVaODNOS2I0SHo3MEJiT1NpbTYwdGVzR2Radlh0ajYyRw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794409838
+  },
+  {
+   "id": "a4f8fd8f2c208b6a",
+   "title": "UFC is dumping ranked contenders and ignoring free agents — but just locked up Jon Anik for another long-term contract",
+   "summary": "It seems like fighters are a dime a dozen these days. The promotion is dumping ranked contenders like Norma Dumont and ignoring free agents like Elijah Smith, but when it comes to the voice of the brand, UFC is hanging on to longtime play-by-play man Jon Anik. The former ESPN Ra…",
+   "link": "https://www.mmamania.com/ufc-programming/485466/ufc-dumping-ranked-contenders-ignoring-free-agents-locked-up-jon-anik-long-term-contract",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794409580
+  },
+  {
+   "id": "7a3bc29e44e56685",
+   "title": "Jon Anik Inks Long-Term Contract Extension With UFC - MMA Mania",
+   "summary": "Jon Anik Inks Long-Term Contract Extension With UFC MMA Mania",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1pjOHdPd21RSVdHd2NIRDM1eGRUOFQyQ2k4ZUJQQ05xQnBTQUNpVjRVakh5eFdQTU8tQXROYlZYWVVvYU5fcWJRUFdNSzNQeWZhRnhzNWZSbTd1Q3JxeFdHY2JiMURWMnpNNXhXN1A4N3B3VmJtOHhXWVhITU8zZTJ2RHNzZm9zcU1pVjNRYkNRNVVad3V5NnR2YVZlRTZkbUN6TmlEZFFtOHUya1dCa094M1hiODlCLTA2NXl2X2pYZnlUWFF1TGtmS2F5QVp0Y3c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794409580
+  },
+  {
+   "id": "81bb2c7275827994",
+   "title": "Ciryl Gane, UFC Freedom 250/White House media day interview - The Lufkin Daily News",
+   "summary": "Ciryl Gane, UFC Freedom 250/White House media day interview The Lufkin Daily News",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeEt6WnVBcERxbU1JWVhyN09lWnp6YzJzaUF0V1NSSTZhZDVxZ2k3ZEhMTUg4MFQ3XzVIUXplV3lhaGFrTjBsb2pncnN3MXpaeV96MW84X045SEpTd3pQNDdkVUhtU25ncl8zVklid1loMnllTUJRNlhaNEppZHBkZld1WUZtbHg1WHBBTnNIeEF5S05VdzV4SzA0NDM3RzRGZ0p6Ulo1UE9CNFBWVVhpeWoyNnRlV3IzOXlhSnBRZWp5cXZOQmVnTU1RU0ZmcGxieDQ1MHpVNnBUU01qdldPVkI2UzgyT0ZKRTMwOA?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794409274
+  },
+  {
+   "id": "f5b6a0e8d16fa55e",
+   "title": "Video: 'UFC 334: Gane vs. Hokit' media day live stream - MMA Junkie",
+   "summary": "Video: 'UFC 334: Gane vs. Hokit' media day live stream MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUxqSzhabm9Qd2IxSXcyczVRY0x3bUlSUldHVjJZbU9RaUNFdEs4dmxqV2ZTeHBDUTNBcFUzWHQwamtGWXJGVzFKYmhCVTI0YXFJVlpDaWpMdjJCem5jVUljdGxGc1pVaG1QTkMyUFpyR0dJRUtaNWRXRGdLSE9maWt2MlN1SFdiWDEtNWQ4anpzVDY2dWRZUUhJai1vNEFuYXNFWjUzZjd5cXRHNWkyd0R1Y29ia294TDdqVlVn?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794409260
+  },
+  {
+   "id": "6beabf6ae351a5f5",
+   "title": "UFC Collect by Topps App: NOW LIVE",
+   "summary": "Build, Trade, And Grow A Digital UFC Collection With Fans Worldwide Read the Full Article Here",
+   "link": "https://www.ufc.com/news/ufc-collect-topps-app-now-live",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1794409200
+  },
+  {
+   "id": "5e9d3d9b4e01a251",
+   "title": "Watch Josh Hokit train blindfolded to prepare for eye pokes in UFC 334 title fight with Ciryl Gane",
+   "summary": "Josh Hokit is making sure he’s ready for all scenarios at UFC 334. The undefeated heavyweight challenges Ciryl Gane for the undisputed UFC heavyweight championship Saturday night at Madison Square Garden in New York, and posted a video on social media in which he trains blindfol…",
+   "link": "https://www.mmafighting.com/ufc/520488/watch-josh-hokit-train-blindfolded-to-prepare-for-eye-pokes-in-ufc-334-title-fight-with-ciryl-gane",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1794409200
+  },
+  {
+   "id": "ab6e7eb733f7f38f",
+   "title": "Amanda Nunes vs. Kayla Harrison marks a true UFC women's blockbuster - Sportsnet.ca",
+   "summary": "Amanda Nunes vs. Kayla Harrison marks a true UFC women's blockbuster Sportsnet.ca",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2RST2hwMnluU2NBS1RoMGh1SG1TN0hnRnJXcE5ZQXpRNndnRkV1SEdEZGtUQVNiWlZDZDVrRkRFM3h2YzNDVk9VZV9jbkNrbEl1c0prY2U0Yk1kUjNhQVhCalVfYXEtRmpRZTA2NkthWGhpTmhCeFN1V093aXFndmwwQ3ZNZ24tRmYyeHo5MTFuUHVRSU1iSkRWTU0zeEx5XzNKRDFwOA?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794408960
+  },
+  {
+   "id": "f2841b6dd2b699f5",
+   "title": "Josh Hokit Sends Blunt Warning to Ciryl Gane Over Fouls Ahead of UFC 334",
+   "summary": "In less than a week, Josh Hokit will get the opportunity to complete his remarkable rise through the heavyweight division when he faces Ciryl Gane for the undisputed title at UFC 334. However, his title shot has attracted plenty of criticism, with many questioning his credential…",
+   "link": "https://sports.yahoo.com/articles/josh-hokit-sends-blunt-warning-144925861.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794408565
+  },
+  {
+   "id": "d21477ec6766d925",
+   "title": "Chidi Njokuani vs Ignacio Bahamondes set for UFC Dallas on January 16th.",
+   "summary": "submitted by /u/airplane231 [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xtjmqq/chidi_njokuani_vs_ignacio_bahamondes_set_for_ufc/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1794408505
+  },
+  {
+   "id": "b2e1c2fde07c0d52",
+   "title": "Rising Star Reveals Surprising New UFC Contract Policy After Undefeated UFC Run - Sports Illustrated",
+   "summary": "Rising Star Reveals Surprising New UFC Contract Policy After Undefeated UFC Run Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUh5RTdCanJrcDhlYmdMRHdSTHB1ckg5c2ZnTHRYMnVGeVZpM0I4UHlDelBXc3FYTlFpSkVWbk5lUnhJc01wSFd0Q1VTTXEyWEM0UDlMRGtLTS11UlNkUnluRWt6NTNrYTYzMFlkLURBT2lGQVprc3NiM2ItWmdnZzB4aFdJZXB0cFc0bUhPcGs0X0VLWW42UzR0akVIdXAwanJvd1NfQ29sVDJwV1FMTFhlbzBSTURL?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794408381
+  },
+  {
+   "id": "8bdb19cc5e3e6a16",
+   "title": "Johnny Walker Just Jumped Ahead Of His Brother In The UFC Rankings, And Valter Has Won 5 Straight By Submission - Yahoo Sports",
+   "summary": "Johnny Walker Just Jumped Ahead Of His Brother In The UFC Rankings, And Valter Has Won 5 Straight By Submission Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVJfS1NTTHBVLXNzTzNCSVhxZDExVEZsQTFfa0JXWDFxY29rR0xzRHFrNWMzNHRnbkdva1pZRHVBWUNhM2R1c19hanpuSHR2dlRIcGpOVnFoSE1LSmhVT21URnkxOE1Ob1d6Z256MEd0dGJWWFBUX3Z2Q1Z0UUtJbzk1R1BnUUU?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794408325
+  },
+  {
+   "id": "96f293626928b72b",
+   "title": "UFC Rankings: Johnny Walker Enters Heavyweight Top 10 After KO Win - Forbes",
+   "summary": "UFC Rankings: Johnny Walker Enters Heavyweight Top 10 After KO Win Forbes",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWmRlTExPYTBqd1BTSi1sWVpUVGVoZGhlcFREOEh3NjVGcjdyTlA5VXFyZUctZjg2QnNVenhYNmxmaG1lMGg1aGFtcXRUNTBteTV0T3VSRmVVZ3VlbV95UXpGaHBIMTA5YlVaOF90NlE0R1VyQ1JodXluSS1CZy1PZHF0NVJhTXk1XzdYVU44VGtfQzgwOHFMMW9hZ21SNG1yYl9QekoyRWNBZF9uTHZESUNsVGp5aENuWFl0WTRHZ1hrcDhyN2wxSGxzaVFHSmM4M0Nyb1ZwQm5UTEc1UklVWHZSUnVvZkU0R0daYTlUcl9DTlJnaGJF?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794408325
+  },
+  {
+   "id": "0833a8ab8e5c4951",
+   "title": "Jon Anik Re-Signs With UFC - Heavy.com",
+   "summary": "Jon Anik Re-Signs With UFC Heavy.com",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VWjFmckd6MTcxR0VxbEJQeFI3bTd4WWJYV2R0NTlSb2FVckY1QWxkeGVISGRtQmFDUzBIUjNqbWtzazJWdDcwZWlXSFVLOFNFazJFTjFONlBqdnVTdEdyQk1XZ1kzcVU?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794408173
+  },
+  {
+   "id": "538f1c2cc67e7d89",
+   "title": "Ciryl Gane details how Jon Jones loss proved to be UFC career turning point",
+   "summary": "Losing to Jon Jones had a different kind of impact on Ciryl Gane.",
+   "link": "https://sports.yahoo.com/articles/ciryl-gane-details-jon-jones-144027945.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794408027
+  },
+  {
+   "id": "bcb6b6aaf85cbb0f",
+   "title": "Bilal Hasan: 'This Is What I'm Meant To Do' | Polymarket UFC 334 - UFC.com",
+   "summary": "Bilal Hasan: 'This Is What I'm Meant To Do' | Polymarket UFC 334 UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9yLWk5XzRBSWhVZGQ5WDNDamc4UUJSZXJVTm1Lbzk3dzNKSTgzOXcta1NWWVdOOFE0LXlEbkhEYlFpODVQa0xR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794407517
+  },
+  {
+   "id": "9f46d40348c6c2be",
+   "title": "New Deal, Final Chapter: Kevin Holland Sets Hard Expiration Date on UFC Career - MMA Sucka",
+   "summary": "New Deal, Final Chapter: Kevin Holland Sets Hard Expiration Date on UFC Career MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcDZkakRIMklib3NVaW11RzRKRWRLYnZRZFI3OXFVdkJfVjBMUlg0VkNOWkRlSXE4ZXdLdlRxQms4MTFrbXlxakVJdnBhWmxGUW9PNmlDUl9TcWhPdV92ZnNlSU00dUducjlwdHhKUlE2Y0RjNkRUMGhxbG5YUnFnNGc3bS14cFdrQ2EtRGFrRDNWRVVGamRHR0s4bXkxMER1YmNTTnZB?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794406099
+  },
+  {
+   "id": "db98e78578deab25",
+   "title": "UFC 334: Stephen Thompson has \"no regrets\" ahead of retirement fight - Yahoo Sports",
+   "summary": "UFC 334: Stephen Thompson has \"no regrets\" ahead of retirement fight Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWFViNDUyblVUa3ZOaDhaMjFiVjM0TEFoWmx1UUkyRzEtRlBZUjhtV0t3T1hEdWdRUzFFZ1Ftb3hxTlg2bVZoNXB5aUdJaS1xZGRYSnZTRndNajVqS2lUN2piY0FtMnY3YVBkSnBhRklQalNBc0szUVlZeG1EYkE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794406062
+  },
+  {
+   "id": "db6ed7182c19f61c",
+   "title": "Kayla Harrison’s coach downplays past experience with Amanda Nunes playing any real part in UFC 334 fight",
+   "summary": "As Kayla Harrison prepares to face Amanda Nunes in the UFC 334 co-main event, a lot of the focus for the fight is going to center around them previously training together at American Top Team and even sharing the same coaches at times. But Mike Brown, who previously coached Nune…",
+   "link": "https://www.mmafighting.com/ufc/520437/kayla-harrisons-coach-downplays-past-experience-with-amanda-nunes-playing-any-real-part-in-ufc-334-fight",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1794405600
+  },
+  {
+   "id": "0adfb93a118644c9",
+   "title": "Gregor Gillespie: The forgotten UFC lightweight prospect - MMA Sucka",
+   "summary": "Gregor Gillespie: The forgotten UFC lightweight prospect MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sNGlRQUR0MWJvcWVwNGcwYzZTRTNPaHVHVEhWR1RMYmpmVHp5SjhTVVRFUFh4UjFEVi14SHJkYVVXc1k1aHBYOUNyTUZ6dGIwX1k0RG5FcDVxbWtISTBvSWtqQnFxcTVJbTM1aTZSUXdpMEpzd0E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794405500
+  },
+  {
+   "id": "bb527e8d20ecc5b7",
+   "title": "Bilal Hasan vs. Luis Gurule: Odds, full fight preview and prediction | UFC 334",
+   "summary": "Ultimate Fighting Championship (UFC) Flyweight sluggers Bilal Hasan vs. Luis Gurule will clash this weekend (Sat., Nov. 14, 2026) inside Madison Square Garden in New York City, New York, for UFC 334. Undefeated Hasan is one of 2026’s hottest signings and brightest prospects. The…",
+   "link": "https://www.mmamania.com/ufc-odds/485094/bilal-hasan-vs-luis-gurule-odds-full-fight-preview-and-prediction-ufc-334",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794405300
+  },
+  {
+   "id": "98e891e6ff1a3411",
+   "title": "Caio Borralho vs. Yousri Belgaroui: Odds, full fight preview and prediction | UFC 334",
+   "summary": "Ultimate Fighting Championship (UFC) Middleweight standouts Caio Borralho vs. Yousri Belgaroui this weekend (Sat., Nov. 14, 2026) inside Madison Square Garden in New York City, New York, for UFC 334. Borralho has been circling around his first title shot for a few fights now. Th…",
+   "link": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/485406/caio-borralho-vs-yousri-belgaroui-odds-full-fight-preview-and-prediction-ufc-334",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794405300
+  },
+  {
+   "id": "163398162100a6f4",
+   "title": "Francis Ngannou Lays Claim to UFC Heavyweight Crown Ahead of UFC 334 Title Fight - Sports Illustrated",
+   "summary": "Francis Ngannou Lays Claim to UFC Heavyweight Crown Ahead of UFC 334 Title Fight Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW8yenpHMkdDajROZWlvM2daM1BzOTFlNFVneUFaUjNQQVVvMVlNbHRITlhjcTNzeFhndmVubmh1cHM5bUp0S2E2dnkxbDhfYlRkMWZrLW5jb1l1cHJabFJhZFVPVUd4dFJkTjRDa0N4a0V1MEFLZ2xTLXliYUJJaU5IcVdyYkFPTWhJYWJGUnNJNi1zejdWeDBwQVg3RmZ6ZzA5UGVKSk1XS0tsclBQdTcwSmZ5QQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794405269
+  },
+  {
+   "id": "99463c4de6aa3ec4",
+   "title": "UFC 334 | Pro fighters make their picks for Kayla Harrison vs. Amanda Nunes title fight",
+   "summary": "The UFC heads to Madison Square Garden in New York City, New York, for UFC 334. In the co-main event, Kayla Harrison defends her women’s bantamweight title against Amanda Nunes. Heading into the bout, Harrison is a -196 favorite while the former champ is a +152 underdog on FanDu…",
+   "link": "https://www.bjpenn.com/mma-news/kayla-harrison/ufc-334-pro-fighters-make-their-picks-for-kayla-harrison-vs-amanda-nunes-title-fight/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-334-pro-fighters-make-their-picks-for-kayla-harrison-vs-amanda-nunes-title-fight",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794405232
+  },
+  {
+   "id": "fc5681eb4965387d",
+   "title": "Samuel Sanches puts Chasen Blair out cold, he fights Evan Elder this weekend at #UFC334",
+   "summary": "submitted by /u/mabros26 [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xti9be/samuel_sanches_puts_chasen_blair_out_cold_he/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1794405104
+  },
+  {
+   "id": "39fe7a80d1512401",
+   "title": "Does Kayla Harrison have too much to overcome vs. Amanda Nunes at UFC 334? - MMA Junkie",
+   "summary": "Does Kayla Harrison have too much to overcome vs. Amanda Nunes at UFC 334? MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVFJkVWNQMEVuNnRaMTNMWkJibEJvd0hxQnl6b0ZzUzRBU1hRVTUxN3Z6V2U4NG1hR1RMVHoxOGx6eENTR21CTEN6ay1JWHAzcXdYZVJOaDlNbHBlcms3UGxzaWhtMU1UUFVkTUdBN2t1ODlaU1pLU3ZydFFtZjRXTkhDcGhmSTFtQTg5YXlMZnM4N0RXSWtwaWRfZUtzb2JOa1ZxQnZvZGozXy1rMUlaQnJFUGxQUW1fRFdpTEQyUmZKT00tNW5EVmVuMlNJVUl3MmJQRGtmempoZFRUTVRkLTJ3YzBiZXg5YmJRX0RkTng?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794405000
+  },
+  {
+   "id": "9880c554370dd2b3",
+   "title": "Amanda Nunes Details Burnout and Mental Health Struggles Behind Her First Retirement in 2023",
+   "summary": "Amanda Nunes is finally preparing to make her long-awaited return to the Octagon, with Kayla Harrison standing across from her at UFC 334. The two were initially scheduled to meet at UFC 324 nearly 11 months ago, but their showdown will now see the Brazilian attempt to reclaim t…",
+   "link": "https://sports.yahoo.com/articles/amanda-nunes-details-burnout-mental-134750084.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794404870
+  },
+  {
+   "id": "aa72a0a484ab0229",
+   "title": "UFC 334 Preliminary Card Betting Tips - MMA Sucka",
+   "summary": "UFC 334 Preliminary Card Betting Tips MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MNndhdlREMmwwc2hwRUhad0QxLUdFX1A5QVZPc1hZY2Jpb2RidEE4U2NYYXZheG1oSXBIU2EwZF9LZDI4aDlHY1NJQ3NmWVRVdUhOdjFlbktnQ2NjbGhOS1M4Slo0X3hBMExYbGZpaXU2QQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794403412
+  },
+  {
+   "id": "d3a06b0df3d7e80d",
+   "title": "Free agency the new norm? ‘They’re not doing anyone’s contract outside top 15’",
+   "summary": "We could see a lot more UFC fighters hitting free agency in the future. It used to be a rarity to see a fighter fight out their contract and enter free agency. The general policy was to see fighters sign a new deal before competing in the final bout on their existing contract. N…",
+   "link": "https://www.mmamania.com/ufc-news/485438/free-agency-the-new-norm-theyre-not-doing-anyones-contract-outside-top-15",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794403135
+  },
+  {
+   "id": "62dde7b009202321",
+   "title": "UFC 334 Odds: Gane Vs Hokit, Harrison Vs Nunes Best Bets At MSG - RG.org",
+   "summary": "UFC 334 Odds: Gane Vs Hokit, Harrison Vs Nunes Best Bets At MSG RG.org",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2Y2ZnFlRVhXaE1JWHBlSWZQUVVBSkpzZTJLeDg0LU9HS2lfVVZfZnJmd3N6UEt6cWx5LXZ0S04yMnhxS0lzbXJWcHdJNC1qUEV1eEJ5MU43ZF91bE95Y0JiQmh6OFBsOFhhMnVnWEltb1lzZHNkWThIaVhvajRLTHo1d0pid3JfWVZISndHT1cwaTQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794402857
+  },
+  {
+   "id": "1ee45746c732e88b",
+   "title": "Sean Strickland Believes Josh Hokit Can Exploit the Same Weakness Jon Jones Exposed in Ciryl Gane",
+   "summary": "In just a few days, Josh Hokit will step into the Octagon against Ciryl Gane with the heavyweight title on the line in the main event of UFC 334. The Madison Square Garden headliner is quite a leap for the American, considering he was only the second fight on the UFC 324 card le…",
+   "link": "https://sports.yahoo.com/articles/sean-strickland-believes-josh-hokit-130918813.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794402558
+  },
+  {
+   "id": "9d9dfd9878c98a97",
+   "title": "Jose Souza calls out Jean-Paul Lebosnoyani after UFC Vegas 124 slick KO win",
+   "summary": "Jose Souza's knockout to open the card at UFC Fight Night 293 was the kind that leads to proper callouts.",
+   "link": "https://sports.yahoo.com/articles/jose-souza-calls-jean-paul-130055707.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794402055
+  },
+  {
+   "id": "8cd2ae986ee02cc2",
+   "title": "Morning Report | Amanda Nunes thinks Ronda Rousey still refuses to discuss UFC 207 loss: ‘She never say my name’",
+   "summary": "Amanda Nunes wasn’t expecting a call for a Ronda Rousey rematch anytime soon – especially with Rousey seemingly ignoring they fought altogether. This Saturday, Nunes returns from a three-year retirement to challenge bantamweight champion Kayla Harrison in the co-main event of UF…",
+   "link": "https://www.mmafighting.com/ufc/520300/morning-report-amanda-nunes-thinks-ronda-rousey-still-refuses-to-discuss-ufc-207-loss-she-never-say-my-name",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1794402000
+  },
+  {
+   "id": "de29cd65df65728d",
+   "title": "New UFC signing leaks plans for first European event of 2027 - Bloody Elbow",
+   "summary": "New UFC signing leaks plans for first European event of 2027 Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmhuODgzWHV6QUpNZ2NMNmFlRTlzVWtyQ2tQYUtKX3BSSEhMWkdMbnIxdmdCcTRPN3A5ZkZiQXdUTnJ2Ymo2cjA4QjZFU0tuVEdsRzh6R2FCaUp6dGtWMUxzVFUwZUZvRDNJVkR4MmFLNHFVMTlDaG15WWlpXzd5a29OTkl5LXhjSG5WcEQ5Nk1XSFZuSG1PSXNqX2c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794402000
+  },
+  {
+   "id": "59aa1f72d50793c1",
+   "title": "UFC Shockingly Releases Another Top-Ranked Fighter After 13-Fight UFC Run - Sports Illustrated",
+   "summary": "UFC Shockingly Releases Another Top-Ranked Fighter After 13-Fight UFC Run Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX2diWjQ2NHFsSmdjYWZiV2x3d0h2YlBOLWRXYlpoMXNWZ2xaYUVGLUlmRVM4Q0NQdTRvUG1rQlRTa3ctV3JBS2ZJdU92Z2JQSDdFRUI4WDk5NlFBVUxtcUJ1N05DN3llWlFJTk94M0xKTXdaZ2JNR09JSE0xbWI2TjhyNUdYNENEcFhidlA5U056QUN5RFl0UFlhaDBLQQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794401786
+  },
+  {
+   "id": "ff292707d9bc44bb",
+   "title": "UFC 334 Odds And Picks: Gane Vs Hokit, Harrison Vs Nunes At MSG - RG.org",
+   "summary": "UFC 334 Odds And Picks: Gane Vs Hokit, Harrison Vs Nunes At MSG RG.org",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY1B4aUdjNWNEalBDc3cxYTVpRVpZMEVqOWN1al9hX0pKVUN3YXFXazJwOTVabVVNemFuanhlTlNIWlhIZlFlSXhuclZERUx0QjF4TjU1aEpadURNNFBjbnNLRkh5VGJuanRZeFV6RVJNaHdIaE8xd2lRaWdoa1hrY3VHdXRNVll0QTVfdkYxX0FKZw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794400183
+  },
+  {
+   "id": "45d75fc1e2db4ce5",
+   "title": "Khamzat Chimaev mocks Colby Covington after UFC rival withdraws from wrestling showdown - DAZN",
+   "summary": "Khamzat Chimaev mocks Colby Covington after UFC rival withdraws from wrestling showdown DAZN",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdmczeFpOWW5OUEJXamw3eDFXQ3J3OVV6Q0pUSVNiU1Q1T1JWU2xuLWM4UEdCZW8yNVkzeHphTkdqM1UwZXM2SHlJNzJaekJaZk44R1FLUGpkWmxyZGhRczBqcEYtSGt5bkJIQ00xUVlKWmp0Z01UWnR2T0JLX3hmMWtPUHJCRlJqTDFEeW11SkNnNHdrVHJoWkstZmVtT0hPZ1ZHSzB1QUhtUDg2cG12SWlWUGxXWllEb3ZkUjJ3S0pPMzQwR3hlNVZOTnMtMVhBMzFVVW5FTQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794400160
+  },
+  {
+   "id": "5bf2b11ae4aa1edb",
+   "title": "Johnny Walker Faces an Interesting Challenge Following His Brutal Knockout Over Waldo Cortes-Acosta",
+   "summary": "Johnny Walker has made the successful jump to the heavyweight division, securing two straight wins and performing like a top contender. Walker's latest win over Waldo Cortes-Acosta has put him at eighth in the Meta UFC heavyweight rankings and given him an argument for a title s…",
+   "link": "https://sports.yahoo.com/articles/johnny-walker-faces-interesting-challenge-122504393.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794399904
+  },
+  {
+   "id": "d0d91b8a38c3d71f",
+   "title": "Kevin Holland sees the end of the road coming into UFC 334: ‘We’re almost done, 100%’",
+   "summary": "Kevin Holland returns to action at UFC 334 this Saturday at Madison Square Garden where he takes on Serbian knockout artist Uros Medic. This will be Holland’s second fight of the year, which isn’t a lot compared to 2025 when “Trailblazer” fought a wild 5 times, going 2-3 over th…",
+   "link": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/485434/kevin-holland-sees-the-end-of-the-road-coming-into-ufc-334-were-almost-done-100",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794399728
+  },
+  {
+   "id": "8f1842654b6a480d",
+   "title": "UFC 334 Main Card Betting Tips and Picks - MMA Sucka",
+   "summary": "UFC 334 Main Card Betting Tips and Picks MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOE1jdDV1aVhyaThEeFYyMUp6emVlUHJWM1ZuQUVERkRvUTdMaU5GOXpFc0ozVldVZ0hZaElxcmFQNjN5VmdzZkVReGxiSmEyWnAwSmZEc1FGcUI3SjdwT3hsOEIxQzdJQl9FZ2JB?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794399551
+  },
+  {
+   "id": "66dcb87133e9c15e",
+   "title": "UFC heavyweight rules out fighting training partner Alexander Volkov",
+   "summary": "Not happening",
+   "link": "https://www.bjpenn.com/mma-news/johnny-walker/ufc-heavyweight-rules-out-fighting-training-partner-alexander-volkov/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-heavyweight-rules-out-fighting-training-partner-alexander-volkov",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794399248
+  },
+  {
+   "id": "eff60de1ffb0aed4",
+   "title": "UFC 334 Sees the Return of Two First Round Specialists - MMA Sucka",
+   "summary": "UFC 334 Sees the Return of Two First Round Specialists MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjRZXzg0Q0lpX3BCMTFkWENYcW9MMnZCd21NbUVRb2hvVlg2OEFMZF9FZ0ZFZUEtaHNVOEYzakVldnZERzc1YTJ0MVBqOFFzV3dCYnFrSnpBUG1JamxCU21TRGFJSkVBUW11U3k4OFhoaWhYXzBMdWlVUi0tdUhCLU01NTJKV3RuSjZhanpR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794399199
+  },
+  {
+   "id": "8cb72f446ff2de45",
+   "title": "Dana White and the UFC Have a ‘Baddest Man on the Planet’ Problem Heading Into UFC 334",
+   "summary": "UFC 334 will crown a new heavyweight champion, but does winning the UFC title still mean you're the baddest man on the planet?",
+   "link": "https://sports.yahoo.com/articles/dana-white-ufc-baddest-man-121100577.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794399060
+  },
+  {
+   "id": "bb2539728c769ab3",
+   "title": "Sean O’Malley wants to see Josh Hokit become UFC heavyweight champion",
+   "summary": "The pressure is on",
+   "link": "https://www.bjpenn.com/mma-news/sean-omalley/sean-omalley-wants-to-see-josh-hokit-become-ufc-heavyweight-champion/?utm_source=rss&utm_medium=rss&utm_campaign=sean-omalley-wants-to-see-josh-hokit-become-ufc-heavyweight-champion",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794399009
+  },
+  {
+   "id": "121e90775a0281ef",
+   "title": "Ciryl Gane continues to reject fouling criticism ahead of UFC 334",
+   "summary": "The talk continues",
+   "link": "https://www.bjpenn.com/mma-news/ciryl-gane/ciryl-gane-continues-to-reject-fouling-criticism-ahead-of-ufc-334/?utm_source=rss&utm_medium=rss&utm_campaign=ciryl-gane-continues-to-reject-fouling-criticism-ahead-of-ufc-334",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794398685
+  },
+  {
+   "id": "efcfb8c5f89d732a",
+   "title": "Maycee Barber Withdraws from UFC 335 - Adds to Unwanted Record - MMA Sucka",
+   "summary": "Maycee Barber Withdraws from UFC 335 - Adds to Unwanted Record MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vM2dvQ1VvREZaeTZld3VtcWo1akZjT3l2clc5MXRxZk95aW0yb3V0RzNzM3laM2xCc3YyNVFUZlUwM1ltdkFzZW5YcDJLSkI3WHJkZGtPOWZudlAyVkxBazVfdWs1cjNYaEMzM25waS0?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794398481
+  },
+  {
+   "id": "a3f2585f8de7bdab",
+   "title": "Joe Rogan leads UFC 334 broadcast team featuring MMA royalty - Bloody Elbow",
+   "summary": "Joe Rogan leads UFC 334 broadcast team featuring MMA royalty Bloody Elbow",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUjR0alpTazZ4MmI5RkJsbFZuMzhhcDdXX05zUVAwRVlrNVV3UnhseVM3LWJPQkJKUHdYQjY4R3pFQWxEVXkzUGQ3SXBUYWh4bTVITkNiV2lMZmpBUTExNkpVeUtxQXdZM01NemZVYUtyeG9TaVI0U0taRlo3a0c5cDJkZFRVQVBDdGZzZkpVV19ITkVyYWtrcUR6elo?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794398400
+  },
+  {
+   "id": "2bfbda3452dbf09a",
+   "title": "\"I’m Not Gonna Play It Safe\": Josh Hokit Reveals The Madness Behind His UFC Persona - NDTV Sports",
+   "summary": "\"I’m Not Gonna Play It Safe\": Josh Hokit Reveals The Madness Behind His UFC Persona NDTV Sports",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVllWVGNvSGFlQTJlbm5KSUJ2azdyQ1VZTHNGOE02aHFzLW5CQVVHRmU4Ym9SOG95Z3VoMkJ2S0gtS0VvR1lxWm5xcUZzejMwNGZGUGpVTHZ1b3NzcVB6azVRTGNJRW5MUkQ5VzNDUDdRY2w3Ujg0RERKTVhMcHNFaWg3V190UndkazhwXy0yemRqUDhZZmh4LUJuZ2sxMm9OR2dHLWhtX2R0QVY2Y3kwMUdGR2VmTXhaNHBldw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794398139
+  },
+  {
+   "id": "d110e04550000eb2",
+   "title": "Uros Medic praises Kevin Holland, cites \"mistakes\" he'll capitalize on to win at UFC 334 - MMA Sucka",
+   "summary": "Uros Medic praises Kevin Holland, cites \"mistakes\" he'll capitalize on to win at UFC 334 MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR04wVFlsd1ZITDJjbmpSaTRSNnZEamZ4bnJYU21fdDRfcDJ2MVhDNjlub0xoRUlsX0g2TEl3UXQ4WllFRHI2aXRjdFNYWF93Wld5d1ZqdFliOG1UNTRteXRwUkFNOUxlV1ZLMGQ3ZGlPMU91SmZLMTB6b0Y2cG50QnRLZUdYYm5lOHY2R1pYVVVyX0JPWkV3TllpTEhnMXFKUHRSTlVyLUdyam1aZFlZNQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794396498
+  },
+  {
+   "id": "f1311798d6b33fb5",
+   "title": "Canelo Alvarez considers new world title challenge as Ciryl Gane responds to UFC criticism: Your daily combat sports news roundup - DAZN",
+   "summary": "Canelo Alvarez considers new world title challenge as Ciryl Gane responds to UFC criticism: Your daily combat sports news roundup DAZN",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXlISVdIeWZQa1U0UUQ0aGpnMlc0X1BGS2FEbFNkaVNleGRfN1ptRjVqa0pvSmhRWmd0Y1pRWEVFbFhWMWNhWlNTTExYVi04eTR5bHpWZzdidXphTWNsRXN4WDdUWHVGeTRWVXB2ZUhtLWxqRDR6U3dLa1ktZ0FsOHFTUWNzV3F2aDYxVnZ5dEFhY3U2UXNJTXBsNnBLNVhreEpIdG1QeWhTTnJaNnBKSzh4UlFFTVEydDdmT3puMHMyNXk4VFlRcGFDS0c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794395305
+  },
+  {
+   "id": "f764001621d4d108",
+   "title": "Ciryl Gane vs Josh Hokit UFC 334: Date, time, how to watch & FULL card - www.the-sun.com",
+   "summary": "Ciryl Gane vs Josh Hokit UFC 334: Date, time, how to watch & FULL card www.the-sun.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjJQdEtIR1g3blVzbFk1QkR6WXBPZUNpSEhSQzBMbk1FWHBBSm9IVzZFYWV1N3Bjc1NVLWdMMkFQcURid1ljV3NFVVFPNVN5TEpiSkpvUWxlOHNVQ1hxTmc4SmxjWXV3X1hCTEoyVGhuU3g1RGxCUUVCZkl0OGRlVWU1Y1VQUWQ1NnFvYnFOZXRzYy1FRmZ3TTJrS3pjUzhoalE5bDZ3?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794394063
+  },
+  {
+   "id": "30b249fb76c8cc8b",
+   "title": "“I’m Gonna Regret That I Didn’t Go Harder”: Josh Hokit Explains His Outrageous UFC Persona - MMA Sucka",
+   "summary": "“I’m Gonna Regret That I Didn’t Go Harder”: Josh Hokit Explains His Outrageous UFC Persona MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXBKekxJMVpkZFUyVFUtb1NSb2JFVm5PWmZTS0IyMjBHb3N4bTZ3Snd4b0hha1RUd2xhWG5IZy1NaFVRdHdDQW9kODRNNldZX0s3NVVYUjRpVFZab3JoWXMzbEw3OUZaNm5kSUk1YTdsR3BKM3lzWVNkd3gwdldDeEJLdWZmNU5HVW1LVDNyR1p2UG1fUXF4ZE9zRmdGLUxlXzRUN1BVYjdvbXJ4VGV2VlNR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794392905
+  },
+  {
+   "id": "e2a768db08813d22",
+   "title": "Jorge Masvidal Says The $200,000 UFC 334 Ticket Is In His Pocket — And That It Pays $1 Million If Josh Hokit Beats Ciryl Gane - Yahoo Sports",
+   "summary": "Jorge Masvidal Says The $200,000 UFC 334 Ticket Is In His Pocket — And That It Pays $1 Million If Josh Hokit Beats Ciryl Gane Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFRHTGxmU0hKeTlRM2E2QlQ4M05pWEx6dE42LXFJdkU0RkdDM3ZnR3dVQTl1ektpM1ZCY2FrTFlHbW40dmlGTmpsUFFvejZHYld5Q2lNb3l1ZHVzRk5xNHNLak9mNEJWdVp0V1B5clhBSVRQSHRNbkIyYWhIbXNHQ3l3?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794392040
+  },
+  {
+   "id": "36c14cab9f34e3d9",
+   "title": "Jorge Masvidal Bet $200K on Josh Hokit to Beat Ciryl Gane at UFC 334 - Forbes",
+   "summary": "Jorge Masvidal Bet $200K on Josh Hokit to Beat Ciryl Gane at UFC 334 Forbes",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTXcxUkxuYmlqcWpHQjVGdUFmV0dYLWVGOGVPellQcTREdjlYTEZISVEwdVIzUDd6SWVzdURXVnlRN1pKZXZmVW9HOG51NzZ2aVR1UThaZ18xa2VMWlJiczdsN2MxaG8zdExtUDdteTF1WUw5Ny1rQW5Hdk5icVUxS193NTBxNVRGR1BCWFdNb1dqNlFfX0dzNzZ5T2M2VDg0Rktrd01RVzRqcXdwam5jbTFpTzJTZzRmUnZFeFViaVVKMkgyaFZ6N045R1RNdVNPYXFwZUZNeXBOSVpIZkIzNXY5WHNzb3F1U3VPTGEzaHFUdGFrSjU5cEdtSDNvendhaVgyZzh5OA?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794392040
+  },
+  {
+   "id": "49cdb2e4394318ed",
+   "title": "UFC 334 Pre-Event Facts: Elite Heavyweight Strikers Collide for Gold This Saturday - MMA Sucka",
+   "summary": "UFC 334 Pre-Event Facts: Elite Heavyweight Strikers Collide for Gold This Saturday MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEZ4dlZlTFpoUHJOLTZuZW13NTBrVmdwamRJaGtvX25KS19YSjlZU0hXYlYwa3hOaXoyaFVhRGhZNFRJQjZRYWlrMVZyWGMzVFFtUWhEZ0lsZk1EVWJCaWd2NTk0WnZJbk84QUthd0Nqa3FwRjRZMGxPdV9jT2ZJS3NDSFZ2N0FWMUxCVG5hNXhGMU5IeVRqVXhLa1dpTUVkSTljeW5OV0pVUVY0?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794390502
+  },
+  {
+   "id": "e9746409961f3917",
+   "title": "UFC betting guide 2026: What to know about betting on UFC 325 - CBS Sports",
+   "summary": "UFC betting guide 2026: What to know about betting on UFC 325 CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaEQ1UmJxZVNuVHBsOXk3dElrVkJ2YmJpVU5Zb0xiVjRoRjRVZDF5MHBjN3lCVDdYYkl3SjkwY184aEhsclIzR19LMVpDcWpPM0Vqc0tR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794389660
+  },
+  {
+   "id": "31cb3d2f1a19ef7a",
+   "title": "Dumont says on instagram that she requested to be let out of her ufc contract",
+   "summary": "submitted by /u/mariposa933 [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xtd032/dumont_says_on_instagram_that_she_requested_to_be/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1794387524
+  },
+  {
+   "id": "dabb59d215c3ff8a",
+   "title": "Why Did Norma Dumont Leave the UFC With 2 Fights Left?",
+   "summary": "Norma Dumont reveals why she requested her UFC release with two fights left on her contract, discusses retirement, and teases a potential boxing debut in 2027.",
+   "link": "https://www.mmanews.com/article/why-did-norma-dumont-leave-ufc-2-fights-left",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1794387239
+  },
+  {
+   "id": "5bc7e58d222263de",
+   "title": "Bud Light UFC Steak Feast / Good Robot Brewery Growth - American Craft Beer",
+   "summary": "Bud Light UFC Steak Feast / Good Robot Brewery Growth American Craft Beer",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTdNUWZzbVFhdlcyZUpZMDhmMldQVkJ2T1ZoTEd2ZzNRcmhSbk4zZWFBZFBVaV9fQXc2bVVxXzR4aUJnQzdkT3FKYUo4T00xMENJTUZDMGVHTkpzWUhpN1BvbUhleURXNFVpWFBKVnUtblNXTHloaV9vQkpRRU9LNnRfZWl6ZjVNb1NUUnFVRnF0U0hiSnFCOU55YTBSYko1SS1UbURxR3IxczU4Z3hfVkZXdEFJNF9N?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794384700
+  },
+  {
+   "id": "04feb10a7de1e019",
+   "title": "Goodbye Bantamweight? UFC abruptly releases Top Five ranked contender",
+   "summary": "The struggling UFC women’s Bantamweight division just lost a member of its Top Five. On Tuesday, No. 4-ranked Norma Dumont revealed on Instagram that she had been released from her UFC contract. The Brazilian standout still had two fights left on her current UFC contract that wi…",
+   "link": "https://www.mmamania.com/ufc-roster-watch-cuts-tracker-free-agent-aquisitions-mma/485417/goodbye-bantamweight-ufc-abruptly-releases-top-five-ranked-contender",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794384000
+  },
   {
    "id": "82e4c01fcef10515",
    "title": "Sean Strickland reveals he’s backing Josh Hokit in UFC 334 main event against Ciryl Gane - Bloody Elbow",
@@ -126,6 +675,15 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1794363540
+  },
+  {
+   "id": "7a9a37db55a74cd9",
+   "title": "'It's all about greed': TKO workers speak out amid growing safety fears over UFC, WWE events in Saudi Arabia - Yahoo Sports",
+   "summary": "'It's all about greed': TKO workers speak out amid growing safety fears over UFC, WWE events in Saudi Arabia Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUU9YOFlUVHE4UV9XT1VoRTA2cXNncC10a0JaTFZJTlhGYnUwS3pDaE9CVzNSeVNjQjFjTHYzZ0FzXzN3blRtZ1FuYm1udFJaMmN0NzJCaGJDMkN2RnBWSGdWZENyZUFoemZxMTRKaTd1ZDNiWi1Cc2h3LTg2dy1FcWE4bzQzSU9ZUWtTOHFlaHB0WWREVUhiaEF2cm1WRmYwMkM2Z1lwcElrckVxWG9wUnNRTFF5NDQzYjVURVZxcEd0bkNydERfT29QWS1zUEpQX2hwRlVNT0dGLV9MQngxNXMzY1NHQnN0Mm1qd29pNF83UTI3WkpldWJR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794363360
   },
   {
    "id": "0fb23b40bd7399f8",
@@ -369,6 +927,15 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1794352080
+  },
+  {
+   "id": "35aec4957217c061",
+   "title": "Josh Hokit delivers outrageous warning to Ciryl Gane ahead of UFC 334 - Yahoo Sports",
+   "summary": "Josh Hokit delivers outrageous warning to Ciryl Gane ahead of UFC 334 Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ09wcVlyYTlSMThMQ1kxZkllaGtucFBTaTBKYWJMQmRTWm9TT1A5YTFQNUdCSmtRQ0J0TW5IS0E2cFYzUjVjZmRuYjdlX2FqZjRkRmhNZDVwdzJ2SDBMZWJhTU15dEhhSWRkWUhTSWhNNDZ6VGxYXy1HNHJQa3E2My1oc1BPV1FmT2ZuNG9KaGxGMXVSYlUxOHBmc095NFhzT01lWVlxS2QtajRCa2UxekFBT1d1dw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794351890
   },
   {
    "id": "c579a26025a9e529",
@@ -3033,573 +3600,6 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1794223256
-  },
-  {
-   "id": "9124ea18a2387779",
-   "title": "Donald Trump Backtracks on Dana White White House Role After Naming UFC Fighters as Assistants - LowKickMMA.com",
-   "summary": "Donald Trump Backtracks on Dana White White House Role After Naming UFC Fighters as Assistants LowKickMMA.com",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMVU3cE9zTzd2NGlzc3dkVlVBSmJzb09pMy0tZ240RXBMck96QWNnbW5lcmNoWm04cDAxeWQzU2d2amRWT0h1eEVncC1rNUEtZzFNaS1WQm1BNlRweElVWW9EdWpob3FiakMwclFEN0hwcy02WEN5X2taTnppVlBPcllrSUh5UQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794222441
-  },
-  {
-   "id": "332788b0c2360d75",
-   "title": "Trump Posts Cartoon Showing UFC Fighters Attacking Reporters - La Voce di New York",
-   "summary": "Trump Posts Cartoon Showing UFC Fighters Attacking Reporters La Voce di New York",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGFMd3p1Y3ctNUZOZTdIYTRSMVI5elNYd3BhaDU3cG9jLUdzcVVUWVlFVFA3eC1MX0Qxa21Ib2V6UVFWX2NJaUFYZkVEOUI0c0JXU0YwQVN6eEJrOU9Hb2EwYTYyVTYtYjQyMGVjYkVZSlVoVm5ZVHBkVW45anVSMTRqMC1DQUxIUUwyX3h0YU9aRUVVZEhvUnBVcG9NV05nanFtWDZjaW1zZzFS?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794222051
-  },
-  {
-   "id": "d98a03bad8a567e1",
-   "title": "‘Another cringe-worthy moment’: President Trump’s ‘deeply embarrassing’ UFC post sparks outrage - Yahoo",
-   "summary": "‘Another cringe-worthy moment’: President Trump’s ‘deeply embarrassing’ UFC post sparks outrage Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3A0Q0ZQRWFicFFuYjBHS0FDMUJUWVc4cllJRE1URFFYOXRMcm82RDB4c05YZjdSSW4xY1Y3VkxEd200aXhoYUY1NUpFRzVYclNqbFRvNnVVUTNXam5nOVZsdl93bW13eHJtOE1UNVJEbGFMdXd0SW1SaGMtVGlOU3BOWHl3T1RpLXhycm92NW5mVG94U0hPMnRQSDR2U3M?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794222020
-  },
-  {
-   "id": "8974ddc63149fa0f",
-   "title": "Trump shares AI video of Dana White as press secretary, UFC fighters attacking reporters | Hindustan Times - Hindustan Times",
-   "summary": "Trump shares AI video of Dana White as press secretary, UFC fighters attacking reporters | Hindustan Times Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSFN3SmpBa2NLWF9lRWJOYW9id3NLVjUwSXhsMG9xMHJWUG5kTkV6YjluX1g0eXZZeTUwQ19icTYwal9KYmVjLWhzQlhtMkNGeXpfajg2OXlEUlphQzVzYUpBNVk5aHNFYXVOUk9mZUtSdHg4cmlkYjU5OTdkSDd4MWtiLUwxa1NPT3FyeFNKbm11MlkzRGE0bjVKR2lCbWdYa3JpNlNBMXRIVjRkdm5PZjYwU3JCeDVfbllPMGZuMUdkc3pfc0haM0pxa3I5MDBsVUFnQmpWa2FSUEdhV1JOd3lZcWVySjEtYmlpaGxITdIB9AFBVV95cUxQVjA5ck1hR3dfOGlvdGZSdWxiOUtWQ0ZsWVI2SG5VMkdxYWh6anJod1V4QmxwWEhXcE1heGNaSm5mQXY5SDZHamVwYmNxampvZGd3Wkd5VVNfc1dUeFVZZ0NJTk5SbU5jVkc2VEJzS2dCYUtTZ2JOd2FSaW03M1REc0t3VzJ6a0NnRmdNQzhKWmxmMllMc1d1clFWNktQR3h1Z000MjNJODhpRGotcDAxcW9FLWJKOTJpVEVNM3pTZ0NsQXVLWVBlWWJxWEVvc0liVXR4bHkzX3I3a3h5elM5SVVpNENhbmp3QXZxV3dBUDF4c1RE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794221894
-  },
-  {
-   "id": "ea8fa44ffe353862",
-   "title": "Trump was ‘only kidding’ in asking UFC boss Dana White to be his press secretary - The Irish Times",
-   "summary": "Trump was ‘only kidding’ in asking UFC boss Dana White to be his press secretary The Irish Times",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkhlbE5BV3FUZUVMWWFzQUc5cWd4Wl9Id0xaTVhwRU1zMWtEWURlVHAzQ3FPZTdJdWNYbG12dXVURmhUYkhDeXNLNGJ2MnNXTUtuSVpyb0RPUm82czU4ZHFMNW0zM3ZDSGJVOXZrZ1dPcF81WDg4Q1B5eVVnV3hhVnlIWW9KVDVSQ3pRaGowTWxFdDRBQTBsLUZHdG5GSmEwdXRMdVlsQW9xbEVSanJiSWh5eDVFcEdXNDlzSk9CRnV1eURz?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794221449
-  },
-  {
-   "id": "cf4da731c6f14eab",
-   "title": "Trump says he was kidding about making UFC boss press secretary - Seeking Alpha",
-   "summary": "Trump says he was kidding about making UFC boss press secretary Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWWxYTUpMTXpZdXFHYklydkpONXhmWnN3MkV1VUtZbThjRHRPM0l4bHVTUFoxWm1pSmswbGdCVUpGVk1ZVkxDVS1LM2VyNHNIa19yb3A3RFlEZzlBbVJjcElWTm5mS2ZuWFZmQnhkNWlnY050a3VOVzBZcVVKd3pQYkNEZ1pIN2NhMkwxcnV0Y2UyNm1DMC1TbnBabE1vRXp3dXhn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794219480
-  },
-  {
-   "id": "535a41db9f318112",
-   "title": "Donald Trump Shares Wild Dana White UFC Cartoon of Fighters Attacking Reporters - Yahoo",
-   "summary": "Donald Trump Shares Wild Dana White UFC Cartoon of Fighters Attacking Reporters Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY1I4YUt6cUc1NW1RYmhCMHZFb3h3YXlEaWlPZlFraFZWazNqWnhfVUhLSVdOQVJBd2p3eFpQREV5YWs2dFZCMFpFeGVjVzJ3RC1rUU00RnVqX0tLWVhhOUg3X0NiYml6MFgtcjVPUHBwMVFHczNydjFkZURBVmJJSDZ3SFJsM3BBYTN1MlZNcGdYNTQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794218947
-  },
-  {
-   "id": "5df5caeae20eaf49",
-   "title": "Trump shares Family Guy-style cartoon of Dana White as press secretary with UFC fighters attacking journalists - The Independent",
-   "summary": "Trump shares Family Guy-style cartoon of Dana White as press secretary with UFC fighters attacking journalists The Independent",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnFOcmpCNEkzYUl2a2pfNXhPeDZ4NXNPY2NaUkxWeGFVRGhsRW1qdU5xUEItbHJ5a19Sd1d0cmFlN2UzcEZhWHdpY1J0UnE5QTAyNVRheDM5YW5Sc0Z5eGMwQkxSdWtmM2VaNmdZZ1V1ay14aXZkX2hieV9QU2k4ZjJ6Z2stX3hqNTY3TnZKU2FXRnFmSWhkZmE0S1NxbXRWU3V4MlNn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794218580
-  },
-  {
-   "id": "73e98bcee3dc4998",
-   "title": "BKFC President Sets Condition for Conor McGregor Fight After UFC Exit - شبكة تواصل الإخبارية",
-   "summary": "BKFC President Sets Condition for Conor McGregor Fight After UFC Exit شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tUzF0WmNWaTFQQmFtNXNnbG1TMHdmeHRpZ0pDUzNHdE51WHRSOHZzbGJGT0VQelN6dEo5UXNhc2xxclN0MGVWREZuempyZzB3SUdr?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794217791
-  },
-  {
-   "id": "50dfeca7bb30c11b",
-   "title": "Conor McGregor Wants Max Holloway For His Final UFC Fight After Knee Surgery - NDTV Sports",
-   "summary": "Conor McGregor Wants Max Holloway For His Final UFC Fight After Knee Surgery NDTV Sports",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjUtcHBYMmJQNUNpdjNGblhRckRwQ2pnbThLQnA4RGwxYmRsU1M5U2FDZzJuLTNLWUVUUkt0WVlGVmxCU1RTNGthUGdBOUdZWTZvUmlaQkcyRFhSdjdEZGlUVjQ5clk5VUExb2xvZ0RGMDhLYXFGRmdqZk5VVmlpRXVjaVdocFVNWUNGODBDRGtiVWljZldra2xrVDFqRW9uTG45bUtLd3JKUFhkMkE1emJrWXN5dGc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794216703
-  },
-  {
-   "id": "fe6dc3b29aaa3f12",
-   "title": "Trump said the idea of appointing the UFC CEO as White House press secretary was a joke, according to the Financial Times - UA.NEWS",
-   "summary": "Trump said the idea of appointing the UFC CEO as White House press secretary was a joke, according to the Financial Times UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWlVkeHNpZmkwbEItUGRnYzJZNlVPcDlrZ0tpY3RKNGJCUW5xU1FIQWlRbkx6eTA5cjc3NmpCTl9IWGVPRThvQy1BUlRIOVF6YWFLVkZjQVpKRkV6eXBXQW5Ob1p1d0x1YS1RVXY3RC1tWTFuekNBMGZNQ3g4QTM4TGsySHNsaVBUaUlXRE11NGppZGF2bmJkQlkydHBpeHkyTjR1SHpqM1hEU1RkVm1BLWxzSWN2T2tJajU4RGk4dmZ5aHR1VksyN0Zn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794216153
-  },
-  {
-   "id": "1bc57afb331e4e47",
-   "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-   "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-   "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "kind": "news",
-   "ts": 1794214157
-  },
-  {
-   "id": "1f785aea4db0fa69",
-   "title": "Trump says 'only kidding' about naming UFC's Dana White press secretary - chinadailyhk",
-   "summary": "Trump says 'only kidding' about naming UFC's Dana White press secretary chinadailyhk",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tMjBWYVFWb2ljT1NaQlE4d1VmeDg3T0ZFVjBvdmJ4NkNQVUhBVTlnT3ROTC1LeW5YZUhpTDhKYmdiTkVXQk9YOVNwT3R2aERzaFN2Qm8zcGQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794213238
-  },
-  {
-   "id": "ad9df21c3475c3ff",
-   "title": "Donald Trump claims offer to make UFC boss Dana White press secretary was a Joke - thenational.co.za",
-   "summary": "Donald Trump claims offer to make UFC boss Dana White press secretary was a Joke thenational.co.za",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS21QT1RBeEJBQ0VFdUh5OWlVWF9qNnpDa3RZdHlJWmRxLXBlNElqa0tUVzk1V3lUaUhkNWlTN2pNS2xKNE1zdzU3b3c2cDhkUVgwWlo5UWFTbVNuQ3VlMlNJemhWU3RyZVYzNU9MN1Z6MlBhdWtQd3FqSFZhZ1EwNkVKLU5PSWNvRXkzamw0c2hwTzFwbVJVMFBySTdPajUzNnhoLURMVjA5cV9uOXR6NTJxNXFURndKSS1QcExJZUZzdw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794210000
-  },
-  {
-   "id": "9adaa7ab9d761e62",
-   "title": "MMA: UFC 332 - Awful Announcing",
-   "summary": "MMA: UFC 332 Awful Announcing",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeFBQTlVXZ2dNRXNMc1lJblhZd1RkSkluNlhMeV91UENLNzFSUXA1Q05ZellzeTNZVC1aRjhpTndmQ1dETzJUMzV4X1JOVHA1aENWLXhMTFpFcEI4cjVKQWZtczFwZUZfRjhHSWdXdVpmUmV3M1g3WXM1elBwNldzY0xyWEZmWGJSTDlXUWJueXRoWVNJS3FwZndLbU1VZ3hLMnpyWDhxM1UzWmZZVjdRejN3Y0gwMUNRUWFhaUt4RFRTTEt1ZVpuMXBja01Zb1l2TVhBT3BB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794209438
-  },
-  {
-   "id": "b1740f6eab1916f6",
-   "title": "Will UFC's Dana White become Trump's press secretary? - The National",
-   "summary": "Will UFC's Dana White become Trump's press secretary? The National",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2ZkdklnaG9FRUppbzFtZVkzNDFoUUxvbkprN3VyQlN1WmlEWHd2RWIxdEpNTmQ5S0VGeDhyb25mbnh2TnEtb3RCLXl2aGotQlR0U2llZkNGYVduLTRFVXBTandGcURHczQ1eEJ6Y3M5bzFneUFENFAwNVZLZGtReEN0ZmtwM2FDbXZQQzNqbDk4dk01?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794208535
-  },
-  {
-   "id": "4f524734725d8d16",
-   "title": "‘Of course, I was kidding’: Donald Trump on US press secretary offer to UFC chief Dana White - The Indian Express",
-   "summary": "‘Of course, I was kidding’: Donald Trump on US press secretary offer to UFC chief Dana White The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW91SzBuM0RZVmx4VFJvQXFnZlhYa25aRWRab3BRaEw4ZldLNERuTlV4YkhVRFRPRVl1ZWc2T2VrdzdSQ0tnZW9UMV83VDFwYml0b2UyeVpKeUZsVThJbUdnOVhmUkpMTFQ3U2lJdXlxOEtMVy1vclVQeVd3ZjdOUlVwNU4tMlhIbkxJamZTX0o3UWRlc1Zhb2QyQjZvajlGa1phVUx4c2dIOXp2WDBFajFOMC1NZ9IBvAFBVV95cUxPU2o4bmNFQzJsV2h5aVdmeTNYTDdJNVhpeXY0aF9xV25COTA3QzNMZzM2RTNzTFlkR0RoUTBZX0o5YkcwaUFrMlJRTUFnTkU4Mk9CanUxbDRDR3F4ZHJ0WVpWeFFVNFZhV1cxNXZBY2ZBV3VoY2VsRURnZWZnd2RnOWh5bWdwT0hSTlpObGp1bE5VblZuUnFYNmQ5OEMtanBjMzZhZXZRbHh6UHItVXlIeG8teVJPdEJnRFN2Wg?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794207316
-  },
-  {
-   "id": "81a21b5824b54431",
-   "title": "Donald Trump claims he was ‘just kidding’ about making Dana White his press secretary",
-   "summary": "Do you believe him?",
-   "link": "https://www.bjpenn.com/mma-news/dana-white/donald-trump-claims-he-was-just-kidding-about-making-dana-white-his-press-secretary/?utm_source=rss&utm_medium=rss&utm_campaign=donald-trump-claims-he-was-just-kidding-about-making-dana-white-his-press-secretary",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1794205839
-  },
-  {
-   "id": "1ce7ae288f9b874d",
-   "title": "Ilia Topuria is grateful to his brother for stopping UFC Freedom 250 fight against Justin Gaethje",
-   "summary": "Fair play",
-   "link": "https://www.bjpenn.com/mma-news/ilia-topuria/ilia-topuria-is-grateful-to-his-brother-for-stopping-ufc-freedom-250-fight-against-justin-gaethje/?utm_source=rss&utm_medium=rss&utm_campaign=ilia-topuria-is-grateful-to-his-brother-for-stopping-ufc-freedom-250-fight-against-justin-gaethje",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1794205555
-  },
-  {
-   "id": "91da137ff4b13fd6",
-   "title": "UFC champion Ciryl Gane praises the strength of UFC’s heavyweight division",
-   "summary": "Big statement",
-   "link": "https://www.bjpenn.com/mma-news/ciryl-gane/ufc-champion-ciryl-gane-praises-the-strength-of-ufcs-heavyweight-division/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-champion-ciryl-gane-praises-the-strength-of-ufcs-heavyweight-division",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1794205224
-  },
-  {
-   "id": "ca7c31fa9e110c77",
-   "title": "Johnny Walker flirts with insanely quick turnaround idea for UFC 334",
-   "summary": "Can you imagine?",
-   "link": "https://www.bjpenn.com/mma-news/johnny-walker/johnny-walker-flirts-with-insanely-quick-turnaround-idea-for-ufc-334/?utm_source=rss&utm_medium=rss&utm_campaign=johnny-walker-flirts-with-insanely-quick-turnaround-idea-for-ufc-334",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1794204816
-  },
-  {
-   "id": "26e82a444fb5b2ec",
-   "title": "'Fiery, but mostly peaceful': Trump shares bizarre AI video of UFC fighters beating up journalists at White House - WION",
-   "summary": "'Fiery, but mostly peaceful': Trump shares bizarre AI video of UFC fighters beating up journalists at White House WION",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcEMwUXBjX2dXcDNNbm4xMUFjbV95amh4aUZJeWlQY0lpOWs5NmFUZzg3ZnhXQWlHd3FEcUhYRGFjYjZwd1NDX0VxS0xKVVhTQTU1aVAwT2dpN2FHVlRWeHA0dTZFX2NrTEE2MGQ5SjFndFJMamd1dVVYOU9sZHcwaXZhSmhaUE5GUDVWV0U1ZGFFSF9CU0xRaWVsbUZKWVF0UTJocG9yMEY1c1Zuc0RYbk04Z3VkSnhUWW9VaFYzZXdqcndYcmtwYU5JUndOXzJqYzloajVERUFpMUZNc3h5RzRVbndwUTBuSVVJ0gHwAUFVX3lxTE9wRzJQTUoya09jNm5URThCa0pWaFloUFY0WklpUVU5NXNNNWJZa3RlNEpoZkdsSkVNN0pBZnUtNjRWZnFLa3lvR2E4ZWlneEN6bklaTFd2dlU4YjJ4N1BmemdRN3BITFVTUV9hclRPZkloUWFCUko3VjFNOVlXZmNjejk5LXpPNnM3andITUFYY1IwY3pOY2lrak5saU5sdDFCMjdQMDNkd3ZjR1g5dHZXZHJ5ZFU1bVlHaERhMWdPREQ4MUVtSks4dmFMWXllQ0diajY2dkxYLTBMREgxUENSMW9VSG16VDYxY0ctRGFFTA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794203100
-  },
-  {
-   "id": "287bb46f3a3f738d",
-   "title": "Trump says \"only kidding\" about UFC chief Dana White becoming next White House press secretary - Xinhua",
-   "summary": "Trump says \"only kidding\" about UFC chief Dana White becoming next White House press secretary Xinhua",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PV2VGQVFFaWZ2dExLQUwxbU5pdGkyQXRtT1NqdUxFSU5FN1FqZDE2bWk1cTQtX3NhU2xZajktbkR4Z2wwVXhJajA1MmM5Y2hjSVAtOGtFX08wTnM1WVBaalFwWmh3UkFCY0Vxclh1MUtSemxqdU1iUk9hd3c?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794202337
-  },
-  {
-   "id": "6102238ec9dd943f",
-   "title": "Donald Trump Clarifies Dana White Press Secretary Remark: 'I Was Only Kidding' - Rediff",
-   "summary": "Donald Trump Clarifies Dana White Press Secretary Remark: 'I Was Only Kidding' Rediff",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0o2Wi1QUDZJaERGQVFYRHdrbXZjZGNUdXB0SkFMaTFiYmxYdmdvanJaMWNESFB5RmE4Mmlmc3JXcXVFaWF1VnJVS09ReFhfUlBJYjc3ekhHMHlXX0ExWlk1Z0lXZVF6MHVnbEdmVHA1XzdISEFwYXltVTRvWXo1M0pCNEU1TGdwOGVMVFRzekE4c2tJNDFnUUNZeDhmWE5TOGZ4SDVCYkdwd21QR1g3NmpUOG44anlmb3VRVHFiUmhZem_SAcYBQVVfeXFMTjdrR2wxaEJuTnRCWGRuQldHMHB2Y0lib083SmYzX1FHVjJxemtlVVBjVlZNRVZrbFVIbG1UZDNkY3pyRW9VTzJsTVNvLVdabmViY1pobnI1eElFTlRaWjJWREZkS3ljWURrSEdGNnZ2VkMwS0l3S0gzeS0ybnZFeWFOZUxOTHhMWGhpWWVsQVgxNUNhQm92eUR1eFNTcnR6cjJ6cXBiRGhfYlFDN2FCaS0yMjZpVkI2SmNPVkVxSGVGbk1pM3Bn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794202025
-  },
-  {
-   "id": "ebdba3c1ddd3f0a9",
-   "title": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary - Al Jazeera",
-   "summary": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary Al Jazeera",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXEzNlFqVjd2bzFWbzlvQWdkeU0xX0hLRFNYaml3NC1YZno1OExxS3lOejVXelkzLXVKWFhMenU0cFFxMW9ZRUtST2RZTGZqVk8xVW9nWWhycENlZi1KSlcwcDRsVUw5bU1tTkFYSFdVdDdZTV9WY1JWU3hNb2J4cjdjT2phM1VBdWFnWlE0clU0a01PRGNGeERQMFd1M2xYS1RLUFpJZkx1aVY4emRhSUVn0gG3AUFVX3lxTE5MdG82UWhNZXMwUWs1T1Q1Ul8tS2txX3drVHBhMDBxZkdmYTBJTVMxbGQxTW84UzZwYlFWVHAyR3RMTlJtMlVhUEZjRjFDYm8wV2xsbVZhX0ZaajQ2bGVKSVV6Vks3ZjUzdlJTdUFlRUxHUXBWcERSbWRMSTN5UlpkdkVYdW5Zckg0RDhfdEs4UG1zZXY4TC1fLUNGSGhWWFFEc1h5LUpPS0FHOTE1OUVxQlVpc2txTQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794200785
-  },
-  {
-   "id": "9d795a8744ad8caf",
-   "title": "Reinier de Ridder Called Out By UFC Vegas 124 Winner - Yahoo Sports",
-   "summary": "Reinier de Ridder Called Out By UFC Vegas 124 Winner Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPczdhT0VMYkRRdWVKZGw1cktrajk1V2xTN2pXMFlIOGFnWVpSWmdyTWZQZFlFbXdfMkNteUdkU3dVNXFWNWZPdFdHLXhBSm9LbzB1Y1ZITFo0YjJCNldPSmtoenlZcWItVVZOYWRZNnF6LWZ5bTVHd1JLYkE5RTFjc19JQnZfQkU?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794200100
-  },
-  {
-   "id": "c08dbc1bb691ec18",
-   "title": "Shavkat Rakhmonov Pushes Back Against Fresh Knee Injury Reports, Hints at UFC Return in Early 2027 - NY Fights",
-   "summary": "Shavkat Rakhmonov Pushes Back Against Fresh Knee Injury Reports, Hints at UFC Return in Early 2027 NY Fights",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrSXc5RGJ5YW1jQ2w4aU5oclVPSlhZal91UUhra0hHNWlwMHNRbkFzVnhiNC1XU3FYNkVDRG5YUEM0R3RTdmprWVh6TGFld0o3NDI2WXAyRmNNNFhHMnZDTXVrdW0zclRRMTRmdnBiTmZNc1o0SmsybnhxRQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794199067
-  },
-  {
-   "id": "8f78c9209fbf1747",
-   "title": "Trump says he was kidding about making UFC boss his press secretary - 1News",
-   "summary": "Trump says he was kidding about making UFC boss his press secretary 1News",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUlGMlR1R2pSQ1YzRl82Q3NNY25nX2hISGlGbnJpRXktbkc1cWtLNTlGaUM2am5RVVI2bWgxUUVqUzhUeEYzY1ByMlY0ZTVSYWRQanlCdmVzbnA3UlowcndrNFptRUNvN0lVV1d4dnQwbUhaVXdnWTZzVUU2RndweXA0VjhhRTh0OTlUcDl3dUdPY3lITnZtYlRUNWFfdmZGQTdIRHd3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794197390
-  },
-  {
-   "id": "9614dfa085fb8e11",
-   "title": "Joaquin Buckley Dared Five UFC Fighters to Say the N-Word in an All-Black Club With No Security - Athlon Sports",
-   "summary": "Joaquin Buckley Dared Five UFC Fighters to Say the N-Word in an All-Black Club With No Security Athlon Sports",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUFuRlQ1WXZHaTVCZHFQT3F2SDk1aE13V0haMERBblU5ZDRwakZfT3VjNUNrd1VySWVyYWZpVk4xRXE3NFVxdS16UktPRFFkbnFBV2gzLVY2blhkMjZETnVmb21YY0plX0xFenRQN2loU2EtdUtlb0dGd2VSaFpndmRfc2tOVGdoMnZEbmp1NTRVTWxmNzFmTXZB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794196860
-  },
-  {
-   "id": "e98ffecd95c17614",
-   "title": "MMA Main Card Pick of the Week: UFC 334 - Sports Gambling Podcast",
-   "summary": "MMA Main Card Pick of the Week: UFC 334 Sports Gambling Podcast",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR21QSWVIcEg5WW00ZmQ5SHhhRGJrbHhlaW5xMDBhbXVBMVBlOEl4eDUtU3JmTmZDQ3RZeHhlaDBJaVRaUGdkcTM4cDFBd0NCa0d0WFMzMUx6RUZWQjVyR3hKZjVfZkJKY09WRzQyN21rVHB0eU9RejBTc2lCT19aQUhTeTFOcFR4dzlZaldnbDVkZw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794196701
-  },
-  {
-   "id": "c0de3f7c8faca149",
-   "title": "Trump Admits Offer Of White House Press Secretary Job To Dana White Was a Joke - Deadline",
-   "summary": "Trump Admits Offer Of White House Press Secretary Job To Dana White Was a Joke Deadline",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15WWRHX1NzMklDQzkwdHF6QjZxQVFQYi1wOEJrVTlJMWZud0hFOGFZaS1rNUVja3BXbHJPVGlxU1I2bng0RjRxT2hzMXhMYnZtM05SX3l3UXh0aHN0OTB3czhKblVmLVJ2MkRZR21CMnpUVXl6ZHI1Zw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794196680
-  },
-  {
-   "id": "afe669e1e8ef8b64",
-   "title": "Trump: 'Only kidding' about naming UFC CEO Dana White as Press Secretary - Yahoo News Singapore",
-   "summary": "Trump: 'Only kidding' about naming UFC CEO Dana White as Press Secretary Yahoo News Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55X2ZSR2JzTXdyX2ZHN0VEazNJTzJTTHFPdDNwNWNTMzlxclNvdHljb0RQTmNKcVUxN1puU1lVQVU3b3g4VlFZU19rb04wRmpyLUs1YzMxc254MHFpNGVlbmFwNFJiWTZYX1ZoUEJOZG8tREs5SFRBWTRR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794196620
-  },
-  {
-   "id": "04a5dc2ddf930e01",
-   "title": "Trump says ‘only kidding’ about asking UFC’s Dana White to be his press secretary - Washington Times",
-   "summary": "Trump says ‘only kidding’ about asking UFC’s Dana White to be his press secretary Washington Times",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWGw4RWI1ak01aC1xWUd6b19nUUZoV1FvbGdYTkQzdzN4c1loUkw0Mkxia2gtSDR0MGhiUG9UYUhkam9GeVlDS0g2S2I5V2FOaGY2RnllNm4wS2NZV2tURzNhRnZIcWJEbWVwazFOZzB4Y3BwaERkekFKWTcwZ241UDFOZnBTQmpVRGl4ekZtWDJLWS1wT3pzclZYR0U?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794196455
-  },
-  {
-   "id": "a8c2e2c340695caf",
-   "title": "Trump says he was ‘only kidding’ about offering UFC’s Dana White press secretary job - The Washington Post",
-   "summary": "Trump says he was ‘only kidding’ about offering UFC’s Dana White press secretary job The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUzNBckVZYVlqXzNZRkFENG91eXNOTldBYkdFM19IcHZvUzUxcEM0WnE4NGVjVThRZWt4RGxpMl9xVmhHd1Fndmp3R0FpWm5oMGRqMGhjYk9jNjc4eWpXdjhXLWVsOGVYVElZWVU4c05tN2h3ZTFzZ1Jld3hHanNOZUcxU2xrbUZFMHVTczdKelQ5TUFId0xiTTg0U3dEVTRIUEtLWEpIaUYycEZiS01yb281Nnk1QW5oZnlfY1BjWnBZSE9hR3pZQklHS0hpQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794195060
-  },
-  {
-   "id": "da1abf7ecc4effbc",
-   "title": "Brendan Fitzgerald thanks UFC crew after being forced off UFC Vegas 124",
-   "summary": "Ultimate Fighting Championship play-by-play commentator Brendan Fitzgerald is grateful to his colleagues for having his back.",
-   "link": "https://www.sherdog.com/news/news/Brendan-Fitzgerald-thanks-UFC-crew-after-being-forced-off-UFC-Vegas-124-203554",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1794195033
-  },
-  {
-   "id": "ea3314aeacd5b4ac",
-   "title": "Donald Trump says Dana White ‘loved’ his White House press secretary idea",
-   "summary": "Dana White won’t be the next White House press secretary after all.",
-   "link": "https://www.sherdog.com/news/news/Donald-Trump-says-Dana-White-loved-his-White-House-press-secretary-idea-203553",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1794194418
-  },
-  {
-   "id": "0f55b8a10809bda8",
-   "title": "\"I Don’t Need Much\": Israel Adesanya Weighs In On UFC Saudi Arabia Headliner As Major Matchup Announcement Grabs His Attention - NDTV Sports",
-   "summary": "\"I Don’t Need Much\": Israel Adesanya Weighs In On UFC Saudi Arabia Headliner As Major Matchup Announcement Grabs His Attention NDTV Sports",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQ2lBRjBTZVBsd0UyS3Y3MlZhc2VmalRzZHpIdUZGbWFjMERJS2FkTzNCRzVsalZZMVhUc0FRbnNjTF9sV1UtSElvcVU1UWlOcnhxbERtNVIweGJNN2hHcVAxTHpkRXF1d1A1V1QxME1QU1JTQWNMT3pMdmx0YUpWX1had3BuTU1kd0p5UWhTOGhtMkFCclhsU0ZpYlVIZzVVaEtpYXJQcHAwOUc2MTNtY2tuX3lXQzJLS05MTjREdDByVzA1TjVNTm5YMm9NRGFYT0dEc2NvbHUteElPcU81TUNoWFRhRlN3Z1VKVkFxOHotWHlYQ0E?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794193996
-  },
-  {
-   "id": "86aa7b94a85b4942",
-   "title": "Conor McGregor Demands Max Holloway Trilogy for Final UFC Fight, Dismisses Lower-Caliber Callouts - NY Fights",
-   "summary": "Conor McGregor Demands Max Holloway Trilogy for Final UFC Fight, Dismisses Lower-Caliber Callouts NY Fights",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwTnNoMEpNUGdOMVY1eXJTZTB5MUY0SU9sTmMyaTkxdmx6M1QxUVBoM0tlOW9PX2JFdEZQak1FeGVuMV85ZjNEMWpnbEM3RE1SaWg3RWRHTTFHaTJHWnBFZFI4XzdPVW1jZHotZjJyMExINHpCTTJCS0VR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794193426
-  },
-  {
-   "id": "059dca8023853ca1",
-   "title": "Joaquin Buckley names two more UFC stars in growing controversy",
-   "summary": "Joaquin Buckley is targeting new fighters in his latest rant.",
-   "link": "https://www.sherdog.com/news/news/Joaquin-Buckley-names-two-more-UFC-stars-in-growing-controversy-203551",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1794192578
-  },
-  {
-   "id": "0c0668d358b19a16",
-   "title": "Donald Trump says he was just kidding about making UFC boss Dana White press secretary for White House - ABC7 New York",
-   "summary": "Donald Trump says he was just kidding about making UFC boss Dana White press secretary for White House ABC7 New York",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUHphbFJNd3A1N0g2emI4OG43RmhlYnYzbHhTc2RpcGpBSFEwOGhlNm52SmZFZkFaNlM0LTh0MldFUmY0S0NJalZYVUdkUVBKT0lWb1dZYWstaktNVFhIUjFWS0lCQWVJX2tFYXFlVlZ6eWN1b3hOMzZYcTBONGY4NUJ3V2pKWmg0TEphZ2cyRm5YZTdCNUI1TDFDb05kS3ZQb2tqaklhMUlDUGREWWI4MTd6TkNkaTUwSW1j0gG7AUFVX3lxTFBQemFsUk13cDU3SDZ6Yjg4bjdGaGVidjNseFNzZGlwakFIUTA4aGU2bnZKZkVmQVo2UzQtOHQyV0VSZjRLQ0lqVlhVR2RRUEpPSVZvV1lhay1qS01UWEhSMVZLSUJBZUlfa0VhcWVWVnp5Y3VveE4zNlhxME40Zjg1QndXakpaaDRMSmFnZzJGblhlN0I1QjVMMUNvTmRLdlBva2pqSWExSUNQZERZYjgxN3pOQ2RpNTBJbWM?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794192390
-  },
-  {
-   "id": "3426e1d605faa0ee",
-   "title": "Trump Says He Was ‘Only Kidding’ About Offering UFC’s Dana White the White House Press Secretary Job - People.com",
-   "summary": "Trump Says He Was ‘Only Kidding’ About Offering UFC’s Dana White the White House Press Secretary Job People.com",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRlVDdFJmSWhYSjF3c0RzcEZrblJCNTE2S2liaFpjWmViaF9leU9Hc1JXM1FfY29UUk9Pc1g2UEVrVDdSV1FWcDhQTGxPejJZdWRaMl9pY0RadlA1bUM0TEpMVVMtd1AtU1RzRVhiRzE5T1dxazlCZkpfM3VTNHVTQjRJd2ZONjk4OFNZTHJmZUQ0bFNKRHVGM0dWM1JmdFZWTHNFcnFMNlBxeHhaaHhKdkdSdXdxZXMzbDJlNjVMQVBpZw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794191784
-  },
-  {
-   "id": "21fedea4d339a17e",
-   "title": "UFC Saudi Arabia odds: Israel Adesanya's odds take a major hit",
-   "summary": "The odds for the Ultimate Fighting Championship ’s upcoming trip to Saudi Arabia are out and they’ve already shifted slightly.",
-   "link": "https://www.sherdog.com/news/news/UFC-Saudi-Arabia-odds-Israel-Adesanyas-odds-take-a-major-hit-203550",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1794191644
-  },
-  {
-   "id": "7efb2caf44d994f6",
-   "title": "Israel Adesanya Reacts to UFC Saudi Arabia Main Event Booking - Heavy.com",
-   "summary": "Israel Adesanya Reacts to UFC Saudi Arabia Main Event Booking Heavy.com",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uVFRBUWF1M1FtMTFSNHUxUVUxeTFXUldkajNVckp4YTRWbkI2dXdhdFhsbGw5NkUyQWxBSFVaTWVMUllYNzFFZVpkUUhZejFCUGgtSW5OS1lSY2QwbFd5Q2JTeUdxRnhPYW83eGhZVVM4dWdmdGFjQUZ3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794190920
-  },
-  {
-   "id": "2b7ec2dfe074c356",
-   "title": "Donald Trump 'only kidding' about Dana White press secretary offer, but UFC boss 'loves the idea' - Yahoo Sports",
-   "summary": "Donald Trump 'only kidding' about Dana White press secretary offer, but UFC boss 'loves the idea' Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVXZzUWFzQUtkeFdOYXlDaFFzSkM1N255MUpUNHl4cm11TGhGam1TbUVyUzRQQWJmVm12RHhGYnRjalVDc0VxS2hzUjF0eXAtQXVfd3VrNm0zUlBLYVlPWW5RN1BvZ1ZpWWQ0MWZHZDZzdWY1N29Nc2FnZzJVaWV3S2dsUVhPNm4yMFVKUDYwNFVvNFRIckcxV1BFRDR3YXYwY0tFUEFQU0NNMkN1YUZLOFU4WVZmeDhSd0VIdUR0VEZKTE1tQlo3Q0p6ZlVJRTJ2M1lqVHlrUjZvZFJk?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794188400
-  },
-  {
-   "id": "c80c6db3e9068e3a",
-   "title": "Trump says White House press secretary offer to UFC's White was a joke - ESPN",
-   "summary": "Trump says White House press secretary offer to UFC's White was a joke ESPN",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWZxUDVpS25XRlhUNUpOdnd5OFJEVEVGNVdTRDlOLVkyY3ZFX3B1N3YtNGNfS3YwR2YzbGFwZUphOHp6bkJwVWpOSUZLaFNTcHgwVFFjNUkxN1hZSWtuUTZKY1J4Zk9lNXBSYVptMDA5UlVURERXbmhDQmx3LWVleXI4WnlIeWRJa3F4Uk5uc05seThvaHZ2dUcxYlJEVDBsN2c?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794187578
-  },
-  {
-   "id": "89bb50fcc7b558e6",
-   "title": "Trump says he was ‘only kidding’ about asking UFC boss to be spokesperson - Financial Times",
-   "summary": "Trump says he was ‘only kidding’ about asking UFC boss to be spokesperson Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXoxVTBWcERFUkRIM1BOTW5SdVhnZUEyQjMxSzNmYktmQkYyMmFCR1ZyNGhkdHBtc3R3YXR0UExLVXdCbEtYMTdvNE0zX3pDWTZGYjAxSzd6dGJobzdXbEMydVVlUS11VkJhVlVLSEF4Q0Q2V0dTSy1PMS05OW5pOXVHcnM?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794186906
-  },
-  {
-   "id": "f0d0e2fe0371c63a",
-   "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary - The Guardian",
-   "summary": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR09fNmc4em9mZkQybWg4NEcyVVVLc1ZjTHduMFFWS1JndFpiOG05RkZZdmZpS2Uzc0RfSUF3S0g5MVJiVzRCcFZaemotb1VpUFdmdmlqY0poUFVnZEZEa0V4Vjc4Q1NqcmU2VEhnLXk3YnZkZVRjc1lMc3ZMSFlNVGt5aXAxQXM?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794186600
-  },
-  {
-   "id": "be09eda6e85fb363",
-   "title": "Donald Trump says he was ‘just kidding’ when offering UFC’s Dana White new White House press secretary - Nine.com.au",
-   "summary": "Donald Trump says he was ‘just kidding’ when offering UFC’s Dana White new White House press secretary Nine.com.au",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcExib1YteEtfOFpFb3BDVThKSU9EOVlrdVY4a2Z3X1U4Q185X01INEYyMjVEb3l5bTc4Y3lVektfUTJxcU9qOUhrNGdpY3R3VWpDNmhOdFh4REg1djZaVXFGdVZhNzlfVldXdExhWFdXVm9aXzNQck5wcXlQWDhtRnBIMzA5VjUyUEZGRFhzSDVjUWNuczRqams1NHpSVGxGeW13b2ZCT1oxak9UemJlMXN3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794186535
-  },
-  {
-   "id": "d80dc0efcfd0582d",
-   "title": "Johnny Walker: Alexander Volkov Deserves Heavyweight Title Shot",
-   "summary": "UFC heavyweight contender Johnny Walker believes that his teammate Alexander Volkov deserves the next UFC heavyweight title shot.Volkov has won his last three fights and seven of his last eight, but he has not been given a title shot yet in the UFC heavyweight division.Though Wa…",
-   "link": "https://sports.yahoo.com/articles/johnny-walker-alexander-volkov-deserves-005041272.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794185441
-  },
-  {
-   "id": "3ce53d8c5b8e7c9c",
-   "title": "Trump says ‘only kidding’ about naming UFC chief executive as White House press secretary - Arab News",
-   "summary": "Trump says ‘only kidding’ about naming UFC chief executive as White House press secretary Arab News",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcW52dGVaZXJfMlFDS3RXY19BVTF5Q1g4ZUJ3ZzdnRXdfa3lMTkhnTzNSTmhpVmxuQWt1N3VSZXNYX0FFRkF2bmtUQTVhN011V0hIUHBBTjZnaEkxMTJQQWdxUWMyYWpPSHZFV094OEFTVGVKVUtZQ0RkTU5Fc2xvSk0ybFh2NjgzcEM0MUNVREJLUUZTVGtqOVREVGs0SjJ1THI5UEN3Zm13MkhSMmlqNlRrSDBXZlVNZE5pOHM5elpPTThN?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794185423
-  },
-  {
-   "id": "146381e3b0a75731",
-   "title": "Trump says he was ‘only kidding’ about selecting UFC CEO Dana White as his next press secretary - Yahoo",
-   "summary": "Trump says he was ‘only kidding’ about selecting UFC CEO Dana White as his next press secretary Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSW1yOGIzd2lKWWhUNFRTb3dQWjVWWnVISUV0VHl4cTlHTE1HME9rSHNySF94Zy0wS05QZ1JTUVM0eUhxcXNiSE94ZGxvRW5LLUhaUWZRekxhQXhFdDN4UUl5c01mWk9FV2wtYmI3YzNDeDNWN2xDWVFkQ25mZWIyQjB5cFc1cS15VGptWlROSTl0WXRmZWpncQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794185040
-  },
-  {
-   "id": "bea977f5e003c2f2",
-   "title": "Mitch Raposo wants Su Mudaerji rematch after UFC Vegas 124 win - MMA Junkie",
-   "summary": "Mitch Raposo wants Su Mudaerji rematch after UFC Vegas 124 win MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFpXWmtaQUtZWjU1WkJmQmtBbmVCT3MxakNlY1ZuN2xGazdNSm9LVm55WldJQVk4Q2FIZDNiU3d4ZktuN0Q0UDZZVUJZQkhnNEJqM2gxbGdGU0JTeHhwcmh1Q1g4c1ZVdmloOVhlalVpMVJwVUVZamlhYXBzelZTNWRkcEp4NGZaRF9Bb3M2cU11SUo0bmwwSElROFVIOVRrdUw4Z2JXRU44UmIwUWZnS0JuNFY1bXdudDEydEJkLXBzSTBYaC1CZXgxeHBfQzNmWUE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794184800
-  },
-  {
-   "id": "5713aa2cb6b3f097",
-   "title": "Trump says ‘only kidding’ about naming UFC’s Dana White as press secretary - South China Morning Post",
-   "summary": "Trump says ‘only kidding’ about naming UFC’s Dana White as press secretary South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2VDdU53NXdNRGs2MkY1SWNMYkpZYnlGQ1FVWlNqYTN3ek9Dd2RPSUNWM1BvQUJWVE1ZT0NreVplME1tX19pRFhacDl6QW9zbUlQYVFDTk84WUh5SFZpODhOQXI1UUxpSXNWdHI0YUhTWGlORE4yZEVuamE4RnlxbS1pQi1kckxZajBoYXpFOFdQV21uTFFLcmx5QkVDODNkQ1doQWxOYzY4N3puR3dMdG05VE01TGVFd1F6Wm82a3NIdWJMWmZmXy1KQUZVX2FHcjJj0gHTAUFVX3lxTE1Ed1BVQ3cxSGc5YkwyOUk3eXhuYWhwLXFSX3lxSWJkUkhfZ1UtZWxrVEx5a212clVNYUk0SWN6TkhTWXdSdFdEUURZZ1pTNnVYNDM5TzNZR1p3RHI0anBPWDFUV0tocF9HcWtTSEN1QmgwVkhuSDhwSlA5RFdndXpGRTBnTUlsTm1yb1puM245djZMbklEVlhyOEpFTWFjQnVJMm1OQVdWN25KUHdRRkhWa2xwQnFlVXZDcjRTX200OXh5OWVqaVhNalpzcktkOS02Z28?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794184703
-  },
-  {
-   "id": "8d9e6373dcb6a863",
-   "title": "'Only kidding': Trump says UFC boss Dana White won't be next White House press secretary - RNZ",
-   "summary": "'Only kidding': Trump says UFC boss Dana White won't be next White House press secretary RNZ",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmNHSGh1QVVCSzZETFkxLTV2RnNlaXhWYk5wV09WUlBFSm1zUG1SQVp6QmpSN3hBQld6VmotbUlMNnJQSkxYWXpSZHpPM3c2cGJ1UWtla25fWFZET1hIMnJWeXk2YzE5T213UlFJaVY1WklQdmtaZ3gzdnFZQmtoQlpmNVdIZlVfQXJ2SGF0a2k1X3RKazVacV93UV9CSDdnWmFDeHhPeEJBQUxUTW5yY1BfeFk3ZTNMeFZlLVBtYkJKQ3VT?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794184490
-  },
-  {
-   "id": "2c8e2479c195c71d",
-   "title": "Trump says he was ‘only kidding’ about tapping UFC CEO as press secretary - The Times of Israel",
-   "summary": "Trump says he was ‘only kidding’ about tapping UFC CEO as press secretary The Times of Israel",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzV2QlBrdkZTRkttcEV3dEw2OTZTVm9teFB0cXVGOUVvSWJhNGNVZEFkbGQyS3otVGlQLWNQM2FLMXJubWVvbUxqdi14U1d4SE5YTXlxSnVyOGZpTVhkY1lNbXEzX1V6SjhMZmlxYU5HS21ESWEwZW1JSTRZUXd5dVZFTGFfSlFIZ2luUVF4UTRqdkZqbDN5UkM5VF9zS0F5MVpfcy0zZzJhOS03VkNYLW9IYlJ4a2kw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794184072
-  },
-  {
-   "id": "7dd4e20e41e5fb0a",
-   "title": "Dana White on Zuffa Boxing 12, Chev Clarke’s win, Da’Mazion Vanhouter, Jai Opetaia + More",
-   "summary": "Dana White Fielded Questions From The Media At The Zuffa Boxing 12 Post-Fight Press Conference In London, England. Read the Full Article Here",
-   "link": "https://www.ufc.com/news/dana-white-zuffa-boxing-12-chev-clarkes-win-damazion-vanhouter-jai-opetaia-more",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794182944
-  },
-  {
-   "id": "7c26d95bd209173d",
-   "title": "Trump on offering UFC’s Dana White press secretary role: ‘I was kidding’ - Fox News",
-   "summary": "Trump on offering UFC’s Dana White press secretary role: ‘I was kidding’ Fox News",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tdG1GODNtSEtfTW45U202UXc4dUZDdU5TU1hRUGNGX1htbVJzYU1KNHlkY1BmaUdqRmVDN0drS1J2eEl6ZTk4U3A2aHl2a3pySzdPYUZB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794182771
-  },
-  {
-   "id": "53d02128081c92f6",
-   "title": "Trump says he was kidding when he offered UFC CEO press secretary role - Yahoo",
-   "summary": "Trump says he was kidding when he offered UFC CEO press secretary role Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0ZOMi1IbFRQalB3TjdIRkFsbVJNdF80TWRvV0Z4cVJFWl9uUDdBZUphcGpJVTBBcS1XZ1R1RkppZkVaR1RqVU1SV3h5ODk0U1JQWkVQMG9HRUlUWnpzVWlhLU9rWnlxSEtMWXJtejctREhfRFc5bHZuNHh5M18tdGRjRzZ3blQ2d3phVzdYTkktUQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794182760
-  },
-  {
-   "id": "878906f909ac5eff",
-   "title": "Andrei Arlovski jokes about Anthony Johnson’s death, then walks it back — ‘English is my second language’",
-   "summary": "Andrei Arlovski is apologizing after making an appalling remark about the death of former opponent Anthony “Rumble” Johnson. During a recent interview with David Guttman, the former Ultimate Fighting Championship (UFC) Heavyweight champion reflected on his 2013 showdown with Joh…",
-   "link": "https://www.mmamania.com/latest-news/485074/andrei-arlovski-jokes-about-anthony-johnsons-death-then-walks-it-back-english-is-my-second-language",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794182400
-  },
-  {
-   "id": "df3a2ffe36d825de",
-   "title": "UFC ref offers comical reaction to being hit by Johnny Walker several times in main event stoppage - Bloody Elbow",
-   "summary": "UFC ref offers comical reaction to being hit by Johnny Walker several times in main event stoppage Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSk85ZTd3ZC1EcExYNmZtdGRJMkdfWE5RM3h1Y3NMNVNFZGotaUN5bmdlVTl3c1prRkhkMXBCb3NZTlVUX3Voc1gtQ2hvZmdodU5mN19rNXc0b1hUdEtyRnJUNjRNdktBMjAwLU5VNmk5ZTFxZGVDUi14QzdzS1JGT0NrcVM0bTFnRlQzZFh2Sks5eFQzaERpQVRQOVlhYVFTU3piRFVpc0M4Y2xfQ2lJcWpIQ2d2dnVueGp6SVJYcFc4a0xZMUdsNWc1ZmplWW8?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794182400
-  },
-  {
-   "id": "a8db2ef098638afe",
-   "title": "Caio Borralho says he hid broken rib from UFC, beat Reinier de Ridder",
-   "summary": "Caio Borralho says he fought Reinier de Ridder with a broken rib and did not tell the Ultimate Fighting Championship how serious the injury was before their March bout.",
-   "link": "https://www.sherdog.com/news/news/Caio-Borralho-says-he-hid-broken-rib-from-UFC-beat-Reinier-de-Ridder-203545",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1794182247
-  },
-  {
-   "id": "234e561e760a17a6",
-   "title": "Trump insists he was 'only kidding' about wanting UFC's Dana White as press secretary - CBC",
-   "summary": "Trump insists he was 'only kidding' about wanting UFC's Dana White as press secretary CBC",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RSGZtdERTcGxMS0FNRndPaUx5cTI5ajMxS0ZYdHZxOEx6RGhvNU5ZVmZKTzNGbER2bktSZ2xmTmdTcXhKTm1OWHY1Z1h3UFFWN3QyNGxlb09uc0IxUTloY2wyTjc5LXF4MS00WnloLTM4SktXME1abXdJem4?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794182160
-  },
-  {
-   "id": "cd8acaf2cf003dff",
-   "title": "Trump says he was 'only kidding' about naming UFC CEO as White House press secretary - Japan Today",
-   "summary": "Trump says he was 'only kidding' about naming UFC CEO as White House press secretary Japan Today",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUJ6SXBtNTZBbFpIQ0dPUXN2MmQ2dFZ1VDlMV0x5dV9zcmIydUpNenFncFN5SW13VU9JQ0lLUFBJWWtvYW9EWVhtWXFfemJQclZnMUY3MWN5ZUZaMzFqZVZyYjh6U29NT3pMSmhnMVlKQVA5R0k5LXc1YWE2QVpud0xQS1pxMFJHdWZaMEJPTHdEODlVcnZlX19reGc5WEZ5aGk4TjdCc2M3b2NGZUFPeU9MN1NORUNPZkw1dg?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794181958
   }
  ]
 }
