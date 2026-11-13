@@ -1,6 +1,771 @@
 {
- "updated": 1794574186,
+ "updated": 1794600398,
  "items": [
+  {
+   "id": "2fc8501e8d0fbe0c",
+   "title": "Prelim Results | Polymarket UFC 334: Gane vs Hokit",
+   "summary": "Live Results, Highlights, Post-Fight Interviews With The Prelim Winners And More From Polymarket UFC 334: Gane vs Hokit, Live From Madison Square Garden On November 14, 2026 Read the Full Article Here",
+   "link": "https://www.ufc.com/news/polymarket-ufc-334-gane-vs-hokit-prelim-results",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1794600398
+  },
+  {
+   "id": "910cd585bbd87578",
+   "title": "Mike Perry re-signs with UFC - MMA Fighting",
+   "summary": "Mike Perry re-signs with UFC MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyaElTTGVTX3kxa1pjSzZNYmZVZnBNdk9adHkxQkdsUE5GY3pXUXFTR2g3RFFvRnQzM2ZXR25CMHlPZjF4NUs5VTF5V0xmcTR3R1ZKajlJalduRFJvUlBlMEU5TzhSVnY1LS1CdFVHTHBHVm1sa1E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794600139
+  },
+  {
+   "id": "c1fef3d4feec1baa",
+   "title": "UFC 334 Paths to Victory: Kayla Harrison vs. Amanda Nunes - MMA Fighting",
+   "summary": "UFC 334 Paths to Victory: Kayla Harrison vs. Amanda Nunes MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd2JjS09UTDBycW5hY2FnMzRmaDQxZmh3dHZTV19WY1lVZHFnalBPSEc4ajFCWjdJTlBCaXVyZGhsWGhrRVlOWGtRa2VUaEtrNW9ITVlpVzNYV2lmczcxblFQUlNtNTl4azJRZjhvaXJfRkJGNjg5QzYxWEp4aXNWVlA4REZLYnhqUE10WWJNVzF6MG54ekdTMU5n?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794600106
+  },
+  {
+   "id": "912c4d565f60091a",
+   "title": "Arman Tsarukyan Says Merab Dvalishvili Attack Was Inevitable, Predicts UFC Could Capitalize With Usman Nurmagomedov vs. Ilia Topuria - NY Fights",
+   "summary": "Arman Tsarukyan Says Merab Dvalishvili Attack Was Inevitable, Predicts UFC Could Capitalize With Usman Nurmagomedov vs. Ilia Topuria NY Fights",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNYV9nd2U2X2x5NjRKZmZOc1hyU3MxUk5sUGpxWWRqeFMzLU96MnB3WnpsSkVNRl9FVDNYazFDOTAyRkc0U3VGZmp3RGYxWVdIWDlRLTFJZmhZcHdLTkR6dEhTS0N0YTdpNFlBYW8xa1dyczI2aDRxbndSbw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794599474
+  },
+  {
+   "id": "ef696e6a194b3bc7",
+   "title": "UFC 334 'Embedded,' No. 5: 'This body or Ciryl Gane's body?'",
+   "summary": "On the fifth episode of UFC 334 \"Embedded,\" fighters take questions at the pre-fight press conference.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-embedded-no-5-193359916.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794598439
+  },
+  {
+   "id": "9c84310941846d48",
+   "title": "Weigh-In Highlights | Polymarket UFC 334: Gane vs Hokit - UFC.com",
+   "summary": "Weigh-In Highlights | Polymarket UFC 334: Gane vs Hokit UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01MV8zYVZRdlkzOHFZbHoxLThCaEZ4UVpXdFlMaU5aV0xuWDJ4TS1HNnpLWnB5Znp4VU1FLU5nRFRIOWVjTHln?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794598412
+  },
+  {
+   "id": "55b345ff97ebfe84",
+   "title": "The shortest and longest roads to a first UFC title fight since 2005. Hokit is the 4th shortest.",
+   "summary": "Hokit fights Gane for the heavyweight title on Saturday, a bit over 3 years after his pro debut. He's 10-0 with 4 UFC fights. That seemed fast, so I went back through every man's first undisputed UFC title fight since 2005. There are 154 of them. The typical guy waited 8.3 years…",
+   "link": "https://www.reddit.com/r/MMA/comments/1xvhcp9/the_shortest_and_longest_roads_to_a_first_ufc/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1794598371
+  },
+  {
+   "id": "28539b8c55590db4",
+   "title": "UFC 334 Ceremonial Weigh-Ins & Final Face Offs for Gane vs. Hokit, Harrison vs. Nunes - Sports Illustrated",
+   "summary": "UFC 334 Ceremonial Weigh-Ins & Final Face Offs for Gane vs. Hokit, Harrison vs. Nunes Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlI3bmRlNzBZLWpGcE1yM2paQVRhVzBGSS0wOVl5anR4c2hPTTA3VWhhMkpPdTFkS05qcmw5RDNoQk55UjZZbzZLb1dxeXhkTk9laEFnWjdGT1JTdXdJT24yWEQxdVloTTlmcWZaOHJxQ3dOc183RU4yUGVMOTdUZDladDVrN2lianJnT0xiMkNmcHpjTVFEU3hGakZ3dnFuSmdvRGplQjR1RnUyWXltYk9kbWdxbS13TVE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794598075
+  },
+  {
+   "id": "bff2bcda36ad5e57",
+   "title": "Kayla Harrison, Amanda Nunes Make Weight for UFC 334 Title Fight - Just Women's Sports",
+   "summary": "Kayla Harrison, Amanda Nunes Make Weight for UFC 334 Title Fight Just Women's Sports",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaVlqeGQwVGo4OWR6QTdQN01QMTdvY2czRjFGNmxQRUJNbmdTc0dEb25GLTFDcmt3ZXpocWVGb2NOajhjRk5kd2lOeUVtRGZCczh5R1lWWDJmTm1LX1RsY0xBZm52Vy01SVFaaEZsZG5XQk5FVmRVSXpIOE9xY2JGUWRjTlM5SGlKeG0xWEpaVlQtQU52dmlkSTVnWF9PUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794597995
+  },
+  {
+   "id": "f9a09e933cf4ef8d",
+   "title": "Fox News' Lara Trump talks to UFC CEO Dana White after meeting with President Trump - Yahoo Sports",
+   "summary": "Fox News' Lara Trump talks to UFC CEO Dana White after meeting with President Trump Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uaDNJWnQ2SzM0aFZWMWllYVY1R3dxeTNDeXNvNS1udDlrQm9ZaGRlcWxlbFRNcVYtbzA5WTRHUmdSbHE0Yk1aaUptX05wWEdxU3B6bVlnbGNZYTMxTXg4N0ZEcU03VWk2T3NoWnNLT2RsZndKTzFva0NPbjA?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794597387
+  },
+  {
+   "id": "522a87164b24a0b9",
+   "title": "UFC 334 weigh-in results: 2 fighters fail on scale, Gane vs. Hokit and Harrison vs. Nunes title fight official",
+   "summary": "2 Misses",
+   "link": "https://www.bjpenn.com/mma-news/ufc/ufc-334-weigh-in-results-2-fighters-fail-on-scale-gane-vs-hokit-and-harrison-vs-nunes-title-fight-official/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-334-weigh-in-results-2-fighters-fail-on-scale-gane-vs-hokit-and-harrison-vs-nunes-title-fight-official",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794597262
+  },
+  {
+   "id": "318a3d0ed85f6597",
+   "title": "Ciryl Gane vs. Josh Hokit: How to watch UFC 334, start time, full fight card and more",
+   "summary": "Here's what to know and how to watch UFC 334 this weekend.",
+   "link": "https://sports.yahoo.com/mma/article/ciryl-gane-vs-josh-hokit-how-to-watch-ufc-334-start-time-full-fight-card-and-more-191342596.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794597222
+  },
+  {
+   "id": "c15cb7b62893ea60",
+   "title": "UFC 334: Gane vs. Hokit DFS & Prop Picks for Saturday, November 14, 2026 - Lineups",
+   "summary": "UFC 334: Gane vs. Hokit DFS & Prop Picks for Saturday, November 14, 2026 Lineups",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTJNOVVsSnZtRkZRbWhTa2xPdHJYSndHYm9PSG1wYjQwTWhJMlY3Sm1sNDhpSWs4Y0VudmlPT3lWcExnNTRnUHplcW1jOGRNazByU0pYb1kzbTNoZ21VdmtmYXBVZFVscVlNcHB0dC11aE5xVndGR0h1RXF6dG5Mblo0TWtTcUNZQzFNODRnLVhtOEQ4dFZzSzJsV0xXZXRJNFE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794597057
+  },
+  {
+   "id": "bda63353870c3466",
+   "title": "UFC 334 star announces career move in statement on over 4-pound weight miss",
+   "summary": "Terrance McKinney has decided to make a change after missing weight for the first time. The 32-year-old will make his 15th Octagon appearance on Saturday night at UFC 334 in New York.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-star-announces-career-190842311.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794596922
+  },
+  {
+   "id": "1d05ae71b4bb863d",
+   "title": "[Hickey] Latest update from UFC anti doping went live today. Mike Perry is back in the UFC.",
+   "summary": "submitted by /u/26265273 [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xvgpdn/hickey_latest_update_from_ufc_anti_doping_went/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1794596911
+  },
+  {
+   "id": "2060d02d38155f2b",
+   "title": "Cain Velasquez Sees Conor McGregor in Josh Hokit at UFC 334 - MMA Sucka",
+   "summary": "Cain Velasquez Sees Conor McGregor in Josh Hokit at UFC 334 MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmxFeFlqM0ZYeUdLMWFyNWpsc2hFWkxWUnNlbTFJRDhnOEs5SHN2RUttS0dVSU9iSkxjY1BNb3czQmJBdXBMa1dDTXhlaWt1RWVKdkNtdnVBMXpVc1M4dUhjR0VkMTk4SEttTnZZZHdhc3Jvb2dxTkN5SEdXVE5DNXV6RWhEMmF3MWlkSHBNazRud05IMURzQ3A1WHpzNTlheEFLUmN6aw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794596758
+  },
+  {
+   "id": "bc9553010ed0d8e2",
+   "title": "Dana White Shuts Down Heckler Over Fighter Pay at UFC 334 - MMA Sucka",
+   "summary": "Dana White Shuts Down Heckler Over Fighter Pay at UFC 334 MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnpFNl96NmVPSFRVdllpUjFHSmVJRk5CaDBzZlZwaENWWFR5Vi1ET3RockJJdDdZcjhLS0hXMS1RS1R2Z3Z3VEVpNlk3VUw1cllxcDJMZmMwamhORWZRVl9FOXZBM1BIOVNUUXBYVmhzNVgzWlNpTnpsaURZT19jdjJYaFQxOG9ERUlEY3Nmb05nbjFURk5iWnNVa3lTdTVTRVFBWDhLd29NR2EwZ25RR2dvYnFOdw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794596757
+  },
+  {
+   "id": "d743d59ca0c1b6c9",
+   "title": "Josh Hokit Taunts Ciryl Gane, Alex Pereira Ahead of UFC 334 - MMA Sucka",
+   "summary": "Josh Hokit Taunts Ciryl Gane, Alex Pereira Ahead of UFC 334 MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdkJmRlphRWFYaXE5Vk9NOXhCclpVSEpWaDdHRGZlYzZDX2w1Nk5BVXVlY2hoODhjNzJyekxwNGx5TEU4RnZnaXZIOTloU2NoVzUxelk4Y3l1ZFA2Uzc3dHNCRFprckVfMFYtdXVISmdKRDVacW9RVGQwVlh6X0c1RzROWDUxQ3ZNNDE2Nks1dw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794596483
+  },
+  {
+   "id": "7e077a3f79880020",
+   "title": "UFC 334 Main Event Weigh-In Video: Ciryl Gane vs. Josh Hokit",
+   "summary": "A heavyweight title bout headlines Saturday's UFC 334 fight card.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-main-event-weigh-190048530.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794596448
+  },
+  {
+   "id": "517369cc963c53d5",
+   "title": "Undefeated UFC Fighter Tommy McMillen Found Unresponsive in Nightclub Bathroom, Given Narcan by Police - Yahoo Sports",
+   "summary": "Undefeated UFC Fighter Tommy McMillen Found Unresponsive in Nightclub Bathroom, Given Narcan by Police Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjhmRHRHVFlfa01LT0FTeEJPVHNrN3VPdERaRWFpbUdNMkt3cmNxUzZGV0tlc1BQQmxFTFBwbnJqSTVlN1gySFlOajQzUVRwU2dJX3hteklDYzhZc29hZHByRmpLSHRxeXFObUZRRFB2U2JaaGkxSTRYbHJjVFdnczY2OUZLTERkbHJMb25tbw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794596410
+  },
+  {
+   "id": "eda55ad2c4a40a10",
+   "title": "UFC 334 Full Prelim Fight Card Picks & Predictions for Ciryl Gane vs. Josh Hokit - Sports Illustrated",
+   "summary": "UFC 334 Full Prelim Fight Card Picks & Predictions for Ciryl Gane vs. Josh Hokit Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHJqSW1uajV0X0kwcXBfenBlY2ZHWVphU2wwT3p3MUd5TTlubTRoUUJGQkRKcTdnNVZkREJyMGxOdWFweVdTbGY1elZ2LXFVTm9HUjR1RmZ3WEVoUjNVckpNYTJFRnlRNXJfV0lTZW5wN3djOGRCM3NZMHh6cjZhY3BjOFlQcU1ISGYzZ0hpaDFEQi1aTm5HbVFQV0c0NjlmdWdsSU9LdnVxQlVNV0lWSw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794596330
+  },
+  {
+   "id": "3f5bd519c06d5137",
+   "title": "Amanda Nunes side-by-side pics: Here’s what UFC 334 co-headliner looks like after more than three years away - Yahoo Sports",
+   "summary": "Amanda Nunes side-by-side pics: Here’s what UFC 334 co-headliner looks like after more than three years away Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd19aOXBCU25FWnhiLXpsQUFyaWVseHNrcXBNbVBLamVPa0xYM1ZRZlVTaC0xazk1ejdwcjQ3X1ptVkZhR3hjWnY4b0JNZHJaN0RIdTdNQ204cXY3a2JhTTFZQjhPUlNWUk1kZ3pJYnk5U2NPT1BGZVpVbTRpeFJ2OFpR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794595833
+  },
+  {
+   "id": "de4ff00bdb2aa3a3",
+   "title": "UFC 334 co-main event weigh-in video: Kayla Harrison vs. Amanda Nunes - Yahoo Sports",
+   "summary": "UFC 334 co-main event weigh-in video: Kayla Harrison vs. Amanda Nunes Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUXBwTE54akFOUS1HQnpvMFRpWkdsWjB4VnBEM0MtRUREMkJXdDVUZnRXWUxQcFozeEZqY3dFYVRLdF9td1FSU0xaRTJreF84TEJ4MHJCT2VVMVVaNjFrWnEtajZhVGNQNzhoNGREQ29va2c4a1BCVjN3?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794595802
+  },
+  {
+   "id": "3cd9ab321629bf10",
+   "title": "Mike Perry set for UFC return? New update suggests he’s back following BKFC exit",
+   "summary": "Mike Perry’s commitment to continuing his MMA career could be leading him back to the Octagon. Last month, ‘Platinum’ said on The Ariel Helwani Show that he’s moving on from bare-knuckle boxing after achieving a lot of success in the sport.",
+   "link": "https://sports.yahoo.com/articles/mike-perry-set-ufc-return-183728752.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794595048
+  },
+  {
+   "id": "402689e6937ce3d9",
+   "title": "UFC 334 full card predictions: Is Josh Hokit really our next heavyweight champ? - Yahoo Sports",
+   "summary": "UFC 334 full card predictions: Is Josh Hokit really our next heavyweight champ? Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdkN4NGQxTkdEMmg3OXY5UzJna182N2E4Xzg0SXFaaEtMY2xCTTF1SlpQeXZGek10MmF3R3ZCdUNSWHdCLW9VZVMtQkMtN0NVOWNOQVUtN2NienZPc2hoRG1HX1BiT2stTlJFSi1UOGlCdmhGc1BJd3RGbk4xZjZIUGphOEtpVUVVWU10WVFpS2dxOEphbVFZOVkzNTNsQ3pBak9MLTQ3QjlqaU9zTUFPblBrTGxSempBWHJ1amFLTkVVZlExai0wMlVjSDlVVGdPZDNJVk5kd3lUNzVkanNTVTF0Yml1WEhtdUJ2Uk9IZUxyQQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794594821
+  },
+  {
+   "id": "6d9b14edcb7574f9",
+   "title": "Usman Nurmagomedov's attack on Merab Dvalishvili should never be 'good for business,' but we all know better",
+   "summary": "Shame on you, Usman … and welcome to the UFC. The latter part is inevitable after Nurmagomedov's brutal hotel attack on Merab Dvalishvili.",
+   "link": "https://sports.yahoo.com/mma/article/usman-nurmagomedovs-attack-on-merab-dvalishvili-should-never-be-good-for-business-but-we-all-know-better-181115322.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794593475
+  },
+  {
+   "id": "dcb30354daf276b4",
+   "title": "Josh Hokit is uncouth and prone to popping off at the wrong time. He might be the next UFC champ - Bozeman Daily Chronicle",
+   "summary": "Josh Hokit is uncouth and prone to popping off at the wrong time. He might be the next UFC champ Bozeman Daily Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTDZuTG1nUWxXakRwa2RDRmtIWm1UZ0FVVVdpaEJjMzg3dlJjV2tvRTZqbWxYbTY5c2RoTDAybnJMelBvV3h3S29OU01GZEJYdUNwa09FRnk4Rm1abmhQMDV1MGVkTFowVFh6NFlrOExDSlJrbWJlZWEweEpaOWhCVzI2aUl5cWZVUF9BZVhPZ29RU2k3NUtHb04tZGRmTUFHSTluV1g2djlTMFFVdjdFMXRqeXFwbXRGeHZteWlTMjVKRXFoQTg2cnNXMWpyUEdrU1lpMVBRc0FlQlBXd3NPX1BRUlk1Q0x3Sy1uTWRUOXgwY0swdFQtbnF6eThMS3ZYN1VF?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794592877
+  },
+  {
+   "id": "a85d940923b9b5ef",
+   "title": "UFC 334 predictions, preview, and analysis | Gane vs. Hokit",
+   "summary": "Right around this time last year, Josh Hokit won his UFC debut by annihilating Max Gimenis at UFC Vegas 111, which should have been the post-fight headline. Instead, it was his bizarre, WWE-style interview with Paul Felder that had everyone scratching their heads. I never would…",
+   "link": "https://sports.yahoo.com/articles/ufc-334-predictions-preview-analysis-180100650.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794592860
+  },
+  {
+   "id": "f9ae3e1376c133b2",
+   "title": "UFC Returns To Saudi Arabia With A Middleweight Showdown Between (#9) Israel 'The Last Stylebender' Adesanya And (#15) Shara 'Bullet' Magomedov",
+   "summary": "Tickets For UFC Fight Night Adesanya vs Magomedov Are On Sale Now Via Webook Read the Full Article Here",
+   "link": "https://www.ufc.com/news/ufc-returns-to-saudi-arabia-middleweight-showdown-between-israel-adesanya-shara-magomedov",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1794592800
+  },
+  {
+   "id": "dc45fda797bd48bc",
+   "title": "UFC 334 fight card & weigh-in results for Ciryl Gane vs Josh Hokit",
+   "summary": "UFC 334 takes place on Saturday, November 14, at Madison Square Garden featuring a championship doubleheader.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-fight-card-weigh-175847668.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794592727
+  },
+  {
+   "id": "6aa895df050b140a",
+   "title": "Kayla Harrison vs. Amanda Nunes breakdown, prediction for UFC 334 - Yahoo Sports",
+   "summary": "Kayla Harrison vs. Amanda Nunes breakdown, prediction for UFC 334 Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnlZajhXMDlPQThSUHRnNDM1SnF4MlNwaGVwMlBSOFJxc2ZGV2prMWxzRDNSbkJJbGpKbnE2YVRQZHhvQ196OWNidmJUODhvQ0NkUWtoZk5RYmJuN0tWdlpmQ1lnbExJUERmLUxlSnZ2cUZWRXFDTkkxc2FmTGluRE1LTQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794592727
+  },
+  {
+   "id": "a25ff4f8ad408b86",
+   "title": "Josh Hokit Insults Ian Garry at the UFC 334 Presser - MMA Sucka",
+   "summary": "Josh Hokit Insults Ian Garry at the UFC 334 Presser MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmRvOGpYLUdxQ2Z1TTVoTTVUbDR2RE1EU2RKcUhkSWlqZ0dXaTFhNkRTdWxUUFRNeWo2U0RfaHM2bU9CWUhlX2VPVXBwNU9nZjZuLTNmZl80Zlc0VGhPSENDbkthSHFrX1FLZEhrVFE0T3hOZUF1MHl6c1B1VnZYVDRHRlhTbkFnM3dz?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794592657
+  },
+  {
+   "id": "572a54b50ec947da",
+   "title": "Amanda Nunes vows to reclaim her throne at UFC 334 and fight until her body quits: 'I'm here to stay' - CBS Sports",
+   "summary": "Amanda Nunes vows to reclaim her throne at UFC 334 and fight until her body quits: 'I'm here to stay' CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXdlNXhtei1OcEhmaVFmQ3dGcWR6XzlvakRaemZNbnRCd3JzZHl3Y0JYdm9fSXAyWjdLbjZCazFZQTJqY0QxU001cnRBZ2tLTGw3NzIya1hpWXFPaEQzV3BnVmpZWE9uUU9IRFRGTTZUYWt4M1NEUnZyN2pqM2FCaFE0SDdHdUQ1UTJvQm1CLXBfdWFYQVd3Z3RTSFFQanhtTWRuV0lLVTNidw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794592515
+  },
+  {
+   "id": "ef1e76771074765e",
+   "title": "Tom Aspinall Predicts UFC 334 Heavyweight Title Bout",
+   "summary": "Former UFC heavyweight champion Tom Aspinall shared his prediction for the UFC main event between Ciryl Gane and Josh Hokit.Aspinall gave up the UFC heavyweight title earlier this year after being unable to fight due to an eye injury he suffered against Gane in their fight last…",
+   "link": "https://sports.yahoo.com/articles/tom-aspinall-predicts-ufc-334-175420689.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794592460
+  },
+  {
+   "id": "c43cf7a04b8d034d",
+   "title": "Dana White Reacts to Intense Caio Borralho vs. Yousri Belgaroui Face-Off at UFC 334 Presser - MMA Sucka",
+   "summary": "Dana White Reacts to Intense Caio Borralho vs. Yousri Belgaroui Face-Off at UFC 334 Presser MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY244Z2VXbVduckxjaUZsaWxMZHdQWXphdHJoSnZ5QWpON2ZXeWdPNDJKQk5pSjNESjNaUXJNRUZEcDd4MFp3c3RDeHVJVGsxVXZWek1oRDdWY3JOWUdFYk1ZNEVNM2JaTTltZjR1aVJoMktXc3lYQ1ZkUzJkV0RmcjhJS2JHX1JQa3ZIT1RMS2p1SG1Namo2azRkV2pLNF90SGJjU1pPMWZ5SnNTc3c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794592291
+  },
+  {
+   "id": "ed7f41764ec81913",
+   "title": "Josh Hokit Buys Lamborghini and Seven-Figure House After One Year in the UFC - MMA Sucka",
+   "summary": "Josh Hokit Buys Lamborghini and Seven-Figure House After One Year in the UFC MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanpTQ0FFbUdEYjhLZTRpRTZLR1kxRTJoZEpLYkFlOGM3Yk5wcWpUSGVGQUpGaEhwcjNPSnB6U3YtZ19MRlFGTGJTd05YUUR6Zl8xNEhCLVB4Tktwcmt6YmxlOVRwWmpxeFVkLUpGNlN0ZjJrVmRJT29PRDhNMUo5VkMzei10OHdjdEdmNEw2c2pTdlZVekRFaXFpa0tsNDkzY29uaGJR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794591981
+  },
+  {
+   "id": "e73cd2d9e36641d0",
+   "title": "UFC 334 odds, predictions, time: Ciryl Gane vs. Josh Hokit picks by elite MMA expert - CBS Sports",
+   "summary": "UFC 334 odds, predictions, time: Ciryl Gane vs. Josh Hokit picks by elite MMA expert CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXBHbU82QmN0MTZ6QUFZYjB0VGFBdGpzSVdHZ3l1dGg3NWktRFNhZk1WWm9QZlhxdVV4RktreS00RkZXOEFqMzJtWHVaMHFDVGhuc0NuZHplODZxSGRhM2tLZVVtYjMzRjlLOWJjMFBpbkw2ZU9XQkItRmltd1VPSldMTDA0cjJLNENBeVhOdDBHTnVKUFlNdXBEdjRKT3NtNGZpZnJ0elZfUEFR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794591900
+  },
+  {
+   "id": "c3f4ee50f102848d",
+   "title": "Terrance McKinney Issues Statement After UFC 334 Weight Miss",
+   "summary": "UFC lightweight fighter Terrance McKinney issued a statement after he missed weight for his fight against Jim Miller at UFC 334.McKinney weighed in at 160.2 lbs for his lightweight bout against Miller, blowing past the non-title lightweight limit of 156 lbs.Now, he has issued an…",
+   "link": "https://sports.yahoo.com/articles/terrance-mckinney-issues-statement-ufc-174234672.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794591754
+  },
+  {
+   "id": "17b51fe4d9b0511a",
+   "title": "Kayla Harrison vs. Amanda Nunes: UFC 334 GOAT Debate - MMA Sucka",
+   "summary": "Kayla Harrison vs. Amanda Nunes: UFC 334 GOAT Debate MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHpXZ2dTX3BvNmJpTkNvb0VHeDhzQllPTy1JR1J6MzVXY3poNWtZbGcyZlNXVHVVcm9aczFDXzFENXJOUGUwVVhFZzFrOFg0b19VV0U3S3h4amdTMFpzZi1kOUR0WTVoUHNiX1ZoSGNiaV9IN09WOUdVVVljMDRrTlBrNS1SdFllQU5JN0JFSTh6c2ptSElrWkxFd2ZkMDhJaXJNWGhVSGh2bG1VOGVrNENKUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794591689
+  },
+  {
+   "id": "5b768c33e4a22bfe",
+   "title": "“Hungry, Staunch, Thug?” - Ex-UFC Champ Shares Definitive Prediction for Kayla Harrison vs. Amanda Nunes - MMA Sucka",
+   "summary": "“Hungry, Staunch, Thug?” - Ex-UFC Champ Shares Definitive Prediction for Kayla Harrison vs. Amanda Nunes MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlJaMW51SEFfR1ZJSkhoQVVVRkNfRkRUNEM4bDRLNUhLcnJINC16Q3QxNDJnOWRpR3dRbWM4OGd3aGRJZmF6Q0tZdVFHcklxVjZ1Z2FXczVaTzlVSFpaZ25idUVVY2NMbXJ0VlRLdEdoeDBqWG4xVFV4QXZMd3U4cTdUdGtRdnBEdUFlcGF6SlZvZ1A0UVgteVB0X3ZxWTJOYTlVSnlnVnViVE1xMlVPNk1taVRQUGNTbEZDMGItQ1Q?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794591089
+  },
+  {
+   "id": "e7b47b20cdf1e3c3",
+   "title": "Polymarket UFC 334 Embedded | Episode 5 - UFC.com",
+   "summary": "Polymarket UFC 334 Embedded | Episode 5 UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqT1FNV3lnOUsxR1haQ0YwRHFVaGppZ1dVUDNKUTh6SGE4OXJtMzhvMHJpNFl0NlM5VzhTUDg1bEZxQ0VTcTFn?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794590036
+  },
+  {
+   "id": "dd09bb030d8aa170",
+   "title": "UFC 334 - Gane vs. Hokit - Sherdog",
+   "summary": "UFC 334 - Gane vs. Hokit Sherdog",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2YnBQcXU5M0lQUEQ2UDgyUnJ0WHpMRUhrcXBMal9NNzhKWFJFQmIzREpKRjZsZnV2Q0JEdUZqU2gxdUd1UG4tWVFVOVR5S3B1bnZqVkVZZi0weVNjVmtjdmlsNlFoS3ZZMFBR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794589820
+  },
+  {
+   "id": "cb75876dee05d495",
+   "title": "Bilal Hasan vs Luis Gurule Prediction, Picks, Odds for UFC 334, Saturday, November 14 - Yahoo Sports",
+   "summary": "Bilal Hasan vs Luis Gurule Prediction, Picks, Odds for UFC 334, Saturday, November 14 Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnpUemJnZXZKM3hLR3pVZWwyaXRuUjZYOHczR0hKTFJMTlhXd2prMzh0bE9XMXF3aFhUMm1nd0VKLXhqNmduSzJEOVBaY19KMmxEYlJvVGJqWWM4aG05R1FsMVVXTlJ0ZXd5cF84R0MzTW5TeUhSWkpFV29WcXVrbA?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794589249
+  },
+  {
+   "id": "09f25350a945e179",
+   "title": "New Josh Hokit Merch Now Available at UFC Store",
+   "summary": "New Fan Gear Styles Just Dropped Ahead of Hokit's UFC 334 Championship Bout Read the Full Article Here",
+   "link": "https://www.ufc.com/news/new-josh-hokit-merch-now-available-ufc-store",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1794589200
+  },
+  {
+   "id": "f7c8be9584506454",
+   "title": "UFC 334 fight predictions, expert picks for Josh Hokit vs. Ciryl Gane card tomorrow night - CBS Sports",
+   "summary": "UFC 334 fight predictions, expert picks for Josh Hokit vs. Ciryl Gane card tomorrow night CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzV280OFF1Z2VMVXlpeEtaRFFzcUZlQ3VVSWtJZGdkaW91RV9mRm1GVlIxZnJuc3htdElrdTRLRFNFYlZfeUNBcGFkY3BTb1BodWFmMTdSM19kX3RKY1U4SWxSMHI1V3hYQm1maWs2d1pRQnRn?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794589128
+  },
+  {
+   "id": "49c5b8f3d6a8e741",
+   "title": "Tommy McMillen health update after UFC star hospitalized for possible drug overdose in Scottsdale nightclub",
+   "summary": "The undefeated UFC star issued his first comments following a frightening incident regarding a suspected drug overdose in an Arizona nightclub.",
+   "link": "https://sports.yahoo.com/mma/article/tommy-mcmillen-health-update-after-ufc-star-hospitalized-for-possible-drug-overdose-in-scottsdale-nightclub-165420376.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794588860
+  },
+  {
+   "id": "e5fe5c21f03090b6",
+   "title": "UFC 334 weigh-in video: Gane vs. Hokit",
+   "summary": "Ciryl Gane, Josh Hokit, Kayla Harrison, Amanda Nunes, and the rest of the fighters at UFC 334 weigh in for Saturday",
+   "link": "https://sports.yahoo.com/articles/live-ufc-334-weigh-video-140000578.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794588762
+  },
+  {
+   "id": "a4c402e5ff1d1f78",
+   "title": "UFC 334 weigh-in results: 2 title fights set; 2 fighters heavy - Yahoo Sports",
+   "summary": "UFC 334 weigh-in results: 2 title fights set; 2 fighters heavy Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IVGZtMktsUmdpZlRCVGx6UWFtZUo3d2tQMm9rbE5ocGw4M3FTM0hpWFprR2lja2xrWEhpakNacTd4WGYxSDZSTXBUUW9RSFdELXdBdHFhSWFReUpBd3pJbHNWYm5OeHdGZ3A2dkFGSmR0TlBHSkl3Rzdnc00?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794588686
+  },
+  {
+   "id": "7867b4d4bce34698",
+   "title": "Video: UFC 334 full card weigh-in highlights with every fighter on scale - MMA Junkie",
+   "summary": "Video: UFC 334 full card weigh-in highlights with every fighter on scale MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGVEamRDM2ZnOU1QME1LNzk4cHNhTDVvN0F6M2pVZDRMMWgyelJmeFViVU1HQzZWY3lyTGNjbFNIWktQSHo0QWQzREZPY201eGs0VXprNUo4T3ppOVlXaTJUWE1nWk9NYkV1dGgzOUdGSG1CQ2RZVk5UWHZYY1dVVjNqRzhpaE5ONlJlZDU5NDkwWEQwdmFkd1AxZEZxU0xqV2dLS1FFbXg2WkdLa0tDY19iRGJzSERjakdST3Y0UTFXVzBELVhKX1ZNa3VQQ2lz?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794587700
+  },
+  {
+   "id": "2eb12aa4f205ea34",
+   "title": "Caio Borralho | Reconnected And Ready For MSG",
+   "summary": "Fighting Nerds Standout Caio Borralho Talks Bounce Back Year For Brazilian Squad, Matchup This Weekend With Yousri Belgaroui Read the Full Article Here",
+   "link": "https://www.ufc.com/news/caio-borralho-reconnected-and-ready-for-msg-polymarket-ufc-334",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1794587400
+  },
+  {
+   "id": "34850fd1a849a2d3",
+   "title": "Terrance McKinney apologizes after failing to make weight for UFC 334 - Sportsnet.ca",
+   "summary": "Terrance McKinney apologizes after failing to make weight for UFC 334 Sportsnet.ca",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnNIMTZRRHR0Y2lxS09CcHN2ZTJPTDRhZkxGZng5NTVHRWc1cVlZVWhIVnVhNlFyRWRmYUFCdjBOQmRudl96U2FzekVDNXdUa3hpdUlCbVprdEIwaGNpQWRheWtfck4wejVLWWFPVDdRNnBmNmJKQklhcTVEd3Q1S1BGbWFEWE8yMktMT0F0ZFRhc0FDTjlNQS1Gdm5Lci1HaGtaMnhKV2libnc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794586980
+  },
+  {
+   "id": "da9144dc4052e11b",
+   "title": "UFC 334 weigh-in results: 1 fighter misses weight by over 4 pounds, championship bouts set - MMA Fighting",
+   "summary": "UFC 334 weigh-in results: 1 fighter misses weight by over 4 pounds, championship bouts set MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmpkQlh5a0ctejVJTllzM0o1cWxwazJrclF3ZS1sU2w5bC1vMTJfdUs2azdJUEN1dUxhTU1GWG93V0VBcXF6MDdGMjFvMUw0a05TSzRfRHlYbjFCSlc5bkd4SnRXTnZPUXBXX2xiLUwzVHdXU2E2ZzFjdzk3M0c5aDctcktubGVrWFNNcE04QVNEVWhYUVpsMWREZkF0ZFNaUHFfRFF2VC05a2hfUFlNTGI2cGpVd2J6S1lDOVhoYm5lcnpzcmc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794586760
+  },
+  {
+   "id": "5d8c2b0dd0905c84",
+   "title": "Legacy At Stake | Kayla Harrison vs Amanda Nunes",
+   "summary": "It Doesn’t Get Better Than Kayla Harrison And Amanda Nunes Finally Stepping Into The Octagon With Gold On The Line At Polymarket UFC 334: Gane vs Hokit On November 14 Read the Full Article Here",
+   "link": "https://www.ufc.com/news/legacy-stake-kayla-harrison-vs-amanda-nunes-polymarket-ufc-334",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1794586724
+  },
+  {
+   "id": "81bab1896bc33960",
+   "title": "UFC 334 Best Bets: Ciryl Gane, debutant shine at MSG",
+   "summary": "BEST BETS",
+   "link": "https://www.bjpenn.com/mma-news/ciryl-gane/ufc-334-best-bets-ciryl-gane-prospects-shine/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-334-best-bets-ciryl-gane-prospects-shine",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794586551
+  },
+  {
+   "id": "c538c9cd0f5cc98e",
+   "title": "Yousri Belgaroui | Fine-Tuned By The Best",
+   "summary": "Having Been Trained By The Best In Two Sports, Former Kickboxing Ace Yousri Belgaroui Says He Has The Tools To Break Into The Middleweight Elite Read the Full Article Here",
+   "link": "https://www.ufc.com/news/yousri-belgaroui-fine-tuned-best-polymarket-ufc-334",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1794585710
+  },
+  {
+   "id": "13c9fae34e9205b8",
+   "title": "Josh Hokit's Remarkable Rise To Polymarket UFC 334",
+   "summary": "Heavyweight Standout Looks To Cap An Incredible First Year In The UFC By Claiming Undisputed Heavyweight Gold At Madison Square Garden On November 14 Read the Full Article Here",
+   "link": "https://www.ufc.com/news/josh-hokits-remarkable-rise-to-polymarket-ufc-334",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1794585600
+  },
+  {
+   "id": "ff8dd35d9208bceb",
+   "title": "UFC 334 Kalshi Markets: Gane vs. Hokit & Harrison vs. Nunes Have Clear Favorites - Sports Illustrated",
+   "summary": "UFC 334 Kalshi Markets: Gane vs. Hokit & Harrison vs. Nunes Have Clear Favorites Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmlDS2l3bDNNeTBvSXptUkxaXzRtUm4yOFB3bThHbVlqR0wtNjEyMFV3UTdvSUdKSDdUSGNEeW9PLS10OENlWUhTVlVOU29SejM4Z0lQcGlXU2tvMGJBb2RVSFoxZk0zRU9lcXU4eWxTQm9PM1EtNUh2ZHliSGIxTDZnUUR0dVUyS3VJQXk5SklaZm0xSnpBZENrcVI4X0tFUWxkZDdmQnQ2eWk2ZlFiNlc4V0pkVmh0b0ZlYVBKdkN3N2RM?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794585600
+  },
+  {
+   "id": "9a6251fb273c468d",
+   "title": "UFC 334 weigh-in video: Ciryl Gane, Josh Hokit combine for 474 pounds before title fight",
+   "summary": "Ciryl Gane and Josh Hokit have weighed in for their UFC 334 heavyweight title fight.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-weigh-video-ciryl-155726822.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794585446
+  },
+  {
+   "id": "df317e7e07cb1bcc",
+   "title": "Dana White criticizes Team Khabib after Usman Nurmagomedov hotel attack leaves 8 jailed in Abu Dhabi",
+   "summary": "UFC CEO Dana White denounced the attack on Merab Dvalishvili and took aim at the team of UFC Hall of Famer Khabib Nurmagomedov following Wednesday's brutal attack in Abu Dhabi that left eight people jailed for the next six months.",
+   "link": "https://sports.yahoo.com/mma/article/dana-white-criticizes-team-khabib-after-usman-nurmagomedov-hotel-attack-leaves-8-jailed-in-abu-dhabi-155333831.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794585213
+  },
+  {
+   "id": "d47c7bac52925789",
+   "title": "Fans back Kayla Harrison’s pitch in reaction to concerning UFC 334 weigh-in - Yahoo Sports",
+   "summary": "Fans back Kayla Harrison’s pitch in reaction to concerning UFC 334 weigh-in Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRTAwazlGQ2lWMWxVM3BwRjFybFdRVEFjeWctbkpWT1VWd25BaUZGRElWaTZDTGpqRWpLYnR1Z0VWS2VWdnRKYmF4QXdKNHZTblZhQ3g0Mk1UcG9OREkyc1B0QTJjQUtIOXc1NzM5aHRKbXlnc0huZFpVRFZjNEtKS1pwZEFhQQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794585164
+  },
+  {
+   "id": "2110c467cd99df2c",
+   "title": "Amanda Nunes vs. Kayla Harrison is a UFC clash about beating the best - OutSports",
+   "summary": "Amanda Nunes vs. Kayla Harrison is a UFC clash about beating the best OutSports",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWR1UHFyYVFFUVVFZTlhczdzaVFEM1FZN0JtLWpnNHhfdko3ZXN5UUxYc09WMEM5Yi1sbl9mQ191ci1WSWRYWmpVOWdyVEMtYWw5YmhIcDVsTjFfc1BtT21WaG9kbVl3STJPMFVwb3NXQk5KUlhWUUltVUpnYTdVd0dTWWFoRm9uM20xNWZJRlZXajFES1dRbTZ2WQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794585000
+  },
+  {
+   "id": "d9bc12d6f5775815",
+   "title": "UFC 334 weigh-in results: Ciryl Gane, Josh Hokit set; Kayla Harrison, Amanda Nunes hit the mark - CBS Sports",
+   "summary": "UFC 334 weigh-in results: Ciryl Gane, Josh Hokit set; Kayla Harrison, Amanda Nunes hit the mark CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGo5ODB6R3NYSmRRN1dsaXp3STdHV1MxTWF3WlBKYno2aXRhbHFUTVNrbzEwSE5wZ3o2SHRHRVl2dmtva2ZhZFdITU1HSWpQek9yaG54NE0wN1kxMjZwWV92OWFIempGdm41aFZFeUV6c0Q1ZTl6eU8ya25WZXVzSHpNUVVydTd1akxVT253M1N3c0Nta3JrZTlFUndlMGY1SFYxbWNVRjZnV3JRSTM4?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794584768
+  },
+  {
+   "id": "cdb50682c4f864dd",
+   "title": "Solomon Renfro - UFC.com",
+   "summary": "Solomon Renfro UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWRW4zZzBOSWJGbFhwNTNsUXNaeEVBNFB0SEpNRkxMT0JmQnJLNHZVdTJPNGNHRkhvRXF4T2dSWlZaZlRkTzJ1UFNmNGFZT2x4V0gyZg?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794584433
+  },
+  {
+   "id": "a43a4351988838bb",
+   "title": "Official Scorecards | Polymarket UFC 334: Gane vs Hokit - UFC.com",
+   "summary": "Official Scorecards | Polymarket UFC 334: Gane vs Hokit UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1JEbkM0dVN0N09yODIzRnh4QW40NjQ3aHNYTzh2V1RxUGNmdTMxQ2NwSmRKX1N6dEhNZ0dib0tXMVh6ZFlPdDNudEN1M0M2aFBiMWRCZjF3a3RRejlYc1RqbkVwdFJiM0RtbC1wTmJmdnpqS1NBUmduXzdFbmMwNlN5RQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794584199
+  },
+  {
+   "id": "0d9a6778624898a6",
+   "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit - UFC.com",
+   "summary": "Main Card Results | Polymarket UFC 334: Gane vs Hokit UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMkNyR3MyM0RuaXE0LVB0Y0tzUlRYblhWb1BxaUEyYnVYZzdpTVJodkRnMkQwdklYVTE4a1BJZjBCSExPRnZJU3FnUWI1TEFORnBpb1k3OV9yeXREMWpTWUlkdzVJUUh4VHpjbWZ2bC0zV0U?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794583934
+  },
+  {
+   "id": "fee047507df0687c",
+   "title": "Rooting for Josh Hokit in UFC 344 title fight requires careful consideration | Opinion - MMA Junkie",
+   "summary": "Rooting for Josh Hokit in UFC 344 title fight requires careful consideration | Opinion MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRG5yVHJnUGNGc0RyaHNfQkwzWlllVDF2WVBabE9oRzZ3SDhTTHhFQm1pbEh6Qm5WX2N6ZmYybUNpeWVXeWtVVW9LZW1yV1l1YkQ0LWIwU0tlUy1mVm8yVHJGSFVpTkRkanhvRGF0ZnVuZ05EbjhPNFlmOGpnOWxvdC1NV1dIUkwzOXNEOHhjZzRmYVB4Znpsb2dEVF9GYWNCYU9yY05nTDAxVGNqSy1mX19GZVdmMnYtd2lwRg?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794583800
+  },
+  {
+   "id": "d538675561413ca3",
+   "title": "UFC 334 Weigh In Results Ahead of a big night in New York City - MMA Sucka",
+   "summary": "UFC 334 Weigh In Results Ahead of a big night in New York City MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDFJNGFBdnN5ZmFHVDR3RXdMSkRDQi1JbGp1Z0RtOGxzMjZfYzZfRzZsU3RRQlozRlM2eDhDS005NDZ1b2xTTUhmMndVNkpGZlpHVHk4eHE1UTMtOEp6MzFjaHlQbkxEN0F3UVBvQWZyZXNnMXFmMzNIWkJ4WmlISjRQbWZhT1F6Y0s0NGdFc25DVFk?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794583578
+  },
+  {
+   "id": "d22019c442f8bf4a",
+   "title": "The History Of Heavyweight Title Fights At Madison Square Garden",
+   "summary": "Before Polymarket UFC 334, We Revisit Some Of The Best Heavyweight Title Fights To Take Place At The World's Most Famous Arena Read the Full Article Here",
+   "link": "https://www.ufc.com/news/history-heavyweight-title-fights-madison-square-garden",
+   "source": "UFC.com",
+   "kind": "news",
+   "ts": 1794582924
+  },
+  {
+   "id": "6b85cc74d4926399",
+   "title": "UFC 334 Fight Numbers: Gane vs. Hokit, Harrison vs. Nunes - RG.org",
+   "summary": "UFC 334 Fight Numbers: Gane vs. Hokit, Harrison vs. Nunes RG.org",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHplTldMcTh1WXdyMzVFV3dwcU8wS1BWa1VTV3ZFRDVLYXdiWnprdGlfZ3l3VVVPVHJhdkJadlJUMzJ5NWo3cENlb3VVaE4telRtd3NGMTdfVjBlaVIzZlVaWEQ5MGlEWGpYR2tpdGk2TnByeGNXX0paRkFEM1h6Yk5kRGc5UVNseXNKSEN1cGRYaW4zamRXZ0ZJank5a1pXVTdIU3daZHNHRkxk?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794582358
+  },
+  {
+   "id": "dd5c72a1253a1217",
+   "title": "UFC 334 weigh-ins: Terrance McKinney misses, Jim Miller fight proceeds - Yahoo Sports",
+   "summary": "UFC 334 weigh-ins: Terrance McKinney misses, Jim Miller fight proceeds Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nc2stQ0dHS1dkbWIwUnI1bHZJWV9ydTBBOC1yQ19LNE0tQ0N2VnRmN3hkZU1PWHFNUWxUVWN2WkF0TjlLNkMwQ05NU20xUEYyVnU1ZjQzSy05dkczVXN3bkRiNHNZUFNFcWMtLVZjVEtKS0NhUVJtN2dvTWpHQQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794581007
+  },
+  {
+   "id": "b9ecc1e0426f95f2",
+   "title": "Amanda Nunes reveals her toughest opponent ahead of UFC 334 return",
+   "summary": "Hard to argue",
+   "link": "https://www.bjpenn.com/mma-news/amanda-nunes/amanda-nunes-reveals-her-toughest-opponent-ahead-of-ufc-334-return/?utm_source=rss&utm_medium=rss&utm_campaign=amanda-nunes-reveals-her-toughest-opponent-ahead-of-ufc-334-return",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794580819
+  },
+  {
+   "id": "7488d3086c4c302e",
+   "title": "UFC Fans Get New Way to Follow Live Fights on Their iPhones - Sports Illustrated",
+   "summary": "UFC Fans Get New Way to Follow Live Fights on Their iPhones Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0FiQXZlUnl5Z09lZXFWRVFtSFlKRkhBZHlQRm9hdzBHc0p1NHhTa0I4aDVMRUg5SDd3Qm1iNjdSMjgwQURweklHeDczLTYyZTNORFBPSWFDWV9YZm9aMUZWb3BVei1WRVN2WWhNWFpfSmlZUTJVMko1WmxnNzg2OWlSZWVFdFdSaFJCQTFrbURsRlZlRjNxTGdIYWs1QQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794580809
+  },
+  {
+   "id": "579c0deff6220552",
+   "title": "Cain Velasquez praises Josh Hokit ahead of UFC 334 heavyweight title fight",
+   "summary": "What an endorsement",
+   "link": "https://www.bjpenn.com/mma-news/cain-velasquez/cain-velasquez-praises-josh-hokit-ahead-of-ufc-334-heavyweight-title-fight/?utm_source=rss&utm_medium=rss&utm_campaign=cain-velasquez-praises-josh-hokit-ahead-of-ufc-334-heavyweight-title-fight",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794580594
+  },
+  {
+   "id": "bc2b644d991d33b3",
+   "title": "UFC Fighter Josh Hokit Stands by His White House Attack on Michelle Obama - Yahoo Sports",
+   "summary": "UFC Fighter Josh Hokit Stands by His White House Attack on Michelle Obama Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXRlOVN1c1hUR19YQXgzakY1eHlGQ3NCV1F5NE5Yd0FLRkczcFRXWmN6dFpBdERfMDB4LWRRcS1VSnhraVpqMW5Qa3NKUVFmMF9na05nYUtZMTdDRUJfZjZHWWtlNkhfTmpzRnVSd2Zzdzl5R2VNV3BybDVST2FEOGVtSkw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794579818
+  },
+  {
+   "id": "6fd0511bb29662da",
+   "title": "Kayla Harrison, Amanda Nunes make weight for UFC 334 super fight - Yahoo Sports",
+   "summary": "Kayla Harrison, Amanda Nunes make weight for UFC 334 super fight Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzlnTDRMR0tjckEtRXVfaXZ4eDN5V2NaZ1pfQkIzZm04cVI1RlFiZEpBNzB4M2NaUHVMY2MzNDhvV0FvNzIwRkZGQzJWWXl1SHRVbG9QSXV3VmhkWUVST1VSVjRGaDlKQTF4TkdFYlRvRlRDWGEzb3NWd2stenNVcnVoN01obUU4?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794579399
+  },
+  {
+   "id": "391adb8a04b00f77",
+   "title": "UFC 334 weigh-in video: Kayla Harrison, Amanda Nunes hit marks for for super fight",
+   "summary": "Kayla Harrison made the title limit after neck surgery and Amanda Nunes hit her mark after 41 months away at UFC 334 official weigh-ins.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-weigh-video-kayla-141601335.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794579361
+  },
+  {
+   "id": "4dea17cb332994ba",
+   "title": "LIVE! UFC 334 Early Weigh Ins Results!",
+   "summary": "Ultimate Fighting Championship (UFC) will send 26 fighters to the scale this morning at the promotion’s host hotel to make the UFC 334 fight card official. Leading the charge are heavyweight hurters Ciryl Gane and Josh Hokit, who collide for “Bon Gamin’s” 265-pound strap in the…",
+   "link": "https://sports.yahoo.com/articles/live-ufc-334-early-weigh-135500275.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794578100
+  },
+  {
+   "id": "f6aad5cc05ef556c",
+   "title": "UFC veterans in combat sports action Nov. 13-14 - MMA Junkie",
+   "summary": "UFC veterans in combat sports action Nov. 13-14 MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmpUODdzSmpZMDBNdVNxWnZoenlpSm16Szg0ZWRndmwzemVHRWxUWEo5ZzlHQ2R0Qzg3Y3REdm5QZWlMdGpYRGgzazROSURkM09YMmNTcVZlcXExMkh1RHpGdEcwOU4zWGtCZkZqMHBhV2lYZWliQkt0OVljNXhyVVdpYzRXNWtfLUNDZnR3MXhWZGJHTU45d2JRZ3RNZEo2aVl3RFVhNk5QLW1xWVdzVVlKdllibi1YclE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794577800
+  },
+  {
+   "id": "352dba7f50c6fc4f",
+   "title": "High-profile UFC/MMA free agent, Usman Nurmagomedov, sentenced to six months in prison over Abu Dhabi attack - Yahoo Sports",
+   "summary": "High-profile UFC/MMA free agent, Usman Nurmagomedov, sentenced to six months in prison over Abu Dhabi attack Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3VTOTNpSTVLNnR1Y1VOQWhlRkNUbThGTGYzak1CNE1mbXVYMVp2MGx5TTdTVHBESWc3d09pUzEyRmNJTTVZVm5HOWVUaEdZRnh2amdwSnRaYnVuOEUwQmFLa3lfVElsMjEzX1VCVHgwOGdnNzF2ZExTMFJHSDdFdWdjZUthU0VlQnhrYQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794577475
+  },
+  {
+   "id": "3ca955f701ffcee1",
+   "title": "UFC 334 Press Conference: Josh Hokit Steals The Show As Rivalries Ignite - Yahoo Sports",
+   "summary": "UFC 334 Press Conference: Josh Hokit Steals The Show As Rivalries Ignite Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHRybnR5cDVEN1o5bExXeERTRkZ0NFhCMTQ5MUZwOGVmaDAtdUFuTTFfRWY5b3hCb0RrQUpjMFltNWZNeHM0UnhyM3dTOXRKVjl1dk90OXU4UFZIOWNzZU1xdWZrcTJiczI4bi1jTU5BRk9BOHN3V3BTZU42MU8yUkJDRk0?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794577284
+  },
+  {
+   "id": "5f03cf5b0bcb8ce3",
+   "title": "Usman Nurmagomedov Hit With Prison Sentence for Attacking UFC Star Merab Dvalishvili",
+   "summary": "A total of 10 people, including Usman Nurmagomedov and UFC star Merab Dvalishvili, were hit with fines and/or prison sentences following a viral brawl in Abu Dhabi.",
+   "link": "https://sports.yahoo.com/articles/usman-nurmagomedov-hit-prison-sentence-133624447.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794576984
+  },
+  {
+   "id": "d37f9f921c500d32",
+   "title": "Official poster for UFC Saudi Arabia",
+   "summary": "submitted by /u/secretbil [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xv8069/official_poster_for_ufc_saudi_arabia/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1794576843
+  },
+  {
+   "id": "b13e8dc0f1cf6cf9",
+   "title": "[Official] UFC 334: Gane vs. Hokit - Weigh-In & Pre-Fight Discussion Thread",
+   "summary": "Welcome to r/mma 's weigh-in and pre-fight discussion of UFC 334: Gane vs. Hokit! Please keep weigh-in and pre-fight discussion in here . Location: Madison Square Garden, New York City, New York, United States Weigh-in start time: 9AM ET (click for your time) Event start time: 5…",
+   "link": "https://www.reddit.com/r/MMA/comments/1xv7ydl/official_ufc_334_gane_vs_hokit_weighin_prefight/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1794576706
+  },
+  {
+   "id": "0bd9711025c73200",
+   "title": "RAF releases update on Merab Dvalishvili’s status following hotel brawl with Usman Nurmagomedov",
+   "summary": "Real American Freestyle could be moving forward with Merab Dvalishvili’s match after the former UFC champion was involved in a wild brawl in Abu Dhabi. Dvalishvili is scheduled to wrestle Marlon Moraes at RAF Abu Dhabi this Saturday, but his fight week began with him being ambus…",
+   "link": "https://www.mmafighting.com/raf-wrestling/520824/raf-releases-update-on-merab-dvalishvilis-status-following-hotel-brawl-with-usman-nurmagomedov",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1794576514
+  },
+  {
+   "id": "12e0f311a5c9005d",
+   "title": "Charles Radtke: Feel free to focus on 'Wonderboy' Thompson at UFC 334",
+   "summary": "Charles Radtke is OK if you turn your attention to his opponent at uFC 334",
+   "link": "https://sports.yahoo.com/articles/charles-radtke-feel-free-focus-130134163.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794574894
+  },
   {
    "id": "3d37c19d500a316f",
    "title": "Official Weigh-In Results | Polymarket UFC 334: Gane vs Hokit",
@@ -9,6 +774,15 @@
    "source": "UFC.com",
    "kind": "news",
    "ts": 1794574186
+  },
+  {
+   "id": "257bf443da66910b",
+   "title": "UFC 334 weigh-in results: Title fights set, but two misses in New York",
+   "summary": "Check out the results from Friday's official UFC 334 weigh-ins in New York.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-official-weigh-results-124529656.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794573929
   },
   {
    "id": "dbd78e31328c9119",
@@ -56,6 +830,15 @@
    "ts": 1794571670
   },
   {
+   "id": "1afc7023ceee388d",
+   "title": "Dana White confirms Merab Dvalishvili & Usman Nurmagomedov’s ‘all in jail’ status after Abu Dhabi brawl - Yahoo Sports",
+   "summary": "Dana White confirms Merab Dvalishvili & Usman Nurmagomedov’s ‘all in jail’ status after Abu Dhabi brawl Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQenpDcEo3MkNfQVRkNkUwVXdRQl9VV3lIdFd1Z1B1RDhSV2VjNlJvMmtMek1ldFZmTDQ1b0JqbnZjU1djQ1RSM2lxNjd6TldiMXgySVhUZzdad3NMMVRkS1NDNFBJMWhReWZuWVUzeGp4cGxac1JSWmlVenk3cHBmOVZvQmJaSzBCWGlTMjVEWQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794571496
+  },
+  {
    "id": "527fcd343135e486",
    "title": "UFC fighter Tommy McMillen makes statement after scary nightclub overdose",
    "summary": "The time to party is over, and the time to fight has arrived. That seems to be up-and-coming star Tommy McMillen’s feelings following a scary overdose incident over the weekend where the 28-year-old was found unresponsive in an Arizona club bathroom. Police were called, Narcan w…",
@@ -92,6 +875,33 @@
    "ts": 1794569986
   },
   {
+   "id": "8e4cd0b1efc438b2",
+   "title": "Roybert Echeverria - UFC.com",
+   "summary": "Roybert Echeverria UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkTGJqeFVXeHYyNGhOVG5EaTU2Ym9XOVhKMjZPcmRiMU5LR2ZHR21zTHpaOFJwemtvVVpZajB4cGJrNjlLM18tMUR6MTByZ2N1bjFPUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794569912
+  },
+  {
+   "id": "d754ea3bf0ccc371",
+   "title": "Dana White Rips RAF Security After Merab Attack",
+   "summary": "Dana White says RAF should have learned how to stop brawls by now after Usman Nurmagomedov’s attack on Merab Dvalishvili, and calls the situation dangerous.",
+   "link": "https://www.mmanews.com/article/dana-white-rips-raf-security-after-merab-attack",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1794569722
+  },
+  {
+   "id": "91339224c83e7fdb",
+   "title": "UFC 334 Weigh-In Results: Fighter Misses Badly",
+   "summary": "Both UFC 334 title fights are official, but Terrance McKinney missed weight by more than four pounds for his fight with Jim Miller, and Juan Diaz also missed.",
+   "link": "https://www.mmanews.com/article/ufc-334-weigh-results-mckinney-misses-badly",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1794569703
+  },
+  {
    "id": "c4e215dcd5d6bfb0",
    "title": "Henrique da Silva - UFC.com",
    "summary": "Henrique da Silva UFC.com",
@@ -117,6 +927,15 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1794566475
+  },
+  {
+   "id": "b7d8c68a468b6edc",
+   "title": "UFC 334 Odds: Gane, Harrison Favored at MSG",
+   "summary": "Ciryl Gane and Kayla Harrison are favored to defend their titles at UFC 334, while Bilal Hasan is the biggest favorite on the card. Here are the full odds.",
+   "link": "https://www.mmanews.com/article/ufc-334-betting-odds-gane-harrison-favored-msg",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1794565325
   },
   {
    "id": "e0a1370fecd35c4d",
@@ -153,6 +972,15 @@
    "source": "Yahoo Sports",
    "kind": "news",
    "ts": 1794561361
+  },
+  {
+   "id": "b297105b3ecb4633",
+   "title": "Gane vs. Hokit at UFC 334: How to watch in UK, TV channel, start time, prelims - ESPN",
+   "summary": "Gane vs. Hokit at UFC 334: How to watch in UK, TV channel, start time, prelims ESPN",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTkdIN0lyMXl5QUpXd1k5UFFkUUlEX2p3Wmh1QXZxc0gtUGwtOWpjcTRYNEZHM1pQSzFTczRsYlJmUU94bmwtOFZaTUExNWZiUkxPTlo0RW5sdmxfdlByWnByS2xDa0ZWRE9OcW9FZkI2enI4UzB3VXd5T0ZrQnRpTHlGMGlBaFBoanRveGZZaWw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794561360
   },
   {
    "id": "b368bf0399361829",
@@ -2772,834 +3600,6 @@
    "source": "Yahoo Sports",
    "kind": "news",
    "ts": 1794417982
-  },
-  {
-   "id": "312fb50034f1d59c",
-   "title": "UFC 334 DraftKings Picks & DFS Preview: Gane vs. Hokit - RotoWire",
-   "summary": "UFC 334 DraftKings Picks & DFS Preview: Gane vs. Hokit RotoWire",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlpmYXpXRlZJQ2hiaEVfTVZ6ODUtZGdqdnp0NnRlV3lkRXJ2emZWcG40LTl4M29fclhCUGVnTk8xdzdFNkZVU0dwZzFxcjc1NEJFWGpJTENGRUhtWWpEZXhIZmI3UUlRZFd3REI0MFJIc1QxUHprQkFXNjNGaTU5UlNOYU1TdmZnTkhxNw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794417600
-  },
-  {
-   "id": "22df7d6a40e484cc",
-   "title": "Curtis Blaydes thinks the UFC should cut the Nurmagomedovs for attacking Merab",
-   "summary": "submitted by /u/xXerzack [link] [comments]",
-   "link": "https://www.reddit.com/r/MMA/comments/1xtnlqw/curtis_blaydes_thinks_the_ufc_should_cut_the/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1794417475
-  },
-  {
-   "id": "aa8fdfec5f2f89b2",
-   "title": "‘Snakes from behind!’ Watch PFL’s biggest star ambush, bloody former UFC champ ahead of RAF Abu Dhabi",
-   "summary": "Payback? Former UFC bantamweight champion, Merab Dvalishvili, was just ambushed by PFL lightweight kingpin Usman Nurmagomedov ahead of the RAF Abu Dhabi fight card this weekend in UAE. “I was doing an interview for RAF in the hotel lobby and Usman and his buddies came up from be…",
-   "link": "https://www.mmamania.com/ufc-news/485497/snakes-behind-pfl-biggest-star-ambushed-bloodied-former-ufc-champ-raf-abu-dhabi",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794417192
-  },
-  {
-   "id": "4dd6363af5d99932",
-   "title": "Polymarket UFC 334 Embedded | Episode 3 - UFC.com",
-   "summary": "Polymarket UFC 334 Embedded | Episode 3 UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9xekZwdGdZejc3RVZuQWdqbW44SzJkZW5kU00zZktDUllKUjYyaXF5YWEydzdkYmt6M2h2cDhNWW1jdTBUa01z?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794417191
-  },
-  {
-   "id": "4364a98301570dd8",
-   "title": "UFC Star Merab Dvalishvili Left Bloodied After Alleged Attack From Usman Nurmagomedov",
-   "summary": "UFC star Merab Dvalisvhili claims that he and a friend were jumped by Usman Nurmagomedov and several others while in Abu Dhabi for this weekend's Real American Freestyle event.",
-   "link": "https://sports.yahoo.com/articles/ufc-star-merab-dvalishvili-left-171145576.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794417105
-  },
-  {
-   "id": "0daf2c2d4c80b8b5",
-   "title": "Pouya Rahmani Undefeated PFL Heavyweight 6-0 l Returns this weekend at PFL Dubai",
-   "summary": "At just 6 fights into his career the Iranian nation wrestling champion has wins over former ACA Heavyweight champion Salimgerey Rasulov, previously undefeated Olympian Slim Trabelsi and UFC vet Karl Williams. I got shit from ufc fans saying he was a better prospect than Gable ea…",
-   "link": "https://www.reddit.com/r/MMA/comments/1xtnd0u/pouya_rahmani_undefeated_pfl_heavyweight_60_l/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1794416955
-  },
-  {
-   "id": "0540c37b92087d11",
-   "title": "UFN Boston: Dana White Video Blog - UFC.com",
-   "summary": "UFN Boston: Dana White Video Blog UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00a2tjLUlIaVFCY2R3d0NTNUVJdGJ5aHRXTk1Fb2V0cWdKVE1PdUtPMWJDdHlWaDFKcGdLbWVETGN0Y3Ryc1hLeHNveTZsSUU0NGw0?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794414595
-  },
-  {
-   "id": "ff560018c966c554",
-   "title": "Daniel Cormier: Islam Makhachev not afraid of Carlos Prates, 'would fight him anywhere'",
-   "summary": "Daniel Cormier isn't thrilled with what ctitics are saying about UFC welterweight champion Islam Makhachev.",
-   "link": "https://sports.yahoo.com/articles/daniel-cormier-islam-makhachev-not-162026598.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794414026
-  },
-  {
-   "id": "e1d450b546eea0f5",
-   "title": "Ex-UFC Champion Set to Return From Massive Layoff for Banger UFC 335 Fight",
-   "summary": "Former interim UFC featherweight titleholder Yair Rodriguez will end a lengthy layoff when he meets Steve Garcia in the Octagon at UFC 335.",
-   "link": "https://sports.yahoo.com/articles/ex-ufc-champion-set-return-160932329.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794413372
-  },
-  {
-   "id": "44689fdbda95e5a5",
-   "title": "Josh Hokit Is Ready To Take Over",
-   "summary": "Heavyweight Title Challenger Has Spent His Entire Athletic Career Building Up For His Big Moment. Now, At Polymarket UFC 334, That Moment Has Arrived. Read the Full Article Here",
-   "link": "https://www.ufc.com/news/josh-hokit-ready-take-over-polymarket-ufc-334-heavyweight-title",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794413131
-  },
-  {
-   "id": "96ea47a2553a3b37",
-   "title": "Jorge Masvidal puts $200,000 on the line in wild UFC gamble on Josh Hokit vs Ciryl Gane - MARCA",
-   "summary": "Jorge Masvidal puts $200,000 on the line in wild UFC gamble on Josh Hokit vs Ciryl Gane MARCA",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHV3SFNnSFFldjNfeXhMRkZhVUJIQm9VNHJHSnZqcFhFNXh3WmZlRUsweDZzd2dwZi1fVHhTc0hza05hQmNNOWliUGg1ZFBCYmJmVHNMZ29ubUVNTDVZLWpVVDV0V0FLR0tKZ2VRalI5YlJqWEZzYXhwczdCbTRLX2N3TFdBQUlqV2NPRE1VaDEyMVBLUTJTMlhIb2UzM1dWanVOeGtZaVQwM05xVjl5bzIzUVBEYUFDSFhZdVRpaHU1NWpIS1BDbzV0UdIBywFBVV95cUxOclFnT3B5WjNYX2hWRG9jSmxxT2JObnJMUFFLeGF2VWppY1gyZ1pLMjFFaTlOYklVSzRkcDhZcEpMZWZVWmxNbk93RVpmc0xia2V1NDNfaEx0bElkTDI4ejNHeU56ZUhsOWRmdGZOWkJUcDRHVHlMbmVkZzM3ZjE2ZS1Kd2ZINUNxYjJrclNoOFItXzgwcU9ZSUQtUW5kOUM0WEQyUWpmX1VlRmdzQXI3XzlGYWRXLUp0ODVyLVpuTUJQSkpJYXpFNWt1MA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794412990
-  },
-  {
-   "id": "a6c73b1e3ecd1a07",
-   "title": "UFC 334 media day video, live stream interviews from New York | Gane vs. Hokit",
-   "summary": "Ultimate Fighting Championship (UFC) is inching closer to its upcoming UFC 334 fight card, featuring the heavyweight championship showdown between newly-crowned titleholder Ciryl Gane and undefeated contender Josh Hokit. The action gets underway this Sat. night (Nov. 14, 2026) o…",
-   "link": "https://www.mmamania.com/ufc-interviews/485470/ufc-334-media-day-video-live-stream-interviews-gane-hokit",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794412640
-  },
-  {
-   "id": "a26ced44335c29b0",
-   "title": "Ciryl Gane Reveals How Jon Jones Defeat Changed His Mindset as a UFC Fighter",
-   "summary": "Ciryl Gane is preparing for his first heavyweight title defense against Josh Hokit in the main event of UFC 334. The Frenchman was recently elevated to undisputed champion after Tom Aspinall vacated the title due to further complications with his eye injury. However, much of the…",
-   "link": "https://sports.yahoo.com/articles/ciryl-gane-reveals-jon-jones-155031083.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794412231
-  },
-  {
-   "id": "d364bc3c1cc66e13",
-   "title": "‘We’re almost done’: Kevin Holland outlines retirement plans ahead of UFC 334 - The Mac Life",
-   "summary": "‘We’re almost done’: Kevin Holland outlines retirement plans ahead of UFC 334 The Mac Life",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0RzenR6cFJvRGhmYmVVMkItTGhvd2l2M2p6cDZsdGtxMWNwbjk4eG8yNlN3UnRDREk4WkRkWmxTbFFzMXZKcjExbTBpTVI2NTB1YkJseGxBakNIREo1TURsVnRMTEk5TzJiaFRiMS1uaUh5dW15TjVlZnF6aTRuM2pwRHBwOTdHc1plSEdSYXFpbkI3X1FfM0F6YUhFNjNtazdPUlV4c0VyQXhi?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794411750
-  },
-  {
-   "id": "dd0b0c7fb26396d0",
-   "title": "UFC 334 media day video - MMA Fighting",
-   "summary": "UFC 334 media day video MMA Fighting",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56emROZHh4RHNCbHBxOFV6RlJ2MUNseEw2ZFNoU3BnaVZMamF3TndoQ21wd2Y5WFVvNUJkYjFjclY5OFBOb2kxWjkxRXBvUXpYakNXZ05zbnM0bVM4TW55RU13T0NIWjA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794411155
-  },
-  {
-   "id": "cdd6f82b51563016",
-   "title": "Sean Strickland sees Ciryl Gane vs. Josh Hokit ending in 'either a TKO or submission'",
-   "summary": "There's one glaring hole in the headlining UFC 334 matchup that Sean Strickland believes will come into play.",
-   "link": "https://sports.yahoo.com/articles/sean-strickland-sees-ciryl-gane-153033826.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794411033
-  },
-  {
-   "id": "00f195988f4e4608",
-   "title": "LIVE! UFC 334 media day",
-   "summary": "The UFC 334 media day features 12 fighters from Saturday’s anticipated event at Madison Square Garden. This UFC event is expected to start at 11 a.m. ET. The tentative schedule is as follows: 11 a.m. ET: Luis Gurule 11:15 a.m.: Josh Hokit11:30 a.m.: Charles Radtke11:45 a.m.: You…",
-   "link": "https://www.mmafighting.com/ufc/520494/ufc-334-media-day",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1794411000
-  },
-  {
-   "id": "70ae34b3186f8ab0",
-   "title": "Bud Light Drops Bruce Buffer Ad, Adds 4 UFC PPVs to Its $99 Paramount+ Feast - DesignRush",
-   "summary": "Bud Light Drops Bruce Buffer Ad, Adds 4 UFC PPVs to Its $99 Paramount+ Feast DesignRush",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaW10TERlTGNtNWVQVmdCYUVya0xiSk91aVo5OWd1ZnVIWWdLa3VvdU01b3VrX3Q5elpYVE5QLTJ6V0FFYWVqNkF0b0xGQThySUdwb3lYR0M1WFJvakVtbDN3cXhUWDB5VEVKNGFLc085Ml9NM2ZuZUFSbmZNeDdoY0VRRERFYXo0NUc4bFBmYk9telNy?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794410637
-  },
-  {
-   "id": "f51e915f89e0ebc2",
-   "title": "Jon Anik Signs Multi-Year Extension To Remain The Voice Of The UFC - Sportsnaut",
-   "summary": "Jon Anik Signs Multi-Year Extension To Remain The Voice Of The UFC Sportsnaut",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yc2pBVjRYcFZSWEZFMnhxVjVlY1llYzAzOUpUcTNUcVFUdGpGb1NkVnU3c3ozZHdSWlRaSm54dkVHa3VCVGhPVmt6eF9YZTg4OXZIb2JPelB0SnpaZGxlSUh5Y1Q0OC1CSUJIeXJaQXBYZVhuYWlRcE5tcw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794410298
-  },
-  {
-   "id": "190dbdcf1d389905",
-   "title": "Stipe Miocic predicts Ciryl Gane vs Josh Hokit and reveals key to UFC title fight - DAZN",
-   "summary": "Stipe Miocic predicts Ciryl Gane vs Josh Hokit and reveals key to UFC title fight DAZN",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFhHSzQ3RldnLUdGMjljUmlEZFNhTlo1WGFReXhTXzFYM2pOelJUeHQtWUVMOTdFdjRUWnMxaTljdnZ1N3F2MS01V1ItMUtNbmpMY0pxWjdCYi1FS2pTeGZQM25SY2xnUnN2VlRDMXVCdGxoWWJlUGVuVVFrWWRUcEIyaVJiZVZRRU5mNmgxQUVacVJSU0VRVFA3bGVaODNOS2I0SHo3MEJiT1NpbTYwdGVzR2Radlh0ajYyRw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794409838
-  },
-  {
-   "id": "a4f8fd8f2c208b6a",
-   "title": "UFC is dumping ranked contenders and ignoring free agents — but just locked up Jon Anik for another long-term contract",
-   "summary": "It seems like fighters are a dime a dozen these days. The promotion is dumping ranked contenders like Norma Dumont and ignoring free agents like Elijah Smith, but when it comes to the voice of the brand, UFC is hanging on to longtime play-by-play man Jon Anik. The former ESPN Ra…",
-   "link": "https://www.mmamania.com/ufc-programming/485466/ufc-dumping-ranked-contenders-ignoring-free-agents-locked-up-jon-anik-long-term-contract",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794409580
-  },
-  {
-   "id": "7a3bc29e44e56685",
-   "title": "Jon Anik Inks Long-Term Contract Extension With UFC - MMA Mania",
-   "summary": "Jon Anik Inks Long-Term Contract Extension With UFC MMA Mania",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1pjOHdPd21RSVdHd2NIRDM1eGRUOFQyQ2k4ZUJQQ05xQnBTQUNpVjRVakh5eFdQTU8tQXROYlZYWVVvYU5fcWJRUFdNSzNQeWZhRnhzNWZSbTd1Q3JxeFdHY2JiMURWMnpNNXhXN1A4N3B3VmJtOHhXWVhITU8zZTJ2RHNzZm9zcU1pVjNRYkNRNVVad3V5NnR2YVZlRTZkbUN6TmlEZFFtOHUya1dCa094M1hiODlCLTA2NXl2X2pYZnlUWFF1TGtmS2F5QVp0Y3c?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794409580
-  },
-  {
-   "id": "81bb2c7275827994",
-   "title": "Ciryl Gane, UFC Freedom 250/White House media day interview - The Lufkin Daily News",
-   "summary": "Ciryl Gane, UFC Freedom 250/White House media day interview The Lufkin Daily News",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeEt6WnVBcERxbU1JWVhyN09lWnp6YzJzaUF0V1NSSTZhZDVxZ2k3ZEhMTUg4MFQ3XzVIUXplV3lhaGFrTjBsb2pncnN3MXpaeV96MW84X045SEpTd3pQNDdkVUhtU25ncl8zVklid1loMnllTUJRNlhaNEppZHBkZld1WUZtbHg1WHBBTnNIeEF5S05VdzV4SzA0NDM3RzRGZ0p6Ulo1UE9CNFBWVVhpeWoyNnRlV3IzOXlhSnBRZWp5cXZOQmVnTU1RU0ZmcGxieDQ1MHpVNnBUU01qdldPVkI2UzgyT0ZKRTMwOA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794409274
-  },
-  {
-   "id": "f5b6a0e8d16fa55e",
-   "title": "Video: 'UFC 334: Gane vs. Hokit' media day live stream - MMA Junkie",
-   "summary": "Video: 'UFC 334: Gane vs. Hokit' media day live stream MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUxqSzhabm9Qd2IxSXcyczVRY0x3bUlSUldHVjJZbU9RaUNFdEs4dmxqV2ZTeHBDUTNBcFUzWHQwamtGWXJGVzFKYmhCVTI0YXFJVlpDaWpMdjJCem5jVUljdGxGc1pVaG1QTkMyUFpyR0dJRUtaNWRXRGdLSE9maWt2MlN1SFdiWDEtNWQ4anpzVDY2dWRZUUhJai1vNEFuYXNFWjUzZjd5cXRHNWkyd0R1Y29ia294TDdqVlVn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794409260
-  },
-  {
-   "id": "6beabf6ae351a5f5",
-   "title": "UFC Collect by Topps App: NOW LIVE",
-   "summary": "Build, Trade, And Grow A Digital UFC Collection With Fans Worldwide Read the Full Article Here",
-   "link": "https://www.ufc.com/news/ufc-collect-topps-app-now-live",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794409200
-  },
-  {
-   "id": "5e9d3d9b4e01a251",
-   "title": "Watch Josh Hokit train blindfolded to prepare for eye pokes in UFC 334 title fight with Ciryl Gane",
-   "summary": "Josh Hokit is making sure he’s ready for all scenarios at UFC 334. The undefeated heavyweight challenges Ciryl Gane for the undisputed UFC heavyweight championship Saturday night at Madison Square Garden in New York, and posted a video on social media in which he trains blindfol…",
-   "link": "https://www.mmafighting.com/ufc/520488/watch-josh-hokit-train-blindfolded-to-prepare-for-eye-pokes-in-ufc-334-title-fight-with-ciryl-gane",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1794409200
-  },
-  {
-   "id": "ab6e7eb733f7f38f",
-   "title": "Amanda Nunes vs. Kayla Harrison marks a true UFC women's blockbuster - Sportsnet.ca",
-   "summary": "Amanda Nunes vs. Kayla Harrison marks a true UFC women's blockbuster Sportsnet.ca",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2RST2hwMnluU2NBS1RoMGh1SG1TN0hnRnJXcE5ZQXpRNndnRkV1SEdEZGtUQVNiWlZDZDVrRkRFM3h2YzNDVk9VZV9jbkNrbEl1c0prY2U0Yk1kUjNhQVhCalVfYXEtRmpRZTA2NkthWGhpTmhCeFN1V093aXFndmwwQ3ZNZ24tRmYyeHo5MTFuUHVRSU1iSkRWTU0zeEx5XzNKRDFwOA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794408960
-  },
-  {
-   "id": "f2841b6dd2b699f5",
-   "title": "Josh Hokit Sends Blunt Warning to Ciryl Gane Over Fouls Ahead of UFC 334",
-   "summary": "In less than a week, Josh Hokit will get the opportunity to complete his remarkable rise through the heavyweight division when he faces Ciryl Gane for the undisputed title at UFC 334. However, his title shot has attracted plenty of criticism, with many questioning his credential…",
-   "link": "https://sports.yahoo.com/articles/josh-hokit-sends-blunt-warning-144925861.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794408565
-  },
-  {
-   "id": "d21477ec6766d925",
-   "title": "Chidi Njokuani vs Ignacio Bahamondes set for UFC Dallas on January 16th.",
-   "summary": "submitted by /u/airplane231 [link] [comments]",
-   "link": "https://www.reddit.com/r/MMA/comments/1xtjmqq/chidi_njokuani_vs_ignacio_bahamondes_set_for_ufc/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1794408505
-  },
-  {
-   "id": "b2e1c2fde07c0d52",
-   "title": "Rising Star Reveals Surprising New UFC Contract Policy After Undefeated UFC Run - Sports Illustrated",
-   "summary": "Rising Star Reveals Surprising New UFC Contract Policy After Undefeated UFC Run Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUh5RTdCanJrcDhlYmdMRHdSTHB1ckg5c2ZnTHRYMnVGeVZpM0I4UHlDelBXc3FYTlFpSkVWbk5lUnhJc01wSFd0Q1VTTXEyWEM0UDlMRGtLTS11UlNkUnluRWt6NTNrYTYzMFlkLURBT2lGQVprc3NiM2ItWmdnZzB4aFdJZXB0cFc0bUhPcGs0X0VLWW42UzR0akVIdXAwanJvd1NfQ29sVDJwV1FMTFhlbzBSTURL?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794408381
-  },
-  {
-   "id": "8bdb19cc5e3e6a16",
-   "title": "Johnny Walker Just Jumped Ahead Of His Brother In The UFC Rankings, And Valter Has Won 5 Straight By Submission - Yahoo Sports",
-   "summary": "Johnny Walker Just Jumped Ahead Of His Brother In The UFC Rankings, And Valter Has Won 5 Straight By Submission Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVJfS1NTTHBVLXNzTzNCSVhxZDExVEZsQTFfa0JXWDFxY29rR0xzRHFrNWMzNHRnbkdva1pZRHVBWUNhM2R1c19hanpuSHR2dlRIcGpOVnFoSE1LSmhVT21URnkxOE1Ob1d6Z256MEd0dGJWWFBUX3Z2Q1Z0UUtJbzk1R1BnUUU?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794408325
-  },
-  {
-   "id": "96f293626928b72b",
-   "title": "UFC Rankings: Johnny Walker Enters Heavyweight Top 10 After KO Win - Forbes",
-   "summary": "UFC Rankings: Johnny Walker Enters Heavyweight Top 10 After KO Win Forbes",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWmRlTExPYTBqd1BTSi1sWVpUVGVoZGhlcFREOEh3NjVGcjdyTlA5VXFyZUctZjg2QnNVenhYNmxmaG1lMGg1aGFtcXRUNTBteTV0T3VSRmVVZ3VlbV95UXpGaHBIMTA5YlVaOF90NlE0R1VyQ1JodXluSS1CZy1PZHF0NVJhTXk1XzdYVU44VGtfQzgwOHFMMW9hZ21SNG1yYl9QekoyRWNBZF9uTHZESUNsVGp5aENuWFl0WTRHZ1hrcDhyN2wxSGxzaVFHSmM4M0Nyb1ZwQm5UTEc1UklVWHZSUnVvZkU0R0daYTlUcl9DTlJnaGJF?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794408325
-  },
-  {
-   "id": "0833a8ab8e5c4951",
-   "title": "Jon Anik Re-Signs With UFC - Heavy.com",
-   "summary": "Jon Anik Re-Signs With UFC Heavy.com",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VWjFmckd6MTcxR0VxbEJQeFI3bTd4WWJYV2R0NTlSb2FVckY1QWxkeGVISGRtQmFDUzBIUjNqbWtzazJWdDcwZWlXSFVLOFNFazJFTjFONlBqdnVTdEdyQk1XZ1kzcVU?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794408173
-  },
-  {
-   "id": "538f1c2cc67e7d89",
-   "title": "Ciryl Gane details how Jon Jones loss proved to be UFC career turning point",
-   "summary": "Losing to Jon Jones had a different kind of impact on Ciryl Gane.",
-   "link": "https://sports.yahoo.com/articles/ciryl-gane-details-jon-jones-144027945.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794408027
-  },
-  {
-   "id": "bcb6b6aaf85cbb0f",
-   "title": "Bilal Hasan: 'This Is What I'm Meant To Do' | Polymarket UFC 334 - UFC.com",
-   "summary": "Bilal Hasan: 'This Is What I'm Meant To Do' | Polymarket UFC 334 UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9yLWk5XzRBSWhVZGQ5WDNDamc4UUJSZXJVTm1Lbzk3dzNKSTgzOXcta1NWWVdOOFE0LXlEbkhEYlFpODVQa0xR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794407517
-  },
-  {
-   "id": "9f46d40348c6c2be",
-   "title": "New Deal, Final Chapter: Kevin Holland Sets Hard Expiration Date on UFC Career - MMA Sucka",
-   "summary": "New Deal, Final Chapter: Kevin Holland Sets Hard Expiration Date on UFC Career MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcDZkakRIMklib3NVaW11RzRKRWRLYnZRZFI3OXFVdkJfVjBMUlg0VkNOWkRlSXE4ZXdLdlRxQms4MTFrbXlxakVJdnBhWmxGUW9PNmlDUl9TcWhPdV92ZnNlSU00dUducjlwdHhKUlE2Y0RjNkRUMGhxbG5YUnFnNGc3bS14cFdrQ2EtRGFrRDNWRVVGamRHR0s4bXkxMER1YmNTTnZB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794406099
-  },
-  {
-   "id": "db98e78578deab25",
-   "title": "UFC 334: Stephen Thompson has \"no regrets\" ahead of retirement fight - Yahoo Sports",
-   "summary": "UFC 334: Stephen Thompson has \"no regrets\" ahead of retirement fight Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWFViNDUyblVUa3ZOaDhaMjFiVjM0TEFoWmx1UUkyRzEtRlBZUjhtV0t3T1hEdWdRUzFFZ1Ftb3hxTlg2bVZoNXB5aUdJaS1xZGRYSnZTRndNajVqS2lUN2piY0FtMnY3YVBkSnBhRklQalNBc0szUVlZeG1EYkE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794406062
-  },
-  {
-   "id": "db6ed7182c19f61c",
-   "title": "Kayla Harrison’s coach downplays past experience with Amanda Nunes playing any real part in UFC 334 fight",
-   "summary": "As Kayla Harrison prepares to face Amanda Nunes in the UFC 334 co-main event, a lot of the focus for the fight is going to center around them previously training together at American Top Team and even sharing the same coaches at times. But Mike Brown, who previously coached Nune…",
-   "link": "https://www.mmafighting.com/ufc/520437/kayla-harrisons-coach-downplays-past-experience-with-amanda-nunes-playing-any-real-part-in-ufc-334-fight",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1794405600
-  },
-  {
-   "id": "0adfb93a118644c9",
-   "title": "Gregor Gillespie: The forgotten UFC lightweight prospect - MMA Sucka",
-   "summary": "Gregor Gillespie: The forgotten UFC lightweight prospect MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sNGlRQUR0MWJvcWVwNGcwYzZTRTNPaHVHVEhWR1RMYmpmVHp5SjhTVVRFUFh4UjFEVi14SHJkYVVXc1k1aHBYOUNyTUZ6dGIwX1k0RG5FcDVxbWtISTBvSWtqQnFxcTVJbTM1aTZSUXdpMEpzd0E?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794405500
-  },
-  {
-   "id": "bb527e8d20ecc5b7",
-   "title": "Bilal Hasan vs. Luis Gurule: Odds, full fight preview and prediction | UFC 334",
-   "summary": "Ultimate Fighting Championship (UFC) Flyweight sluggers Bilal Hasan vs. Luis Gurule will clash this weekend (Sat., Nov. 14, 2026) inside Madison Square Garden in New York City, New York, for UFC 334. Undefeated Hasan is one of 2026’s hottest signings and brightest prospects. The…",
-   "link": "https://www.mmamania.com/ufc-odds/485094/bilal-hasan-vs-luis-gurule-odds-full-fight-preview-and-prediction-ufc-334",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794405300
-  },
-  {
-   "id": "98e891e6ff1a3411",
-   "title": "Caio Borralho vs. Yousri Belgaroui: Odds, full fight preview and prediction | UFC 334",
-   "summary": "Ultimate Fighting Championship (UFC) Middleweight standouts Caio Borralho vs. Yousri Belgaroui this weekend (Sat., Nov. 14, 2026) inside Madison Square Garden in New York City, New York, for UFC 334. Borralho has been circling around his first title shot for a few fights now. Th…",
-   "link": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/485406/caio-borralho-vs-yousri-belgaroui-odds-full-fight-preview-and-prediction-ufc-334",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794405300
-  },
-  {
-   "id": "163398162100a6f4",
-   "title": "Francis Ngannou Lays Claim to UFC Heavyweight Crown Ahead of UFC 334 Title Fight - Sports Illustrated",
-   "summary": "Francis Ngannou Lays Claim to UFC Heavyweight Crown Ahead of UFC 334 Title Fight Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW8yenpHMkdDajROZWlvM2daM1BzOTFlNFVneUFaUjNQQVVvMVlNbHRITlhjcTNzeFhndmVubmh1cHM5bUp0S2E2dnkxbDhfYlRkMWZrLW5jb1l1cHJabFJhZFVPVUd4dFJkTjRDa0N4a0V1MEFLZ2xTLXliYUJJaU5IcVdyYkFPTWhJYWJGUnNJNi1zejdWeDBwQVg3RmZ6ZzA5UGVKSk1XS0tsclBQdTcwSmZ5QQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794405269
-  },
-  {
-   "id": "99463c4de6aa3ec4",
-   "title": "UFC 334 | Pro fighters make their picks for Kayla Harrison vs. Amanda Nunes title fight",
-   "summary": "The UFC heads to Madison Square Garden in New York City, New York, for UFC 334. In the co-main event, Kayla Harrison defends her women’s bantamweight title against Amanda Nunes. Heading into the bout, Harrison is a -196 favorite while the former champ is a +152 underdog on FanDu…",
-   "link": "https://www.bjpenn.com/mma-news/kayla-harrison/ufc-334-pro-fighters-make-their-picks-for-kayla-harrison-vs-amanda-nunes-title-fight/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-334-pro-fighters-make-their-picks-for-kayla-harrison-vs-amanda-nunes-title-fight",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1794405232
-  },
-  {
-   "id": "fc5681eb4965387d",
-   "title": "Samuel Sanches puts Chasen Blair out cold, he fights Evan Elder this weekend at #UFC334",
-   "summary": "submitted by /u/mabros26 [link] [comments]",
-   "link": "https://www.reddit.com/r/MMA/comments/1xti9be/samuel_sanches_puts_chasen_blair_out_cold_he/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1794405104
-  },
-  {
-   "id": "39fe7a80d1512401",
-   "title": "Does Kayla Harrison have too much to overcome vs. Amanda Nunes at UFC 334? - MMA Junkie",
-   "summary": "Does Kayla Harrison have too much to overcome vs. Amanda Nunes at UFC 334? MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVFJkVWNQMEVuNnRaMTNMWkJibEJvd0hxQnl6b0ZzUzRBU1hRVTUxN3Z6V2U4NG1hR1RMVHoxOGx6eENTR21CTEN6ay1JWHAzcXdYZVJOaDlNbHBlcms3UGxzaWhtMU1UUFVkTUdBN2t1ODlaU1pLU3ZydFFtZjRXTkhDcGhmSTFtQTg5YXlMZnM4N0RXSWtwaWRfZUtzb2JOa1ZxQnZvZGozXy1rMUlaQnJFUGxQUW1fRFdpTEQyUmZKT00tNW5EVmVuMlNJVUl3MmJQRGtmempoZFRUTVRkLTJ3YzBiZXg5YmJRX0RkTng?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794405000
-  },
-  {
-   "id": "9880c554370dd2b3",
-   "title": "Amanda Nunes Details Burnout and Mental Health Struggles Behind Her First Retirement in 2023",
-   "summary": "Amanda Nunes is finally preparing to make her long-awaited return to the Octagon, with Kayla Harrison standing across from her at UFC 334. The two were initially scheduled to meet at UFC 324 nearly 11 months ago, but their showdown will now see the Brazilian attempt to reclaim t…",
-   "link": "https://sports.yahoo.com/articles/amanda-nunes-details-burnout-mental-134750084.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794404870
-  },
-  {
-   "id": "aa72a0a484ab0229",
-   "title": "UFC 334 Preliminary Card Betting Tips - MMA Sucka",
-   "summary": "UFC 334 Preliminary Card Betting Tips MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MNndhdlREMmwwc2hwRUhad0QxLUdFX1A5QVZPc1hZY2Jpb2RidEE4U2NYYXZheG1oSXBIU2EwZF9LZDI4aDlHY1NJQ3NmWVRVdUhOdjFlbktnQ2NjbGhOS1M4Slo0X3hBMExYbGZpaXU2QQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794403412
-  },
-  {
-   "id": "d3a06b0df3d7e80d",
-   "title": "Free agency the new norm? ‘They’re not doing anyone’s contract outside top 15’",
-   "summary": "We could see a lot more UFC fighters hitting free agency in the future. It used to be a rarity to see a fighter fight out their contract and enter free agency. The general policy was to see fighters sign a new deal before competing in the final bout on their existing contract. N…",
-   "link": "https://www.mmamania.com/ufc-news/485438/free-agency-the-new-norm-theyre-not-doing-anyones-contract-outside-top-15",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794403135
-  },
-  {
-   "id": "62dde7b009202321",
-   "title": "UFC 334 Odds: Gane Vs Hokit, Harrison Vs Nunes Best Bets At MSG - RG.org",
-   "summary": "UFC 334 Odds: Gane Vs Hokit, Harrison Vs Nunes Best Bets At MSG RG.org",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2Y2ZnFlRVhXaE1JWHBlSWZQUVVBSkpzZTJLeDg0LU9HS2lfVVZfZnJmd3N6UEt6cWx5LXZ0S04yMnhxS0lzbXJWcHdJNC1qUEV1eEJ5MU43ZF91bE95Y0JiQmh6OFBsOFhhMnVnWEltb1lzZHNkWThIaVhvajRLTHo1d0pid3JfWVZISndHT1cwaTQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794402857
-  },
-  {
-   "id": "1ee45746c732e88b",
-   "title": "Sean Strickland Believes Josh Hokit Can Exploit the Same Weakness Jon Jones Exposed in Ciryl Gane",
-   "summary": "In just a few days, Josh Hokit will step into the Octagon against Ciryl Gane with the heavyweight title on the line in the main event of UFC 334. The Madison Square Garden headliner is quite a leap for the American, considering he was only the second fight on the UFC 324 card le…",
-   "link": "https://sports.yahoo.com/articles/sean-strickland-believes-josh-hokit-130918813.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794402558
-  },
-  {
-   "id": "9d9dfd9878c98a97",
-   "title": "Jose Souza calls out Jean-Paul Lebosnoyani after UFC Vegas 124 slick KO win",
-   "summary": "Jose Souza's knockout to open the card at UFC Fight Night 293 was the kind that leads to proper callouts.",
-   "link": "https://sports.yahoo.com/articles/jose-souza-calls-jean-paul-130055707.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794402055
-  },
-  {
-   "id": "8cd2ae986ee02cc2",
-   "title": "Morning Report | Amanda Nunes thinks Ronda Rousey still refuses to discuss UFC 207 loss: ‘She never say my name’",
-   "summary": "Amanda Nunes wasn’t expecting a call for a Ronda Rousey rematch anytime soon – especially with Rousey seemingly ignoring they fought altogether. This Saturday, Nunes returns from a three-year retirement to challenge bantamweight champion Kayla Harrison in the co-main event of UF…",
-   "link": "https://www.mmafighting.com/ufc/520300/morning-report-amanda-nunes-thinks-ronda-rousey-still-refuses-to-discuss-ufc-207-loss-she-never-say-my-name",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1794402000
-  },
-  {
-   "id": "de29cd65df65728d",
-   "title": "New UFC signing leaks plans for first European event of 2027 - Bloody Elbow",
-   "summary": "New UFC signing leaks plans for first European event of 2027 Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmhuODgzWHV6QUpNZ2NMNmFlRTlzVWtyQ2tQYUtKX3BSSEhMWkdMbnIxdmdCcTRPN3A5ZkZiQXdUTnJ2Ymo2cjA4QjZFU0tuVEdsRzh6R2FCaUp6dGtWMUxzVFUwZUZvRDNJVkR4MmFLNHFVMTlDaG15WWlpXzd5a29OTkl5LXhjSG5WcEQ5Nk1XSFZuSG1PSXNqX2c?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794402000
-  },
-  {
-   "id": "29710b153c989bfb",
-   "title": "Zuffa Boxing 13 Results + Scorecards",
-   "summary": "Results, Highlights, Scorecards And More From Zuffa Boxing 13: Adames vs Warburton, Live From The Venue In Riyadh, Saudi Arabia On November 14, 2026 Read the Full Article Here",
-   "link": "https://www.ufc.com/news/zuffa-boxing-13-results-highlights-scorecards-adames-vs-warburton",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794402000
-  },
-  {
-   "id": "59aa1f72d50793c1",
-   "title": "UFC Shockingly Releases Another Top-Ranked Fighter After 13-Fight UFC Run - Sports Illustrated",
-   "summary": "UFC Shockingly Releases Another Top-Ranked Fighter After 13-Fight UFC Run Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX2diWjQ2NHFsSmdjYWZiV2x3d0h2YlBOLWRXYlpoMXNWZ2xaYUVGLUlmRVM4Q0NQdTRvUG1rQlRTa3ctV3JBS2ZJdU92Z2JQSDdFRUI4WDk5NlFBVUxtcUJ1N05DN3llWlFJTk94M0xKTXdaZ2JNR09JSE0xbWI2TjhyNUdYNENEcFhidlA5U056QUN5RFl0UFlhaDBLQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794401786
-  },
-  {
-   "id": "ff292707d9bc44bb",
-   "title": "UFC 334 Odds And Picks: Gane Vs Hokit, Harrison Vs Nunes At MSG - RG.org",
-   "summary": "UFC 334 Odds And Picks: Gane Vs Hokit, Harrison Vs Nunes At MSG RG.org",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY1B4aUdjNWNEalBDc3cxYTVpRVpZMEVqOWN1al9hX0pKVUN3YXFXazJwOTVabVVNemFuanhlTlNIWlhIZlFlSXhuclZERUx0QjF4TjU1aEpadURNNFBjbnNLRkh5VGJuanRZeFV6RVJNaHdIaE8xd2lRaWdoa1hrY3VHdXRNVll0QTVfdkYxX0FKZw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794400183
-  },
-  {
-   "id": "45d75fc1e2db4ce5",
-   "title": "Khamzat Chimaev mocks Colby Covington after UFC rival withdraws from wrestling showdown - DAZN",
-   "summary": "Khamzat Chimaev mocks Colby Covington after UFC rival withdraws from wrestling showdown DAZN",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdmczeFpOWW5OUEJXamw3eDFXQ3J3OVV6Q0pUSVNiU1Q1T1JWU2xuLWM4UEdCZW8yNVkzeHphTkdqM1UwZXM2SHlJNzJaekJaZk44R1FLUGpkWmxyZGhRczBqcEYtSGt5bkJIQ00xUVlKWmp0Z01UWnR2T0JLX3hmMWtPUHJCRlJqTDFEeW11SkNnNHdrVHJoWkstZmVtT0hPZ1ZHSzB1QUhtUDg2cG12SWlWUGxXWllEb3ZkUjJ3S0pPMzQwR3hlNVZOTnMtMVhBMzFVVW5FTQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794400160
-  },
-  {
-   "id": "5bf2b11ae4aa1edb",
-   "title": "Johnny Walker Faces an Interesting Challenge Following His Brutal Knockout Over Waldo Cortes-Acosta",
-   "summary": "Johnny Walker has made the successful jump to the heavyweight division, securing two straight wins and performing like a top contender. Walker's latest win over Waldo Cortes-Acosta has put him at eighth in the Meta UFC heavyweight rankings and given him an argument for a title s…",
-   "link": "https://sports.yahoo.com/articles/johnny-walker-faces-interesting-challenge-122504393.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794399904
-  },
-  {
-   "id": "d0d91b8a38c3d71f",
-   "title": "Kevin Holland sees the end of the road coming into UFC 334: ‘We’re almost done, 100%’",
-   "summary": "Kevin Holland returns to action at UFC 334 this Saturday at Madison Square Garden where he takes on Serbian knockout artist Uros Medic. This will be Holland’s second fight of the year, which isn’t a lot compared to 2025 when “Trailblazer” fought a wild 5 times, going 2-3 over th…",
-   "link": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/485434/kevin-holland-sees-the-end-of-the-road-coming-into-ufc-334-were-almost-done-100",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794399728
-  },
-  {
-   "id": "8f1842654b6a480d",
-   "title": "UFC 334 Main Card Betting Tips and Picks - MMA Sucka",
-   "summary": "UFC 334 Main Card Betting Tips and Picks MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOE1jdDV1aVhyaThEeFYyMUp6emVlUHJWM1ZuQUVERkRvUTdMaU5GOXpFc0ozVldVZ0hZaElxcmFQNjN5VmdzZkVReGxiSmEyWnAwSmZEc1FGcUI3SjdwT3hsOEIxQzdJQl9FZ2JB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794399551
-  },
-  {
-   "id": "66dcb87133e9c15e",
-   "title": "UFC heavyweight rules out fighting training partner Alexander Volkov",
-   "summary": "Not happening",
-   "link": "https://www.bjpenn.com/mma-news/johnny-walker/ufc-heavyweight-rules-out-fighting-training-partner-alexander-volkov/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-heavyweight-rules-out-fighting-training-partner-alexander-volkov",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1794399248
-  },
-  {
-   "id": "eff60de1ffb0aed4",
-   "title": "UFC 334 Sees the Return of Two First Round Specialists - MMA Sucka",
-   "summary": "UFC 334 Sees the Return of Two First Round Specialists MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjRZXzg0Q0lpX3BCMTFkWENYcW9MMnZCd21NbUVRb2hvVlg2OEFMZF9FZ0ZFZUEtaHNVOEYzakVldnZERzc1YTJ0MVBqOFFzV3dCYnFrSnpBUG1JamxCU21TRGFJSkVBUW11U3k4OFhoaWhYXzBMdWlVUi0tdUhCLU01NTJKV3RuSjZhanpR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794399199
-  },
-  {
-   "id": "8cb72f446ff2de45",
-   "title": "Dana White and the UFC Have a ‘Baddest Man on the Planet’ Problem Heading Into UFC 334",
-   "summary": "UFC 334 will crown a new heavyweight champion, but does winning the UFC title still mean you're the baddest man on the planet?",
-   "link": "https://sports.yahoo.com/articles/dana-white-ufc-baddest-man-121100577.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794399060
-  },
-  {
-   "id": "bb2539728c769ab3",
-   "title": "Sean O’Malley wants to see Josh Hokit become UFC heavyweight champion",
-   "summary": "The pressure is on",
-   "link": "https://www.bjpenn.com/mma-news/sean-omalley/sean-omalley-wants-to-see-josh-hokit-become-ufc-heavyweight-champion/?utm_source=rss&utm_medium=rss&utm_campaign=sean-omalley-wants-to-see-josh-hokit-become-ufc-heavyweight-champion",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1794399009
-  },
-  {
-   "id": "121e90775a0281ef",
-   "title": "Ciryl Gane continues to reject fouling criticism ahead of UFC 334",
-   "summary": "The talk continues",
-   "link": "https://www.bjpenn.com/mma-news/ciryl-gane/ciryl-gane-continues-to-reject-fouling-criticism-ahead-of-ufc-334/?utm_source=rss&utm_medium=rss&utm_campaign=ciryl-gane-continues-to-reject-fouling-criticism-ahead-of-ufc-334",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1794398685
-  },
-  {
-   "id": "efcfb8c5f89d732a",
-   "title": "Maycee Barber Withdraws from UFC 335 - Adds to Unwanted Record - MMA Sucka",
-   "summary": "Maycee Barber Withdraws from UFC 335 - Adds to Unwanted Record MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vM2dvQ1VvREZaeTZld3VtcWo1akZjT3l2clc5MXRxZk95aW0yb3V0RzNzM3laM2xCc3YyNVFUZlUwM1ltdkFzZW5YcDJLSkI3WHJkZGtPOWZudlAyVkxBazVfdWs1cjNYaEMzM25waS0?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794398481
-  },
-  {
-   "id": "a3f2585f8de7bdab",
-   "title": "Joe Rogan leads UFC 334 broadcast team featuring MMA royalty - Bloody Elbow",
-   "summary": "Joe Rogan leads UFC 334 broadcast team featuring MMA royalty Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUjR0alpTazZ4MmI5RkJsbFZuMzhhcDdXX05zUVAwRVlrNVV3UnhseVM3LWJPQkJKUHdYQjY4R3pFQWxEVXkzUGQ3SXBUYWh4bTVITkNiV2lMZmpBUTExNkpVeUtxQXdZM01NemZVYUtyeG9TaVI0U0taRlo3a0c5cDJkZFRVQVBDdGZzZkpVV19ITkVyYWtrcUR6elo?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794398400
-  },
-  {
-   "id": "2bfbda3452dbf09a",
-   "title": "\"I’m Not Gonna Play It Safe\": Josh Hokit Reveals The Madness Behind His UFC Persona - NDTV Sports",
-   "summary": "\"I’m Not Gonna Play It Safe\": Josh Hokit Reveals The Madness Behind His UFC Persona NDTV Sports",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVllWVGNvSGFlQTJlbm5KSUJ2azdyQ1VZTHNGOE02aHFzLW5CQVVHRmU4Ym9SOG95Z3VoMkJ2S0gtS0VvR1lxWm5xcUZzejMwNGZGUGpVTHZ1b3NzcVB6azVRTGNJRW5MUkQ5VzNDUDdRY2w3Ujg0RERKTVhMcHNFaWg3V190UndkazhwXy0yemRqUDhZZmh4LUJuZ2sxMm9OR2dHLWhtX2R0QVY2Y3kwMUdGR2VmTXhaNHBldw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794398139
-  },
-  {
-   "id": "689ca494c42c9133",
-   "title": "Merab Dvalishvili Claims Usman Nurmagomedov Ambushed Him",
-   "summary": "Ex-UFC champ Merab Dvalishvili accuses Usman Nurmagomedov of ambush in Abu Dhabi, sharing details of the alleged attack that could jeopardize his RAF matchup.",
-   "link": "https://www.mmanews.com/article/merab-dvalishvili-claims-usman-nurmagomedov-ambushed-him",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1794396895
-  },
-  {
-   "id": "d110e04550000eb2",
-   "title": "Uros Medic praises Kevin Holland, cites \"mistakes\" he'll capitalize on to win at UFC 334 - MMA Sucka",
-   "summary": "Uros Medic praises Kevin Holland, cites \"mistakes\" he'll capitalize on to win at UFC 334 MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR04wVFlsd1ZITDJjbmpSaTRSNnZEamZ4bnJYU21fdDRfcDJ2MVhDNjlub0xoRUlsX0g2TEl3UXQ4WllFRHI2aXRjdFNYWF93Wld5d1ZqdFliOG1UNTRteXRwUkFNOUxlV1ZLMGQ3ZGlPMU91SmZLMTB6b0Y2cG50QnRLZUdYYm5lOHY2R1pYVVVyX0JPWkV3TllpTEhnMXFKUHRSTlVyLUdyam1aZFlZNQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794396498
-  },
-  {
-   "id": "f1311798d6b33fb5",
-   "title": "Canelo Alvarez considers new world title challenge as Ciryl Gane responds to UFC criticism: Your daily combat sports news roundup - DAZN",
-   "summary": "Canelo Alvarez considers new world title challenge as Ciryl Gane responds to UFC criticism: Your daily combat sports news roundup DAZN",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXlISVdIeWZQa1U0UUQ0aGpnMlc0X1BGS2FEbFNkaVNleGRfN1ptRjVqa0pvSmhRWmd0Y1pRWEVFbFhWMWNhWlNTTExYVi04eTR5bHpWZzdidXphTWNsRXN4WDdUWHVGeTRWVXB2ZUhtLWxqRDR6U3dLa1ktZ0FsOHFTUWNzV3F2aDYxVnZ5dEFhY3U2UXNJTXBsNnBLNVhreEpIdG1QeWhTTnJaNnBKSzh4UlFFTVEydDdmT3puMHMyNXk4VFlRcGFDS0c?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794395305
-  },
-  {
-   "id": "f764001621d4d108",
-   "title": "Ciryl Gane vs Josh Hokit UFC 334: Date, time, how to watch & FULL card - www.the-sun.com",
-   "summary": "Ciryl Gane vs Josh Hokit UFC 334: Date, time, how to watch & FULL card www.the-sun.com",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjJQdEtIR1g3blVzbFk1QkR6WXBPZUNpSEhSQzBMbk1FWHBBSm9IVzZFYWV1N3Bjc1NVLWdMMkFQcURid1ljV3NFVVFPNVN5TEpiSkpvUWxlOHNVQ1hxTmc4SmxjWXV3X1hCTEoyVGhuU3g1RGxCUUVCZkl0OGRlVWU1Y1VQUWQ1NnFvYnFOZXRzYy1FRmZ3TTJrS3pjUzhoalE5bDZ3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794394063
-  },
-  {
-   "id": "30b249fb76c8cc8b",
-   "title": "“I’m Gonna Regret That I Didn’t Go Harder”: Josh Hokit Explains His Outrageous UFC Persona - MMA Sucka",
-   "summary": "“I’m Gonna Regret That I Didn’t Go Harder”: Josh Hokit Explains His Outrageous UFC Persona MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXBKekxJMVpkZFUyVFUtb1NSb2JFVm5PWmZTS0IyMjBHb3N4bTZ3Snd4b0hha1RUd2xhWG5IZy1NaFVRdHdDQW9kODRNNldZX0s3NVVYUjRpVFZab3JoWXMzbEw3OUZaNm5kSUk1YTdsR3BKM3lzWVNkd3gwdldDeEJLdWZmNU5HVW1LVDNyR1p2UG1fUXF4ZE9zRmdGLUxlXzRUN1BVYjdvbXJ4VGV2VlNR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794392905
-  },
-  {
-   "id": "e2a768db08813d22",
-   "title": "Jorge Masvidal Says The $200,000 UFC 334 Ticket Is In His Pocket — And That It Pays $1 Million If Josh Hokit Beats Ciryl Gane - Yahoo Sports",
-   "summary": "Jorge Masvidal Says The $200,000 UFC 334 Ticket Is In His Pocket — And That It Pays $1 Million If Josh Hokit Beats Ciryl Gane Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFRHTGxmU0hKeTlRM2E2QlQ4M05pWEx6dE42LXFJdkU0RkdDM3ZnR3dVQTl1ektpM1ZCY2FrTFlHbW40dmlGTmpsUFFvejZHYld5Q2lNb3l1ZHVzRk5xNHNLak9mNEJWdVp0V1B5clhBSVRQSHRNbkIyYWhIbXNHQ3l3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794392040
-  },
-  {
-   "id": "36c14cab9f34e3d9",
-   "title": "Jorge Masvidal Bet $200K on Josh Hokit to Beat Ciryl Gane at UFC 334 - Forbes",
-   "summary": "Jorge Masvidal Bet $200K on Josh Hokit to Beat Ciryl Gane at UFC 334 Forbes",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTXcxUkxuYmlqcWpHQjVGdUFmV0dYLWVGOGVPellQcTREdjlYTEZISVEwdVIzUDd6SWVzdURXVnlRN1pKZXZmVW9HOG51NzZ2aVR1UThaZ18xa2VMWlJiczdsN2MxaG8zdExtUDdteTF1WUw5Ny1rQW5Hdk5icVUxS193NTBxNVRGR1BCWFdNb1dqNlFfX0dzNzZ5T2M2VDg0Rktrd01RVzRqcXdwam5jbTFpTzJTZzRmUnZFeFViaVVKMkgyaFZ6N045R1RNdVNPYXFwZUZNeXBOSVpIZkIzNXY5WHNzb3F1U3VPTGEzaHFUdGFrSjU5cEdtSDNvendhaVgyZzh5OA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794392040
-  },
-  {
-   "id": "49cdb2e4394318ed",
-   "title": "UFC 334 Pre-Event Facts: Elite Heavyweight Strikers Collide for Gold This Saturday - MMA Sucka",
-   "summary": "UFC 334 Pre-Event Facts: Elite Heavyweight Strikers Collide for Gold This Saturday MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEZ4dlZlTFpoUHJOLTZuZW13NTBrVmdwamRJaGtvX25KS19YSjlZU0hXYlYwa3hOaXoyaFVhRGhZNFRJQjZRYWlrMVZyWGMzVFFtUWhEZ0lsZk1EVWJCaWd2NTk0WnZJbk84QUthd0Nqa3FwRjRZMGxPdV9jT2ZJS3NDSFZ2N0FWMUxCVG5hNXhGMU5IeVRqVXhLa1dpTUVkSTljeW5OV0pVUVY0?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794390502
-  },
-  {
-   "id": "e9746409961f3917",
-   "title": "UFC betting guide 2026: What to know about betting on UFC 325 - CBS Sports",
-   "summary": "UFC betting guide 2026: What to know about betting on UFC 325 CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaEQ1UmJxZVNuVHBsOXk3dElrVkJ2YmJpVU5Zb0xiVjRoRjRVZDF5MHBjN3lCVDdYYkl3SjkwY184aEhsclIzR19LMVpDcWpPM0Vqc0tR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794389660
-  },
-  {
-   "id": "31cb3d2f1a19ef7a",
-   "title": "Dumont says on instagram that she requested to be let out of her ufc contract",
-   "summary": "submitted by /u/mariposa933 [link] [comments]",
-   "link": "https://www.reddit.com/r/MMA/comments/1xtd032/dumont_says_on_instagram_that_she_requested_to_be/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1794387524
-  },
-  {
-   "id": "dabb59d215c3ff8a",
-   "title": "Why Did Norma Dumont Leave the UFC With 2 Fights Left?",
-   "summary": "Norma Dumont reveals why she requested her UFC release with two fights left on her contract, discusses retirement, and teases a potential boxing debut in 2027.",
-   "link": "https://www.mmanews.com/article/why-did-norma-dumont-leave-ufc-2-fights-left",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1794387239
-  },
-  {
-   "id": "5bc7e58d222263de",
-   "title": "Bud Light UFC Steak Feast / Good Robot Brewery Growth - American Craft Beer",
-   "summary": "Bud Light UFC Steak Feast / Good Robot Brewery Growth American Craft Beer",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTdNUWZzbVFhdlcyZUpZMDhmMldQVkJ2T1ZoTEd2ZzNRcmhSbk4zZWFBZFBVaV9fQXc2bVVxXzR4aUJnQzdkT3FKYUo4T00xMENJTUZDMGVHTkpzWUhpN1BvbUhleURXNFVpWFBKVnUtblNXTHloaV9vQkpRRU9LNnRfZWl6ZjVNb1NUUnFVRnF0U0hiSnFCOU55YTBSYko1SS1UbURxR3IxczU4Z3hfVkZXdEFJNF9N?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794384700
-  },
-  {
-   "id": "04feb10a7de1e019",
-   "title": "Goodbye Bantamweight? UFC abruptly releases Top Five ranked contender",
-   "summary": "The struggling UFC women’s Bantamweight division just lost a member of its Top Five. On Tuesday, No. 4-ranked Norma Dumont revealed on Instagram that she had been released from her UFC contract. The Brazilian standout still had two fights left on her current UFC contract that wi…",
-   "link": "https://www.mmamania.com/ufc-roster-watch-cuts-tracker-free-agent-aquisitions-mma/485417/goodbye-bantamweight-ufc-abruptly-releases-top-five-ranked-contender",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794384000
-  },
-  {
-   "id": "3abf78cea550f1fd",
-   "title": "UFC Abruptly Releases Top Five Ranked Contender - Yahoo Sports",
-   "summary": "UFC Abruptly Releases Top Five Ranked Contender Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd2tsc1o4RmF3em5fZ0xlNThGTTd5ckNocm1GSzVtNG45OGZfMF9EX1Z1OGNCUFd3eC1ISFNwdHdnU3dUalR2SFcwX29QQ1lKbHUzMHBnZEdTY0hXN2JNWWVDOTJ3eUxHbng5UTNCZXJRSjN5NjlCbHJzWTdFZUx5TlVzUlNyZw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794384000
-  },
-  {
-   "id": "08a4b600b9457759",
-   "title": "Sean Strickland Post-Fight Interview | UFC Fight Night: Hall vs Strickland - UFC.com",
-   "summary": "Sean Strickland Post-Fight Interview | UFC Fight Night: Hall vs Strickland UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DZEQ2ejVIOU5EWGQ0N1VxMlNiU2VheVhMT29RSG1oRFFlVmhCUE5mUG02cHYzUmp4Wk4tWkhHWkNjT1Y3V0V4REdhSDhUX2Vma2xaTw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794377652
-  },
-  {
-   "id": "82e4c01fcef10515",
-   "title": "Sean Strickland reveals he’s backing Josh Hokit in UFC 334 main event against Ciryl Gane - Bloody Elbow",
-   "summary": "Sean Strickland reveals he’s backing Josh Hokit in UFC 334 main event against Ciryl Gane Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQalJiS0JkN2FicE1RQldiTjR4TXhOR205eXJCcGJWN1lpYU85clpDNGVHQnJHcE5NNDAxYjFfbXlJbldRUW0wdTRsR1RyQ1BBa3BnZk44TUt2b0xKWGJmZTFkOXRaZHZlTDhSakxDNHpMRm9ScHM1RHBrM0I2LU5ueVJldzJibjNXOTVTUDlvRXhJY09JRDdCdGc1bFBWQ2NvTjYtVUZFWDdZb3UtWnNsMHdocnNzWUc1bzAyOExqaDU?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794377156
-  },
-  {
-   "id": "9f153d409ae956e8",
-   "title": "“They’re Not Doing Anybody’s Contract Outside of the Top 15”: Elijah Smith Sheds Light on UFC Renewal Policy - MMA Sucka",
-   "summary": "“They’re Not Doing Anybody’s Contract Outside of the Top 15”: Elijah Smith Sheds Light on UFC Renewal Policy MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0JLUklHS3ktNjRfZXdfcUlfOFRUQWlBS3h2c1RzNEg1M0pMbFdMWUlyUWxBdXNqZmNkdDFYZHZPWkpRUlAzQjVmME9zRVhzVlNiaXluSV9jaVk0SWExLUI3TkhKdU9BMHJDUmlGcy0tQjNKbG85eHAwX0JRZ05IVksyM2dBSW5wNXBIYkplOWMwdXRfU3NidGNuS1BlaHRUZ0szMnZxOVV0QXFROElRb1czMXZQOVZBb29Ea0NtaVBUbVMzakE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794375799
-  },
-  {
-   "id": "57ac5c85d2e97214",
-   "title": "Former UFC Title Contender Receives Multiple “Worthwhile” Offers After Choosing to Walk Away From Dana White’s Promotion - شبكة تواصل الإخبارية",
-   "summary": "Former UFC Title Contender Receives Multiple “Worthwhile” Offers After Choosing to Walk Away From Dana White’s Promotion شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zeEVyeEpMQjg5cl9uZ0JMZzhJMk5HZzdCd1g4V0c3LWtOZXVOblpjVDFBbWQ0aXVrNzNoQTdvZUF3aC1Xb2RiWVRVTjlNdU9XbEFR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794375051
-  },
-  {
-   "id": "57d64d8290507265",
-   "title": "UFC star announces shock departure from promotion despite having two fights left on deal - Bloody Elbow",
-   "summary": "UFC star announces shock departure from promotion despite having two fights left on deal Bloody Elbow",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEFEcnAzQXVHbG5WZ1dVTTBCX09uZHBNVjRpLUd0OENwMTR2V2pOWnc1QzNyOVlYeWpGSGtJeDNrOVpjdGUySlExSUtNbEowa0gzc29Wd3pNb1lZNE9HdmVzVVpkd29ZYmt5UVlLOUdfUjlZbFFQc3F3cUhGSVVDU2p1RHdIeHVYOFFENTNEMG9wSzNzZ1NUTWJBSERwLTRjcGtDNGExcnQ3ZzVpbm5talAtSEFKbW9mb21KbWh2TExjUQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794374947
-  },
-  {
-   "id": "171e68f2cd9eab3d",
-   "title": "TKO Faces Pressure As WWE And UFC Staff Question Saudi Arabia Event Plans - NDTV Sports",
-   "summary": "TKO Faces Pressure As WWE And UFC Staff Question Saudi Arabia Event Plans NDTV Sports",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR3RRNlRYeU9PelNuaUJZeDdMc3JjWUxMa0M3VFRjQUxHYzlGUllOUHRrTzJZNlBielZ2dUFDUjZ3anA2M3VZT3Nka2dWZU9jc25XZXJELU9KcFpKZ2F1NXhWTDRyZU1Tem5KMWJBd1VvbTFVNzh6T1gxczRPdjhPREk4MGJocDZhU0x0RFBqeHRKMVh2dWxBa0kyTFZiNGZKd1M4RjREbTgyUnFHNGswcGNvOA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794374327
-  },
-  {
-   "id": "ac4c3d7fc6243240",
-   "title": "Free agent? UFC ironman Jim Miller doesn’t have a contract for UFC 334 bout: ‘It’s all verbal’",
-   "summary": "Welcome to Midnight Mania! Let’s start the night off by taking a look back over the three biggest stories of Tuesday, Nov. 10, 2026. Insomnia This is the kind of professionalism one expects from the UFC. As promised, Valter Walker has only muddied the waters further. I’m of the…",
-   "link": "https://www.mmamania.com/ufc-news/485414/free-agent-ufc-ironman-jim-miller-doesnt-have-a-contract-for-ufc-334-bout-its-all-verbal",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794373140
-  },
-  {
-   "id": "b0d2355db76b34b9",
-   "title": "Midnight Mania: Free Agent? Jim Miller Has No Contract Ahead Of UFC 334 - MMA Mania",
-   "summary": "Midnight Mania: Free Agent? Jim Miller Has No Contract Ahead Of UFC 334 MMA Mania",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS3h1U05rOHY2MGVWSi1LU1czSnkwTUJBUFJYWjRZQWphdVZmS2E1Z2QxMTl5UEJTRUlUcUpNX21HN0x1MEhZbUNrZl9GSHJGNUl6TUZQRHMxbFUwYmdmek0wREVzZ0JYSVhxUk15NWZ0VU9PUFFsdlQ1bjRaVUY0Zm1ic1dqZVo4RWVhd1k5VHJ5cWR0RUtZR3ZGeWJCRnoySFVLZ0xIY0poanhKT19jQW9fcFl4M0NzbTJaa0pRamVtRnluZU5lag?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794373140
-  },
-  {
-   "id": "95476be86154c578",
-   "title": "Norma Dumont Finished in UFC, Eyes Squared Circle of Boxing - MMA Sucka",
-   "summary": "Norma Dumont Finished in UFC, Eyes Squared Circle of Boxing MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqOHE4RU5LSGFVMGttb0I3Xy1FdVN2V0tQSDFscTFnVHplTi1JajFYMk01ekp1QmxUZ2VjaGt6V2xldDdyWkF5RGNFM3hPZmJQU2JHNjNheGlZRGNkTGxWY1BYdExXTnBsSU1yTGdNMlJidUFvQWw4Z1JB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794371909
-  },
-  {
-   "id": "0875823c22e44a14",
-   "title": "UFC 334 Pre Facts: Heavyweight Strikers Fight For Gold - MMA Sucka",
-   "summary": "UFC 334 Pre Facts: Heavyweight Strikers Fight For Gold MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkNZRnBjWW45X1p1eWNIRDRIZzNJVHdrLUZrcHM2cmw5ekR4NFFGVjFoOFVKNlc5dTZHMjVwSG9Wd1p3ME1Ra0toZ09Nekloem5rTlJOX3h4N1FVWGhxakF1b2lwSHhpaVdjSmtZZzk2cFBfY1czSzV6RndtM0pwaHM0YmZKMEFWNUdRRnJlUDFDQ1VGUElPR1psc2Exa2locjJ0dUE3X01qSms?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794368902
   }
  ]
 }
