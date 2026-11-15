@@ -1,6 +1,915 @@
 {
- "updated": 1794697325,
+ "updated": 1794710120,
  "items": [
+  {
+   "id": "e5b6dc43ee870559",
+   "title": "UFC 334: Live updates, highlights for Gane vs. Hokit",
+   "summary": "Ciryl Gane hopes to stay on a collision course with Tom Aspinall at UFC 334. Gane, who holds the UFC heavyweight title, hopes to hand Josh Hokit his first career loss and defend his UFC heavyweight championship. With a victory, Gane could get an anticipated rematch with the inju…",
+   "link": "https://www.mmafighting.com/ufc/521305/ufc-334-live-updates-highlights-for-gane-vs-hokit",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1794709829
+  },
+  {
+   "id": "4e6eb6e22b188d49",
+   "title": "UFC 334 results: Stephen Thompson has retirement for the ages, ends career with dazzling spinning KO",
+   "summary": "Go ahead and pencil \"Wonderboy\" Thompson onto the short list for the greatest UFC retirements of all time.",
+   "link": "https://sports.yahoo.com/mma/article/ufc-334-results-stephen-thompson-has-retirement-for-the-ages-ends-career-with-dazzling-spinning-ko-021722946.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794709042
+  },
+  {
+   "id": "0d083bb3c1da0936",
+   "title": "‘One of the greatest ever’: Pros react to Stephen ‘Wonderboy’ Thompson’s final knockout at UFC 334",
+   "summary": "Stephen Thompson closed out the show as only he can at UFC 334. “Wonderboy” walked into Madison Square Garden in New York on Saturday knowing it would be his final fight, and the two-time UFC title challenger didn’t let his fans down as he delivered a vintage performance capped…",
+   "link": "https://www.mmafighting.com/ufc/521313/one-of-the-greatest-ever-pros-react-to-stephen-wonderboy-thompsons-final-knockout-at-ufc-334",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1794709037
+  },
+  {
+   "id": "996c105330cbb294",
+   "title": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 Live Free Ultimate Fighting Championship 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 Live Free Ultimate Fighting Championship 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMGtIQzNNc3Q3RWI3OTlQYmJiQnd3Yy1VSTdhR2x2OGpyMkEtU3gyY0lHTF84SVp0eThkMGxhV2dYM0pKYUNfZ09GS29xRTNxRGRERWJNMnpHZ3FYVTBCNUxFS1lXRldZWXVCMTZBWE50TFF1dWh4SDJHNEFLWjZtZ0tseW1xRWJuOFotM1pmMmtNYkktbldUWUJ1Yk9VU3pxTjRKbDlubElQbWNja2FDcFdQdUEybWdqM3EwUXotdVpjdzAzam5zSFg1dm0xclFOWm9yamZYYnZscXAtZTRHbHA2TU16VU9nUjJrVk9hWEYwbVprbUNWdWxDRTIzejhqZmxZR3pJbnZLdXlIbEUteG96N1dxMnJYOEE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708960
+  },
+  {
+   "id": "700446851f6fa7b0",
+   "title": "‍‍‍[WATCHLIVE]SKY!] UFC 334 LIVE FREE HDQ*0124 - Universitat de Barcelona",
+   "summary": "‍‍‍[WATCHLIVE]SKY!] UFC 334 LIVE FREE HDQ*0124 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWlJMcDQxWkltVzZCWGRzdVVHVFNXVDd5dTc2ZDktNjhvQ3dkZHh4VmduTVMwZWg0V2hYOU15MjNONDR1QVlwYW84cHhrN0dieW5GM0VjTm1NSktqdlJoWHNCZktESTJGNEdheWt0WEh2ekJjaUVpRWVIbGNOWnlMRFVjYTRKbDFFY2MxWUJfNzV5ejZvUmZxM2N3S1QyUVZRX0VUM2F2aTU2bDJObE9wWHYwUGNGZDE1ZC1kWUlxdTI3RjQzclA5M3VkVGVkVGp1S1Via3ZDLTREckVFZzFGZmpOdFZORmJ6YzVQY3FSNjk0YUdCQ0VWZk1YbWp4RnlMVHR2R2tUUFRvTDdRZ2dQSWxHYTRKTklVZXc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708952
+  },
+  {
+   "id": "de8af54b3f64d566",
+   "title": "‍‍‍☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ UFC 334: Josh Hokit vs. Ciryl Gane LIvE FrEe StReAm - Universitat de Barcelona",
+   "summary": "‍‍‍☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ UFC 334: Josh Hokit vs. Ciryl Gane LIvE FrEe StReAm Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZzZrYi12NGFzYjFkZmRZZ1RBQktkZmcwVTRySzZPMGl5S2hxUUx5NHVLLUs0Q3J3WFRPUXN6NEIzN1BoWmxKMENUbVlBYUdwTEc0c3U0VEJLa19GU1NYZmM0X2dFN09wOE42VEpQakJ2eWtsZ3kzTTFCT0o1dzJ6VGxqM1M3c1RRa1NWNHV1VTA3NmVPY1FxVGw2TmI3UnJyRzlKR3JWVzcyX3VYa2ttaGx2ZEVhVHdHeFlRc1lZVjg3bVhFVW81RXJ3WjRpY1JKbHM2emJCaUZtWXVJcTZmcFI5MEVFSXlobGhaaDBIV0Vsc0pRSVJ1by1LTzM1UElZVEY5WFdtX1hQSy16WUVKX2h6R1JfcndZZkE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708948
+  },
+  {
+   "id": "efed6ac596c6eb84",
+   "title": "‍‍‍=+>[Here's Way To Watch] UFC 334: Gane vs Hokit 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍=+>[Here's Way To Watch] UFC 334: Gane vs Hokit 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOYmlOOEFhZllNWWlhaEJtRW5tUTNlZFNrZzJDLU5Na3NKanNXQk1OTDVUa0pPTERNR0dVNHpBekd1Z2N1ZTJsaGNtOVJ2N0d5MWlsVzRfQXM5anpnZElfNTFFeVc3YllZMzJpUEp6amthd1FtdWVNd19VUUlDU3VpRU9XM0dzR25rNEpTMWlGa0RkeGt0MG5JWnVVZEdsMUF3UkF5M0lOVDNJUTBKdmNlRWJ3MFFYNVVrVW82X3IwN1dvbzFRR1JIQnJkQkJYOGo1TExyODBrcmtVeWVyT3FhdEJOMDYyeGc2aGtZRlk4VDBTT2hzQzg5eWFZMDd1c0YtcWE5azY4RWFVMG8tMTlsV0VmbWZvYVBoLVE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708943
+  },
+  {
+   "id": "436c70a7cc09a66d",
+   "title": "‍‍‍(!+!Streams!TV!+!)) UFC 334: Gane vs Hokit LIVE STreams ON TV Channel 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍(!+!Streams!TV!+!)) UFC 334: Gane vs Hokit LIVE STreams ON TV Channel 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOazNKWUZ4YUluWF9oak5waEdSZjJBdklrX0lhQ2ZYTGNkeXQ4QW9IVDFNRkZ3eVNBdXhyanUxcG9EZ0dHSnFDbDJJa3l2NllzMFZ4OG1QZmRHZDB2a1V4X1dacy1oSGhOLU5RWWdiTzBHLW5RVzdvbjV6aWMxRGNRSVFEMVBSZ05NUHdBbnlMNTMxeGoxY2hmNmtYdWdkOVJrRXc5OTVDTHNVdEtjMHM2UHVtU2t1RUM5d19URFRROTB4Q1ZKZ0pGWHdRM1loNUxJams4Mm1nNXU1RFJQbWVQb1NkbTc1R3NXel9iVEt6cWF4VDVuMzhaRDJjZ3E0cVRzVE1FTV9Wb2RseVF3Y0lGVklVQnhBWVBYRXc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708939
+  },
+  {
+   "id": "60566b6f874cad5c",
+   "title": "Highlights! Stephen Thompson ends career with epic spinning wheel kick knockout, Joe Rogan left in tears post-fight | UFC 334",
+   "summary": "Stephen Thompson ended his MMA career on a high note earlier tonight (Sat., Nov. 14, 2026) at UFC 334 LIVE on Paramount+ from inside Madison Square Garden in New York City, as “Wonderboy” laid waste to welterweight counterpart Charles Radtke with a devastating third-round TKO (s…",
+   "link": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486053/watch-ufc-334-video-highlights-results-paramount-new-york-thompson-knockout-retire-spinning-wheel-kick-rogan-cry",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794708738
+  },
+  {
+   "id": "4000a5dc306b1c45",
+   "title": "‍~\"\"🎉💖\"\"— UFC 334 PPV Fight 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍~\"\"🎉💖\"\"— UFC 334 PPV Fight 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcThRNGJpNHNabzNMV1NqN0lxUFlndVZwRm53bnEzV2hyNFJYclRYRHJxQXZHR0F3ajcxa3NaTy1rVkY1LWpUYVI1ZnJ2d0JmYk9aY2RQMG83VktmckpqZ2tBTDNUeWRwWnZVUUtrZnhtMHhUeVRiOElldW9kX3ZsNGlkenpzdXFZeWVRUmtsaXB5RGE2M1owSWtxWDdzX3NLVENweWJLeE4tZXpmNWZnR3Noemxic01POUUzbjNXTFFiUE9WZk5Ka2w5YmtHRTY0OVkyYVc2NUNYSEpRWFlaeWcyNzQ2MGNJVWFQeW55a1FMZW1oSmUzYzZ6ZG1wRUdsZmhiVVVpUDgtTGhRM0g4XzA5Z0xYWWdqa3c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708722
+  },
+  {
+   "id": "dd9e76d8b9944363",
+   "title": "‍+@+#ESPN!! FREE UFC 334 PPV Fight 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍+@+#ESPN!! FREE UFC 334 PPV Fight 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZzd2dFZfVzdVM19uaDN0cEJSVE1taDNPOG5KZFAxVGszNXVvUHJXM0pnXzh2M3NCeEdrendGSklhNVJRV1h3MmxsTmFScEtIOGZabGRSVzdsMW8yWi0tanF1ZWEzZ0FHNWRPRGhFRUdTYjl2UW1ZYS1NSzBaeEt1QWdWVDZzLVczUmNvYWowOVhLZ1NIT25RN0x3OV9Ja1p1Wk82SGY2Yi1xZ2lJc29qY1hzVVc5SUxmZG1EdUlYUXNlZ3lCNnlERnkzS08zTXRBTGl5aHNiZGFsLTYyYWNBT0cyVGw4RzNHbHhYTXVfdEtESEcxMUlrdDlNQWo0ZE9GcDQtR1BQa0pFN19uMFdUX182WTBnNlhsekE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708722
+  },
+  {
+   "id": "2c4333e5b0b3778e",
+   "title": "‍~$!Here's Got the ways to watch UFC 334 MMA Fight 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍~$!Here's Got the ways to watch UFC 334 MMA Fight 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNUmhhR2s1TWxJUmhpNGJYT0tNQTY0S0kwdEJ0bURXSk5TLXFJOXZTRV8xcjNmOEJzczhlWnJlWjZsX19iYzl2VUNHUEVYOXJwS1ZuZEhMVW5IMk0yYmY0NFZMZ1A5UWstSGRfdGt5WmZMc18xem5FUVFsMlhXTGUzOGJ3M2tveXZaMkZqYWNIT3hpSXZuS0NOay13dW4zNUZaOFZ2VG9TM1pGWXcxckptajVkYUZYWkpFd0hPTVQycVhiZTFhTldRa1FyME5IdFc5QjNhVUlXUlEtTkNQbkNDSGJPeTBxN00yMThqa0dFeWF5OW1wQzd2US1XMXFtd2FtX0QzOTYzTHA5cTBSajlmQXlOSGUyRksxbmc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708720
+  },
+  {
+   "id": "7ea28a6447fc013b",
+   "title": "UFC 334 live blog: Bilal Hasan vs. Luis Gurule - MMA Fighting",
+   "summary": "UFC 334 live blog: Bilal Hasan vs. Luis Gurule MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTWR5bm5fMzVXWXFianRzZ2Q0NkRTanBBOUw1YUNyMm45M0d2R2lVdWt2R21fV3ZiVXdqTXBibEVnQ0NOU0hNU2s3VFQ0cHUydC1DQVFJa194NDIxM0RZLVNhSE1Zb0g1UVJoZTBmSnFlQ01GTzFGT1hKQ052QVRJUkJxdmJEV3hheUNn?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708720
+  },
+  {
+   "id": "e3052c90670d3112",
+   "title": "UFC 334 video: Stephen Thompson retires on poetic head-kick knockout",
+   "summary": "Stephen Thompson came into the UFC with a head-kick knockout in 2012. He retired with the same kind of finish at UFC 334.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-video-stephen-thompson-021122792.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794708682
+  },
+  {
+   "id": "d743d938d3a796ae",
+   "title": "‍‍‍~$!【LIVE@STREAMs】 UFC 334: Hokit vs Gane 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅ 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【LIVE@STREAMs】 UFC 334: Hokit vs Gane 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅ 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPMXJVMWFmcFhxOGRENkRJTVRXa2JqbUI5SFlFM2JfYS1oWml3WkZiazJYNGNjNEZ1YVJOVnNqZEt4UXZhbmFjOEk3aDJUNWJXelAzTktzNHRUOElGeTlCdEllamtHUXVlM2FwMlc3ZlFMVWtoSnFJWDhPVmM2OTdDY1R5M0U2emFmSjY3VXlmMjY0STJzYkFCYS02LTBFNkhRWGxyOE9TMWhnTTZrZGJuUXBRY2s5WU9FY25XbXJ1VFNEeGE3QnVHREY3NTU5Z19pM1BxcFNqNzlucFRYdDgybzVoWjVoUWNrcWNEZ2VPNnJkZWtPN0t2WjVKSmVsS1VQV1gxbE96dUpSOUsya2JIYXBZQjZJLWJ1THc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708681
+  },
+  {
+   "id": "3638bc3576563a3c",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S*! Hokit Fight UFC 334 𝐋𝐈𝐕𝐄 ｏｎｌｉｎｅ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S*! Hokit Fight UFC 334 𝐋𝐈𝐕𝐄 ｏｎｌｉｎｅ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPREJXYnlnNWdRLU9IS2dOMktMclUyMElPY3piYk1jSmdwUVEweGJpdk4ycGpRdnZ1a2ZxTE5pamhURHRzRmdhckQ1MF9MMGtqMGNVUXpaeUZfc2h1YkQycnhKUkR5c1A1MEFFeUtlSktYajVrUmplN3B6MlN2Rk8xLWZvLUFOVzliSzNHUVRydnJ5VW51VnVwVHh1d0s1MW5wSGM2cGN3aFo3MkFoOE9Nc2I5MFY3SlgtUXlWU1VMdDZoY1dJMzVBN0NrR2dwS1FwWFBrTTZKRjdZR3pEeU1Oam16QUwwLUlaU2ljeHBESFczWU01N1NtMDd0SXllRmg1VTg4ZzkxV1BqazFXTXBMU193VzdEYXZQSXc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708541
+  },
+  {
+   "id": "4d3ec7c7acd01590",
+   "title": "‍‍‍!+[Here's Way To Watch]\" Bilal Hasan vs Luis Gurule UFC 334 Ｌｉｖｅ TV Coverage 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[Here's Way To Watch]\" Bilal Hasan vs Luis Gurule UFC 334 Ｌｉｖｅ TV Coverage 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOSjRmb3dqaW95UVg1WmViZFctMWtTMGhpNGRsYjVDMWY1eG5ndGZremJNTk5mYjR0UXhFRVJFLTdVaTRPeHc3czg4YXRPSzJ1NGxpNFNIYlNtZGJiSi04aWJUQjFqdkhCRTNmQnpPeHpUQUlFX2xBZzF3aGRRZTFOLWRfdlUwb2hSeWdkV3RkN0s3cEhzOWNacGpDYUVoYlQ2U1RPRXJSMVZrS1NwV1hqQ092UlpGeUEteWM3SHJ5cnBWSnRic1NaX0E2YTNTa3BjcGNnNlE1T1hxTFc5LVFuMTVXV3NrbTBXQ09OV0EyckVYeThKcjA2T2lqOXBFSnhHUEtrcHNqbVhsN0NXeDBNbmtaN21TTUxqTlE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708537
+  },
+  {
+   "id": "28886ee6c5a10bec",
+   "title": "‍‍‍Here's Got the ways to watch Bilal Hasan vs Luis Gurule UFC 334 𝐋𝐈𝐕𝐄 ｏｎｌｉｎｅ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍Here's Got the ways to watch Bilal Hasan vs Luis Gurule UFC 334 𝐋𝐈𝐕𝐄 ｏｎｌｉｎｅ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORDJhTjd2UjE3dWhDNWl5dGVydU5VNVRxM2lhVmM0UUFQRGx3SFhJX0I0RHE5NXRNWm9OUVQ5ODgxb2tMSHN5bVdaSWxJdjJ1NVRMMUVMNVh6UnV6VExWZFFmRm5IajVFVmxfMVZ4ZE93WjZsX0JKRHVzYVNCbDRnQXAtbDc0N1VYbEZ1SVZUOV9MX2c5Z3FOM3hmOG9uUVE2eEZ4c0tqZEZfQW81dWNkVXRIWms1c0ZKY0tKOFVaTlJxNFU3ZS1FMElfZmtzREpmeThfS3c0MWxhc3l6UFFrZDljWHNIMnpEeGl4cko4b2FNTDJINnBrMkVlbEI5TXJId2xyc21aZ1BlLTJfeDBrT2xvdGRHdVFhYVE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708535
+  },
+  {
+   "id": "f3a9394e7a9a7ab4",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S*! Harrison vs Nunes UFC 334 LIVE Kick off time TV 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S*! Harrison vs Nunes UFC 334 LIVE Kick off time TV 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNLUd5ME9pQjM2UkRZVmc3VzBHeDhNMmlGQ2tDRjNGOUE5MFVBTmZCc1YwbWNsbDliMUMweXFiSmZfN014NXQ2NWZkclh5WEJIcFN2VVJHamhtc0RKN3RWa1dYSDZPa0pyY2lkdGJpMXVhTFRlZlZaUVhNV2RxSklWaFNnUWxDZlUyd2M2OVhDcG5vV0pFWmJCdjZISE1aYmtRcHRIQ3NjeFpEcWh4ZTU1eTUtM1dDNllZRUxZUFpXMXJWZGluZ3hObUtOQ1dQdDgzUnJQTER1UmRfbG45dDVsQmQzenZmUmEwVV96OVAyVjBCUEFTSy1tWjJFb2s0Yi1lQUtzZlNEdk9xdThTcW1zZHpfNG9kbTBucnc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708535
+  },
+  {
+   "id": "ce0e084d2a5011e4",
+   "title": "‍‍‍!$+?(-TOTAL_SPORTEK-) Gane vs Hokit UFC 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!$+?(-TOTAL_SPORTEK-) Gane vs Hokit UFC 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQczY1Ym5vaDhQa21rdmFtblNqVC1kaHJvYkd2eHByWkpSX3FfVGN4Q19pRFlXcVJkWEJ6aGZSaUw0SEtOTElwVUFHQ3JQTzhzTHVYc18zMS1HYWtUdEs2RlphcmZDamJxb2FQNWVHaTR3TVd1b0lVRGFaTmxwVlVRTlB4c2tVd2wwd2pHX2cxZUNfR0tqLWNnRzBkcVFGMFpsLXA0aVlvb3lJN3JUa0N6ejh1Nl9CNnkxWkd1bkNTMl9HN0lCSU5TYjZXVkdLQXNpRER6c000VXRTeFpOYnBVcERyR0dmeGpkSDBydU9COVp5WDNyRDhKaERJdEhJR21aZHlUaTZSLWNpb3VhSWxuaHNJdEZCenVEbUE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708535
+  },
+  {
+   "id": "69a64af0823181aa",
+   "title": "‍‍‍☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Gane Fight UFC 334 Ｌｉｖｅ TV Coverage 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Gane Fight UFC 334 Ｌｉｖｅ TV Coverage 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZlBOR2sybE1aUWh4TVZPZjg2RDc3a3h5UVFUblM1V2RTQk9JeVY2RVNsMi1MRXQzRnktTDZ2b09hZ2plc2FvNm5yeWp4OEpGZmNzcjVsWE4xbHhxdElXRDNsekFBbXhwNldWeVZqQkNtRkowM2NEZGJqdTZIZnlzbHFyVzg4NldWczd5d0ZwZU9seGgwM3NkUGpSbVBIWF9pYUFNT1cxLWJIMUxqUFBVTVNUQkZUNHhrTURqVU9hS3Rkd0s2RmZaajhpaEE4dUY5WXBVYmFQNUR2YlNGMWxmaURfQnhuanpVMmMzbVh0N1VoUTZ1S3ZMY2VTblpZZkJ0cE84N2xnRy13cXNtT3BVWEhzdFVNNUNJeGc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708533
+  },
+  {
+   "id": "62b55c2a2de226c5",
+   "title": "‍‍‍!$+?(-TOTAL_SPORTEK-) Gane Fight UFC 334 LIVE Kick off time TV 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!$+?(-TOTAL_SPORTEK-) Gane Fight UFC 334 LIVE Kick off time TV 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQT3RERl9uTmxfU3lrNUJweTViVEtiT3dyM01teUpGZ0g0SDN6UkxHWF93eE1OY0twQmVBS3ZQRzFGYzdnZVlUYl83c24wbzVRWkNGNlBkZjFCSF96UXNxS2FETUVnOHl0WlBocXlaZ3dZaXVDV0JKbUNEY3lwSkhjWEI3ZnQ4dVI5R0dQNkdpSjNpV2dWTGtmekJfM19NQkIzeTE3OU5mSWtPWWZEUGFnZWpQemNFTlVEZW10OW9vVFM5a0s3clpDU2phTkRoWVdMV0JqOTNuc1pjVkI5cnoyVFNKWHB2ak5HeWpZZ1FCemJ3VVFKRzlUcnlOVG5fMVd3WWx2MFJGTzNLWGVRSTBwUUFSWGFlMHEyeEE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708532
+  },
+  {
+   "id": "189b802d178e378a",
+   "title": "‍‍‍Here's Got the ways to watch UFC 334 Championship Fight 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍Here's Got the ways to watch UFC 334 Championship Fight 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPTVdJV1ROVTZqNEZVSFpRZklDOExsOVlnSWVqWmJ6ZXJKTVFUM3hXZzRzNzQ2b1MtMFVaT0dhclhHdTk5bXFLdXZweXRZWXVqR0F5RlVWck5QeE0ybHBtNHVMcTlXYmxtV0dqZFlSYVU3aG5rMVdfTWJmel9WYlU5VWE0WjA1ck5YNmtUaVNkTzBxWHE4MWJnZVA4cXNhNDlndmdTZUZMb0tZRGJSWFdobTQ0ZklZNUdRcW5fLV9uVGxKeDhnMGN0akJfNHpYbXlOZ0E0UURMb3Z5RWwwNWFZNnB6SnRUSjg1X0p3UnNxd05RNjVvVzhaOWZoa3g0b1lkM01BTkVuTHU4bUpraGdZQjlCWW12SlZ1Q1E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708529
+  },
+  {
+   "id": "1f407ae9c9e083ef",
+   "title": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 Cards Ｌｉｖｅ TV Coverage 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 Cards Ｌｉｖｅ TV Coverage 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWkVkaGJTR05iT19FQ1kyOFBUQkIyWGk3RnZQN1JOWWhDX2RrSmZYYWkxTHVfdUFHdFlSZk1PdFEtZHJ5N0Y1M3l5TmVHX2N1aTRIaWJZcm5OWU5yQ2NBbWFmRUJKMzQ5bW5GS29xcjhwaHA1aFdEWGNRWXppbTBwcDhuU01KcVQzeTh0S2hhRU1uSVNkVnhLLXZqYi1kWE1UWjV0VmtScW01NkpHSVZGcHBzSXAtcG5pM2ZqX2ZVWjRpZy15VDVGMG0wQlZMSzJBYUo5ZEVfLTQ1b0t1bnNpS0ZYWXpHd19KeTI4c2ZDeUlFVW4ya29LMDExcTZ1TDVoWmlmY1N5bEZpR2IxTHR4REh2THFUc3J1ZEE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708528
+  },
+  {
+   "id": "ee9af384c4feee34",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S*! Nunes vs Harrison UFC 334 Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S*! Nunes vs Harrison UFC 334 Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNOW4wUl96a3FyUjJUUXNKRzNDdkdnU3NPdGdIZld3V0xadnNWLTVLMGVrUDkteE5KNWhTQkJlX1FaVGUwMlphSHh2T1NueGE1dkF3SHByai1YSUQ4ZFN5WDFiRHhzZmxVdHVETnpnRDlnbGNUOXNlVFhYQzcwT0xwNkJfMUI3UldMX0xsZ3VkRFRwTlZLUkxHem9BLXZ3NzVjbExzZ011RFJOSGxZWGFwWDdnMllzWkplTFR5MDNadUN4eWoxdWp1N01OdUdSVk5RbGRDckV1LTl4ZGJhT1h0VG53LUhuLTh6am51Nm9YQnlyMDZJX2Z1dlI5aGJCZXhNdFFfWW1NRFNDQzlOak5QY3U3OWNzWExyZFE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708527
+  },
+  {
+   "id": "9373390467731722",
+   "title": "‍‍‍!$+?(-TOTAL_SPORTEK-) Caio Borralho vs Yousri Belgaroui UFC 334 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!$+?(-TOTAL_SPORTEK-) Caio Borralho vs Yousri Belgaroui UFC 334 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVVJWZ21TeklnMUowWXBlcVFHVW9uZG5GQU5pelJJUkFjZWVmaEZWNG5ySThpbGRTdy1UdmFxSi1rWGZTQUZ5YkJpWTRFdE5sbWJHaS1NV1N6dndHN2Rud3JLR05pV1BELXNCVGpuNHlkTmpFeHhTUGVQeVpVRTFid0JmUmxZRlBQTmttQzlFZjBicWxpa3NQdlZsVWhaVnEza1I4SWplZkFEQVZZcUtwOWhRcWo5YlFlVzZGRy03OUR6a1MxMlFsdmJzVDNKZmxURHpXdGRTend2Z3Z6cm5JMTU0RWNxY0NDaGJMTDJuOE1wQ1hEbTZVQjJaR0pfOHdwS2RyUEkwMGRYUUEtSXpZV0hyMmx6VmtfeVE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708526
+  },
+  {
+   "id": "3ec142718487fab4",
+   "title": "UFC 334 video: Stephen ‘Wonderboy’ Thompson retires with spinning wheel kick knockout over Charles Radtke - MMA Fighting",
+   "summary": "UFC 334 video: Stephen ‘Wonderboy’ Thompson retires with spinning wheel kick knockout over Charles Radtke MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMy1MRV9QX3lESjlqd0laeHpUbXBCQ0VyZDZaLS1fOU9lTC1WTVVTUzU0OWRCNFBQdG5oSVdSU0JTM0VURnhReXp5QUh4UDlmME1fb2dGek9ubmVmZkNxOF9jUzdLSGE5ZjYzbVEtZDJTWkxOcFR0YmIwdXJ2ZVN4ajJmWWJYMUNCckI1RXFaU1VsVnZPNnZUR3NxandOQ1NoSV9HNjYwNkxqMVNORnpiVlpnb2gxalBVcWZnV3lNVFExSmt5M2RVcmdwdThZbUNDOEJZU2NtdDI?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708420
+  },
+  {
+   "id": "19d34b84da9ff7b3",
+   "title": "‍‍‍#【~^√FIGHTt![LIVESTREAMs!TV] UFC 334: Josh Hokit vs. Ciryl Gane Live Free Ultimate Fighting Championship On TV July 26, 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍#【~^√FIGHTt![LIVESTREAMs!TV] UFC 334: Josh Hokit vs. Ciryl Gane Live Free Ultimate Fighting Championship On TV July 26, 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMEtVSWVzTk5HUlQ1LThCZ09tUnhLTE5BSGVXbnd6dXRyc0RUYVRGeFczUUU4UVZrN3REUGkxaGgxc0RxRTB4dmRhLUEtNXNJQW1qMWxLYk5JLV8xcmoxR2Z3NEtwVWVtRzRrQXZxTTB3VjVobGNobU9VX1hLY1VRUUN1dXZXaUJqRTAzQVk5dTcwbEdjMnk2QW1nV2ZiZElRV0pqeUlnSWlYRDZDeFZiMUVfWnJnRi1HaEppUzF6SGllT3NoWC1PVXppZElRUGVKREc1SHdmaTRnTWNyTlQ2SDF5aTE0dFZaOEdHRDBqVjA2cm91VFpQS3hmY0RPYWV4X3dYNEFQOUlWdEZvSFJXOUJNM1JkajdiaEE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708220
+  },
+  {
+   "id": "73ec259db1d126fb",
+   "title": "‍‍‍[WATCHLIVE]SKY!] UFC 334: Gane vs Hokit 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍[WATCHLIVE]SKY!] UFC 334: Gane vs Hokit 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPWDhaQUZjS29sREFTT2pTU2xxT3FZeDdjZWdGVWQ2U1N6OFg4OHFlMDcxLWJJMmQzSFdTTnlPN3FfWkNUTk4wWmJCNlpsZEEyS0xEaFJVdjZHaV80LTlGdC1rZWdQWWVXQnpSaUJoTXFFVnEzOHpnanNwNWd3S1VvYW5xYWtfWDdFY2MzSXMyTF8yNkpQb2RfeGRXN0lKVnMyZnZkNFU1N2NqQTlTSWphM05WZ25TNm54X0UzMFJCd044MW11YUVXd2daRG5KZzBLOHVHZUNOeUdsY0ViZVBSekkwN09IeFdyNXMxN243ZjJJTl9SeEs0NHhWUGF5V0huT0ZWLXpoclE5eXFvYmhEY3docktLUk1SUFE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708212
+  },
+  {
+   "id": "8a1ea2491ccd289c",
+   "title": "‍‍‍+∇√[LIVESTREAMS!!] UFC 334: Gane vs Hokit Live Free ON Tv channel 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍+∇√[LIVESTREAMS!!] UFC 334: Gane vs Hokit Live Free ON Tv channel 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNNG1nVHNDTmVsWno1UHZwckNSV0J1WUJtZkNINUZWSWJiMk5nLW9NV2NaSEdnVjNhYTZsOUpCZ1pPcFNYejl5NWhrUS0ybkJ4SWlHT0JORFNQVlRGN0RTVG9PZjdUeDA3aWllYVp5ZFV0YTY0b01aa0RyWlJhanQxQXVxcmRLTW1qeWljYktyTjI4ZGlyRjdZcjl4Umc0RmhVYUp2V2dOQ3FWbWtCM3J5WXlfck1vTWFIdXNhXzJqX09NT0Z3Yk1zdThCdEY5aTVGLWFwTHBIMERaWlJsbjM5ejFVMlhnQTBRMC1aUmYtQkR6alVRYzEwNFlXd3dNRGRudm9zdlk5dmMwWFhnUXUzbHRfVkxRc2VlYlE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708209
+  },
+  {
+   "id": "0f58462855b57484",
+   "title": "‍‍‍+*∇#[+[!LIVESTREAMs!]TV!] UFC 334: Gane vs Hokit 𝐋𝐈𝐕𝐄 Ｆｒｅｅ 𝐒𝐭𝐑𝐞𝐀𝐦 On 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍+*∇#[+[!LIVESTREAMs!]TV!] UFC 334: Gane vs Hokit 𝐋𝐈𝐕𝐄 Ｆｒｅｅ 𝐒𝐭𝐑𝐞𝐀𝐦 On 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQmVUUlBocGJ4UGEwa250VGtMQVpHc0hnMlRpb0xiTVhKeVV1R3lncTRsNW9KTnFqcy1XdEVjRm9RMEVSM2FWSGdwNGVlZHdFS3FtZ1R0cXFIdUxQb1Mzck1tSkUwR1J1QUxFVE10ZjNvYUpKOVE3OTRxS2g1VGxPNW5Ld1MxS1JaX3pnT1FtbFZMb2lYQUh3QVBpN3VfMExpOXNDdEJ5QjFUYmE5U01ReFhtOW9Zcl9jdUFCRW5oX2VXN3F0OENtTTdDYXl0Mk1Rc0hOLWFPdVcyM19HWVp1SlBQYkFKZDNTSThKamtFTjIzeVhRSUNwVGUwTUg2Y1ZjTUxVRjRIUl9DWG5fOFlLYkptcnJncmZYWUE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708209
+  },
+  {
+   "id": "b18b52d3982368f3",
+   "title": "UFC 334: Live results, analysis for Gane-Hokit, Harrison-Nunes - ESPN",
+   "summary": "UFC 334: Live results, analysis for Gane-Hokit, Harrison-Nunes ESPN",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0JOb2NkWmNjZ2lMb1RKcUJxSkVxTlRGYmU5alV2eHZrblZxNGthbnprd1l6T0pBWUtnOVQ2OUJvQTkzZW5zNjNZV0stQkdWZnVUSEJKN0x2T3RIWExicHd6b3dNWlZwb21YRjFtTGNVYlJEbG1oRGhQSTljZ2E4cmVoR2Zob08zOTcxYUdzRkloRlNwdVhheVhxcmo?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708120
+  },
+  {
+   "id": "ab097b1443216174",
+   "title": "‍‍‍⊕[ＷＡＴＣＨ ＬＩＶＥ ＮＯＷ]⊕ UFC 334 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ Broadcast 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍⊕[ＷＡＴＣＨ ＬＩＶＥ ＮＯＷ]⊕ UFC 334 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ Broadcast 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNMFllX2tjS3FOSDlleHE4dUlUZzdKNUZhNHdrZjl0YjFxdmRvMk92SVFCSWYwM1BmNGdWRmpwV2NSOVF6eU1VYTFISUpFQ0pPWmJvNUJaOTIzbV9NaUxtb0lJajZYSy12MWJaWWxsdE1kdmJsSGNGZjJzRm5YZHRqd1JHendPMnVTdDJYcmxWeGcyZ1BVb2gwaDZLdUVUNjBON3VhZVRzN3djM2V6dWtmRHVrZFYzUjlLNjlBdXJ1dGI1V3Zhd29XYlVlOWxIWjhYX3ZOb0hZYjgzRFpRS1VXMzMzS0dfMEx1VngxNDRzeFZxLUYtWmRKYXZ0d0NVX1E2MzExZ0d1VldQMU5yckN1eERsbGFKeE9IdHc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708073
+  },
+  {
+   "id": "5e56e2fa7c56fba3",
+   "title": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 :Kayla Harrison vs Amanda Nunes 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 :Kayla Harrison vs Amanda Nunes 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQS283V05yZldQN21SUEhzMHBKcXlLZVVrR0xpb0FCTEFOU2M2V2RJQm5IS1BDeTExZmxsM0pzQ0hFZEJkN2g1QWdSaHZDV2tLZ0I1MzgzendnaTJ3WXhfaVpvRm91XzlzbV9LVEVSWVFqU212OGRscElsQlUxeGlHZmdSb1NKSUJjWl9rYndTZzk2el9ORkRKdllmMTFfWmxuRk1nUjlCUTF4MDlmY2dDbTRsU1VJazROWC1lMk5DUURfRnlQaE1UY2dld1BZUDgyUDE1UU9MckczUVF2T3Z1d3FZZzVOZjU4VDVib2NLU0NTbHhnRExlc1RNUzJtbGNETUhUcU9xcmNTNzJ1UTVHVHRqSTBYeGlyT0E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708072
+  },
+  {
+   "id": "2f63270297c627cc",
+   "title": "‍‍‍!+[Here's Way To Watch]\" UFC 334 Hokit vs Gane 𝐋𝐈𝐕𝐄 Updates Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[Here's Way To Watch]\" UFC 334 Hokit vs Gane 𝐋𝐈𝐕𝐄 Updates Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeW5QNXRRWU9YckJJOWw3NlhROEhSVUk4V0owX0h6SlJKNXBsOGxuNWd5NnhrUklBRFVHSV9MMWJKZW4wSVhRSzZaZXdYdWdzYU14aWNZbVBEMzhPU0dqQWRUMGpiUXZ0czBOQkY1VXhUUlU3RktWU1l0LUxhRVpvTEt2R19iM01QYm5EMU5jVWYzVlFSMHQwSmJHcUpkT0VwckNaVnhtXzF6WGhZemFCc2dhQTg1OElvaXBubm13VnlWRDFaOUpPT0prRWRHS1JwTnNYVEd1bWEyd3RxdEtEQWJsdF85X2VrdHQ2UmNGeldySHh4ZEVtY3RtTGtoMGFXYUlLQmU0Q1lMODUzclYyYkk3VzJEeVo1Tmc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708071
+  },
+  {
+   "id": "9b13ea7b5a449fb5",
+   "title": "‍‍‍ [WATCHLIVE]TV!] UFC 334 Heavyweight 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍ [WATCHLIVE]TV!] UFC 334 Heavyweight 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOTkyTkdjR0tIa3VtSFBPNUJJOWZQTGloZUt4Qy1hRVk0ajkxMDFzVTA1SUdtQzlLd2xiTnE4d29POThDb2U5NkxremJMdDJKZUl4M3FMRGNIbHdmc29sR3lkTUUyWHF0dXE3Mmw4SFVmREpOSDl0LTdvX1ZCbXlqanBMZTVyMGhPcDJtQ3pETmpFVVZUZFp1MUxFdnEzOER0RHJIMWcyMDUtdE1yYVV1U0xWSEctUno5WVpqaG9rcnNtcEdxZkFQTHhTVDFnWks1UFppVV8xdnZBVEExQlVZaFlyVTB3Uk03U1pnUHFtaDQ5MHdYT2pqdWV2a0gwZm5XLXNZXy1sUVE1QlNLNEl3OGc1YjlvZ2JjSEE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708070
+  },
+  {
+   "id": "7c7d33a6cff9f677",
+   "title": "‍‍‍!+[Here's Way To Watch]\" Hokit vs Gane UFC 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[Here's Way To Watch]\" Hokit vs Gane UFC 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWEFsLUltWWdFTFNxem9ubFFrTlZWcEFfbWd0b3FJZV9aRFdfR2ZPUXpMU1ZXcW5Tb3hkeWtXWGxVR092N0NvLUNmRDgzUjhXSXBETG9mOTAzUmREQWNySzEyNkVrQk44U2hmb0JZeXVYQjJHcUdBV01oVGJWanU4c0liNnZ1eU81MlZ6V1BVRHh4djBCWkhXWHpEcjVqcGllWjlDYWtsSVgtcGFTUTljNkRYMlZ2Vmg1MUFLdkIwWllQT1lQa1NXY3VVenpNME1zOVVfbDBuakFMZFhVN09xZUhYUDVjQnVxSnNZZVRxYTg0RWpleU1RY25UMGdXQWNlUWtwLUJpcVJuUGxGQjZ2Q1NaSTRzU3NjdWc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708060
+  },
+  {
+   "id": "3edad4c67a4b32af",
+   "title": "‍‍‍~$!【LIVE@STREAMs】 Hokit-Gane UFC Fight 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【LIVE@STREAMs】 Hokit-Gane UFC Fight 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNaU1JZnJRM2lXWTRQWm9LOUxoNlNlbDFqLWdzNzlsZjVsakxfeEVlcVRyR0l6T3E5Qll2V0NQbklBZG83ejl6VGxyd2lqRDQ5b0FEY0ZLcWotTTJpOHdSWTVlaTdKWHpFU3diN0FYNXRDY1lraFFSZEpOVlNSRGJoUXVFMU9fWFFtbWt2ejFLTHU1UGNPSmtrbks2ck1NRDR0TFRwcUl1eUhqR3ZZQnNEc3hSZmxxTnlNSXFSWng5WjNLUldtdm1LejlpeEV3dHBkeW1wYnRYNTIzYXdiZW5sa3BEQXc3eEk3WW80VEFOa0x2LTM5S1gxRzJWWkhKdEY4QkVxaEQ2VE5YQUE2eFVFcmhyWmdKT1AySVE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708059
+  },
+  {
+   "id": "67787879866f6f45",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S*! Gane UFC 334 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S*! Gane UFC 334 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdGtaRTU1NmQ0azM1QlRvdGJlQVlIaWNqNDI3Y18xV2NQcm5VYkRWTVJtMGFoTm5XbWxiMkZqTWhFeVA3d0x0Nzh6SUJxOUMzR0Q2QzRLeWdWVjA2ZzA1MTROYmVHWkw4MHhNLWJiQ3gxQVM4YklGbUlTZDBSRWdSTzVmdzE3RDFaZC1mU3RQVGltLXA1SFZUQ3NKOFhnVGhzbFJ4OFk0dlBPWTlTQ2UxT3FENFV1ak9WTlllaEFxTmVJYWZyeEJmS0FSdHpkMVRMMGswU0FtUV9FeVNzN2lTNUxoQTctT1hBRDFQY1kzckF1N2hEejdQQk1BYXo4QjBWOHEtMXIydWRQTVE1MUJaREEzaExoUXk5Nnc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708055
+  },
+  {
+   "id": "992da1eef23c8fe7",
+   "title": "‍‍‍!+[Here's Way To Watch]\" Ciryl Gane UFC 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[Here's Way To Watch]\" Ciryl Gane UFC 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxONnFxb1V3amU3LXBvR1ZjU2xPcXFudWRDejFPV1NWY1VBcDR0RzlpbTFoVFpKWkNrX0NqZ0ZFV3JwVVU1NDJyaEhyWTNhalFnbWlFNGV1QzdpdktUM3F2cTg2T1J3c19tMUNLQXhQVjk0b29aLUUzbGJNWkN1eHpyTWE3dUhPMllTUXBUckxqNUxFYXFrRmxrOXZ5MmJ4OEVrSFFpRklrY2pNX1hzNnNFc3V5ZkY3YmFqOW1DM2xLM2lsTm1EeXprT0wyaVRqZVpoT21ua1NpRlJ3clpPUTZCUG5KcEdPODZIRkpwRm1ZRWdHZ3ZrWHBjb3E5V2JUZUZ5UDlIcXZyQ21ROFdUeTdWMFhCQW9mczh5eUE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708048
+  },
+  {
+   "id": "0289fe255eeeefda",
+   "title": "‍‍‍!+[Here's Way To Watch]\" Caio Borralho vs Yousri Belgaroui UFC 334 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[Here's Way To Watch]\" Caio Borralho vs Yousri Belgaroui UFC 334 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPQW1zNERLLXBRX3JhRWRxRE8yVkxsUUkxQXZGb0hjN1NJNFZjX09MRXMtREJmUUx1WE9OdF9hcHVKTmVJVHpmbGxvYTV2ZmNna1o5ZjNCYXRNVEd0Tl95X3JJallsN21UaXp6LUdpeGdmRmJPaHM2NFQ0M1JJWURFbzFiaWFNOWVvQ3hfcTFWbUZTSVVTN3JDRXU5NVEzeDN1N2ZIUWszb2NBVnBIUjBPX21sakhwNUQwRzI4NmRUbURUREUyUmFPeTJGaEMwUFJWVE9hdm5Sbk8tcGRXXzFTZjgwbFUxTWV3LUhjQmJTOVZUX2FNdklsWXJpbXJyWmg1RkNpbUd0XzY4Y3ZjOUF6by13aFhrWVNIR0E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708046
+  },
+  {
+   "id": "bbde7cd8cec36617",
+   "title": "‍‍‍~$!【LIVE@STREAMs】 Caio Borralho vs Yousri Belgaroui UFC 334 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【LIVE@STREAMs】 Caio Borralho vs Yousri Belgaroui UFC 334 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUTgyMmZ2bU0xa2ZCZG9vc0duaVNpYnJuWWJWUjJQNkZMQ0xwMll6T2sxd1VHd3I5Tmk1NFhSblR0bkF6Mk9XTWFVWE03VHY4Z00xOUVId0RBRmlFNWF5WnVJUDNLYzZIWFBRS1dUazZnV1gwQm9RTjczMWJTWk9ELWdSbzl5dER4RGpNUDZPWkNNdWZkUTc1S2FaRnhXZXZJRm1UR1I1d1NvTXhWTXZGTEE5R3R1b1MwXzVXNXVnUkVlbThzUlhmZENfNnloaHJHNUJzWEpORWNHNlR0SnRlMjUtQzI4azhJT284Z21sVmpncW03TE1FV2h3RmZYWHNSYlM4UUY0bXVFWjlhbXZ5d0FsWG1uTXNlZ3c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708046
+  },
+  {
+   "id": "f8d51c6df50600a8",
+   "title": "‍‍‍!+[Here's Way To Watch]\" Caio Borralho vs Yousri Belgaroui UFC 334 LIVE Kick off time TV 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[Here's Way To Watch]\" Caio Borralho vs Yousri Belgaroui UFC 334 LIVE Kick off time TV 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbTdkYXlGX1J2bWIxRnJDbzZfTkJFVnBHcEhQdm1tSDg4ZzhhalVZNnZ6RWFYZzNEV0VPVUhoSzFrTnB2Y2N0M2RjSC1pNldiR3UtWGJLdkx1QmN1azJPT0VlQlJYOXQ0THFIVzBtNjhxLXFQdUhrYWNoRGlHOEYzbEo3aFhGcE1RV3BTd0RMSVJWZ3hrMUFYNjFfUjZpcTJGU2tFMjNPQ1RhM0ZWWnNSdFlOR1o1Mzlzbm1BNjV1QVlIb2EyUWFubDlFdkV5ajNPZlhFRDNwdWhmeVNRQ3hDa3IyQmdoMDg4Z1hpOGZrdGswdm9JYV9rbDBwWDI3N0lWcGk4MFloLTNuUDdkVTFIMFdmcmZqY0MxMmc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794708045
+  },
+  {
+   "id": "85045a9cf0b2e974",
+   "title": "UFC 334 Results: Stephen Thompson TKO’s Charles Radtke (Video)",
+   "summary": "Perfect Ending",
+   "link": "https://www.bjpenn.com/mma-news/stephen-thompson/ufc-334-results-stephen-thompson-tkos-charles-radtke-video/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-334-results-stephen-thompson-tkos-charles-radtke-video",
+   "source": "BJPenn.com",
+   "kind": "news",
+   "ts": 1794708027
+  },
+  {
+   "id": "4ecc3e4baa800991",
+   "title": "‍‍‍~$!【LIVE@STREAMs】 Uroš Medić vs Kevin Holland UFC 334 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【LIVE@STREAMs】 Uroš Medić vs Kevin Holland UFC 334 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORkVqZDdDMmNHdXEwUGxnQmRWN1NLUzZ4dXo1WG5JSzZXaUVOcEMzcjQ3VGtCd3ZTbkhFU3FpMGZMdHpra1hqM0NhalZJQmRHSFlNdDJJUUR3S2E1R0t4LVBWWXExWTJQUkdGUkV2MUpSUERKakc3NF9MZUpibXFuWno1QzRZTjJiYXNLRlRJV1dVZVF5YnJQajFoZlktcUZjOFd3TlY2ZVNTWUJPU0RFSDlBMi02Uy1uVFZNZm9YUmJBOGpjaWJRRVN3SW5PWmpmOWJKLXNPZXhmeXM0aFJVNzB6TWl2LXVxdURXTG94UEp2akctUW1ZTVFKZURkNkt2RVdzVTFnamhyeV95X0V6ZmVTdi04MF9SQVE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707739
+  },
+  {
+   "id": "89e384e62ba33829",
+   "title": "‍‍‍!+[Here's Way To Watch]\" UFC 334 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[Here's Way To Watch]\" UFC 334 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVTFPYkhjd1JpZFFlb3I3UFpMNldNSHVCQXBFcFhEUkdVb2sxX3IzMHdncDVNbTlpQnNnaVc1MG90b3dYcEw4dU1vdEFsZXhqZnpKRWZpc0w1Z25hTWxaZlNoeExzTGVQd3BON0V3b2lNdmRtUFNSUVJoUHE0NXh6NkN2ZzVtU1AyZ1IxRDFaaEkzNGN1S2xJejdORDlRSnpXay1ja3hSTV9PdG9QbHRoZ0FJaHRmNGEzLTV3amxNV3J3emU5R2JMUHg2LTdScnpWSXBreFdKR3VyM194My10WmE5bHhZZkJLb2J0SHNSRk5KdW5vbUxEeExQZVhQM3k5dVEySFVCRlhGRzRNOVJFa0RlbTZOa0U1X3c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707738
+  },
+  {
+   "id": "f36913c6c282f382",
+   "title": "‍‍‍⊕[ＷＡＴＣＨ ＬＩＶＥ ＮＯＷ]⊕ UFC 334 MMA Live Broadcast 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍⊕[ＷＡＴＣＨ ＬＩＶＥ ＮＯＷ]⊕ UFC 334 MMA Live Broadcast 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOLTc5Z3F1aHlCYVRPOTBib1lWUzh0d0ZFSVByODdTYWZNWGxLaTRDWEwyeFFTWi14UHl0S0RYODhBTUNQRzU0dGU3UG1IMy1XX25lVXlLQXZ0RFUyVERoczhad0Z1VlppMHV4S285ekhwM1dqUTI0aGlfemROenJGWE5JVzlXM1lTLXVaRGlXMTZ2S0JPMzVWNl9la0JKeDFqRWxpTkxsWk9OTXAxVlR1TEtidi1NUURfTzRnZjJ0bEVuX0VSWlNhSmJnQkV2Z0tWLUJ5eXhnX2VQUG1wRHVvRTduU21WSV8xcVJEa0N2eDZyMmRhR3hCdDhHNWcxMnF4MmpTTWYyaWtkMHdfVXAxcm9Oc2VIUTBUeXc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707738
+  },
+  {
+   "id": "45719cd1cbbcc317",
+   "title": "‍‍‍⊕[ＷＡＴＣＨ ＬＩＶＥ ＮＯＷ]⊕ UFC 334 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍⊕[ＷＡＴＣＨ ＬＩＶＥ ＮＯＷ]⊕ UFC 334 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWG9uNlFVazlwT29ZdHBTbldTQTVndWRJcUpzZG5fSXN0STZxQlkxVjlfRlZ6eDBtaXBpSWgtSno3NTYzRVRMQmRjSk1XX0VNenVRRE9PbzQtaGt0Z0hVODdlY1dLdWRpYjNwak43a2tRYlFPcWhkdmFhNzdTSmFSSzZETjlrdExxZGFiajhBcVU4TXpFTXdVczR0eFFqUl85RmFNTFBicmszVGl3SFd6MEFoUy02dFVDY2NpcVRXTWNwYUJpNmhVeUJVZGZIYnIzM3hHbVBucklNT0d6WUFkMTg4YzhQV213azhTVnZZbFU5Qk91Q3dEb0pGWENYMUc3bWRFNDNrOC1zWnZxbVhxTXdkbHFLdFlVcnc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707738
+  },
+  {
+   "id": "d59438605b07aae8",
+   "title": "‍‍‍!+[Here's Way To Watch]\" UFC 334 MMA Fight Ｌｉｖｅ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[Here's Way To Watch]\" UFC 334 MMA Fight Ｌｉｖｅ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOc2l1dzNqYXpFbHZsSkhNcldLdTB5dWlfNU1fX1ZUU3NEV29ZRWRpRVNBX041QXBUSl9zYWNWOEtnS250SnlMSnJtQW55S0h6OU1sVGRHdWJRb0cySGFZT1A0b1VXYVRNT3ZDaFYtbVJwNVNXMVFKMmp2QXVtR0RWcHZrR2ZOYmIyaERxaW9JMzZHOHB3bll2Z3prSGl4QWtSSW00OE1leHNWUDdMX1AtOHM0WUlpNzVDdDI2Wm9IZDhkWVJuNHdGUUhkQ1ZXWDFCSzhyREZOYU5uU2VzQlVHQWtaMzZmMmNOQ3lsYVJTVnlVNUxkMl9IcDBJNW93a2FNSnZqMmZ3YnZBTlZPTmMzMWNwXzBJUmRWMkE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707737
+  },
+  {
+   "id": "50b75125cf394e68",
+   "title": "‍‍‍⊕[ＷＡＴＣＨ ＬＩＶＥ ＮＯＷ]⊕ UFC 334 :Kayla Harrison vs Amanda Nunes Live Updates 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍⊕[ＷＡＴＣＨ ＬＩＶＥ ＮＯＷ]⊕ UFC 334 :Kayla Harrison vs Amanda Nunes Live Updates 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTHNXd3Y1VkhJTUJRNndxMHB5QnJjTHRKMjRsNlVUOHBkNmRWYU5pZlFubkJpRHVtbTN0SHlHSnBGZXN6NkpDWVgtQ2R6ZDF1MWhuQjFmWFdhWFB1U2JOOFlOQnRXMVRPdGx2ZnNnaUU3SW1rTXRoRlJKcTh3cVI4bjJDblRyd1dmSzh4NlhzRXJrVDJJUG96SjRHbFZndWVJWUxOYVZRaEdmTmI3S01nZ2Jva2RpUVRXeVJPeHZhTWQzNnRSZU50R0lySl9zRFd2a1FuNFRSM1pfMTh5T1g0d2Rhd3M4cF9TbXBzcHRhMmhjTEFOTmROc1ZveGRJTzBjOWk0THpuQ2hGTlFMWnpVbmNTa2dUUVNBSXc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707737
+  },
+  {
+   "id": "9c9b788d7dd07dcf",
+   "title": "‍‍‍+!![𝚆𝙰𝚃𝙲𝙷𝙻𝙸𝚅𝙴]UPDATE!!] UFC 334 :Kayla Harrison vs Amanda Nunes Fight 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ Broadcast 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍+!![𝚆𝙰𝚃𝙲𝙷𝙻𝙸𝚅𝙴]UPDATE!!] UFC 334 :Kayla Harrison vs Amanda Nunes Fight 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ Broadcast 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUG8tMENrYXhQMDZxUmk5VmF5MXh4R0NvZEpCdlVEeURnWEliQmJMZEVYZ2EtOGo1eG80dTdDMGY2X0NoTmtZRlZuVjNHQ1ZMMHpWQ1dnNDJuWUlHR0hmWmMwVVNzbkRIUkNaUTd0c1FiMjRxU1ZWeHA0VF9JSXY0dkd0ejVWbmdwOHpicVBzeG1FWEk0Z0EyckFlSHFPQWxVbjVSZDhCT05ndkl2TjM5SGxfTWhZOERoZ0o1ckwyTWVLMmw1UzV4SVhRRmxNUjZLNlhLSE1XUlhQSnlRTUJveVZ4OVJfRl9lbGtwWUdTU1BPNVY5YWx4U1RnY0tMN1VRNS05RzIyMlp4YjhnMXJMUzRhUVFNcHR6UVE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707736
+  },
+  {
+   "id": "e1414855fd044b1e",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S] UFC 334 Hokit Fight Live Coverage Free 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S] UFC 334 Hokit Fight Live Coverage Free 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPQkJMQjdrdDEzdEpzQThhNENKWXotUHdMbFg2d3JMNnFJTENpekI2ZERlZVQ5Ui1nZURrNzlqTG50VGpRdm5PSm9wU2xtalZGSTQxY3ZNUGdud2Z6UlpfSkhjMm1DM25xMXNadDlPSlBaSm1GajVaY2NfQ3NxdlFPelhxNFZHVFpvYW16aVBQc3ZES09uRjdxOGxVSTNzQUZoSkxMeUNuYW5DY2RURkZDblQ0bk9ka3kza3lLTm5DZjJJcU9pUmFZaENjbl9QNjAzdHFaanRnN0xDZnVSQ3Q4ZHZOT0Z5NkdSWlVuR2s2Y1Iyd0h0aFJTaWlrU1ZIcXhDbThLcFdhcS1Hbk1oY2NkMzMwbnpIdGVONHc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707736
+  },
+  {
+   "id": "b91f685cd50f1a6e",
+   "title": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 Heavyweight Fight Live Broadcast 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 Heavyweight Fight Live Broadcast 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQTF9XSGRXa1BpMFZfZzNwcFgya3k3RktoOHdfMl9sNklJSmxwejJFeklFd21MbTZNUTdDQ1BBc3ltSEJLczBGUEZnS0M2OW5ZRmtDRlZsTGg3dzFYUG44dVVKYTg1RkdFNjVZdjBPX0JIYWk1LUtOUVVaU01TUlpSSm1lcGNjZ3ZyMFJXUGVyZ3hFQ0htdEdmUURldThxTXp3X00wMUhUOVBpNVBxTjdPZzRmM0Vwbkc4R2M1SjhGdVF5T2V1VVNDZ0JZeFJTT2dtRFpUME11VU9oQjR4UE9MSFp0YnY5ZlBJWVpHSlpKOW12Z1lXbW93VzNMQTFkQ2otRmE4X0tWSGRsaDZFNmNkTERkZHFpVlBpc3c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707736
+  },
+  {
+   "id": "bc7a05e5d0c63598",
+   "title": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 Heavyweight 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 Heavyweight 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNUzQ2VVlUUmR4V0Q0eEhfbENkOEgzYldmZ1NibUttRzd2NnhERndhTThaOUtva0ZWSkJBd19jTWQwM3FUTjhQMS02RzdnVWdmQ3dvVmFyeWt6dUtwUWxzdkNDWUU3MTFtMzVzZlVSM0l0Wm9vWHN0UkdjaG9WaGNIU1o2TWNxdTRlUlBCeFVSOF95OTdyWmpZc0ltTXQwbFU2SjlxNmx5Q0dxUnU5UjdnYVZZWEJyRURYSms4Vk5jdkc1Y2JieXYzZFI4YlBjYWNVT2NVZFFPaVhJV3UyZC0tQURXS3Z0RFp0M3ozQk5mT3pxTHNGcTRrMm4zNmtON0xZODBmTFUySzY3aDVWdnNCd3dvRlp4NnRldUE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707736
+  },
+  {
+   "id": "81aab2738fcad4dd",
+   "title": "‍‍‍+!![𝚆𝙰𝚃𝙲𝙷𝙻𝙸𝚅𝙴]UPDATE!!] UFC 334 Hokit vs Gane Live Coverage Free 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍+!![𝚆𝙰𝚃𝙲𝙷𝙻𝙸𝚅𝙴]UPDATE!!] UFC 334 Hokit vs Gane Live Coverage Free 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWkRiRE1iXzZfU2pMOERULThqcHZrZWtFQ2F3Z1ZwNjlQLTFOZERRdTRxaVF5aEQ5N1R3My1LQTZOVUxCd05IX3dTSUpPX21RRG5LR3J6Skt5cFhqNVJJZEV0M0FfLURXbGJ4MGdzalJySmJ5YUlmdjdYbWRfUWx2TkM0LXRNcTB1LWZKeENtUzFULW5HVGpRMDVkcDhBWEpyaHVDZ2ZrTXhFeklETW1BVWtES0liajdqQjViYVAyRjN6UnhJSlhoTHNNR0ZaY1JMaVJWWHNKUmVFZUpaNmxGcWJkUEtYWmpTTEl4OXJqTERKODlkTjhmeHAxdDJaeWlMaV9kMERmTlhZUV9jMW9RZ1p5NFNmN3h5enc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707736
+  },
+  {
+   "id": "52ab4df4977abab5",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S!] UFC 334 Gane vs Hokit Fight 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S!] UFC 334 Gane vs Hokit Fight 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOc0VZaGhjNGJWeVhOM2ZMdEFXaUlSUHQ4QUItUHBRM0EwS1duVVJpRGNMWjktNFFucllUTThjU3BodkE4bDdjb3UyN0NraDNOT21JaFlnTXMzdjNsUDVQcXJ4d0hQNzF2c2lQSnJzQ2Q3dTlrT3NMLTVoemNMTXBJOGk0ZDh2ZEo2UDJtQVNRU0hTZkNsRXhZMDVPWGs5SW04Nzc5dFE2WDJMb2xJZl8wLXNsTUNJSjQ5MURjZGZkR3dYa04xam5kdHZzYzM0NDdwUm1LZjUyTzZTTWJQRFFINkhOTlZMRHhrUUFYMVR6eUlPRVhPNDk4XzV1ZERGUEFSX0NUUDJtTE5wdXBMNEJwWGs3NktqMUdhUEE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707735
+  },
+  {
+   "id": "1390e74f42fba1d1",
+   "title": "‍‍‍☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ UFC 334 | Gane vs Hokit | Harrison vs Nunes Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ UFC 334 | Gane vs Hokit | Harrison vs Nunes Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOTUpkQjVyWkJyM3F4RDJwcXhKZU5wTVRWQ0dEQ2NFWkJfSXJYdkItQnpSZzRvOGh3aVgxdXhmbzJ1QUw2MHVCOC0zVWU1Tkp2N2paSEV4b3ZhYmlNRVZERm5iRzdUdEk5WndvU2ota3NwbkJlc1pmOUtRQkFYWXRuZVZ6Sld1X0k2UkZuckhQcTBKbzZPNHpwTjlYZTFBcnJ4MVk1QkRFUTIwYjRLU1JtRTRMc0FJVXZlVzJrVmR0UVZrTkN4NmNZcDludXNRS0dyQ3dhYUtIUHRoYmF1SUFvLXN5eTRxVE9ybnFnZ3VTVF80ZXlLWWc0ZWp5cmhaSk51MVZ1LVVCSHB4N1ZrY0tyQ1JWMi1vRTljTlE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707735
+  },
+  {
+   "id": "0f33dc720d41b2dd",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S!] UFC 334 : Harrison vs Nunes Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S!] UFC 334 : Harrison vs Nunes Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQa2ttSUNrU0ZzZnBmWlNqd293VzBTZmh1N245QjFYcXQ1LWhhdG1UbWJJR3ZUZ1l3T3lpdFdJVG1JYnR3bFRoazk3X0RvejZIZ3NOU3lLaDV5WVdsazliWnhVSFpYbnhqQk42Vi1WeWlBNHNpMW1DR3ExUWlYWVd4UXJZTEpmdGhVZEFjZ3pydVZYU0JfUU1fbG4xYUxjLTF5cVRJbEU5V0lSbXdHTl9LT3REZktJUmRhRVZZTXZtQi12R2tJY0htV3F0QXl3ZTEteTNTTFJzZWg3b0JnZnRkREtlTXltV2t0SnRSdzR0VWk1bUJEMTRtWlV2Z0kyamJ2QWd5UUZNMHlzLVVPUVpRZlRnX2p6akJ5VGc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707735
+  },
+  {
+   "id": "cc4fa9956c80b7af",
+   "title": "‍‍‍!$+?(-TOTAL_SPORTEK-) UFC 334 Fight 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!$+?(-TOTAL_SPORTEK-) UFC 334 Fight 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNR0xVd3pYYVV0NXpHNEc2Vi1MX0NwZlFLQ28xcXF6ZDRQR3BIZkQ2ZUk4S05tQWJra3RlVERGOF82SkRfU1hsZ3p3MFllVGtJQXZjWl9QV2Y3Q1JaZW16Q0JWenBxMmw0d3o1eXVncTdBV1A3U2hYdEdLbWZDSVFpdUN2d19COXY2ckFKSTBYOU5LZnhzbWRkbndUaktOakJBaUgzM0RhTlBPQ3JEUVBYX0NVeTZJVk5NbGtZRmR5cWJwNFRZWjh6eHpmNk9kOEtUeEhpcDRJMHUtdFRrQkl2TGxRcW9hY1dZT09DWTRSbUpCdVNueHlBN3pWT3BNb2lnOUp3OXltM2NMZFhkWmxvV3FYeG9pTjlRZWc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707734
+  },
+  {
+   "id": "3be3beba010e4aa9",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S] UFC 334 Fights Ｌｉｖｅ TV Coverage 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S] UFC 334 Fights Ｌｉｖｅ TV Coverage 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOZWdKVkhheDE1SzNManZ2UExnRDBfZC1XMW8xQllhY3h2T0hJU2ppZ3ctUFU5TUZodnd6eFYtdlYxVHJiYnQxOW94bjdUWXdxSEthWUZJcTRlYVMycV82SXlJbUdaUzRKQjhGZkxLUkQ2ZUExWnk5c3M2YTdZZHFQZlo5QUF5M1JtTG5DYkQwSTFKR0IydXhsMm9Nc0tfaVdYQXlaaG82clFCNkd1cXRqeFlhX1l1aC1XbGRyeWo5MVJYWVZuYVNES3NvdUFxbGYyX2tDWU15OVFQeElsQTNWakZIRTlFWlhndHphUlp4bTRaYUFpcEMzSkJTaWxjVlF2UzRDYXY0Q0tYazhSdTlSVmJ0TXFwWjF4VkE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707734
+  },
+  {
+   "id": "bd21b415795485db",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S*] UFC 334 Full Fight LIVE Kick off time TV 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S*] UFC 334 Full Fight LIVE Kick off time TV 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeTNaa2Y5dlBzVVFSM09WVkp6SnlvUXh1MFJ6c1p4eUp3VWY1YjNhcXM3bU1EVzVEcjdiU3JUYi00Ym8ydlZyQmhaOENaNHRLMEZidElEUkl0b0RQU1NTQWg2QmZTUDlQZ1VBSExWU05pSzNTV1A3YXAyU2Y3bWFHMl94Zmc3Z01scHFqN0h1aHlSTHhwMzZReGx1MTFvMDF6VXJMMVhOT0pUaXhYTEpzMmhrTFJ4ZGU2eUk2Q3luTVZpVFNhaFlDcXBmdUxQd2FpLVo0b2NsdmVydjh5TExVX2tXLWQ4SkgxRnRQSXVOWjhWakt1Qk1OZlh4SjFNZ1FfWVBacnkxV0JYUlVoYU5NNG54eWg1TERLMlE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707734
+  },
+  {
+   "id": "79eab1fe21b50e60",
+   "title": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 Gane Fight 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【LIVE@STREAMs】 UFC 334 Gane Fight 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOc0VzcXRZZWFyeFk5UE5LMHg4M3o1NmxpR2t4ZXQ3T2tabGFjcWJmYTdYVnlxaDl4cmF6QWZXdXg4Yjd0NXB2TTB2amFLR2xZLVU5MWhzSEUwbmRuY0tNTDlSbE1GUjBqWHJEZXc2b3ZuWk9POFkwUGJJMS10SkRXb1lzVVc5SEItY0NsbXB0NWUyTE1vdTcxeWxPTDByMlAxSXA0ZjFSYldQUnJGTWdWSzA0dHNmZDZTNWpJSmZROFRyTllVRm1XM2l4R2FhNEpleFQ3djVMczFQUUNIeEZoUmx1SXZ1ckVtN0ZqT0s5RlFiOGNub2hTUVQ4UkZnWUdOQkUwQmRwbHZkaDBnSmJneVNaRVlBemlSSmc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707734
+  },
+  {
+   "id": "b51cfc4732f04c02",
+   "title": "‍‍‍Here's Got the ways to watch UFC 334 Fighting Live Online Broadcast 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍Here's Got the ways to watch UFC 334 Fighting Live Online Broadcast 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNa3c5NVZ6SVdlaURlVVFzM2kxU25rNE9iSkxQNGRxektuOWNXWHp3WHh1blVzRld0ZEkxUnBOV3d2NUxzcmV6WU16UjZnVlFJNVhCc0VrdDdrX3FyQlBibWdCb2h6NW83VEZxSFE4SWtZamlNcmY5ekdxMkdPRTdWUVo5YUpWRmZ3Sl9MY214S2FnYjdHeENqUFJIbWxEVjREV0VQbjhPb19sTWFmV19RZTZUaWVTVEFrTTBseXdITW1LX0dnS21uVjVLY1FxSjV2LVBhWGpKSWlWckJZTTlhN1NCQThWTEY2S21DTWd4SDdBX3M0cGNZX1k5ampIXzVrTVBvZEZOUnJWU2NzX2l3REFrRTFCdHkwckE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707733
+  },
+  {
+   "id": "d7af67068f1502b9",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S*] UFC 334 Cards 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S*] UFC 334 Cards 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdmtSS2VqUFlsUFlsa0pGRUljUzVBNHd2bjhTVDM5aGg3aVN0QnJ0SVQ0LUdodEgtVzNERDNWaExPaWFvMTgzQ0ZxM3BnMkZSWWtaelhGQjB3VFRibHBON3FqeXdyWVBOOUhoRkNLUHRwTTV1QzBWRTFISEI4czc0LUVxOGVNNUZBQU5qQ292bTNWWGlUbXlicFpRQlhidHdrWks0bFMzMEVRQ0lWWTROemtDX09mTFpnV3RxakFlYWhTOXpsU0JveG01dmtmVEdFMTRwZkNCLTRzNlVaQURLOTdDVnp0S29FRUZaWDZ3b2MxaGpnekN6TmpKMEpBb2lib2pxV2xhTW5SUElGVFNpck1WbDV5X08xT0E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707732
+  },
+  {
+   "id": "30de232d61513c9c",
+   "title": "‍‍‍!+[Here's Way To Watch]\" Hokit UFC 334 Live Free Coverage 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[Here's Way To Watch]\" Hokit UFC 334 Live Free Coverage 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWVBOSTRKWWhPMFJFemhmaExDTk1QWDhyYUtYZlRyVnhwb25IX19kMGFLbGRoTE1xdzNveXZWYi1JN1VuckJLUEZ2N3RjWms0OE42X0w5TUk5STg4UV9JN3FublpEWEphYjNSV2taTDFZTzFlbmp0RGFlV3VubkNKTjI2NERZY3RITE05QnhsZDR4UTY5STJJT2FmbFNSZV9sRHhhRTkwZlQ0MUZ3QWJNU0VsSTQ3YWtPOWp6dHZHSEtyM21MSExIUkhIblZfTzFhbFFKdWJqXzcxdzExVUlwcHVXNkFjbUJ5aV9YWWVtN3ktSzY4eWs3NHZYMm10bE1fdlZQSk1oNHBKOUdCZTlhajVUTnY4Z1pEV2c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707729
+  },
+  {
+   "id": "d851f767fd231bb7",
+   "title": "‍‍‍⊕[ＷＡＴＣＨ ＬＩＶＥ ＮＯＷ]⊕ Hokit Fight UFC 334 Ｌｉｖｅ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍⊕[ＷＡＴＣＨ ＬＩＶＥ ＮＯＷ]⊕ Hokit Fight UFC 334 Ｌｉｖｅ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVTczaXlGc21XZ1NfaUVIMklBMzVnWnZxalV6YnBlakJqeXkzVWszbEdFVmhPay0weWZFWk5PX2dXZzZwZURpTk5nUFlGRXdyb3V1Q2lTRWFuTzhhVWJFZ1VudERnUk5fX3VxN055d1E0d25JTGFtY0RGSm1qdHJtUEI4enY3QXZTdUJaMjI4eVUwYTBOX1ppT3lKOTVkQXBnUEo3V3E4Z3hfcW1acDRJZHRpeFlFNVRiLXAzYmtLRnFLUHJ0UXZEZ0tWbHo3RFJuQ0tmRkNLbUJUV0RWY05seDNjU2hVRmJxUFliUzVKMkNTYWp3aXd0Wk92OGlCYWZYcmpTSDYwTEgyNlZ1SFo4WHB0NlQ5SkZFQWc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707728
+  },
+  {
+   "id": "eb9f54b325c701aa",
+   "title": "‍‍‍Here's Got the ways to watch Hokit Fight UFC 334 Ｌｉｖｅ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍Here's Got the ways to watch Hokit Fight UFC 334 Ｌｉｖｅ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVzdnd0FvVW1pcFl5MlFzUmstbnJBOFJWTUhsWkZndTdGakJoMk1VRjQxanBYZHFKZEhNUW5YMjByaFp6aG5WSnV1amk3VndhZm9LWGF4aUNqMVNSY0tIcy0tY2pVZkNDbzRrRmJFV3pvUEdJcW5TeTJPM0hpWDhFMmwzZ0RpUENnRGR2cFVrX2phbUVISE5SVUdtcEE2aWNnMEVtV3l6Vl9tMWpHRDAzM3VpbWNfcl9zdWFGcEZzNjM2UXRQeGNzRXROVU14c05lSTNyWW1tdXdCWmVEbzdkRW9lT1BsWUN4U1BudzNteVpMTi1XdGpyYU5mWlJBbHhFTnJ4U1Q5WUVOSG5nb0trOUR5MnVTWGk3X2c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707727
+  },
+  {
+   "id": "e7f84f55e717e388",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S!] Harrison vs Nunes UFC 334 Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S!] Harrison vs Nunes UFC 334 Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNc0VZRm4yQXloazA3eGFBUXF0a1dPV2FUd1BOUHdwRXJzeG96d1BHamNxblRxZnd2em5UY3RFSjlfMmh1c0VYWmVDdndMSG9CM016c1ZJX1R5MUtHTm9RU1o0dGpVR3NpLVFpVndaR0tpSkMybENrTGFqZkVsbWdsbjVzZjBQUUI0NzFNOEZjTWVCLUxOV0FiVWwzeXd0Qzlic1otU25ESjQwemNMWUc2aFRhUksyeENXdngweE8teE1xWVhxcFM0WThaQ2NuNGRMM1c5aDd6RUlxRFBWS3VBR2EyTlVtQjZTTFlxcXhxSzIzaHhjWkdaTW42ekIyYk44LW5zYXRXX1FXY0xSZGtKdHJoMGdVUEg2T2c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707727
+  },
+  {
+   "id": "7fe34f8bceb503bf",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S*] Gane vs Hokit UFC 𝐋𝐈𝐕𝐄 Updates Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S*] Gane vs Hokit UFC 𝐋𝐈𝐕𝐄 Updates Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdm10T0NVRnRnU2k2SVJlT0JRWElHdkhZZi1mN0gtZ1JKQ2VhMDZzZWFtTldIZ2pJTlIwQ3IxcEZyRXBtWVNtZXliWXZFUElKOUV6WHBNVlJETjY4ZzFQTW0tbllDek5DMmxqM2ptVmdEVDRzYUtEenFEVFUzR0k4WGhhMDVNc0lRQ09NRzVlUXh6NWltTjd2enBScHZjLWVhUHI0T2tPTnkycTZ5UDZrcEtvQ1hqVS1BOUE3NXV3OFlYUFFaSHdJeTJBZnczYW5pb1J4bVlFdXR5VWJ5dzBodEkxbnJIS0JzNEJ4bnZOdHd3RlhrZERHTEZHOTA0UDI3MDc0QWNmeEZFMi1MUDRMekZzN0pqUHJyaWc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707727
+  },
+  {
+   "id": "62ee23472c32864d",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S] Gane-Hokit UFC Fight LIvE FrEe StReAm 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S] Gane-Hokit UFC Fight LIvE FrEe StReAm 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQN3MzRnRKYkg0RVdIcm0tQlhHbXhjRTFjX0lZaEhKMElWX2o3Z0JxaUNkblg3WTZGMk5GQUFRRGxhenFiSFZ5SHlueThxc2VQbWNXQTUyUmtVcC1iVU1YWFp1VFNfQWQ1QVhWeDZVdWxpMkhnQzEzZ29YemJPdXBQQTI4U1I2RFlMZk5XZENBZUV2OVdCbXhkQkVoc0ZpN1JrYjRITGNhVXlrQ0xKUjdOTGppbE1xMzN0dlRPOTd0aW1uSDJ6UVJTRVphZzJiTmhoc3hnUGs5VElLWWZHRU9jWGlnT2s3Vjg0OFVoTU5hd3hPTndMajZEY1ZjQmRhWTdSZWZDMWpBY1NnRlVPNHg0Y3M2TjBaUUtCX0E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707725
+  },
+  {
+   "id": "01f69d90b1d31679",
+   "title": "‍‍‍!$+?(-TOTAL_SPORTEK-) Gane Hokit UFC 334 Fight 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ Broadcast 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!$+?(-TOTAL_SPORTEK-) Gane Hokit UFC 334 Fight 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ Broadcast 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSV82bDlYSUxEZDdnREl4NGhQYVAwMmszTGlmeHdtcEpwTlo5b0JCU0s2MEJZN2tHaXlDU2piYWpIODVTZ1NhX0ZzUXZrX09VSklXckxsOVNtZEpfalBEeVk4T2VDakVZa1kzeVdoMEg0cXVSTVY0RTg1YlNncUZjb1NCeVgxajNoM2lLeFluWi1FU29tWjZEUEZrcmxGU0tUc2tNRW04cEZ5WUpvNlVhVXZnVk91RjdGWXp5Tmt5MW0tdXBPMk9oLVNzdUhGOEcxMW1FSFRuRHdxM1NUUzhpTmkycElNS2ZOMXRvMnd1MTVpNWV6bUZITTY5eE5KbEExNDkyMmpDd3FFVGs5bXhDb3liZ01yV05DZGc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707725
+  },
+  {
+   "id": "0ee4c7649bbd9af8",
+   "title": "‍‍‍~$!【LIVE@STREAMs】 Ciryl Gane UFC 334 𝐋𝐈𝐕𝐄 Updates Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【LIVE@STREAMs】 Ciryl Gane UFC 334 𝐋𝐈𝐕𝐄 Updates Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOTVrenZwZjhIOFNqSWJtRWV1MVJDY2RZaGNzVnlJNWpiRThjNTd1RXFkNTh5WUEyMXdaam82alBhUmJNbVdpNnhRMFlrOEY4dkh5Q19DTlpSNEpHM2ExcHhJd1dYYnpibXVFYjdzcFpQbzVYa0FWUzh3WjBLaDdWOXFyUi15ZTZSVFBYUzA4QVEzelAyRFJ4ZnVSZVNwMFJjQWlmQVV6Q2tVZXZlSXBHZFdsR2hUMmxTcnplUjZOeHJmdGxuRjY0Ty1vcDQxR2d4SUd4ZHFuQXNLTlpLaE03X3Y1TTdyOWlzRnJHbnVEMU5pSlhzbFlodjMtOUdLZVktWDEzNlBabVBqRjZOeVpLdm0zNVNwOExtUXc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707723
+  },
+  {
+   "id": "6c98df77f2301807",
+   "title": "‍‍‍!$+?(-TOTAL_SPORTEK-) Caio Borralho vs Yousri Belgaroui UFC 334 Live Updates, Results & Winners 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!$+?(-TOTAL_SPORTEK-) Caio Borralho vs Yousri Belgaroui UFC 334 Live Updates, Results & Winners 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPb2JEMFhJNE1aMzlVeUFIQm83SG02TE55T3hobkVndTRSMkxoSUlCVjVzekl6SmtJVnZ6TkdpVy04enc2NGpJMnJ3ZFhPa1dOTFlBX1FWbFI4dXBVNVdyMjlpWkJyQnpYb1RuTXQyNTNKbi1haWtHbGpBQzRQUkEtZ094TXhJeDN5V3hHUjhCOE9reklUWms3TTBUbWpUb3VzWml1MV90U0ZxWllnMXU4Z0ZrakJEMmxkQ29MbTBtRDJpaWY1bEp2b2xoc1pXZ2pwSkJoemNhaVMtSEx6SUoySTI4ZXExbkhmdWd4REpISDdFVGFTektzZm9LczB4TkVaaGZZaEl3c0szcXNPc1NnY3AxeWpzMzRSYXc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707722
+  },
+  {
+   "id": "4f249ae94d4fe389",
+   "title": "‍‍‍ [WATCHLIVE]TV!] Uroš Medić vs Kevin Holland UFC 334 Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍ [WATCHLIVE]TV!] Uroš Medić vs Kevin Holland UFC 334 Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOelZJRDgzcTBoa1VtN0IwZTBOUHpBZ2dmWFFPYmRNZjJqaFhJNElFVGJyMkk5anV5TnVCZFFwYU9fZGg0M3lTZG1PcGdFVFA1bjNIYmFzRDZQRlZfelF4SG1FTkhIcXZEdHM2VDdlUlQ0bU15ZW5lV2R6YzNFVmtfM0pVeF8wang2eXBUTVlRTjRzSU1ua0pZak1fZU5aZ290bkpTRXJvRDRoQ1ZNNERlRkQ2V3RLeTU5YklFd3NNWUIzNm5wcW1JMXpnQ3NRQlVnMXIxdkh4ZExKTldxMXdGd2dKc1ZpZWVzMnBCMlR1WmJkei01T1FwVXZXRDhFb2R1U3p0SUVVQ1lqbVNRSEZzcFVOSzJSNHZTbUE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707363
+  },
+  {
+   "id": "09cd13db87a03ed2",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S] Uroš Medić vs Kevin Holland UFC 334 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S] Uroš Medić vs Kevin Holland UFC 334 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPRkZqQUJYNkQ1WXhTX21mVmZVajl2a3RfdU52MXZxUUNqbWs2cTFsWHdfRjFxLVNwWG9nVVBRUFZkSzM3ZG1wZ3pVTWw4YkpoZldvWTNHZXNXVzZUM3pkbnZiRTBSam9tNVBNQWNyVFM4WGJLZndvUzFsWWQxYjlYWU1faXZPX3A3bGpCVURLNUY3NnQ1Mi1yck5RV2dGWjlMXzFnYWxBa1JlVmhQeGhPYWl5OFEyMDJqZjA4WEhReVlEM2pRSVNRNjgwSFZad2huVkYtaFVXYzRvQ2ZndlVCZ3gxMU1BZEN5X1gtRVEtR0pFNG1iZmdjcFhUV0xaN01JaEEyM1I0aUJnZkxtUm1uLTl6eDZ0NkVJZVE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707363
+  },
+  {
+   "id": "4fdc3324317694fb",
+   "title": "‍‍‍!$+?(-TOTAL_SPORTEK-) UFC 334 Title Fight 𝐋𝐈𝐕𝐄 ｏｎｌｉｎｅ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!$+?(-TOTAL_SPORTEK-) UFC 334 Title Fight 𝐋𝐈𝐕𝐄 ｏｎｌｉｎｅ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPYm5kYjlFWlZSUXBmcTBVMVJFRzNfVXN2REpIbTBFTGhIRUtuODZxeXdvMGt1M1lhQnZqUzJuU2lHbUY0SnFqNE5PeGNOcFRiVzM4NTNvbmtnT0JQazJxcm5CWDF2VVJ3b2xOcnBiT2ZtQ2o2WGN4X1hwaVNfRVQwQlhiRFREbGV5Q1hOdXY1cC0wQ2FRSUR4WThaR3RVeUtnR2JETmJVX1VoS2lPSXNiM0VVbmg2WG1IZzV6dHRNbGthQnZMeEs0ZWZtdDFHUk9QMHBsM1FDV2ZfdXltdklzWGNCZ3NGVTlRa0tNaVllZEVib210b2c0TXZlZF85dm1sdzNXQ0tja2IxNTdqcHlzanc3b3N5UmhhV2c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707362
+  },
+  {
+   "id": "b4fabd7062567995",
+   "title": "‍‍‍!$+?(-TOTAL_SPORTEK-) UFC 334 Main Fight Live Online Broadcast 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!$+?(-TOTAL_SPORTEK-) UFC 334 Main Fight Live Online Broadcast 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVzd1NDhSczdRaWt4RFMxeVdiYUxlQ2xBdm1BTzRqQVhOaG5MWFhadXktLTJaNmlEbXdQQkJoZERyRGZlV3AweDliR3ZfSWNOSUN1N1ByNkN4UHR5djZrcUV4QlA3UTlEcVJaZTZYcGRGLUwtaTBFclREeUtDLUV1UllvZTV4R3ZpTzlmeHFZc2FMN1RoYW96NWlTb0c5dm9XR2w0UHpjaWhjVUNWdTBRM2NxelJtN2loWUZvOFQ3LVpJYkx3WFRxZlBHVmF1OGRZVWNWUTFCeThTNnUyMXJvT29tdlVNLS1GZVR0SmxoaXU4dzVPc0lsMHlPdERvMmJELTAtOXNVYW91WlhERk0yRHlzUTZnbVEyZmc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707361
+  },
+  {
+   "id": "469d87c4844682cb",
+   "title": "‍‍‍!$+?(-TOTAL_SPORTEK-) UFC 334 Main Card LIvE FrEe StReAm 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!$+?(-TOTAL_SPORTEK-) UFC 334 Main Card LIvE FrEe StReAm 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMHJHbzVQZzlxOTUwNUxyc3c3dTZoOC16TGlRajM5TGlvMDBoWngwRGZYaDdud1NwYVVQaVpoZWhqMEdDN3E2UjlwbldERkYzUDhPcXkxaG9uaHMtbXd0djBlTUFEY3lEcDhLMHJmQXVjSTZ0c0hEQWNxWms5a0d6TU45dDNNSktYa3lOTGZubU5HVnczakRUYWNzbUtaMTNYbThhMmZOV2JJcTRpUF9HZ09Rd3VlUmttZ1puMVdCTlRxNmwxT0gtNnM5V1BEellyWGl4NG9TSWZ6OGNiangtZmI2Z0NDY3BlN0JMbC1UN0lnZzBrM3pFcTE5SnJfa3Z4eFZXOTdCcHMxYnprMTFlQTAwaW1oQU1DU3c?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707359
+  },
+  {
+   "id": "2f0c26122ffe3c0d",
+   "title": "‍‍‍!+[𝐒𝐓ream]HERE'S*! UFC 334 Heavyweight 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[𝐒𝐓ream]HERE'S*! UFC 334 Heavyweight 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeEtqTVoxMGdqbW5MNUJQTXpyUjlEVkYwZU5CdWNOWC1Zd0p1QVIzMzNuLTEzUldfa0hKck10Z3pKSWtfdXp2Q3dHelFMYkZfaDZlRHhGWXlYcjBsS29HUjVQM25sRFllSS1qd29IdWZRVDFveTR5SEpIN2ctWEtPM0Jja2YtLV9OUDRLRFl5WmZRX2x6Z3A2cWwwYndZLXNCTDNTbk90TGNibWpOTTFITVFFV3B0d3FKNHVibmZ4dkhVQm1zWVN4cGpKOFVDeVQ2b2tIWmIyd1IwLVZUUmFkNWRvS183OGhNbHcwWUR3bVQ4NGJPYkVhc19YUEV4cXd1T1BoOG5VOFozMWNrd054bmJPQ3lZd3RCUlE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707355
+  },
+  {
+   "id": "21a53e6111efb655",
+   "title": "‍‍‍!+[Here's Way To Watch]\" UFC 334 Gane vs Hokit Fight 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[Here's Way To Watch]\" UFC 334 Gane vs Hokit Fight 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOb0N0LURQb3VfcUpLMTdQTE52M2wxUC1PTTBoRUh5LWdnNXotUC1fNkFZWEh0R3BlZnpoUXJDTXVzWUFvQUZGTE9DSDI4emIzQUQxb2RDNTAwWEVqWnktZ0JUWXlQQzRqN09Sd1l6Nlktd0VERndPNlkzY2RmVkdzbHpqWUNYN19nSlV4bTBPbXZHVmxLVFlKcnRXRURwUVhsTFFxLXdMSmhYOEk4R09NRnJQVVJ4Q1Y4NWdQRlFUYnptMHFuUnNxVmxaWS1acUtnSTdtS0dMOTREekdqUmxYS0VsbDVoa3BKZGJ0ZUk5SUNlMFRUUW9oSkhrNnc5WE9Hbk80V0ZkRUlzWHVQTlBVNnhmLTdXTkpWaXc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707353
+  },
+  {
+   "id": "03847ccb5e68df85",
+   "title": "‍‍‍!+[Here's Way To Watch]\" UFC 334 Fighting Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍!+[Here's Way To Watch]\" UFC 334 Fighting Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOdElCS2FhVlduUWFQSzlzcFRtMUJ1MHlublQtMzVrNXdneks4Vlc5b0ttTFZiTGJPSU1HV2tyZy04RktndWE3akphWlNDazFfNnpBc1dCTVdlRWJ5bUxjYmVaTk5GLTZVWDQySkJaOEhSbU81Y21uY2ZQbW84OVlBWWJsVDlvRVd2dmN0V3ByWGRyc0wtWXR3T1VtaTJVbXJ5cGUxM21WUW0tb2pBRlBMT29Va3h0SmZiVzQwME9IMnVnTC1ETlYwQVU0cWhBeWJiUUFDUm9ZR1hKczB2S1J5aDJEMVZvQm1uZFFkZlBGazdEXzdxOVFWcFNjd3F1WkhjSkZmY1RvSG9ubDdNOTlRMEl6eUxRbW1PTHc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707350
+  },
+  {
+   "id": "b8e9488f3fe2494d",
+   "title": "‍‍‍+![TOTAL SPORTEK]! UFC 334: Fight Siaran Langsung 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍+![TOTAL SPORTEK]! UFC 334: Fight Siaran Langsung 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQcUJycjdXWU1lOWZJVnhOWUhob2p2bHVvSTloWmFqQUlQQ3VybUN2QXhKV19lSlMtdjQ0S04wTTg1LWpaT1FrYV8tSmxMSG1fa0p1Z0wwRS1SUmxvY2lUTHI1THNhWlhkbGF5VEtaOFNqX01xZmRyenVFTTd4Qkc5OVpUS3NhcXJEMGJ6Z05zNzJsQWRMTDJPTTdBTXdPWUZudEtWSndIZkg5eG5XLUZJLVhiRkExRHVjMjlzZXExbnV0dFE0dGJUYzdXWkhXNW54Q28zaFd5ZGw2OGZJYUwzY3RTYUJGaUtRM3ZjU0pxbENoVVhLak5BeExfZXlkbTZoMmtEQi0xa2hNZ09JRlVJcjVmeTJrWGpzNmc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707189
+  },
+  {
+   "id": "737a3691fc9f3f05",
+   "title": "‍‍‍~$!【DIRECT】 UFC 334 Fight match en direct Live 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~$!【DIRECT】 UFC 334 Fight match en direct Live 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTjd6SnowQjRCM2M2S3h0VnRkeGRYbGxqQURhV1J3aEY1aE95U09FQ0NYNWRBN1dpdnlBM1cwU1g5bWxrTG9XNlVLNUJzbEtBRGYtazVfeDQzQUZoN3lDMkZUeTZxWnZ5cnNLRnVmQXpRYXREUERXeUlBdUwxMHRaOUR6NVVoUEoteC1FM3VZR2Y3Q0Znb0dhc3VwV2tMUzNVRm54OEptVS1RTGNqUWZIVWlYaVA0Z3Q5RnF4TW4wRTNPdVZsLW52bXZUdl95MmdZSlllcTRlRUNEYmItbFhla0x2TVh1eG5rMGxOX2ljUmxlUkotR0VOWTNfcHlDTVBuV3phY2syaGRRNVJEcXRPSE9FM2NZTEcxc1E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707170
+  },
+  {
+   "id": "e725e03f61797341",
+   "title": "‍‍‍~![LIVESTREAMs]!FREE!] UFC 334: Gane vs Hokit 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~![LIVESTREAMs]!FREE!] UFC 334: Gane vs Hokit 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVVlvb0NMSlpwNjR1dmFQeWxLUFVycW1fWjFfRnN2cVZROEowVHAxV3luQUVtQldSR3RTal94WW5NVVIwbzlubzRFenNMUUk0Y1pscDRBZEJzcXR2VkZudXBiZnpKWlh2WG1ySlZMYTFxT1dVbE01VW14Tnl0VHdXWE1pdENTenlGeHp2dzBsalJuaUIydVZLUndLOVVrYi05V0IwU2JlQ25OcUtWZkRYWjdkdU04VTJ6emhKWl9ESUswT3NpZTdnQW1GR2E0YmZrdU9aak5vdTlNYW5rZTZFUWktUlVRVW5PUW1ReWx3TEJXdjQ2U1BET3BJUlEyWWZOZDdZRVl3amMzd1g2ZTJiUVNFSXFRbFdQaUE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707053
+  },
+  {
+   "id": "74128f386221d3a9",
+   "title": "‍‍‍+!FIGHT【LIVESTREAMS】FREE] UFC 334: Gane vs Hokit 𝐋𝐈𝐕𝐄 Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ free 15 November 2026 HDQ*0147234 - Universitat de Barcelona",
+   "summary": "‍‍‍+!FIGHT【LIVESTREAMS】FREE] UFC 334: Gane vs Hokit 𝐋𝐈𝐕𝐄 Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ free 15 November 2026 HDQ*0147234 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcGJocWhHOEdCZVJlR01QY3Y4eUVEQW51WmFnUThOTVlucU04Y2dFbExuMHB4a3FJTEtpUUR2SWFjNkFyTUduVmtZZ1V3NjhWRVA5MG1JbFZGdjNRV0c5UFFMYlM4eTRfRklhZXBJU3RHYlZvVXpxbW9CREV3WmZJR0k1MFk0QW5ndU9LazItVWtpQW9SanRTc3RsUUJBLUZPSTBkZDY4ZjZpN3N0X0tIZUlySXVTRFNiMHZ5Y1c2WTlxM3dZTkNtS0gxSzkyQ1A5dlg0RWZsU25mbC1KUlpfSnpEcFFtUWNTMkp3ZExQRVEzdlY3NUNzSlFjUndZcm1aZlc4YkVzSVkwaW9nMk03YXF5Ump5MDczQkE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794707049
+  },
+  {
+   "id": "421253f4e817a27a",
+   "title": "Stephen Thompson Reflects On Retirement Before Last UFC Fight - Yahoo Sports",
+   "summary": "Stephen Thompson Reflects On Retirement Before Last UFC Fight Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUUtoa3ZEMjZERzJ5MWpuaXRoWUNQMjhlQnZ4ZjhqVll3UzVpU0NEZHhJaWwwSW1WeWF5OXQzSmUxeDJxeVNabWNyUHNaYVFoaVl6WFNtalphQUxXbkpCVlc5azJialdQUlFDUE1SQmZkTjBKREdGWmhSOF9mYlVQa1dWQnBRUEZ2Z2JmUjBVRkdSN3pO?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794706250
+  },
+  {
+   "id": "20edc80f57d9efdb",
+   "title": "UFC 334 video: Terrance McKinney TKOs Jim Miller in under two minutes",
+   "summary": "Terrance McKinney is a first-round finisher through and through.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-video-terrance-mckinney-011611769.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794705371
+  },
+  {
+   "id": "62e75a689c19a2c9",
+   "title": "UFC 334 video: Terrance McKinney keeps all-finish streak alive with first-round knockout of Jim Miller",
+   "summary": "Terrance McKinney has never needed the judges and that didn’t change at UFC 334. Matched up with the inimitable Jim Miller, McKinney (19-9) put the UFC lifer down for the count in the opening round of their matchup at Madison Square Garden in New York on Saturday. As usual, McKi…",
+   "link": "https://www.mmafighting.com/ufc/521287/ufc-334-video-terrance-mckinney-keeps-all-finish-streak-alive-with-first-round-knockout-of-jim-miller",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1794704780
+  },
+  {
+   "id": "a1797e9a25d9864e",
+   "title": "Video: UFC 334 backstage post-fight interviews with winners - Yahoo Sports",
+   "summary": "Video: UFC 334 backstage post-fight interviews with winners Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU1EteUNwWGVlR1c1MXZQdnYzckRwdG4xemJRSkJ5N010QlFGSE1Ka2NtX1BLdXFPbDA0T2xNalVwLW1aWjVBeTdFSUU4Q3lGc3d4YzRCZG84b2JlOUE1ckV1dUxrYXg0T1BEbVdyYXRQWWFndTFVRHpSMnROeFpZSGVMTQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794704580
+  },
+  {
+   "id": "e61deb57b8816fe4",
+   "title": "How to watch UFC 334: Live stream Gane vs Hokit, TV channel",
+   "summary": "The UFC returns to Madison Square Garden in New York City on Saturday night for UFC 334, featuring two massive championship fights headlined by Ciryl Gane versus Josh Hokit for the heavyweight title. How to Watch UFC 334: Gane vs…",
+   "link": "https://sports.yahoo.com/articles/watch-ufc-334-live-stream-010000046.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794704400
+  },
+  {
+   "id": "7819c622896e06b7",
+   "title": "‍‍‍~!【LIVESTREAMS】FREE] UFC 334: Josh Hokit vs. Ciryl Gane Live Free Ultimate Fighting Championship 15 November 2026 - Universitat de Barcelona",
+   "summary": "‍‍‍~!【LIVESTREAMS】FREE] UFC 334: Josh Hokit vs. Ciryl Gane Live Free Ultimate Fighting Championship 15 November 2026 Universitat de Barcelona",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOT1ZGRndXazkybXA3UlM2ZmFQSnRnWVZOMDBUbmhEMTdlVWNOOGRNSWFtM1c5NktGS0RFM0FHcnRUT0pWNS1HdW8tWjdKVG1TS0FLXzMyTVRFSTJFVEQ1NWdtZXF4Um9DYTlPZ2lIY2NMQTI3S1ZBOUxaa081d0NSNUhsZi1PTzhXcVZTZWJPT3FqWWhPN3BjX29vU1FvUGxJUUI1QnJWc3pmcUhVeVNwNXFqdnFGM0RQaTdScjZCbkxGbFdzSUR4T0xIOXNzdVA5N3NKY0ljaFNDNEFIdVVXS1dJLVBXMUlwYzlKNnY1Z2xVaWY0aE1tM0NLQmtiOFUwakdHSXhLZzVfZ2plQlRQNHJsSUpqWkdxbnc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1794704353
+  },
+  {
+   "id": "d9add40db64d290f",
+   "title": "Highlights! Terrance McKinney says goodbye to lightweight with smashing knockout over 43-year-old Jim Miller | UFC 334",
+   "summary": "Jim Miller couldn’t turn the clock back far enough earlier tonight (Sat., Nov. 14, 2026) at UFC 334 LIVE on Paramount+ from inside Madison Square Garden in New York City, as the 43-year-old lightweight veteran fell victim to a violent first-round knockout courtesy of future welt…",
+   "link": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486050/watch-ufc-334-video-highlights-results-paramount-new-york-mckinney-knockout-miller",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794704275
+  },
+  {
+   "id": "fc47d212ca5c37d1",
+   "title": "UFC 334 video: Cesar Almeida clobbers undefeated Donte Johnson with knockout flurry",
+   "summary": "Cesar Almeida wasn’t even supposed to be at UFC 334, but he’s leaving Madison Square Garden with an unforgettable highlight. The former kickboxing champion scored an emotional victory over Donte Johnson (9-1) on Saturday, handing Johnson his first loss after a thrilling opening…",
+   "link": "https://www.mmafighting.com/ufc/521279/ufc-334-video-cesar-almeida-clobbers-undefeated-donte-johnson-with-knockout-flurry",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1794703298
+  },
+  {
+   "id": "d296551d547297c7",
+   "title": "UFC 334 video: Cesar Almeida upsets Donte Johnson with early TKO",
+   "summary": "The Donte Johnson hype took a tumble at UFC 334, courtesy of Cesar Almeida.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-video-cesar-almeida-003346696.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794702826
+  },
+  {
+   "id": "f89420d8a9ed8354",
+   "title": "Highlights! Cesar Almeida potentially saves UFC career with massive upset knockout | UFC 334",
+   "summary": "Cesar Almeida turned in the most important win of his MMA career earlier tonight (Sat., Nov. 14, 2026) at UFC 334 LIVE on Paramount+ from inside Madison Square Garden in New York City, stopping middleweight prospect Donte Johnson with a first-round TKO (punches). Leading into th…",
+   "link": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486065/watch-ufc-334-video-highlights-results-paramount-new-york-almeida-knockout-johnson",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794702671
+  },
+  {
+   "id": "f8e3e1b57e2657ae",
+   "title": "[SPOILERS] Prelim fighter breaks a UFC record",
+   "summary": "submitted by /u/secretbil [link] [comments]",
+   "link": "https://www.reddit.com/r/MMA/comments/1xwhf4s/spoilers_prelim_fighter_breaks_a_ufc_record/",
+   "source": "Reddit r/MMA",
+   "kind": "reddit",
+   "ts": 1794701594
+  },
+  {
+   "id": "6d13ec0de02883e1",
+   "title": "UFC 334 video: Bia Mesquita breaks Ronda Rousey's record with quick Macy Chiasson finish",
+   "summary": "Now, Bia Mesquita stands alone when it comes to this UFC record.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-video-bia-mesquita-235001934.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794700201
+  },
+  {
+   "id": "5341eaefc3c0c9ea",
+   "title": "Future title challenger? Bia Mesquita quickly submits Macy Chiasson to win fourth straight | UFC 334 video",
+   "summary": "Bia Mesquita may be on the fast track to a UFC title shot in 2027 after a perfect performance earlier tonight (Sat., Nov. 14, 2026) at UFC 334 LIVE on Paramount+ from inside Madison Square Garden in New York City, stopping veteran Macy Chiasson with a dominant first-round submis…",
+   "link": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486043/watch-ufc-334-video-highlights-results-paramount-new-york-mesquita-submission-chiasson",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794699719
+  },
+  {
+   "id": "4ab540fb38cea7e2",
+   "title": "UFC 334 video: Bia Mesquita breaks Ronda Rousey’s submission record with fast finish",
+   "summary": "Bia Mesquita continued to look like the real deal at UFC 334. No fighter has been able to handle Mesquita on the ground, and veteran bantamweight contender Macy Chiasson was no different, lasting a little more than three minutes before succumbing to Mesquita’s submission skills.…",
+   "link": "https://www.mmafighting.com/ufc/521262/ufc-334-video-bia-mesquita-breaks-ronda-rouseys-submission-record-with-fast-finish",
+   "source": "MMA Fighting",
+   "kind": "news",
+   "ts": 1794699282
+  },
+  {
+   "id": "619577b4c08768ec",
+   "title": "UFC Interested in Merab Dvalishvili’s Friend Saba Lazishvili",
+   "summary": "The UFC is interested in signing Saba Lazishvili, the friend of former UFC bantamweight champion Merab Dvalishvili.Lazishvili and Dvalishvili were jumped earlier this week by Usman Nurmagomedov and his team at an Abu Dhabi hotel ahead of today’s RAF event there.Nurmagomedov and…",
+   "link": "https://sports.yahoo.com/articles/ufc-interested-merab-dvalishvili-friend-233052884.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794699052
+  },
+  {
+   "id": "f0a8607865de1cb1",
+   "title": "UFC 334: Gane vs. Hokit watch-along live stream",
+   "summary": "Join MMA Junkie Radio's \"Gorgeous\" George and \"Goze\" for a live-streamed watch-along of UFC 334 in New York.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-gane-vs-hokit-230036463.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794697236
+  },
   {
    "id": "123ffb9240a9994a",
    "title": "Apple Sports app has UFC now. Live activities!",
@@ -587,6 +1496,15 @@
    "ts": 1794693600
   },
   {
+   "id": "d18acd4896ce0573",
+   "title": "UFC 334 streaming results: Live Gane vs. Hokit-led updates, video highlights",
+   "summary": "WASHINGTON, DC - JUNE 14: Josh Hokit speaks to Joe Rogan following his win in a heavyweight fight during the UFC Freedom 250 event on the South Lawn at the White House on June 14, 2026 in Washington, DC. (Photo by Jeff Bottari/Zuffa LLC) Who leaves the G.O.A.T.? Joe Rogan breaks…",
+   "link": "https://www.mmamania.com/ufc-live-stream-watch-free/485307/ufc-334-streaming-results-live-gane-vs-hokit-led-updates-video-highlights",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794693600
+  },
+  {
    "id": "76748a82ec7642c5",
    "title": "++[LIVEOnlineACCESS] UFC 334 New York Free Streams - 日本取引所グループ",
    "summary": "++[LIVEOnlineACCESS] UFC 334 New York Free Streams 日本取引所グループ",
@@ -659,6 +1577,15 @@
    "ts": 1794691840
   },
   {
+   "id": "3b4cf72725f29714",
+   "title": "UFC 334: Gane vs. Hokit live results",
+   "summary": "The UFC 334 live results from Madison Square Garden begin at 5 p.m. ET on MMAWeekly.com.",
+   "link": "https://sports.yahoo.com/articles/ufc-334-gane-vs-hokit-212619904.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1794691579
+  },
+  {
    "id": "c04f988fe08b3c6d",
    "title": "UFC 334 live results, highlights, play-by-play | Gane vs. Hokit - MMA Mania",
    "summary": "UFC 334 live results, highlights, play-by-play | Gane vs. Hokit MMA Mania",
@@ -704,6 +1631,15 @@
    "ts": 1794690050
   },
   {
+   "id": "912185f8d23121f1",
+   "title": "Who leaves the G.O.A.T.? Joe Rogan breaks down Harrison vs. Nunes for UFC 334: She has ‘such an advantage’",
+   "summary": "This weekend’s UFC 334 card in New York City is one of the more jam-packed events for the promotion in 2027, but not to be overlooked is a massive co-main event clash between women’s legend Amanda Nunes and current UFC bantamweight champion Kayla Harrison. Serving as the co-main…",
+   "link": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486014/who-leaves-the-g-o-a-t-joe-rogan-breaks-down-harrison-vs-nunes-for-ufc-334-she-has-such-an-advantage",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794690000
+  },
+  {
    "id": "8f9315e1d82941c0",
    "title": "Uros Medic vs. Kevin Holland Prediction for UFC 334: How Each Fighter Can Win - PrizePicks",
    "summary": "Uros Medic vs. Kevin Holland Prediction for UFC 334: How Each Fighter Can Win PrizePicks",
@@ -738,6 +1674,15 @@
    "source": "MMA Fighting",
    "kind": "news",
    "ts": 1794685042
+  },
+  {
+   "id": "43e4393cee7f5453",
+   "title": "Highlights! Khamzat Chimaev steamrolls Chris Weidman with 10-0 shutout | RAF Abu Dhabi",
+   "summary": "Khamzat Chimaev didn’t miss a beat earlier today (Sat., Nov. 14, 2026) at RAF Abu Dhabi LIVE on FOX Nation from inside Etihad Arena in Abu Dhabi, United Arab Emirates, as “Borz” dominated fellow former UFC middleweight champion Chris Weidman on short notice in the main event. Ch…",
+   "link": "https://www.mmamania.com/raf-wrestling-schedule-cards-live-results/486247/watch-raf-abu-dhabi-video-highlights-results-fox-khamzat-chimaev-weidman",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1794685006
   },
   {
    "id": "5a5cb5e73e6c3382",
@@ -2655,951 +3600,6 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1794596758
-  },
-  {
-   "id": "bc9553010ed0d8e2",
-   "title": "Dana White Shuts Down Heckler Over Fighter Pay at UFC 334 - MMA Sucka",
-   "summary": "Dana White Shuts Down Heckler Over Fighter Pay at UFC 334 MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnpFNl96NmVPSFRVdllpUjFHSmVJRk5CaDBzZlZwaENWWFR5Vi1ET3RockJJdDdZcjhLS0hXMS1RS1R2Z3Z3VEVpNlk3VUw1cllxcDJMZmMwamhORWZRVl9FOXZBM1BIOVNUUXBYVmhzNVgzWlNpTnpsaURZT19jdjJYaFQxOG9ERUlEY3Nmb05nbjFURk5iWnNVa3lTdTVTRVFBWDhLd29NR2EwZ25RR2dvYnFOdw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794596757
-  },
-  {
-   "id": "d743d59ca0c1b6c9",
-   "title": "Josh Hokit Taunts Ciryl Gane, Alex Pereira Ahead of UFC 334 - MMA Sucka",
-   "summary": "Josh Hokit Taunts Ciryl Gane, Alex Pereira Ahead of UFC 334 MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdkJmRlphRWFYaXE5Vk9NOXhCclpVSEpWaDdHRGZlYzZDX2w1Nk5BVXVlY2hoODhjNzJyekxwNGx5TEU4RnZnaXZIOTloU2NoVzUxelk4Y3l1ZFA2Uzc3dHNCRFprckVfMFYtdXVISmdKRDVacW9RVGQwVlh6X0c1RzROWDUxQ3ZNNDE2Nks1dw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794596483
-  },
-  {
-   "id": "7e077a3f79880020",
-   "title": "UFC 334 Main Event Weigh-In Video: Ciryl Gane vs. Josh Hokit",
-   "summary": "A heavyweight title bout headlines Saturday's UFC 334 fight card.",
-   "link": "https://sports.yahoo.com/articles/ufc-334-main-event-weigh-190048530.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794596448
-  },
-  {
-   "id": "517369cc963c53d5",
-   "title": "Undefeated UFC Fighter Tommy McMillen Found Unresponsive in Nightclub Bathroom, Given Narcan by Police - Yahoo Sports",
-   "summary": "Undefeated UFC Fighter Tommy McMillen Found Unresponsive in Nightclub Bathroom, Given Narcan by Police Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjhmRHRHVFlfa01LT0FTeEJPVHNrN3VPdERaRWFpbUdNMkt3cmNxUzZGV0tlc1BQQmxFTFBwbnJqSTVlN1gySFlOajQzUVRwU2dJX3hteklDYzhZc29hZHByRmpLSHRxeXFObUZRRFB2U2JaaGkxSTRYbHJjVFdnczY2OUZLTERkbHJMb25tbw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794596410
-  },
-  {
-   "id": "73a66b1e4a8af88e",
-   "title": "Tommy McMillen releases first statement since reported possible overdose",
-   "summary": "Tommy McMillen is already focusing on his next fight following a scary report that the popular UFC prospect was reportedly hospitalized due to a drug overdose. On Thursday, TMZ reported that McMillen was taken to a hospital Sunday after officers responded to call at a nightclub…",
-   "link": "https://www.mmafighting.com/ufc/520837/tommy-mcmillen-releases-first-statement-since-reported-possible-overdose",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1794596400
-  },
-  {
-   "id": "eda55ad2c4a40a10",
-   "title": "UFC 334 Full Prelim Fight Card Picks & Predictions for Ciryl Gane vs. Josh Hokit - Sports Illustrated",
-   "summary": "UFC 334 Full Prelim Fight Card Picks & Predictions for Ciryl Gane vs. Josh Hokit Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHJqSW1uajV0X0kwcXBfenBlY2ZHWVphU2wwT3p3MUd5TTlubTRoUUJGQkRKcTdnNVZkREJyMGxOdWFweVdTbGY1elZ2LXFVTm9HUjR1RmZ3WEVoUjNVckpNYTJFRnlRNXJfV0lTZW5wN3djOGRCM3NZMHh6cjZhY3BjOFlQcU1ISGYzZ0hpaDFEQi1aTm5HbVFQV0c0NjlmdWdsSU9LdnVxQlVNV0lWSw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794596330
-  },
-  {
-   "id": "3f5bd519c06d5137",
-   "title": "Amanda Nunes side-by-side pics: Here’s what UFC 334 co-headliner looks like after more than three years away - Yahoo Sports",
-   "summary": "Amanda Nunes side-by-side pics: Here’s what UFC 334 co-headliner looks like after more than three years away Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd19aOXBCU25FWnhiLXpsQUFyaWVseHNrcXBNbVBLamVPa0xYM1ZRZlVTaC0xazk1ejdwcjQ3X1ptVkZhR3hjWnY4b0JNZHJaN0RIdTdNQ204cXY3a2JhTTFZQjhPUlNWUk1kZ3pJYnk5U2NPT1BGZVpVbTRpeFJ2OFpR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794595833
-  },
-  {
-   "id": "de4ff00bdb2aa3a3",
-   "title": "UFC 334 co-main event weigh-in video: Kayla Harrison vs. Amanda Nunes - Yahoo Sports",
-   "summary": "UFC 334 co-main event weigh-in video: Kayla Harrison vs. Amanda Nunes Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUXBwTE54akFOUS1HQnpvMFRpWkdsWjB4VnBEM0MtRUREMkJXdDVUZnRXWUxQcFozeEZqY3dFYVRLdF9td1FSU0xaRTJreF84TEJ4MHJCT2VVMVVaNjFrWnEtajZhVGNQNzhoNGREQ29va2c4a1BCVjN3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794595802
-  },
-  {
-   "id": "3cd9ab321629bf10",
-   "title": "Mike Perry set for UFC return? New update suggests he’s back following BKFC exit",
-   "summary": "Mike Perry’s commitment to continuing his MMA career could be leading him back to the Octagon. Last month, ‘Platinum’ said on The Ariel Helwani Show that he’s moving on from bare-knuckle boxing after achieving a lot of success in the sport.",
-   "link": "https://sports.yahoo.com/articles/mike-perry-set-ufc-return-183728752.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794595048
-  },
-  {
-   "id": "402689e6937ce3d9",
-   "title": "UFC 334 full card predictions: Is Josh Hokit really our next heavyweight champ? - Yahoo Sports",
-   "summary": "UFC 334 full card predictions: Is Josh Hokit really our next heavyweight champ? Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdkN4NGQxTkdEMmg3OXY5UzJna182N2E4Xzg0SXFaaEtMY2xCTTF1SlpQeXZGek10MmF3R3ZCdUNSWHdCLW9VZVMtQkMtN0NVOWNOQVUtN2NienZPc2hoRG1HX1BiT2stTlJFSi1UOGlCdmhGc1BJd3RGbk4xZjZIUGphOEtpVUVVWU10WVFpS2dxOEphbVFZOVkzNTNsQ3pBak9MLTQ3QjlqaU9zTUFPblBrTGxSempBWHJ1amFLTkVVZlExai0wMlVjSDlVVGdPZDNJVk5kd3lUNzVkanNTVTF0Yml1WEhtdUJ2Uk9IZUxyQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794594821
-  },
-  {
-   "id": "6d9b14edcb7574f9",
-   "title": "Usman Nurmagomedov's attack on Merab Dvalishvili should never be 'good for business,' but we all know better",
-   "summary": "Shame on you, Usman … and welcome to the UFC. The latter part is inevitable after Nurmagomedov's brutal hotel attack on Merab Dvalishvili.",
-   "link": "https://sports.yahoo.com/mma/article/usman-nurmagomedovs-attack-on-merab-dvalishvili-should-never-be-good-for-business-but-we-all-know-better-181115322.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794593475
-  },
-  {
-   "id": "dcb30354daf276b4",
-   "title": "Josh Hokit is uncouth and prone to popping off at the wrong time. He might be the next UFC champ - Bozeman Daily Chronicle",
-   "summary": "Josh Hokit is uncouth and prone to popping off at the wrong time. He might be the next UFC champ Bozeman Daily Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTDZuTG1nUWxXakRwa2RDRmtIWm1UZ0FVVVdpaEJjMzg3dlJjV2tvRTZqbWxYbTY5c2RoTDAybnJMelBvV3h3S29OU01GZEJYdUNwa09FRnk4Rm1abmhQMDV1MGVkTFowVFh6NFlrOExDSlJrbWJlZWEweEpaOWhCVzI2aUl5cWZVUF9BZVhPZ29RU2k3NUtHb04tZGRmTUFHSTluV1g2djlTMFFVdjdFMXRqeXFwbXRGeHZteWlTMjVKRXFoQTg2cnNXMWpyUEdrU1lpMVBRc0FlQlBXd3NPX1BRUlk1Q0x3Sy1uTWRUOXgwY0swdFQtbnF6eThMS3ZYN1VF?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794592877
-  },
-  {
-   "id": "a85d940923b9b5ef",
-   "title": "UFC 334 predictions, preview, and analysis | Gane vs. Hokit",
-   "summary": "Right around this time last year, Josh Hokit won his UFC debut by annihilating Max Gimenis at UFC Vegas 111, which should have been the post-fight headline. Instead, it was his bizarre, WWE-style interview with Paul Felder that had everyone scratching their heads. I never would…",
-   "link": "https://sports.yahoo.com/articles/ufc-334-predictions-preview-analysis-180100650.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794592860
-  },
-  {
-   "id": "f9ae3e1376c133b2",
-   "title": "UFC Returns To Saudi Arabia With A Middleweight Showdown Between (#9) Israel 'The Last Stylebender' Adesanya And (#15) Shara 'Bullet' Magomedov",
-   "summary": "Tickets For UFC Fight Night Adesanya vs Magomedov Are On Sale Now Via Webook Read the Full Article Here",
-   "link": "https://www.ufc.com/news/ufc-returns-to-saudi-arabia-middleweight-showdown-between-israel-adesanya-shara-magomedov",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794592800
-  },
-  {
-   "id": "25ffbd7db0c16eaa",
-   "title": "Matt Brown, Stephen ‘Wonderboy’ Thompson recount epic fight and sharing an ambulance afterwards",
-   "summary": "Matt Brown was already an 11-fight UFC veteran when he got the call to face Stephen “Wonderboy” Thompson in his second appearance in the octagon. At the time, Thompson was a highly touted prospect with an undefeated record across his combat sports career and he got even more att…",
-   "link": "https://www.mmafighting.com/ufc/520723/matt-brown-stephen-wonderboy-thompson-recount-epic-fight-and-sharing-an-ambulance-afterwards",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1794592800
-  },
-  {
-   "id": "dc45fda797bd48bc",
-   "title": "UFC 334 fight card & weigh-in results for Ciryl Gane vs Josh Hokit",
-   "summary": "UFC 334 takes place on Saturday, November 14, at Madison Square Garden featuring a championship doubleheader.",
-   "link": "https://sports.yahoo.com/articles/ufc-334-fight-card-weigh-175847668.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794592727
-  },
-  {
-   "id": "6aa895df050b140a",
-   "title": "Kayla Harrison vs. Amanda Nunes breakdown, prediction for UFC 334 - Yahoo Sports",
-   "summary": "Kayla Harrison vs. Amanda Nunes breakdown, prediction for UFC 334 Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnlZajhXMDlPQThSUHRnNDM1SnF4MlNwaGVwMlBSOFJxc2ZGV2prMWxzRDNSbkJJbGpKbnE2YVRQZHhvQ196OWNidmJUODhvQ0NkUWtoZk5RYmJuN0tWdlpmQ1lnbExJUERmLUxlSnZ2cUZWRXFDTkkxc2FmTGluRE1LTQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794592727
-  },
-  {
-   "id": "a25ff4f8ad408b86",
-   "title": "Josh Hokit Insults Ian Garry at the UFC 334 Presser - MMA Sucka",
-   "summary": "Josh Hokit Insults Ian Garry at the UFC 334 Presser MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmRvOGpYLUdxQ2Z1TTVoTTVUbDR2RE1EU2RKcUhkSWlqZ0dXaTFhNkRTdWxUUFRNeWo2U0RfaHM2bU9CWUhlX2VPVXBwNU9nZjZuLTNmZl80Zlc0VGhPSENDbkthSHFrX1FLZEhrVFE0T3hOZUF1MHl6c1B1VnZYVDRHRlhTbkFnM3dz?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794592657
-  },
-  {
-   "id": "572a54b50ec947da",
-   "title": "Amanda Nunes vows to reclaim her throne at UFC 334 and fight until her body quits: 'I'm here to stay' - CBS Sports",
-   "summary": "Amanda Nunes vows to reclaim her throne at UFC 334 and fight until her body quits: 'I'm here to stay' CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXdlNXhtei1OcEhmaVFmQ3dGcWR6XzlvakRaemZNbnRCd3JzZHl3Y0JYdm9fSXAyWjdLbjZCazFZQTJqY0QxU001cnRBZ2tLTGw3NzIya1hpWXFPaEQzV3BnVmpZWE9uUU9IRFRGTTZUYWt4M1NEUnZyN2pqM2FCaFE0SDdHdUQ1UTJvQm1CLXBfdWFYQVd3Z3RTSFFQanhtTWRuV0lLVTNidw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794592515
-  },
-  {
-   "id": "ef1e76771074765e",
-   "title": "Tom Aspinall Predicts UFC 334 Heavyweight Title Bout",
-   "summary": "Former UFC heavyweight champion Tom Aspinall shared his prediction for the UFC main event between Ciryl Gane and Josh Hokit.Aspinall gave up the UFC heavyweight title earlier this year after being unable to fight due to an eye injury he suffered against Gane in their fight last…",
-   "link": "https://sports.yahoo.com/articles/tom-aspinall-predicts-ufc-334-175420689.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794592460
-  },
-  {
-   "id": "c43cf7a04b8d034d",
-   "title": "Dana White Reacts to Intense Caio Borralho vs. Yousri Belgaroui Face-Off at UFC 334 Presser - MMA Sucka",
-   "summary": "Dana White Reacts to Intense Caio Borralho vs. Yousri Belgaroui Face-Off at UFC 334 Presser MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY244Z2VXbVduckxjaUZsaWxMZHdQWXphdHJoSnZ5QWpON2ZXeWdPNDJKQk5pSjNESjNaUXJNRUZEcDd4MFp3c3RDeHVJVGsxVXZWek1oRDdWY3JOWUdFYk1ZNEVNM2JaTTltZjR1aVJoMktXc3lYQ1ZkUzJkV0RmcjhJS2JHX1JQa3ZIT1RMS2p1SG1Namo2azRkV2pLNF90SGJjU1pPMWZ5SnNTc3c?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794592291
-  },
-  {
-   "id": "ed7f41764ec81913",
-   "title": "Josh Hokit Buys Lamborghini and Seven-Figure House After One Year in the UFC - MMA Sucka",
-   "summary": "Josh Hokit Buys Lamborghini and Seven-Figure House After One Year in the UFC MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanpTQ0FFbUdEYjhLZTRpRTZLR1kxRTJoZEpLYkFlOGM3Yk5wcWpUSGVGQUpGaEhwcjNPSnB6U3YtZ19MRlFGTGJTd05YUUR6Zl8xNEhCLVB4Tktwcmt6YmxlOVRwWmpxeFVkLUpGNlN0ZjJrVmRJT29PRDhNMUo5VkMzei10OHdjdEdmNEw2c2pTdlZVekRFaXFpa0tsNDkzY29uaGJR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794591981
-  },
-  {
-   "id": "e73cd2d9e36641d0",
-   "title": "UFC 334 odds, predictions, time: Ciryl Gane vs. Josh Hokit picks by elite MMA expert - CBS Sports",
-   "summary": "UFC 334 odds, predictions, time: Ciryl Gane vs. Josh Hokit picks by elite MMA expert CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXBHbU82QmN0MTZ6QUFZYjB0VGFBdGpzSVdHZ3l1dGg3NWktRFNhZk1WWm9QZlhxdVV4RktreS00RkZXOEFqMzJtWHVaMHFDVGhuc0NuZHplODZxSGRhM2tLZVVtYjMzRjlLOWJjMFBpbkw2ZU9XQkItRmltd1VPSldMTDA0cjJLNENBeVhOdDBHTnVKUFlNdXBEdjRKT3NtNGZpZnJ0elZfUEFR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794591900
-  },
-  {
-   "id": "c3f4ee50f102848d",
-   "title": "Terrance McKinney Issues Statement After UFC 334 Weight Miss",
-   "summary": "UFC lightweight fighter Terrance McKinney issued a statement after he missed weight for his fight against Jim Miller at UFC 334.McKinney weighed in at 160.2 lbs for his lightweight bout against Miller, blowing past the non-title lightweight limit of 156 lbs.Now, he has issued an…",
-   "link": "https://sports.yahoo.com/articles/terrance-mckinney-issues-statement-ufc-174234672.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794591754
-  },
-  {
-   "id": "17b51fe4d9b0511a",
-   "title": "Kayla Harrison vs. Amanda Nunes: UFC 334 GOAT Debate - MMA Sucka",
-   "summary": "Kayla Harrison vs. Amanda Nunes: UFC 334 GOAT Debate MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHpXZ2dTX3BvNmJpTkNvb0VHeDhzQllPTy1JR1J6MzVXY3poNWtZbGcyZlNXVHVVcm9aczFDXzFENXJOUGUwVVhFZzFrOFg0b19VV0U3S3h4amdTMFpzZi1kOUR0WTVoUHNiX1ZoSGNiaV9IN09WOUdVVVljMDRrTlBrNS1SdFllQU5JN0JFSTh6c2ptSElrWkxFd2ZkMDhJaXJNWGhVSGh2bG1VOGVrNENKUQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794591689
-  },
-  {
-   "id": "5b768c33e4a22bfe",
-   "title": "“Hungry, Staunch, Thug?” - Ex-UFC Champ Shares Definitive Prediction for Kayla Harrison vs. Amanda Nunes - MMA Sucka",
-   "summary": "“Hungry, Staunch, Thug?” - Ex-UFC Champ Shares Definitive Prediction for Kayla Harrison vs. Amanda Nunes MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlJaMW51SEFfR1ZJSkhoQVVVRkNfRkRUNEM4bDRLNUhLcnJINC16Q3QxNDJnOWRpR3dRbWM4OGd3aGRJZmF6Q0tZdVFHcklxVjZ1Z2FXczVaTzlVSFpaZ25idUVVY2NMbXJ0VlRLdEdoeDBqWG4xVFV4QXZMd3U4cTdUdGtRdnBEdUFlcGF6SlZvZ1A0UVgteVB0X3ZxWTJOYTlVSnlnVnViVE1xMlVPNk1taVRQUGNTbEZDMGItQ1Q?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794591089
-  },
-  {
-   "id": "b7bf765d0535f223",
-   "title": "UFC: Eight face jail over Usman Nurmagomedov-Merab Dvalishvili mass brawl - BBC",
-   "summary": "UFC: Eight face jail over Usman Nurmagomedov-Merab Dvalishvili mass brawl BBC",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZRnphanljSlV4NlgzaFNFSVh4WGl1UUF5TXB5U1dvWGRsZVAxeTFNdnI0OXpsLXpONGpqem1kM3ctSHNmZk5xUGpSS19OYXUyUDRmMkRwc055VVo0WlVOOS1vRTZ4eVQ5QlIxMmx4TlZBLU9wMVE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794590152
-  },
-  {
-   "id": "e7b47b20cdf1e3c3",
-   "title": "Polymarket UFC 334 Embedded | Episode 5 - UFC.com",
-   "summary": "Polymarket UFC 334 Embedded | Episode 5 UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqT1FNV3lnOUsxR1haQ0YwRHFVaGppZ1dVUDNKUTh6SGE4OXJtMzhvMHJpNFl0NlM5VzhTUDg1bEZxQ0VTcTFn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794590036
-  },
-  {
-   "id": "dd09bb030d8aa170",
-   "title": "UFC 334 - Gane vs. Hokit - Sherdog",
-   "summary": "UFC 334 - Gane vs. Hokit Sherdog",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2YnBQcXU5M0lQUEQ2UDgyUnJ0WHpMRUhrcXBMal9NNzhKWFJFQmIzREpKRjZsZnV2Q0JEdUZqU2gxdUd1UG4tWVFVOVR5S3B1bnZqVkVZZi0weVNjVmtjdmlsNlFoS3ZZMFBR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794589820
-  },
-  {
-   "id": "3417cbe78a2e54ce",
-   "title": "UFC 335 & UFC 336 Pre-Fight Press Conference In New York City - UFC.com",
-   "summary": "UFC 335 & UFC 336 Pre-Fight Press Conference In New York City UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE55VHR1a2tNZHlfSVhKYWJ5QzBOUENFaWZYSkN4eTExNkxMbGlFdGRlWnpDWHNGRF9kS3F3NVc5VjVHLWJaaFJR?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794589470
-  },
-  {
-   "id": "cb75876dee05d495",
-   "title": "Bilal Hasan vs Luis Gurule Prediction, Picks, Odds for UFC 334, Saturday, November 14 - Yahoo Sports",
-   "summary": "Bilal Hasan vs Luis Gurule Prediction, Picks, Odds for UFC 334, Saturday, November 14 Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnpUemJnZXZKM3hLR3pVZWwyaXRuUjZYOHczR0hKTFJMTlhXd2prMzh0bE9XMXF3aFhUMm1nd0VKLXhqNmduSzJEOVBaY19KMmxEYlJvVGJqWWM4aG05R1FsMVVXTlJ0ZXd5cF84R0MzTW5TeUhSWkpFV29WcXVrbA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794589249
-  },
-  {
-   "id": "09f25350a945e179",
-   "title": "New Josh Hokit Merch Now Available at UFC Store",
-   "summary": "New Fan Gear Styles Just Dropped Ahead of Hokit's UFC 334 Championship Bout Read the Full Article Here",
-   "link": "https://www.ufc.com/news/new-josh-hokit-merch-now-available-ufc-store",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794589200
-  },
-  {
-   "id": "477cd9eccfe117cc",
-   "title": "Why Caio Borralho Needs a Statement Finish at UFC 334 – And What Happens If Yousri Belgaroui Pulls the Upset?",
-   "summary": "Caio Borralho faces dangerous striker Yousri Belgaroui at UFC 334. Can the No. 5 contender deliver a statement finish or suffer a costly upset?",
-   "link": "https://sports.yahoo.com/articles/why-caio-borralho-needs-statement-165911993.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794589151
-  },
-  {
-   "id": "f7c8be9584506454",
-   "title": "UFC 334 fight predictions, expert picks for Josh Hokit vs. Ciryl Gane card tomorrow night - CBS Sports",
-   "summary": "UFC 334 fight predictions, expert picks for Josh Hokit vs. Ciryl Gane card tomorrow night CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzV280OFF1Z2VMVXlpeEtaRFFzcUZlQ3VVSWtJZGdkaW91RV9mRm1GVlIxZnJuc3htdElrdTRLRFNFYlZfeUNBcGFkY3BTb1BodWFmMTdSM19kX3RKY1U4SWxSMHI1V3hYQm1maWs2d1pRQnRn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794589128
-  },
-  {
-   "id": "49c5b8f3d6a8e741",
-   "title": "Tommy McMillen health update after UFC star hospitalized for possible drug overdose in Scottsdale nightclub",
-   "summary": "The undefeated UFC star issued his first comments following a frightening incident regarding a suspected drug overdose in an Arizona nightclub.",
-   "link": "https://sports.yahoo.com/mma/article/tommy-mcmillen-health-update-after-ufc-star-hospitalized-for-possible-drug-overdose-in-scottsdale-nightclub-165420376.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794588860
-  },
-  {
-   "id": "e5fe5c21f03090b6",
-   "title": "UFC 334 weigh-in video: Gane vs. Hokit",
-   "summary": "Ciryl Gane, Josh Hokit, Kayla Harrison, Amanda Nunes, and the rest of the fighters at UFC 334 weigh in for Saturday",
-   "link": "https://sports.yahoo.com/articles/live-ufc-334-weigh-video-140000578.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794588762
-  },
-  {
-   "id": "a4c402e5ff1d1f78",
-   "title": "UFC 334 weigh-in results: 2 title fights set; 2 fighters heavy - Yahoo Sports",
-   "summary": "UFC 334 weigh-in results: 2 title fights set; 2 fighters heavy Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IVGZtMktsUmdpZlRCVGx6UWFtZUo3d2tQMm9rbE5ocGw4M3FTM0hpWFprR2lja2xrWEhpakNacTd4WGYxSDZSTXBUUW9RSFdELXdBdHFhSWFReUpBd3pJbHNWYm5OeHdGZ3A2dkFGSmR0TlBHSkl3Rzdnc00?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794588686
-  },
-  {
-   "id": "66849563eeb947a1",
-   "title": "Merab sidekick who wasted Usman goon squad replaces Umar in RAF Abu Dhabi shakeup",
-   "summary": "Real American Freestyle (RAF) is turning chicken s—t into chicken salad. Former UFC bantamweight champion Merab Dvalishvili will return to the RAF Abu Dhabi fight card after being freed from jail on Thursday, taking on UFC veteran Marlon Moraes in the FOX Nation lineup. The acti…",
-   "link": "https://www.mmamania.com/raf-wrestling-schedule-cards-live-results/485806/merab-sidekick-wasted-usman-goon-squad-replaces-umar-raf-abu-dhabi-shakeup",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794588401
-  },
-  {
-   "id": "7867b4d4bce34698",
-   "title": "Video: UFC 334 full card weigh-in highlights with every fighter on scale - MMA Junkie",
-   "summary": "Video: UFC 334 full card weigh-in highlights with every fighter on scale MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGVEamRDM2ZnOU1QME1LNzk4cHNhTDVvN0F6M2pVZDRMMWgyelJmeFViVU1HQzZWY3lyTGNjbFNIWktQSHo0QWQzREZPY201eGs0VXprNUo4T3ppOVlXaTJUWE1nWk9NYkV1dGgzOUdGSG1CQ2RZVk5UWHZYY1dVVjNqRzhpaE5ONlJlZDU5NDkwWEQwdmFkd1AxZEZxU0xqV2dLS1FFbXg2WkdLa0tDY19iRGJzSERjakdST3Y0UTFXVzBELVhKX1ZNa3VQQ2lz?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794587700
-  },
-  {
-   "id": "2eb12aa4f205ea34",
-   "title": "Caio Borralho | Reconnected And Ready For MSG",
-   "summary": "Fighting Nerds Standout Caio Borralho Talks Bounce Back Year For Brazilian Squad, Matchup This Weekend With Yousri Belgaroui Read the Full Article Here",
-   "link": "https://www.ufc.com/news/caio-borralho-reconnected-and-ready-for-msg-polymarket-ufc-334",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794587400
-  },
-  {
-   "id": "34850fd1a849a2d3",
-   "title": "Terrance McKinney apologizes after failing to make weight for UFC 334 - Sportsnet.ca",
-   "summary": "Terrance McKinney apologizes after failing to make weight for UFC 334 Sportsnet.ca",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnNIMTZRRHR0Y2lxS09CcHN2ZTJPTDRhZkxGZng5NTVHRWc1cVlZVWhIVnVhNlFyRWRmYUFCdjBOQmRudl96U2FzekVDNXdUa3hpdUlCbVprdEIwaGNpQWRheWtfck4wejVLWWFPVDdRNnBmNmJKQklhcTVEd3Q1S1BGbWFEWE8yMktMT0F0ZFRhc0FDTjlNQS1Gdm5Lci1HaGtaMnhKV2libnc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794586980
-  },
-  {
-   "id": "da9144dc4052e11b",
-   "title": "UFC 334 weigh-in results: 1 fighter misses weight by over 4 pounds, championship bouts set - MMA Fighting",
-   "summary": "UFC 334 weigh-in results: 1 fighter misses weight by over 4 pounds, championship bouts set MMA Fighting",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmpkQlh5a0ctejVJTllzM0o1cWxwazJrclF3ZS1sU2w5bC1vMTJfdUs2azdJUEN1dUxhTU1GWG93V0VBcXF6MDdGMjFvMUw0a05TSzRfRHlYbjFCSlc5bkd4SnRXTnZPUXBXX2xiLUwzVHdXU2E2ZzFjdzk3M0c5aDctcktubGVrWFNNcE04QVNEVWhYUVpsMWREZkF0ZFNaUHFfRFF2VC05a2hfUFlNTGI2cGpVd2J6S1lDOVhoYm5lcnpzcmc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794586760
-  },
-  {
-   "id": "5d8c2b0dd0905c84",
-   "title": "Legacy At Stake | Kayla Harrison vs Amanda Nunes",
-   "summary": "It Doesn’t Get Better Than Kayla Harrison And Amanda Nunes Finally Stepping Into The Octagon With Gold On The Line At Polymarket UFC 334: Gane vs Hokit On November 14 Read the Full Article Here",
-   "link": "https://www.ufc.com/news/legacy-stake-kayla-harrison-vs-amanda-nunes-polymarket-ufc-334",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794586724
-  },
-  {
-   "id": "81bab1896bc33960",
-   "title": "UFC 334 Best Bets: Ciryl Gane, debutant shine at MSG",
-   "summary": "BEST BETS",
-   "link": "https://www.bjpenn.com/mma-news/ciryl-gane/ufc-334-best-bets-ciryl-gane-prospects-shine/?utm_source=rss&utm_medium=rss&utm_campaign=ufc-334-best-bets-ciryl-gane-prospects-shine",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1794586551
-  },
-  {
-   "id": "c538c9cd0f5cc98e",
-   "title": "Yousri Belgaroui | Fine-Tuned By The Best",
-   "summary": "Having Been Trained By The Best In Two Sports, Former Kickboxing Ace Yousri Belgaroui Says He Has The Tools To Break Into The Middleweight Elite Read the Full Article Here",
-   "link": "https://www.ufc.com/news/yousri-belgaroui-fine-tuned-best-polymarket-ufc-334",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794585710
-  },
-  {
-   "id": "13c9fae34e9205b8",
-   "title": "Josh Hokit's Remarkable Rise To Polymarket UFC 334",
-   "summary": "Heavyweight Standout Looks To Cap An Incredible First Year In The UFC By Claiming Undisputed Heavyweight Gold At Madison Square Garden On November 14 Read the Full Article Here",
-   "link": "https://www.ufc.com/news/josh-hokits-remarkable-rise-to-polymarket-ufc-334",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794585600
-  },
-  {
-   "id": "ff8dd35d9208bceb",
-   "title": "UFC 334 Kalshi Markets: Gane vs. Hokit & Harrison vs. Nunes Have Clear Favorites - Sports Illustrated",
-   "summary": "UFC 334 Kalshi Markets: Gane vs. Hokit & Harrison vs. Nunes Have Clear Favorites Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmlDS2l3bDNNeTBvSXptUkxaXzRtUm4yOFB3bThHbVlqR0wtNjEyMFV3UTdvSUdKSDdUSGNEeW9PLS10OENlWUhTVlVOU29SejM4Z0lQcGlXU2tvMGJBb2RVSFoxZk0zRU9lcXU4eWxTQm9PM1EtNUh2ZHliSGIxTDZnUUR0dVUyS3VJQXk5SklaZm0xSnpBZENrcVI4X0tFUWxkZDdmQnQ2eWk2ZlFiNlc4V0pkVmh0b0ZlYVBKdkN3N2RM?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794585600
-  },
-  {
-   "id": "9a6251fb273c468d",
-   "title": "UFC 334 weigh-in video: Ciryl Gane, Josh Hokit combine for 474 pounds before title fight",
-   "summary": "Ciryl Gane and Josh Hokit have weighed in for their UFC 334 heavyweight title fight.",
-   "link": "https://sports.yahoo.com/articles/ufc-334-weigh-video-ciryl-155726822.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794585446
-  },
-  {
-   "id": "df317e7e07cb1bcc",
-   "title": "Dana White criticizes Team Khabib after Usman Nurmagomedov hotel attack leaves 8 jailed in Abu Dhabi",
-   "summary": "UFC CEO Dana White denounced the attack on Merab Dvalishvili and took aim at the team of UFC Hall of Famer Khabib Nurmagomedov following Wednesday's brutal attack in Abu Dhabi that left eight people jailed for the next six months.",
-   "link": "https://sports.yahoo.com/mma/article/dana-white-criticizes-team-khabib-after-usman-nurmagomedov-hotel-attack-leaves-8-jailed-in-abu-dhabi-155333831.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794585213
-  },
-  {
-   "id": "d47c7bac52925789",
-   "title": "Fans back Kayla Harrison’s pitch in reaction to concerning UFC 334 weigh-in - Yahoo Sports",
-   "summary": "Fans back Kayla Harrison’s pitch in reaction to concerning UFC 334 weigh-in Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRTAwazlGQ2lWMWxVM3BwRjFybFdRVEFjeWctbkpWT1VWd25BaUZGRElWaTZDTGpqRWpLYnR1Z0VWS2VWdnRKYmF4QXdKNHZTblZhQ3g0Mk1UcG9OREkyc1B0QTJjQUtIOXc1NzM5aHRKbXlnc0huZFpVRFZjNEtKS1pwZEFhQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794585164
-  },
-  {
-   "id": "2110c467cd99df2c",
-   "title": "Amanda Nunes vs. Kayla Harrison is a UFC clash about beating the best - OutSports",
-   "summary": "Amanda Nunes vs. Kayla Harrison is a UFC clash about beating the best OutSports",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWR1UHFyYVFFUVVFZTlhczdzaVFEM1FZN0JtLWpnNHhfdko3ZXN5UUxYc09WMEM5Yi1sbl9mQ191ci1WSWRYWmpVOWdyVEMtYWw5YmhIcDVsTjFfc1BtT21WaG9kbVl3STJPMFVwb3NXQk5KUlhWUUltVUpnYTdVd0dTWWFoRm9uM20xNWZJRlZXajFES1dRbTZ2WQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794585000
-  },
-  {
-   "id": "d9bc12d6f5775815",
-   "title": "UFC 334 weigh-in results: Ciryl Gane, Josh Hokit set; Kayla Harrison, Amanda Nunes hit the mark - CBS Sports",
-   "summary": "UFC 334 weigh-in results: Ciryl Gane, Josh Hokit set; Kayla Harrison, Amanda Nunes hit the mark CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGo5ODB6R3NYSmRRN1dsaXp3STdHV1MxTWF3WlBKYno2aXRhbHFUTVNrbzEwSE5wZ3o2SHRHRVl2dmtva2ZhZFdITU1HSWpQek9yaG54NE0wN1kxMjZwWV92OWFIempGdm41aFZFeUV6c0Q1ZTl6eU8ya25WZXVzSHpNUVVydTd1akxVT253M1N3c0Nta3JrZTlFUndlMGY1SFYxbWNVRjZnV3JRSTM4?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794584768
-  },
-  {
-   "id": "cdb50682c4f864dd",
-   "title": "Solomon Renfro - UFC.com",
-   "summary": "Solomon Renfro UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWRW4zZzBOSWJGbFhwNTNsUXNaeEVBNFB0SEpNRkxMT0JmQnJLNHZVdTJPNGNHRkhvRXF4T2dSWlZaZlRkTzJ1UFNmNGFZT2x4V0gyZg?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794584433
-  },
-  {
-   "id": "a43a4351988838bb",
-   "title": "Official Scorecards | Polymarket UFC 334: Gane vs Hokit - UFC.com",
-   "summary": "Official Scorecards | Polymarket UFC 334: Gane vs Hokit UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1JEbkM0dVN0N09yODIzRnh4QW40NjQ3aHNYTzh2V1RxUGNmdTMxQ2NwSmRKX1N6dEhNZ0dib0tXMVh6ZFlPdDNudEN1M0M2aFBiMWRCZjF3a3RRejlYc1RqbkVwdFJiM0RtbC1wTmJmdnpqS1NBUmduXzdFbmMwNlN5RQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794584199
-  },
-  {
-   "id": "0d9a6778624898a6",
-   "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit - UFC.com",
-   "summary": "Main Card Results | Polymarket UFC 334: Gane vs Hokit UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMkNyR3MyM0RuaXE0LVB0Y0tzUlRYblhWb1BxaUEyYnVYZzdpTVJodkRnMkQwdklYVTE4a1BJZjBCSExPRnZJU3FnUWI1TEFORnBpb1k3OV9yeXREMWpTWUlkdzVJUUh4VHpjbWZ2bC0zV0U?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794583934
-  },
-  {
-   "id": "fee047507df0687c",
-   "title": "Rooting for Josh Hokit in UFC 344 title fight requires careful consideration | Opinion - MMA Junkie",
-   "summary": "Rooting for Josh Hokit in UFC 344 title fight requires careful consideration | Opinion MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRG5yVHJnUGNGc0RyaHNfQkwzWlllVDF2WVBabE9oRzZ3SDhTTHhFQm1pbEh6Qm5WX2N6ZmYybUNpeWVXeWtVVW9LZW1yV1l1YkQ0LWIwU0tlUy1mVm8yVHJGSFVpTkRkanhvRGF0ZnVuZ05EbjhPNFlmOGpnOWxvdC1NV1dIUkwzOXNEOHhjZzRmYVB4Znpsb2dEVF9GYWNCYU9yY05nTDAxVGNqSy1mX19GZVdmMnYtd2lwRg?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794583800
-  },
-  {
-   "id": "d538675561413ca3",
-   "title": "UFC 334 Weigh In Results Ahead of a big night in New York City - MMA Sucka",
-   "summary": "UFC 334 Weigh In Results Ahead of a big night in New York City MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDFJNGFBdnN5ZmFHVDR3RXdMSkRDQi1JbGp1Z0RtOGxzMjZfYzZfRzZsU3RRQlozRlM2eDhDS005NDZ1b2xTTUhmMndVNkpGZlpHVHk4eHE1UTMtOEp6MzFjaHlQbkxEN0F3UVBvQWZyZXNnMXFmMzNIWkJ4WmlISjRQbWZhT1F6Y0s0NGdFc25DVFk?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794583578
-  },
-  {
-   "id": "63916c1c324f7f61",
-   "title": "'Lioness' Nunes returns for epic Harrison showdown at UFC 334 - Reuters",
-   "summary": "'Lioness' Nunes returns for epic Harrison showdown at UFC 334 Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlPam5ld1JUN1d3Ymp4MmVmQ0N4NHBrYlVINTladjhHakRlaXdHVmNxUFRlZF82TWxwVnVSVWpRSDVCTi1HMDU4VG1KRWVNS0lHOXM2cTRBNUJuSC1LNDJ6OFRGN1I1N0tRRG9xcDVUYno3R0c1TnhwVzV0MUtsR3dRbFlBTXNDcmRJQlBqRExpZ1NkenBKdkFIZw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794583543
-  },
-  {
-   "id": "d22019c442f8bf4a",
-   "title": "The History Of Heavyweight Title Fights At Madison Square Garden",
-   "summary": "Before Polymarket UFC 334, We Revisit Some Of The Best Heavyweight Title Fights To Take Place At The World's Most Famous Arena Read the Full Article Here",
-   "link": "https://www.ufc.com/news/history-heavyweight-title-fights-madison-square-garden",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794582924
-  },
-  {
-   "id": "6b85cc74d4926399",
-   "title": "UFC 334 Fight Numbers: Gane vs. Hokit, Harrison vs. Nunes - RG.org",
-   "summary": "UFC 334 Fight Numbers: Gane vs. Hokit, Harrison vs. Nunes RG.org",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHplTldMcTh1WXdyMzVFV3dwcU8wS1BWa1VTV3ZFRDVLYXdiWnprdGlfZ3l3VVVPVHJhdkJadlJUMzJ5NWo3cENlb3VVaE4telRtd3NGMTdfVjBlaVIzZlVaWEQ5MGlEWGpYR2tpdGk2TnByeGNXX0paRkFEM1h6Yk5kRGc5UVNseXNKSEN1cGRYaW4zamRXZ0ZJank5a1pXVTdIU3daZHNHRkxk?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794582358
-  },
-  {
-   "id": "dd5c72a1253a1217",
-   "title": "UFC 334 weigh-ins: Terrance McKinney misses, Jim Miller fight proceeds - Yahoo Sports",
-   "summary": "UFC 334 weigh-ins: Terrance McKinney misses, Jim Miller fight proceeds Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nc2stQ0dHS1dkbWIwUnI1bHZJWV9ydTBBOC1yQ19LNE0tQ0N2VnRmN3hkZU1PWHFNUWxUVWN2WkF0TjlLNkMwQ05NU20xUEYyVnU1ZjQzSy05dkczVXN3bkRiNHNZUFNFcWMtLVZjVEtKS0NhUVJtN2dvTWpHQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794581007
-  },
-  {
-   "id": "b9ecc1e0426f95f2",
-   "title": "Amanda Nunes reveals her toughest opponent ahead of UFC 334 return",
-   "summary": "Hard to argue",
-   "link": "https://www.bjpenn.com/mma-news/amanda-nunes/amanda-nunes-reveals-her-toughest-opponent-ahead-of-ufc-334-return/?utm_source=rss&utm_medium=rss&utm_campaign=amanda-nunes-reveals-her-toughest-opponent-ahead-of-ufc-334-return",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1794580819
-  },
-  {
-   "id": "7488d3086c4c302e",
-   "title": "UFC Fans Get New Way to Follow Live Fights on Their iPhones - Sports Illustrated",
-   "summary": "UFC Fans Get New Way to Follow Live Fights on Their iPhones Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0FiQXZlUnl5Z09lZXFWRVFtSFlKRkhBZHlQRm9hdzBHc0p1NHhTa0I4aDVMRUg5SDd3Qm1iNjdSMjgwQURweklHeDczLTYyZTNORFBPSWFDWV9YZm9aMUZWb3BVei1WRVN2WWhNWFpfSmlZUTJVMko1WmxnNzg2OWlSZWVFdFdSaFJCQTFrbURsRlZlRjNxTGdIYWs1QQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794580809
-  },
-  {
-   "id": "579c0deff6220552",
-   "title": "Cain Velasquez praises Josh Hokit ahead of UFC 334 heavyweight title fight",
-   "summary": "What an endorsement",
-   "link": "https://www.bjpenn.com/mma-news/cain-velasquez/cain-velasquez-praises-josh-hokit-ahead-of-ufc-334-heavyweight-title-fight/?utm_source=rss&utm_medium=rss&utm_campaign=cain-velasquez-praises-josh-hokit-ahead-of-ufc-334-heavyweight-title-fight",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1794580594
-  },
-  {
-   "id": "bc2b644d991d33b3",
-   "title": "UFC Fighter Josh Hokit Stands by His White House Attack on Michelle Obama - Yahoo Sports",
-   "summary": "UFC Fighter Josh Hokit Stands by His White House Attack on Michelle Obama Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXRlOVN1c1hUR19YQXgzakY1eHlGQ3NCV1F5NE5Yd0FLRkczcFRXWmN6dFpBdERfMDB4LWRRcS1VSnhraVpqMW5Qa3NKUVFmMF9na05nYUtZMTdDRUJfZjZHWWtlNkhfTmpzRnVSd2Zzdzl5R2VNV3BybDVST2FEOGVtSkw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794579818
-  },
-  {
-   "id": "6fd0511bb29662da",
-   "title": "Kayla Harrison, Amanda Nunes make weight for UFC 334 super fight - Yahoo Sports",
-   "summary": "Kayla Harrison, Amanda Nunes make weight for UFC 334 super fight Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzlnTDRMR0tjckEtRXVfaXZ4eDN5V2NaZ1pfQkIzZm04cVI1RlFiZEpBNzB4M2NaUHVMY2MzNDhvV0FvNzIwRkZGQzJWWXl1SHRVbG9QSXV3VmhkWUVST1VSVjRGaDlKQTF4TkdFYlRvRlRDWGEzb3NWd2stenNVcnVoN01obUU4?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794579399
-  },
-  {
-   "id": "391adb8a04b00f77",
-   "title": "UFC 334 weigh-in video: Kayla Harrison, Amanda Nunes hit marks for for super fight",
-   "summary": "Kayla Harrison made the title limit after neck surgery and Amanda Nunes hit her mark after 41 months away at UFC 334 official weigh-ins.",
-   "link": "https://sports.yahoo.com/articles/ufc-334-weigh-video-kayla-141601335.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794579361
-  },
-  {
-   "id": "4dea17cb332994ba",
-   "title": "LIVE! UFC 334 Early Weigh Ins Results!",
-   "summary": "Ultimate Fighting Championship (UFC) will send 26 fighters to the scale this morning at the promotion’s host hotel to make the UFC 334 fight card official. Leading the charge are heavyweight hurters Ciryl Gane and Josh Hokit, who collide for “Bon Gamin’s” 265-pound strap in the…",
-   "link": "https://sports.yahoo.com/articles/live-ufc-334-early-weigh-135500275.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794578100
-  },
-  {
-   "id": "0c054c70cd9d41b5",
-   "title": "UFC 334 early weigh ins video results, LIVE stream updates | Gane vs. Hokit",
-   "summary": "Ultimate Fighting Championship (UFC) will send 26 fighters to the scale this morning at the promotion’s host hotel to make the UFC 334 fight card official. Leading the charge are heavyweight hurters Ciryl Gane and Josh Hokit, who collide for “Bon Gamin’s” 265-pound strap in the…",
-   "link": "https://www.mmamania.com/ufc-weigh-in-video/485702/ufc-334-early-weigh-ins-video-results-live-stream-updates-gane-vs-hokit",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794578100
-  },
-  {
-   "id": "f6aad5cc05ef556c",
-   "title": "UFC veterans in combat sports action Nov. 13-14 - MMA Junkie",
-   "summary": "UFC veterans in combat sports action Nov. 13-14 MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmpUODdzSmpZMDBNdVNxWnZoenlpSm16Szg0ZWRndmwzemVHRWxUWEo5ZzlHQ2R0Qzg3Y3REdm5QZWlMdGpYRGgzazROSURkM09YMmNTcVZlcXExMkh1RHpGdEcwOU4zWGtCZkZqMHBhV2lYZWliQkt0OVljNXhyVVdpYzRXNWtfLUNDZnR3MXhWZGJHTU45d2JRZ3RNZEo2aVl3RFVhNk5QLW1xWVdzVVlKdllibi1YclE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794577800
-  },
-  {
-   "id": "352dba7f50c6fc4f",
-   "title": "High-profile UFC/MMA free agent, Usman Nurmagomedov, sentenced to six months in prison over Abu Dhabi attack - Yahoo Sports",
-   "summary": "High-profile UFC/MMA free agent, Usman Nurmagomedov, sentenced to six months in prison over Abu Dhabi attack Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3VTOTNpSTVLNnR1Y1VOQWhlRkNUbThGTGYzak1CNE1mbXVYMVp2MGx5TTdTVHBESWc3d09pUzEyRmNJTTVZVm5HOWVUaEdZRnh2amdwSnRaYnVuOEUwQmFLa3lfVElsMjEzX1VCVHgwOGdnNzF2ZExTMFJHSDdFdWdjZUthU0VlQnhrYQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794577475
-  },
-  {
-   "id": "3ca955f701ffcee1",
-   "title": "UFC 334 Press Conference: Josh Hokit Steals The Show As Rivalries Ignite - Yahoo Sports",
-   "summary": "UFC 334 Press Conference: Josh Hokit Steals The Show As Rivalries Ignite Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHRybnR5cDVEN1o5bExXeERTRkZ0NFhCMTQ5MUZwOGVmaDAtdUFuTTFfRWY5b3hCb0RrQUpjMFltNWZNeHM0UnhyM3dTOXRKVjl1dk90OXU4UFZIOWNzZU1xdWZrcTJiczI4bi1jTU5BRk9BOHN3V3BTZU42MU8yUkJDRk0?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794577284
-  },
-  {
-   "id": "5f03cf5b0bcb8ce3",
-   "title": "Usman Nurmagomedov Hit With Prison Sentence for Attacking UFC Star Merab Dvalishvili",
-   "summary": "A total of 10 people, including Usman Nurmagomedov and UFC star Merab Dvalishvili, were hit with fines and/or prison sentences following a viral brawl in Abu Dhabi.",
-   "link": "https://sports.yahoo.com/articles/usman-nurmagomedov-hit-prison-sentence-133624447.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794576984
-  },
-  {
-   "id": "d37f9f921c500d32",
-   "title": "Official poster for UFC Saudi Arabia",
-   "summary": "submitted by /u/secretbil [link] [comments]",
-   "link": "https://www.reddit.com/r/MMA/comments/1xv8069/official_poster_for_ufc_saudi_arabia/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1794576843
-  },
-  {
-   "id": "b13e8dc0f1cf6cf9",
-   "title": "[Official] UFC 334: Gane vs. Hokit - Weigh-In & Pre-Fight Discussion Thread",
-   "summary": "Welcome to r/mma 's weigh-in and pre-fight discussion of UFC 334: Gane vs. Hokit! Please keep weigh-in and pre-fight discussion in here . Location: Madison Square Garden, New York City, New York, United States Weigh-in start time: 9AM ET (click for your time) Event start time: 5…",
-   "link": "https://www.reddit.com/r/MMA/comments/1xv7ydl/official_ufc_334_gane_vs_hokit_weighin_prefight/",
-   "source": "Reddit r/MMA",
-   "kind": "reddit",
-   "ts": 1794576706
-  },
-  {
-   "id": "0bd9711025c73200",
-   "title": "RAF releases update on Merab Dvalishvili’s status following hotel brawl with Usman Nurmagomedov",
-   "summary": "Real American Freestyle could be moving forward with Merab Dvalishvili’s match after the former UFC champion was involved in a wild brawl in Abu Dhabi. Dvalishvili is scheduled to wrestle Marlon Moraes at RAF Abu Dhabi this Saturday, but his fight week began with him being ambus…",
-   "link": "https://www.mmafighting.com/raf-wrestling/520824/raf-releases-update-on-merab-dvalishvilis-status-following-hotel-brawl-with-usman-nurmagomedov",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1794576514
-  },
-  {
-   "id": "12e0f311a5c9005d",
-   "title": "Charles Radtke: Feel free to focus on 'Wonderboy' Thompson at UFC 334",
-   "summary": "Charles Radtke is OK if you turn your attention to his opponent at uFC 334",
-   "link": "https://sports.yahoo.com/articles/charles-radtke-feel-free-focus-130134163.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794574894
-  },
-  {
-   "id": "3d37c19d500a316f",
-   "title": "Official Weigh-In Results | Polymarket UFC 334: Gane vs Hokit",
-   "summary": "The Official Weights Of The Athletes Competing November 14 At Madison Square Garden In New York City Read the Full Article Here",
-   "link": "https://www.ufc.com/news/official-weigh-results-polymarket-ufc-334-gane-vs-hokit",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794574186
-  },
-  {
-   "id": "257bf443da66910b",
-   "title": "UFC 334 weigh-in results: Title fights set, but two misses in New York",
-   "summary": "Check out the results from Friday's official UFC 334 weigh-ins in New York.",
-   "link": "https://sports.yahoo.com/articles/ufc-334-official-weigh-results-124529656.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794573929
-  },
-  {
-   "id": "dbd78e31328c9119",
-   "title": "UFC 334 official weigh-in results and live stream from New York - MMA Junkie",
-   "summary": "UFC 334 official weigh-in results and live stream from New York MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa1ZFb0ZBM2JLUTBRSHBtVExSNHpUb3pRSHI2bkxwTWU3SE9EdVhQR05rWU9GbHhheHdIQzJNN1JvT3p1cXVCLVJqeVJOa1JXajFfcWFhUHl1RG1pYVRrc21nLWNTS1BxemxXd05UdXFDeXJtVTY1VzduNXg2ZmxXYWJjS2tNcHZFZTZKZk5sTVZGN05tSVJZNDJ6enJqS1pBaUpXa1ZFSDk2V2RnOFFHR1NSWHZXdmtPN0hwSS1pQTZoaHpfZkJmTHdSZy1GQUl6aTVjd1BzMDZORTA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794573900
-  },
-  {
-   "id": "adfc0ca479e56e61",
-   "title": "UFC 334 preview, picks for Ciryl Gane-Josh Hokit and Kayla Harrison-Amanda Nunes - ESPN",
-   "summary": "UFC 334 preview, picks for Ciryl Gane-Josh Hokit and Kayla Harrison-Amanda Nunes ESPN",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHp5SDVrVVJrOUV6WjA5d3BvM0EyYm5tR0F0cUFraWZPSEg3UnFyaUNpWG1aSHJzV2U2NHdJOUJBOWgxWjYzRmwwcWZ6c0tpdUN5azh5eUlMY0xQTnlXck92VzUtTTNKdlR4dTdpUmc1Y1BWa0ExN3J6NFo3RDg4UTBodERkU3dIT3MyS0FTNFc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794573660
-  },
-  {
-   "id": "0ee870bfb23a0242",
-   "title": "UFC veteran compares controversial fighter to Conor McGregor",
-   "summary": "Cain Velasquez is often regarded as one of the greatest heavyweights in UFC history. However, since Velasquez’s retirement, several other heavyweights have emerged , including the controversial Josh Hokit and Ciryl Gane. Hokit is currently scheduled to challenge Gane at UFC 334…",
-   "link": "https://sports.yahoo.com/articles/ufc-veteran-compares-controversial-fighter-123314734.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794573194
-  },
-  {
-   "id": "82e72ca37d4a1cc5",
-   "title": "Kayla Harrison wants Amanda Nunes rematch at 145 pounds after beating her at UFC 334",
-   "summary": "There’s a lot of speculation that UFC 334 may feature the first championship double-retirement fight, with both Kayla Harrison and Amanda Nunes potentially walking away from the sport following their women’s bantamweight superfight. But if Harrison is considering it, she’s also…",
-   "link": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/485730/kayla-harrison-wants-amanda-nunes-rematch-at-145-pounds-after-beating-her-at-ufc-334",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794573092
-  },
-  {
-   "id": "01ec36d5b552dfd6",
-   "title": "UFC 334 Morning Weigh-In Show Live Stream & Results for Ciryl Gane vs. Josh Hokit - Sports Illustrated",
-   "summary": "UFC 334 Morning Weigh-In Show Live Stream & Results for Ciryl Gane vs. Josh Hokit Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdVFzUlhGWjNHelgzQjI1ZlF6bmZyczNYeUlDZmhCai1hQTZTUHAtcTFzRFF6em1tYUFOSjlYUkF4NHRVUjNESS1TbTBSVE43SUxBOS0tdHRhT1EwbEJfQ21GQnl4TmEzbDFrSUEtamFxeUZQUzlqRmhzSjlNTkJwamJnVHJGUlBrVVp0Z3haREkyYzhfWGs2X0h2NkxHQk5vNzlYWjh3bFlUaHQyRnluMDlB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794571670
-  },
-  {
-   "id": "1afc7023ceee388d",
-   "title": "Dana White confirms Merab Dvalishvili & Usman Nurmagomedov’s ‘all in jail’ status after Abu Dhabi brawl - Yahoo Sports",
-   "summary": "Dana White confirms Merab Dvalishvili & Usman Nurmagomedov’s ‘all in jail’ status after Abu Dhabi brawl Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQenpDcEo3MkNfQVRkNkUwVXdRQl9VV3lIdFd1Z1B1RDhSV2VjNlJvMmtMek1ldFZmTDQ1b0JqbnZjU1djQ1RSM2lxNjd6TldiMXgySVhUZzdad3NMMVRkS1NDNFBJMWhReWZuWVUzeGp4cGxac1JSWmlVenk3cHBmOVZvQmJaSzBCWGlTMjVEWQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794571496
-  },
-  {
-   "id": "527fcd343135e486",
-   "title": "UFC fighter Tommy McMillen makes statement after scary nightclub overdose",
-   "summary": "The time to party is over, and the time to fight has arrived. That seems to be up-and-coming star Tommy McMillen’s feelings following a scary overdose incident over the weekend where the 28-year-old was found unresponsive in an Arizona club bathroom. Police were called, Narcan w…",
-   "link": "https://www.mmamania.com/ufc-news/485727/ufc-fighter-tommy-mcmillen-makes-statement-after-scary-nightclub-overdose",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794570881
-  },
-  {
-   "id": "4906b2f9890f5beb",
-   "title": "UFC 334: Gane vs. Hokit live weigh-in results and video from New York",
-   "summary": "Follow live UFC 334 weigh-in results and video for Friday's official weigh-ins for the Ciryl Gane vs. Josh Hokit fight card in New York.",
-   "link": "https://sports.yahoo.com/mma/live/ufc-334-gane-vs-hokit-live-weigh-in-results-and-video-from-new-york-114500345.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794570300
-  },
-  {
-   "id": "5ad1d59d6772da52",
-   "title": "UFC boss White does not like Hokit's 'shtick'",
-   "summary": "UFC president Dana White says he doesn't like Josh Hokit's \"shtick\" but he has earned his heavyweight title shot against Ciryl Gane at UFC 334.",
-   "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm1wrnl8qnd7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Sport",
-   "kind": "news",
-   "ts": 1794569986
-  },
-  {
-   "id": "d0af0c1aa97f23d1",
-   "title": "UFC 334: I don't like Josh Hokit antics but he deserves title shot, says Dana White - BBC",
-   "summary": "UFC 334: I don't like Josh Hokit antics but he deserves title shot, says Dana White BBC",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kakxkMnRWM0x5RXB6YVdjX0hIQkNTYWZkbVozdjU4OWltcFlRUkxPSm5xS3J0N19Uc2FSNXZoNDMzRzdwWkx4dUlHbDM0eEZBWTJ2cUQ3aHdZSGptYWdwVGhfUVVkRUNXWnQtYW1xV0ctNmNkOEJtOQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794569986
-  },
-  {
-   "id": "8e4cd0b1efc438b2",
-   "title": "Roybert Echeverria - UFC.com",
-   "summary": "Roybert Echeverria UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkTGJqeFVXeHYyNGhOVG5EaTU2Ym9XOVhKMjZPcmRiMU5LR2ZHR21zTHpaOFJwemtvVVpZajB4cGJrNjlLM18tMUR6MTByZ2N1bjFPUQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794569912
-  },
-  {
-   "id": "d754ea3bf0ccc371",
-   "title": "Dana White Rips RAF Security After Merab Attack",
-   "summary": "Dana White says RAF should have learned how to stop brawls by now after Usman Nurmagomedov’s attack on Merab Dvalishvili, and calls the situation dangerous.",
-   "link": "https://www.mmanews.com/article/dana-white-rips-raf-security-after-merab-attack",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1794569722
-  },
-  {
-   "id": "91339224c83e7fdb",
-   "title": "UFC 334 Weigh-In Results: Fighter Misses Badly",
-   "summary": "Both UFC 334 title fights are official, but Terrance McKinney missed weight by more than four pounds for his fight with Jim Miller, and Juan Diaz also missed.",
-   "link": "https://www.mmanews.com/article/ufc-334-weigh-results-mckinney-misses-badly",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1794569703
-  },
-  {
-   "id": "c4e215dcd5d6bfb0",
-   "title": "Henrique da Silva - UFC.com",
-   "summary": "Henrique da Silva UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QY25SM3NFZXpGMmRqMFY4WlpjYldXdXdwdDQ4dGhqY21tcVNqbURRQ3BBOVRTSW1ZZWcwMTVadWRhalB4Y3VnekxYZlJ3b0JUc1NyWXVSMk8?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794567302
-  },
-  {
-   "id": "2f81380a539aaa7b",
-   "title": "Dana White condemns Usman Nurmagomedov and Merab Dvalishvili’s brawl: ‘Idiots’",
-   "summary": "Nurmagomedov attacked Dvalishvili this week, with fans suggesting the act could cost the Russian a place in the UFC",
-   "link": "https://sports.yahoo.com/articles/dana-white-condemns-usman-nurmagomedov-105046146.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794567046
-  },
-  {
-   "id": "508f69a609ccce39",
-   "title": "Apple Sports Adds UFC Events With Live Fight Stats, Results, and Strike Maps - The Mac Observer",
-   "summary": "Apple Sports Adds UFC Events With Live Fight Stats, Results, and Strike Maps The Mac Observer",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmF1SVlOemo0VEdEd0o2ZmdWM2NXRzE2blZNRFZUWFlpVVoxbzBHUjBBWnZNRERxSmRHNDNBbWJ5TU9NQzVoSDRwMmotNUdEazNSWWhRV1dDeFJDcFRydEV1Zkw1cmtGQnVxaUYzQlpsaUMweE80VWl5b1FZbEhRb0RyODlDRGxVNllVaE9lZHZJMEFkYmoteTFXTjdQbHhYelhQVmdtdGc0bUgt?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794566475
-  },
-  {
-   "id": "b7d8c68a468b6edc",
-   "title": "UFC 334 Odds: Gane, Harrison Favored at MSG",
-   "summary": "Ciryl Gane and Kayla Harrison are favored to defend their titles at UFC 334, while Bilal Hasan is the biggest favorite on the card. Here are the full odds.",
-   "link": "https://www.mmanews.com/article/ufc-334-betting-odds-gane-harrison-favored-msg",
-   "source": "MMA News",
-   "kind": "news",
-   "ts": 1794565325
-  },
-  {
-   "id": "e0a1370fecd35c4d",
-   "title": "Joe Rogan Reveals UFC Plans to Introduce New Striking Rules, Including Oblique Kick Ban",
-   "summary": "UFC rules have evolved over time and have made the sport fairer for the athletes and more entertaining for fans. Some rules and rule changes can be viewed as controversial, and not everybody agrees on how rules should be both written and implemented. The most recent rules change…",
-   "link": "https://sports.yahoo.com/articles/joe-rogan-reveals-ufc-plans-101412265.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794564852
-  },
-  {
-   "id": "5eab08c2958d7535",
-   "title": "WATCH: UFC fighter Bilal Hasan asks AI to predict his fight, gets first-round TKO verdict - The Times of India",
-   "summary": "WATCH: UFC fighter Bilal Hasan asks AI to predict his fight, gets first-round TKO verdict The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT29FOW9GVlZ1ZW04b3NBaDBjNTRwMHFyZTJqN1hhWVZNQ18zSG9QZ2tBRGFKU04zTDNjdGVjMk1KTVRVRGZ4dS1EVjU1bDZ5MXR6aTJmMTAwRGUyNFhJTDdoOF9jNkJTTnVuQ3lUaXJVS2RranlNaEhJUnBuazZLdDkzSlRYRUFTZXN6TlZGcmJkLXlOVU9mT25hX0VPVFpXblY0bkxNcjNLbWt3emtsT21adXpSejlORkY3RWhjaWlWczhxWGdzQk8xdWdWRTUwYWp4YjFhcXRlTlNPRnZCQVJ0TWxWMnY0eURQZVRyZENEVFFfbkVvTNIB_gFBVV95cUxNNXd5bVNWOW90RWhXcWUyZ2pSX2FTOWtMbDJYSUtxUVB0Y0VXS3BydkZQWjBCSGx6a0VYZWhGQXdGdjBWUVA3OEp6SGtzSTBvWENFTE5zQW4wRkYtRVgxbjVFd3U0cmtFbEFBQ2VjUFhoWWZIMzVVRXEzRFhEWXV0bTNfenB3Um54c005anY4ZC1qSHFQS29va3B5cm84VjV3a1JTSEE3cm9vbVhyZUFfenpSclItWkdLeWxWSlZYUUZkemhxSER6MndVZllkOE5MSHN1MXc2UTBsNXRBdTl1cTVxMThWd1RzcTRZYVVPZUZEWktsWFlmWUZDWkRIdw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794564120
-  },
-  {
-   "id": "9957061032fb145c",
-   "title": "UFC 334: Gane vs. Hokit Live Fight Coverage - ESPN",
-   "summary": "UFC 334: Gane vs. Hokit Live Fight Coverage ESPN",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RNHFNNnQ5d3NUNnMtLVh4dE9HbHBmd2d0NzdKV1BOWXpxeGlDZlFVQ1ZTS3BRNHV0ZWlhcnNSS1RQcVBUekdaYWVacXpsTG8zcVdtMVRzcVEwbXJDeFl4eFdzcGUtV1o2VkpTZ2p0Yw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794563618
-  },
-  {
-   "id": "d99c5ee8df66b9b6",
-   "title": "Josh Hokit Wore Ridiculous Eye Patch and Goggles Costume to Troll Ciryl Gane at UFC 334 Presser",
-   "summary": "Josh Hokit wore protective goggles to face Ciryl Gane at the UFC 334 press conference, mocking the eye poke that ended Gane vs. Aspinall in a no contest.",
-   "link": "https://sports.yahoo.com/articles/josh-hokit-wore-ridiculous-eye-091601133.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794561361
-  },
-  {
-   "id": "b297105b3ecb4633",
-   "title": "Gane vs. Hokit at UFC 334: How to watch in UK, TV channel, start time, prelims - ESPN",
-   "summary": "Gane vs. Hokit at UFC 334: How to watch in UK, TV channel, start time, prelims ESPN",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTkdIN0lyMXl5QUpXd1k5UFFkUUlEX2p3Wmh1QXZxc0gtUGwtOWpjcTRYNEZHM1pQSzFTczRsYlJmUU94bmwtOFZaTUExNWZiUkxPTlo0RW5sdmxfdlByWnByS2xDa0ZWRE9OcW9FZkI2enI4UzB3VXd5T0ZrQnRpTHlGMGlBaFBoanRveGZZaWw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794561360
-  },
-  {
-   "id": "b368bf0399361829",
-   "title": "UFC fighter Tommy McMillen rushed to hospital after being found at Arizona nightclub - IndulgExpress",
-   "summary": "UFC fighter Tommy McMillen rushed to hospital after being found at Arizona nightclub IndulgExpress",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZWc0X1BBb21oQWY1ejVXWEx2Vmp1YlVHTFdzLXRORVVuWXpiMHhkNmRuQXQ0ZXBZdzctYTM0Uk1uUy0xaVMzb3FDNE9SZ1R3SnBzRGtaeFpUemxjcHE2cExTN2QzbVVycjFXOVZ2c0s0eEFMSHg0Uy1VSnpSeV9mbE1Va0Z4WW5ia3JZaF9pYmc5SEJoMzhIYmxuSFpqODdqSkp5dEswdkR2UDBKZ0NDemtMR0c5QUNsREJ6VnEwX2dIeHl2bl9peGtxcGNEUdIB2wFBVV95cUxNQVozbHBIc09PNDBLSmpxZVVZbmdad3dvUk5kNFFRTGFmNm92MndmZlBkUVI4MkEzXzFrZXhNeGxaeWVCdWdTZHdtTmh2eENDVmoxMU1pYk03T2YyY2lQZ0pwV0RvSl83Y0MwZ1ZwMF9KdDRVVmh6Z2RqdUZYbzZ1b01vMHVnMzRnQVV1dkFPVFYxbmVZT3RPalFleDg0clFUeHN0WlVHX2xYdHNxd1Z0d2tSTmpWdGRnZ0JPYTBDb3hnZUc3dDdsYUxzalEyUGJRdzdSQmwzZWR0WTA?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794560922
-  },
-  {
-   "id": "87086570814d115c",
-   "title": "Sean Strickland’s Amazon driver launches off a ramp, crashes, and immediately gets fired",
-   "summary": "UFC Middleweight champion Sean Strickland is a chaotic character who rarely pays the price for his wild actions. Sure, Strickland might wreck his motor cycle and injure himself in the process, but “Tarzan” will bounce back into the cage and the win column without much actual iss…",
-   "link": "https://www.mmamania.com/latest-news/485706/sean-stricklands-amazon-driver-launches-off-a-ramp-crashes-and-immediately-gets-fired",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794556800
-  },
-  {
-   "id": "5e6c9a30f4651ccc",
-   "title": "Official Weigh-In Results | Zuffa Boxing 13",
-   "summary": "The Official Weights Of The Athletes Competing Saturday, November 14, In Riyadh Read the Full Article Here",
-   "link": "https://www.ufc.com/news/official-weigh-results-zuffa-boxing-13",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794554448
-  },
-  {
-   "id": "2f502f6523cdc98c",
-   "title": "UFC fighters Merab Dvalishvili, Usman Nurmagomedov among those arrested after UAE hotel fight - OC Media",
-   "summary": "UFC fighters Merab Dvalishvili, Usman Nurmagomedov among those arrested after UAE hotel fight OC Media",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjRqd09nUHBWOUhJeHpfX0gzX2otT3VwU1hlOUdMZ3BodmJERmZTT0gwVE9IdXhuTUNoQmJUUUtFZ1FaTnBWQVVkTnRWbGgxWTZDeTBnMVdTZUlrdkdPaU9LN0o1MmJhSVMzWi1FT3BrUXFfWG9ITDRTMHlJVzlaeU9NLXc1a3NMODh1QThmbzByRy1VNTdOUUo3c25Kc29KSF9xNW5SdWswRXJlOFl0NW5kOVQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794552728
   }
  ]
 }
