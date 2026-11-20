@@ -1,6 +1,339 @@
 {
- "updated": 1795147288,
+ "updated": 1795178777,
  "items": [
+  {
+   "id": "1336c7b183adfcde",
+   "title": "Surprise stoic Usman Nurmagomedov gets philosophical after violent gang attack",
+   "summary": "PFL lightweight champ Usman Nurmagomedov has broken his silence following a several-day stint in an Abu Dhabi jail for attacking former UFC bantamweight champion Merab Dvalishvili. Nurmagomedov and several friends approached Dvalishvili in Abu Dhabi leading up to a Real American…",
+   "link": "https://www.mmamania.com/professional-fighters-league-pfl/487548/surprise-stoic-usman-nurmagomedov-gets-philosophical-after-violent-gang-attack",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1795178751
+  },
+  {
+   "id": "fc8e429e248c6272",
+   "title": "What’s Next for Ciryl Gane Following Epic Win Over Josh Hokit at UFC 334? - MyMMANews",
+   "summary": "What’s Next for Ciryl Gane Following Epic Win Over Josh Hokit at UFC 334? MyMMANews",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHREVmgyUnNBZUxicTd3TEM4T2dpYURKSzhBWEh3NkdIaDNORzMyR3U5Z0lNekdKWGNVMG43b0ZZQTZ1Y2RUQ3dCRXRQS3d5alQ1YXN2LUxoNC1JUVlNRVVWck10aGNNUFpmN0l6OEVSVmhPUGw5YTE4WEtsYUVfVzNHOGwyd3NNdEctMVF5Tmo5OXdJVUZkcW5R?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795178234
+  },
+  {
+   "id": "6a26ff28491fc038",
+   "title": "French UFC title fighter banned for three months for doping offence - The Independent",
+   "summary": "French UFC title fighter banned for three months for doping offence The Independent",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVS1HSDBWeDVNZWNoZTNDQXJvM1RSbnlsek9oTjVycGJkSXd1Q2RiVUZuNFNybTN2SUJ3RkJKbE82bHJtTktkcGFtU0lScTNlTXdBV25nd3ZBRzZ6SVRfcUxBaENBd3Z2a3BKcFdWRGRhT3huZ2V5cHpBa2duU2YzOFZqZENDYjBCMVBGZXBVUjJkcUktN0E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795176960
+  },
+  {
+   "id": "522457f9d8fdf858",
+   "title": "UFC Fight Night: Procházka vs. Stirling Live Fight Coverage - ESPN",
+   "summary": "UFC Fight Night: Procházka vs. Stirling Live Fight Coverage ESPN",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jTFNjYjJSTDB0Y2Y2Zlk4bURGbGVhYWFfaXNiQUkzejdxZlViczAxYzRtdUttSzc4ZUNjQkxpWTdWU0JCdVFFcFJTbi1JY083R0tyWTJtckNtT19Mc3RLbVpCN1NCbHBGY2VmX3VOQQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795175312
+  },
+  {
+   "id": "3323abb687fd6579",
+   "title": "UFC Qatar: Prochazka vs. Stirling: Streaming & Network - sports.betmgm.com",
+   "summary": "UFC Qatar: Prochazka vs. Stirling: Streaming & Network sports.betmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjNLbFQ1anRwcUVTWk9QVG1UY0MzeVRpWXNNdjZ1TkZoNDFUS1RremRrOUNhVldpUGpDRWt4WE0tNHk2b2JzTTdEV1dhcW5OT0JfaVV4OTRHZkY4Q2FPQkJUYjNoSUxnUWk2a3gzOFRYRUJndVdtNkJsVG5KVE5fVmI4dVBVek5ET2thb1RqSQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795174784
+  },
+  {
+   "id": "b0e67860ec630333",
+   "title": "UFC fighter Manon Fiorot banned for 3 months for violating anti-doping policy - Yahoo Sports",
+   "summary": "UFC fighter Manon Fiorot banned for 3 months for violating anti-doping policy Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlVNWjBPV3dJUExaV1VPREpiQkxRb2hNREpubWtKWnNkeHZKZk8xbTFWWndtRVR4d0RGejJNaXZLdzU2NUpSOWR6cHVlWWtoc3VON09EUGRDajVVYzdTSW9KY2J6QXFzX1BaaGI3NXIwcFZNZ2s5SFdnN0lfNjkwaW0yTkFSWWM?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795173501
+  },
+  {
+   "id": "823d9d2a0c653af2",
+   "title": "UFC Qatar: Diyar Nurgozhay vs. Alik Lorenz Predictions & Odds - sports.betmgm.com",
+   "summary": "UFC Qatar: Diyar Nurgozhay vs. Alik Lorenz Predictions & Odds sports.betmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWU16SHJ0YWFKanZSdjdxSHRjRlh6clItQXBpMkxSNXNtYkNTTTdETnhnWVE4eHA0OUN2c2pSSlBHLUExc0pKYTVGOTZMVHBoaGhoMzlQYm5EVGNMTWIzcVRqU0poWXJkUzUyOGhpVWN4WktFR2FGSnhWUFFxd2xHRXFMUzVmM2oydFpGZ1lkLTFXdEloaTNZNHZn?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795173333
+  },
+  {
+   "id": "91aa426246642733",
+   "title": "UFC Qatar: Jake Matthews vs. Tahir Abdullayev Predictions & Odds - sports.betmgm.com",
+   "summary": "UFC Qatar: Jake Matthews vs. Tahir Abdullayev Predictions & Odds sports.betmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3F6Qm8tdUNTZ1NtTFZ4X0dKV0QzT2dKMWE4SHBTRHZfeThacXg5VHZNbUctaWtXSDF1U0pMQmQ5TjBZWnhVaTNYMzdycGEyYXdWQ01ERU5rV0xTQlRTby0tM3oydU5oelRMV3lwZl9jM19neDJWSlBnTFJsWjVVckZ2Mmh1UmRPRkE4VFI3aUpRWjUwWlV1S3NSeGZYUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795173093
+  },
+  {
+   "id": "a9cebfbd2f094a68",
+   "title": "UFC Qatar: Nikolas Motta vs. Dom Mar Fan Predictions & Odds - sports.betmgm.com",
+   "summary": "UFC Qatar: Nikolas Motta vs. Dom Mar Fan Predictions & Odds sports.betmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRHJjUlpPMHlqN2hfNldnR3dSc3ptclJ0cUtoRU5FWnJMTENrbks5ZkhabnVmN1lkOW9vVWdja3ZFWE1GMFItZzBSY19Ham56M1p5ejRBYVZYWjJ3N1JXXzJPR2U2cjU4YUJnRFlWdkhraVg4R3NxQW5YWFlwcE5udkVqSlJWRk9vakI0WTRqWVcydi1SYlJF?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795173093
+  },
+  {
+   "id": "445a24d41dd84727",
+   "title": "French UFC fighter Manon Fiorot suspended for three months — BBC Sport - UA.NEWS",
+   "summary": "French UFC fighter Manon Fiorot suspended for three months — BBC Sport UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkdpTkJuVFFteHYzS1FiMVRYb252ZnZTWnF1UHJPdmZEQXpFR0NqZ0hzNk9INGJLRHFkUTV5MEE4enhOUFVYZUdSdDlRcjRVeUJMM2IxQmJfLUhTR2h0NG85b3VVdXpJSVBfcENfb1VKWTRaT0UzbDRXekIwMWM2RzFiRUhRN1Z6QlM4VnZPUXR1TXV2bEFvSWJYZVhSTnhDLWVxMk1hSUpQVy1i?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795171600
+  },
+  {
+   "id": "df0f852dbc13c97d",
+   "title": "Wagnney Fabiano - UFC.com",
+   "summary": "Wagnney Fabiano UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OQVcySC1tdFBhYVpqckRKcGpJYUNFMXV2Y2hwSjZwYWh4bU5LV2pGQTNuUEN5WUtjU2sxNmhiWWhwU3BSTWVMZUlDU2tJWTV6SWRZVGN3?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795170283
+  },
+  {
+   "id": "f64e929d8f75c2ed",
+   "title": "UFC title contender Fiorot banned for three months",
+   "summary": "Highly ranked UFC flyweight Manon Fiorot is banned for three months for violating the promotion's anti-doping policy.",
+   "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6808yxx71e0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "kind": "news",
+   "ts": 1795169915
+  },
+  {
+   "id": "c266dde0d98dea47",
+   "title": "UFC: Manon Fiorot banned for three months after failed drugs test before Alexa Grasso fight - BBC",
+   "summary": "UFC: Manon Fiorot banned for three months after failed drugs test before Alexa Grasso fight BBC",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80aVJOZzZYMDEydHBSNi1HYzZ2OENrMVBOcmw5c2thalBKNGNSUGdHX0h4RUcxcWZlelJoTGM3ckxObnlMZ1Y0RkNYOWJuS0s4VGZyM3dzc2JoR0hhT3cyc041N3VDdmR5emViQjRjbERIUUg1eGc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795169915
+  },
+  {
+   "id": "5c1be164d0243fcb",
+   "title": "UFC Qatar Live Streaming: Jiri Prochazka Vs Navajo Stirling, date, time, full fight card and how to watch in India - IndulgExpress",
+   "summary": "UFC Qatar Live Streaming: Jiri Prochazka Vs Navajo Stirling, date, time, full fight card and how to watch in India IndulgExpress",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUmtJQ25RWUdoRzNzS3FubEZENk5EdnhacXh1NkVRM2JHREg0VmpWOGVOWVhrd3k2eUYwMHpUNVctQ0toLTdIeTBwbzNmRU8zbzFzMXI4b1NQR1Jybkx0SS1FME42cFRjd1pKMUNaUUlfYVVkRmdUcjZaLXdycl8tdTZWVnkwekFfbjBIb1hnU09wQmRpSW5CNlhzb3VXTTd2ZlpJX2p3VW12WTVYUkRacXRfNkE0S1pHQzJGd3doYURtbGREQmVZU2VQNnI2RjBJLWI1Q0xiUC1QTW00SVNld0wxSXVndGdWQnZyNzVKb0o?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795168857
+  },
+  {
+   "id": "1fbab613dfafda82",
+   "title": "UFC Qatar: Amir Albazi vs. Alessandro Costa 2 Predictions & Odds - sports.betmgm.com",
+   "summary": "UFC Qatar: Amir Albazi vs. Alessandro Costa 2 Predictions & Odds sports.betmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXVyeDJUV2YwSDJMY0dYbWdVZ29TQ1I4dGNPTmV0RTFqQjB6N3ZEWUpsSTJZMFVtOWJRaFRlUVdKWFdCN1Zyb2NhRUwtYVNmT0ZDbkNzbExoTHVzVkFRTTg3c0dNbjJ4ZXllR3cwWVNMSE5XMVczRHpyeWQ3Y1B1SkxaZl9OTVVvcU9qN2loWnFWMllFclFCX0gxOG9Ddw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795168512
+  },
+  {
+   "id": "f3eb4063f971bedb",
+   "title": "UFC Qatar: Shamil Gaziev vs. Tallison Teixeira Predictions & Odds - sports.betmgm.com",
+   "summary": "UFC Qatar: Shamil Gaziev vs. Tallison Teixeira Predictions & Odds sports.betmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb2VYMzVOU29UTTU1VEwyWi1zblRacmNyUXNkMUpIdm9CZFpPLXBxcFExRldQVDRxRklhMlFSdW01dTNKeHJhekdMc3lDbFFZdENuc0s2bUNEcHk5TUdYelNDMmtVa3BrQmZ2WE9hRmh5a0ltYnhoaHRjZURPSXFXa1luTk5YZ19ObzFNWmdlSzNjdmZMUHN2TUJkZ2ZON28?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795168511
+  },
+  {
+   "id": "8f214818f30e058b",
+   "title": "UFC Qatar: Aleksandre Topuria vs. Santiago Luna Predictions & Odds - sports.betmgm.com",
+   "summary": "UFC Qatar: Aleksandre Topuria vs. Santiago Luna Predictions & Odds sports.betmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYW5tOEpsaXpweEpnU1FTMmdnSHFLSU1pSDRDbC1PWlZQSkV0LVZUWnNxVnUxVnFZY2FiR0tNMFVMbk1NNHFFdVNhZ0otRXVsWjVWMS01aG15OWRYU0NBem43RjJBcGxDNzZzcWJZQ3pLSHZnRFlfUVVtQXVlLVBTRHJkS3FWbEZpaVRraXR2RkF5RDEyTHBPVWlGR3lFREdf?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795167790
+  },
+  {
+   "id": "56a1a12af503d93a",
+   "title": "Alik Lorenz - UFC.com",
+   "summary": "Alik Lorenz UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03X25NQm93TUJOWXhCMGVIRU5jTHV1YnNEcjNZRkRpRUdDV2lUQzN1bmNrRFJaa1ByWUZWOEdteE5qb25TaEQyajYxZFhGU2dS?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795167520
+  },
+  {
+   "id": "93f8689955a0adb0",
+   "title": "UFC Qatar Weigh In Results as One Fighter Misses the Mark - MMA Sucka",
+   "summary": "UFC Qatar Weigh In Results as One Fighter Misses the Mark MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM1AtRC1USGdHNDdNVEFETDlfRGd0VWtWeVJWZlRYWXdiRHgydnJDdGNpd2lYTkhINW1uYXJLdTBITHBhb1BzTnZBM1pXdzZkRmpuMk4zSGdTTTlVRmdmUWhEX0xxYWdSdEZDeUJnSUNBcTVBNzRYczBXenl2RDl3d0FUeXotX2dqQnJGMA?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795167310
+  },
+  {
+   "id": "b9a097b7fc68fddb",
+   "title": "Jon Anik defends beleaguered Daniel Cormier commentary despite professional ‘friction’",
+   "summary": "Nearly a week after UFC 334, we’re still dealing with the fallout of Ciryl Gane vs. Josh Hokit. Though Gane walked away with the first defense of his undisputed crown via unanimous decision (highlights here), there are a lot of hot takes about the contest. Was it one of the best…",
+   "link": "https://www.mmamania.com/latest-news/487513/jon-anik-defends-beleaguered-daniel-cormier-commentary-despite-professional-friction",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1795161600
+  },
+  {
+   "id": "0e828d978e7f7628",
+   "title": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight - Yahoo Sports",
+   "summary": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWNlR20tdmpoRlRpa0hhdU83VFRISXpOcjAyekw1WkI0aUtxdlJSOHBwcndxbnAzS08xbHVqaU5Gbll1S2JsaEdyTE9CZEI2NlVYakUtUW5kWlR3ZHdCLVU3RVpCTS1tanVXcXZPVUE5aGdpYlozZnJoNWQwbERBcW8zUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795160580
+  },
+  {
+   "id": "e9d7f854c59e30e7",
+   "title": "UFC Qatar weigh-in video: Prochazka vs. Stirling - MMA Fighting",
+   "summary": "UFC Qatar weigh-in video: Prochazka vs. Stirling MMA Fighting",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVNCd24wYUQxSGJRejR6VGJwQkFKZXFBV3M1c1BiNmZ0Ri1hWnVQOGViT1U0d1NmaWRYbDVXMzhBc2FUUGFnM1F1S09HUVNUcWNTNHlfS1RVRlM4VXJvQVhBQ1pCX2dSWlpBOGV0S19meHFEZHpISmRxUjVUOTJBa3VrSVJRRkJ2T3NUR3VR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795159740
+  },
+  {
+   "id": "e90ab947233df858",
+   "title": "UFC Qatar early weigh ins results | Prochazka vs. Stirling - Yahoo Sports",
+   "summary": "UFC Qatar early weigh ins results | Prochazka vs. Stirling Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04c2ZSeU9xb01LV1B4a0RnM1hRMGNLNi04MGI3WnFtb1JPeUZhX2w2MzhaaDBhUEstLVNhMDA1aDhwTjFLblBVM1dvd2dkN1BoUUZSZE9JeXRmeHJ2aUpPM3RCUzFEeEJDbUhlZ2RXcHRqLTdWVUhMcVZLMEEtVFU?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795159560
+  },
+  {
+   "id": "62ff1cdee7e86e1c",
+   "title": "UFC Qatar: Procházka vs. Stirling Weigh-In Results - One fighter misses weight",
+   "summary": "The UFC Qatar fighters officially weighed in on Friday.",
+   "link": "https://sports.yahoo.com/articles/ufc-qatar-proch-zka-vs-072527876.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1795159527
+  },
+  {
+   "id": "76c70553a6019e7e",
+   "title": "UFC Qatar: Procházka vs. Stirling Weigh-In Results - One fighter misses weight - Yahoo Sports",
+   "summary": "UFC Qatar: Procházka vs. Stirling Weigh-In Results - One fighter misses weight Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaQjY1bXhvUjFTdUZnYXRTLWthRWRVMmdsNDItWUx5SUtUcjBqeDZ4bUd4UUNhWnI5RmpseFdnYm9WMmdfODZaQ1puaDJLVXlOMHJvV1l2XzJhME13SjhRQm5DOFB3YTFGdTQydllYVjliUHQtRno4U3JhVQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795159500
+  },
+  {
+   "id": "4f3de3833d9387c2",
+   "title": "Manon Fiorot Failed UFC Drug Test, Anti-Doping Body Says the Doses Were Too Small to Help Her - Yahoo Sports",
+   "summary": "Manon Fiorot Failed UFC Drug Test, Anti-Doping Body Says the Doses Were Too Small to Help Her Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVExFWVY3Mk5UZ2t3VldBRkF3Tmc3aU9Tclk2VU5yYTkzQUJWNlIxcm1OMVZUa0JYNldPVWZSVzBNVEN0cS1GMkt2ODRTNmd2Xy1nWHRkRTI3a3NHSVhVR1RMOXRrWXIwTWYta1ZIa0EyQU5zTnQtUGVOUjU1Zlo5X0FWZw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795158360
+  },
+  {
+   "id": "8845414d735ce3bb",
+   "title": "UFC Qatar weigh-ins: Jiri Prochazka, Navajo Stirling set for main event - Yahoo Sports",
+   "summary": "UFC Qatar weigh-ins: Jiri Prochazka, Navajo Stirling set for main event Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBISVpQYU43WU5weF9hS3BBQ2dwSDBrM01XTFpWQlhSSzZkbGpPTkpMRXI1ZGx3U2tPb1lPZ0llSkpRTGQzVTFBR2NfSFFCdVZzMnlmendjNllyMXp5Z0ZGLWxFQW1GSGhuOUlnTEpzOEs2RXF5SExUcE1CTQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795155240
+  },
+  {
+   "id": "f38dc172f673f61a",
+   "title": "Jiri Prochazka, UFC 327 official weigh-ins - The Lufkin Daily News",
+   "summary": "Jiri Prochazka, UFC 327 official weigh-ins The Lufkin Daily News",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTTFvYzA1cjRWOGRTN3RySjBwU3labGZIMTdZaDNjUUJqUUtzemRxQlB0Vk9jRjY5RFJtWUR6Tm9PaHhteThoVi1ERi1ZT3Z6NjNScUt1VVkyMU1Na3FSYmttNlBCX0NsTFJkNDk4djlDMERJbTBhZVk2cEVXWm1oN0JPX0MwZV9jc3FIY2x3UGNOMTZlcm1oRDBBekJlVUZmU3hjMDRkWVJDaGd4dW12ZmJsM0hGZy1BOUZDNTFJcEM0bDNFb0h5UHFDcGZCWkF6S3Q3ZTlB?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795154868
+  },
+  {
+   "id": "9f63f64eb134d060",
+   "title": "UFC 334 Slow Motion Highlights - Yahoo Sports",
+   "summary": "UFC 334 Slow Motion Highlights Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFpoME9OVTI5YWR4Y1JMTk1SQl93VUtLMkdDVFk3N3NpOEI2RDNhcmhDSG1hVFhBSGRxbUVQb3c5UWF1YWVIM0dUQzNKSndFVTdNTFU4Y0wzM1FRdmZJZDZ5QTBoVzJzVVZHVHVYblRnMVBOcWxXSEJlcnd2bFItLWk3VVBOdw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795154100
+  },
+  {
+   "id": "22a58162bc57731e",
+   "title": "Daniel Cormier Accuses Jon Jones of Using Josh Hokit Feud to Put Himself in the Spotlight",
+   "summary": "Following Jon Jones and Josh Hokit's heated social media feud after UFC 334, Daniel Cormier has called out the former two-division champion.",
+   "link": "https://sports.yahoo.com/articles/daniel-cormier-accuses-jon-jones-055040341.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1795153840
+  },
+  {
+   "id": "b405747a0e4e0131",
+   "title": "UFC Fight Night 294 official weigh-in results from Qatar - Central Oregon Daily",
+   "summary": "UFC Fight Night 294 official weigh-in results from Qatar Central Oregon Daily",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdzVwNDk0ZjBMYlozeFFuampKc1A2U04xNk1jcGpMd0lUNjBEQUo1WUNoQ2liUmE4NHpoOEd2Q0NqeVVMblFGVTUtZTR4MEtmc1lvV1RaTWE3TnJfNmVCdXZmTmU1NDNrM282UmJVUlFCcnZnanUyaDYwSnV4X0tjUXR1aGJ1UXk4YmxGclFXbUw4TDN6ZVVqd1lHMXRiNU56TlBrUUNjQ2RWZk9RcWxnMVdiVUwzUTBZaEZheFBkWEZGLUdLcGh0WFlna0tZb3hJVTNTSEdmZk1MemNScWNDVUlR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795153672
+  },
+  {
+   "id": "ccbe7590e1e662ef",
+   "title": "UFC Fight Night 294 official weigh-in results: One fighter misses mark",
+   "summary": "Get the official weigh-in results for Saturday's UFC Fight Night 294 event in Qatar.",
+   "link": "https://sports.yahoo.com/articles/ufc-fight-night-294-official-054746608.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1795153666
+  },
+  {
+   "id": "bca6cd5584b54c07",
+   "title": "Official Weigh-In Results | UFC Qatar - UFC.com",
+   "summary": "Official Weigh-In Results | UFC Qatar UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzlxYUdZekFIZFZ2ZVNQZmFfYTdYeWZIYWdCRy1mTnpCR0d1dVhqWktMTG96d3N5WkU3UDZmbEtBX3gtMmQyd1NPZE55MDM4c1lsSXJ6eDYzOFdPWXRuNnBlMUt5MFBYejFCSkRTVEVkTWNIMU9zWHd2aUJiemNnWWE2dW1qUQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795152102
+  },
+  {
+   "id": "d0229a84faf6411a",
+   "title": "UFC Qatar: Prochazka vs. Stirling Weigh-In Results - Cageside Press",
+   "summary": "UFC Qatar: Prochazka vs. Stirling Weigh-In Results Cageside Press",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOFlPdlRhTUxSSWlOZmhnNlZabEdOMHVEU0YzZmF5bHN3T1FZVHNnZklpaGliN0JILXdFUFBmLThINmdVZFZTS21rZFF3STNWZmVGQlRlRjRwYV9wbjlnYkQ1RGRZRDZtd1NtRzMyV3IyS0xwNFRIaVhUcGdXVGR5T2pDLXBZeWtySDRGbDVDbw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795150882
+  },
+  {
+   "id": "4e11f98bee92960f",
+   "title": "Jon Anik Breaks Silence on Daniel Cormier Backlash as Petition to Remove UFC Hall of Famer Crosses 8,000 Signatures - Yahoo Sports",
+   "summary": "Jon Anik Breaks Silence on Daniel Cormier Backlash as Petition to Remove UFC Hall of Famer Crosses 8,000 Signatures Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb1pJX3ZIbzVoRF9qcnZXblVjMXBwWUZUU1V1cjVWTk5QbGdOdURsR3VjMHRDR3VPYWd0OE9NYUtsUFozUG1FNER4U1RVQWljbWc2dGtYdkh5TFF0NktKTGVVMFJySXIzcW4zZzVreTdvVkk4SjkxbEpZTnRjQ0kxeWt2LWtsdw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795148160
+  },
+  {
+   "id": "f1629fad22d8f5b0",
+   "title": "Aljamain Sterling vs. Kevin Vallejos: Odds, full fight preview and prediction | UFC Qatar",
+   "summary": "Ultimate Fighting Championship (UFC) Featherweight talents Aljamain Sterling vs. Kevin Vallejos will collide this weekend (Sat., Nov. 21, 2026) inside ABHA Arena in Doha, Qatar for UFC Qatar. I must confess that Sterling’s Featherweight move has already exceeded my expectations.…",
+   "link": "https://www.mmamania.com/ufc-events-ppv/487310/aljamain-sterling-vs-kevin-vallejos-odds-full-fight-preview-and-prediction-ufc-qatar",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1795147860
+  },
+  {
+   "id": "87d96a7b2d31a3e2",
+   "title": "UFC Qatar: Jared Cannonier vs. Ikram Aliskerov Predictions & Odds - sports.betmgm.com",
+   "summary": "UFC Qatar: Jared Cannonier vs. Ikram Aliskerov Predictions & Odds sports.betmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2FJQTBqLWpYZW11azZ4aFZ1aTRHbERaZFI2QllCZFNGbWFyRTg1cFVKZWZjZlJ1OHJCSWRXOXFJUFV4YnlmZXhRRDRBRGZCLXR1VzltX2lueUtqYlh1UUxaLUhxX1NYTzhocTEzS29RN0hVaFp4aTcwMi1DbWpFbjZaT1h4LURNUWxYb3I3b2lBQUJNYkg1YW9kU3puakU?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795144884
+  },
   {
    "id": "c8ee63d8d353cd6a",
    "title": "Alex Pereira spars unbeaten BKB champ before UFC 335 clash",
@@ -124,6 +457,15 @@
    "summary": "UFC ‘Beast’ suspended for drug testing violation just two fights removed from Noche title shot Yahoo Sports",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdG1HTG1UWFBpM3UzRlc0WnlVTWR3d2F2bFEyRW0zSF91TThHc0wzYk5sSTlZeDROa2I1RjdVM0VFVm44SkliWUlURlV6Uk5sbTFtNVFBZ1dJeDNKelNqMUUzWE1uVktncmp6anhrNkJxVnNSQXBsZ002eUtTSWhtZVpIZDd5WlJV?oc=5",
    "source": "Google News",
+   "kind": "news",
+   "ts": 1795132800
+  },
+  {
+   "id": "15b42dc27d80b27f",
+   "title": "‘Smartest guy in the game’ Israel Adesanya blames four-fight skid on terrible fight IQ — ‘I stopped using my greatest weapon’",
+   "summary": "“The Last Stylebender” has been doing some serious reflecting. Former two-time Ultimate Fighting Championship (UFC) Middleweight champion Israel Adesanya returns to action against Shara Magomedov in just over two weeks (Sat., Dec. 5, 2026) in the UFC Saudi Arabia main event insi…",
+   "link": "https://www.mmamania.com/latest-news/487477/smartest-guy-in-the-game-israel-adesanya-blames-four-fight-skid-on-terrible-fight-iq-i-stopped-using-my-greatest-weapon",
+   "source": "MMA Mania",
    "kind": "news",
    "ts": 1795132800
   },
@@ -3258,348 +3600,6 @@
    "source": "MMA Fighting",
    "kind": "news",
    "ts": 1794940200
-  },
-  {
-   "id": "53ff114b6f6fa6ef",
-   "title": "Mike Winkeljohn foresees Josh Hokit becoming MMA GOAT despite recent UFC setback - MMA Sucka",
-   "summary": "Mike Winkeljohn foresees Josh Hokit becoming MMA GOAT despite recent UFC setback MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU241RE40YmJSaXYyeWxiXzJ2Z3JQTTlsS2k1NTJ0UkRyNUUyUi1Ga3kzbnZGQjlyTUZOWnFieThSRm1RUGtGUUdoeE1wVDRKYm1Ybk82OGhBZzRJT253ZGZ0Mjc2R3hyYW1JbHBGdzViNTloYnJHdUwtaElfNmpYaG83aXpYaUpYNXpDeHE3YWtaempkT1lmT0szU09TODkyRjd2SURtdnlSYjg?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794940178
-  },
-  {
-   "id": "a50cafe5cb95cd75",
-   "title": "Hokit pleads case for rematch vs. Gane after UFC 334: 'Let's make it right' - theScore",
-   "summary": "Hokit pleads case for rematch vs. Gane after UFC 334: 'Let's make it right' theScore",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcFU0TktpY1NDaG44bmwxTGhwLTlYMmh5M3ZIN2JLOW5WQ3hhNlRWTFBtbHFUemhTZkZNajFiRENqNVRZWjZjNHFxSkFqMFpMNThhV1hYSFpmUWJSTmMxaEdxMkFYUGpkaDdJUEFhRUNUSUhLM1Y2MVhidzE0b0dPWUFWNDZ0bi1tRmx1Uy1wMVU5WnpQS3dnejlhTW1maGR6czVwajZzWTA4b1huYmxZSktB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794940094
-  },
-  {
-   "id": "fde3a0bb1fcc0af8",
-   "title": "Was Hokit a Victim of 'The Boy Who Cried Wolf' at UFC 334? - MMA Sucka",
-   "summary": "Was Hokit a Victim of 'The Boy Who Cried Wolf' at UFC 334? MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSlFsVjZpVGhvVjdtMXI3NjlDSEdFN2lILW5ONUNjdDR3YkYxblM0VFFRb2wtZVVXa2xCclFUbFVjRHlVV2JrU0ZZUmNXYjB5SEVDeV9qVDVGMDBzSmpMdkNkSm1OR0JMLXlYR2t4V1pPTTJrVGxkd01fdzROMm53bTJkeHowY2M?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794939566
-  },
-  {
-   "id": "f9c34aebcdd0cc0f",
-   "title": "Conor McGregor’s Manager On His Potential New UFC Contract - MMA Sucka",
-   "summary": "Conor McGregor’s Manager On His Potential New UFC Contract MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmhVd2pxM1hOTXJBa0dXa0NLVEN5OHFwRkQ5ZElxWURYNlpLSXY3aFpvZlB3Y21HZ0NhR3RBQVV1MmxFNGRvWGp1bWFXNkFTREd1YVlMR2o2aEJzYjdKMVZ5SFlwcV9aYnE0Yi03YUh6elc0eTJsdHhmd0Z5OEJQWVliWnVCWHNUVHFfZHlNVVlGYTYzZkE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794939274
-  },
-  {
-   "id": "6d9034f77ef2c12e",
-   "title": "‘One of the Greatest Heavyweight Title Fights of All Time’ - Daniel Cormier on Ciryl Gane vs. Josh Hokit at UFC 334 - MMA Sucka",
-   "summary": "‘One of the Greatest Heavyweight Title Fights of All Time’ - Daniel Cormier on Ciryl Gane vs. Josh Hokit at UFC 334 MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZWhGUGtURnllMFdOcUhwYUQ4V01ScDkzbEM4SzgydjZPYkdLZmlueDRFQVVqVG5KdFM2MWFzX3FVZjVndTJPUXZad2R3SUFvWjZlN2lIS0NzY2d3UE92ZXYwRF96LTRFZjNZMmppdWZ6M3hVVEV3Ri1aSnJNRzFtZUFJSmNVS3U4REtJZmUxZFVrYTNpTUxNanlJUTBMb3ZUdXo5dWFHTEpGYi1jYzdsVmQ5dzZwcjdLdEFqTWRNSC1wZEU?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794939262
-  },
-  {
-   "id": "26bb6be33c970bca",
-   "title": "Navajo Stirling | Four Up, Four Down",
-   "summary": "Surging Light Heavyweight Seeks Fourth Win In 2026 And Biggest Victory Of His Career On Saturday Against Jiří Procházka In Doha, Qatar Read the Full Article Here",
-   "link": "https://www.ufc.com/news/navajo-stirling-four-up-four-down-light-heavyweight-ufc-qatar",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794939028
-  },
-  {
-   "id": "ba953d09ab90b4b1",
-   "title": "Caio Borralho wants middleweight’s best after UFC 334 – and soon - MMA Junkie",
-   "summary": "Caio Borralho wants middleweight’s best after UFC 334 – and soon MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaF91ci1yc3QxUVhybzhjVVhNOWprNmtJdW4wQ1V3OE5pdWZGdVpDcGhkblc4N1lZSXNXNVpYNDdyejR1M0hhZXpobmFOemtfUWVURl9rUV9vYmtLb1Eyd3habHZiTjB2LTBJeUVHMFVpSmloNEVsNE5EanNrRTd1UUlLOVVRMmR4ZEYzYmVoQVFrQlpCbUVWU1N6OS1WdTdqS0o0VVc1QTU0eXM3aXZBM29zUnpTMm5BTV9Id0paVFYtbWsx?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794938400
-  },
-  {
-   "id": "c95e31ff45436c38",
-   "title": "'Platinum' Mike Perry Talks UFC return and comback opponent. - MMA Sucka",
-   "summary": "'Platinum' Mike Perry Talks UFC return and comback opponent. MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVVkNVpzcVFLWEpJcFpkRzNqSlRNaElXQWtFcTAybjdXNVRwbVFFNnBOZ2Nyb2c3WGJkWkdEUHl4M0h3djhLLS1fbXdCNWJ6Y0pYYVlvdWhXUGlkWlBiQTBoVGhvdkZiSUtod3RKUkh0WkhSQUNEZGVQTm90VW9CVklQT0dnY3FyOWc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794938361
-  },
-  {
-   "id": "37b057cb76e5a08b",
-   "title": "Ilia Topuria Makes Bold UFC Title Prediction About His Brother Aleksandre - MMA Sucka",
-   "summary": "Ilia Topuria Makes Bold UFC Title Prediction About His Brother Aleksandre MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbEE2YnRjdVh6ejlBdXdsVnhLelNHR2pBaWhjXzBTVWVjeE0zUm9JVzB1Z2oxU1Bnb0VnMjBXbV9xMGNWcVNDaHlXcWZMdzNlQ1ZHTGhQazdKQjNqMVFLOTFFcHgtb3MwRFJmcUZETlFLYWhJOEJsbUVsbm14UzM0NVViU2h5endDbEIzY1NRbjZqelZOX0hKS1pOemo3T21iTFE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794937757
-  },
-  {
-   "id": "2c2e4402a1f06a9b",
-   "title": "Get To Know Navajo Stirling",
-   "summary": "Learn More About New Zealander Navajo Stirling Before His First UFC Main Event Against Jiří Procházka In Doha, Qatar Read the Full Article Here",
-   "link": "https://www.ufc.com/news/get-to-know-navajo-stirling",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794937708
-  },
-  {
-   "id": "cb2b62cef7e2a40f",
-   "title": "Bruce Buffer says Conor McGregor could return to the UFC - Mezha.net",
-   "summary": "Bruce Buffer says Conor McGregor could return to the UFC Mezha.net",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR09aVnhSM2VENi1meTlFUmEybVhvXzc4N0g4bVZWTjdUSkEyM3dBeklyLXRrOEdwamtERlcwMzBhdC16d0pNeGZkVVlXbDk2VDVyZVhpM1lqdXAybUdKZXFMU1VrWHRDZGQySlZJTnNnSjRjdTllamdvcVB1cXlJWENB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794936136
-  },
-  {
-   "id": "954be7e235f4074b",
-   "title": "“He’s an Icon”: Alexander Volkov Defends Bruce Buffer After Josh Hokit’s UFC 334 Antics - MMA Sucka",
-   "summary": "“He’s an Icon”: Alexander Volkov Defends Bruce Buffer After Josh Hokit’s UFC 334 Antics MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXhFcHdrbEU2RUpOLUFwOFdSTl9DTVFiZkIwbk41YXBKNFdTQTFlM3djT2FDRzl1RTJQRFRUd1pSb2owV2xRVTQxU1JTa2VNRld0NVRlVDBzLV9PeWpkczZpQ2NVTzd1TlVZZWd4Y09PVnpHUlNvN21SM2NXRXFyTENBRDdoTUN2bko1SkFBVFI1Z3hDN0VOMUpoWUo0WVpLV2pHM1kxczltblc2aHc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794935789
-  },
-  {
-   "id": "408ae7c6ebbbdd69",
-   "title": "Kayla Harrison Checks Off Every Box in Six-Year Old Bet With Henry Cejudo After UFC 334 - Yahoo Sports",
-   "summary": "Kayla Harrison Checks Off Every Box in Six-Year Old Bet With Henry Cejudo After UFC 334 Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeF83VV90ZUI4ZGtZM1FfdlcyZXY1Y3BTRTdRcXpRWGlHa204V2VqeHVkU19NYU9mVFBPSzJpeWFHRktOUGE5VUtGc19JeGtYWGxQajA3THZUZEU4alRuZFRWNHRiMHk1blVVOE1aT19FX1BVSWRkcGVEb0I2NWwweEJEYUwwVkU?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794935445
-  },
-  {
-   "id": "103816d30733e6d9",
-   "title": "UFC's Bruce Buffer fuels speculation about another Conor McGregor comeback: 'Fighter mentality' - Fox News",
-   "summary": "UFC's Bruce Buffer fuels speculation about another Conor McGregor comeback: 'Fighter mentality' Fox News",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWlTQ3gxNXNBTGliNU1Lc3ZZOFU5X0hwNlBXRnF2NlhyaEdWcnRzVTVGRVJ0NzloU2FBNmRlN1d5VWh0c2llZDBMZy1MX2lhVUgyMGdTZ2xwOFJmdzFiZUVCVDBHVFlfYURmdnVmekx5bmlMem5ia09LTzFlY2M3UTF4aTYzMEN0LTZ2NmlZV0dVVFh4VXVVbmhST25jQXprWkFlYWxTTENRdUJWSkF1RjJlTzk1UQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794934986
-  },
-  {
-   "id": "c764ba8738deda0e",
-   "title": "MMA Pound-for-Pound Rankings: Kayla Harrison conquers Amanda Nunes, closes in on Valentina Shevchenko",
-   "summary": "Kayla Harrison beat one of the best fighters of all-time at UFC 334 and also strengthened her case to be MMA’s current pound-for-pound queen. In a matchup years in the making, Harrison spoiled the comeback of the great Amanda Nunes with a fourth-round rear-naked choke submission…",
-   "link": "https://www.mmafighting.com/rankings/521758/mma-pound-for-pound-rankings-kayla-harrison-conquers-amanda-nunes-closes-in-on-valentina-shevchenko",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1794934800
-  },
-  {
-   "id": "e9306e150de8da43",
-   "title": "UFC Fight Night 292 broadcast team set: Laura Sanko returns to booth after DWCS - Central Oregon Daily",
-   "summary": "UFC Fight Night 292 broadcast team set: Laura Sanko returns to booth after DWCS Central Oregon Daily",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWHdkZmxVbjBLcGhseTBSZV9NcmFGOFF1Q1NGdldjZmdZRTM1SUg5NXljaTRWRHZ0bzQtTjFoN1VtYV95TTNjSHRMWm43dzA4Wi1kRWRSLWdKUWtySTRtWHFEWHNXZnkzRDBPdE1DSWpWZFEwNVRMSTYzbVVfRktjbXpfZVNDcWN0QUU2YzVDQ1BiNWh4TUNPTGVCNjBPOEN2bEFBWExlQTB6Yk53c1piT3hhb3Frdjd6cUxxNjl1cXd4UGVNOGtEemNYazI4MXhlRzFZOWctUk01RE1oNWpUMEFWQTdYczB1Z0dpZmh3bFB5VlIxMTlSbnhXWTFpWHc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794934493
-  },
-  {
-   "id": "31d68e3bab4faae4",
-   "title": "2026 UFC event schedule: Jiri Prochazka vs. Navajo Stirling, Charles Oliveira vs. Diego Lopes on tap - CBS Sports",
-   "summary": "2026 UFC event schedule: Jiri Prochazka vs. Navajo Stirling, Charles Oliveira vs. Diego Lopes on tap CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGxyX3dqODZEbUdPYkFxSnllUmFmbElVTzVTSGVJcURWMjZ4dmt6dUZiMmNMTVBGb1paWlZMODRFRkRFR195SXVuTVpqeFYwOXFRb0pIZVQ2T0xubl9wdk1YVDNXNkRoTVBCdEpiRkpLQXUxMElmVlZqSUduSFVWcTB6VkRIMGZPaUdUcmY3TG4yaEJmcXcxV1ZCQzdTSzhHUERFLWxHS2JOVlQtaVAwbGIza2JNTXhIUVdr?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794933300
-  },
-  {
-   "id": "6f981aad9a70704a",
-   "title": "UFC Pound-for-Pound Fighter Rankings: Ciryl Gane continues evolution into top heavyweight - CBS Sports",
-   "summary": "UFC Pound-for-Pound Fighter Rankings: Ciryl Gane continues evolution into top heavyweight CBS Sports",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanFGT19pb2Z4NU9hajNnMVdnV041c0dUUHlUWGxMZmFleUpnaTREcjhTSmxfOElSUmdZSnNKdWZuc242VHFkMzR0Q2FmN0NqVWktS1kxdWRTM3NZVGN6U0hCZGdmVWYxR3RmMFp0RkpBbXlES1VxcWc3MVY1YmIxUVpETzVPVTNwTDhDbWlhOGtGS2g2U2Mtck9KNDZ2Q2FkTTBkODJHdWM?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794933095
-  },
-  {
-   "id": "7503ee9e20eadee5",
-   "title": "Daniel Cormier under review as petition to boot ‘DC’ from UFC commentary nears 6,000 signatures",
-   "summary": "Former UFC heavyweight champion Daniel Cormier, who also held gold at 205 pounds, is no stranger to criticism for his cageside commentary during numbered events. “DC” routinely chimes in with “unfair” critiques alongside fellow color commentator Joe Rogan and recently re-upped p…",
-   "link": "https://www.mmamania.com/ufc-news/487133/daniel-cormier-under-review-petition-boot-dc-ufc-commentary-6000-signatures",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1794932581
-  },
-  {
-   "id": "d02f49d4ed593885",
-   "title": "Fighters On The Rise | UFC Qatar",
-   "summary": "Identifying Three Names To Track This Weekend And Going Forward Inside The Octagon At UFC Fight Night: Prochazka vs Stirling Read the Full Article Here",
-   "link": "https://www.ufc.com/news/fighters-on-the-rise-ufc-qatar-topuria-costa-lorenz",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1794932520
-  },
-  {
-   "id": "cbd7b84b88f83407",
-   "title": "Chris Duncan wants ‘gangster’ King Green after UFC 334 – and an ice cream break - MMA Junkie",
-   "summary": "Chris Duncan wants ‘gangster’ King Green after UFC 334 – and an ice cream break MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM2RDYjVEZU1tbEpOSzdNZHRFVUpPbzdyQ1FwVkFKZWlINjVZVFZ3SFJKUk1TS050WFQwZ2lwTjZ3M2lJd2dPQXd2R3RtOGlDdDlsdDh3LUk1aDFBdWtQaHE1dndrZm42TnQ5VGxqSDhvVkJqbWl1TFg3dmh0d3BNUUdNTzdqQWdkSGVJX3BqSzk5Q2ZTeWJhU1ktQmViczROd3JqelZCTi1HN3RFeDFETFRTNG8zeEZ3VnBpS21oSWVJVUQzeHc?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794932400
-  },
-  {
-   "id": "4e96bd43aed02513",
-   "title": "UFC Legend Amanda Nunes Offers Surprise Condition for Possible Kayla Harrison Rematch - Sports Illustrated",
-   "summary": "UFC Legend Amanda Nunes Offers Surprise Condition for Possible Kayla Harrison Rematch Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejNTcFZrLTB4eGxaUC0zVTlkWTFmc1haZXczdjRvbVFWa1FIQk5UZF9hMmxrTTdfRUpYNXM3S250alFWallEUDZGSnJrMTJQTTdyZC15cWZBcm5uY2hfakp5YlJNSkdSQy1FZ3BPYmhwak52Ynd0ZkRnZ2I4T2hWVmVZOGc3ZEJxUHhrR1FvcWdYSE85azNXM1Myd1VCcHp3TjZxcHRuWm1lcGUwYXhGaUlTVllXZll2dVE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794932144
-  },
-  {
-   "id": "754494178b0c4acb",
-   "title": "Tom Aspinall Hints At Comeback With Gym Post After Ciryl Gane’s UFC 334 Win - NDTV Sports",
-   "summary": "Tom Aspinall Hints At Comeback With Gym Post After Ciryl Gane’s UFC 334 Win NDTV Sports",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTlFibGlaMmd3OFhqVURqODNFS2ZfZnplblYzTWZkRE8tTlFPYjE5WUkzalduampQQ3B5Mm5rU0x5SjZjcmhueUFwZVktMUM4R2JPTjRwTEFGRFFkVDZySWRVYk5XSnBxTXhBaUxuZEpWUzJSZXM3X0hoaS1NWEJGMnpETEx1ajI5Z2l2T1MyaVZOOUFNR0dtY0RxSlAwdm5ROERRQ1FlMzA4VXFkbTlaWXVZUGVLQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794931481
-  },
-  {
-   "id": "466102f5748a25e5",
-   "title": "\"That’s Incredible And Insane\": Dana White Reacts To UFC Rising Star Tommy McMillen’s Overdose Reports - NDTV Sports",
-   "summary": "\"That’s Incredible And Insane\": Dana White Reacts To UFC Rising Star Tommy McMillen’s Overdose Reports NDTV Sports",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3dmZ0xscUxPMGFWWnZ1a0ZjMGN3eHVRdEpaSzgydmFtVmlLWXhYeHh1N1A2X1RNT09fTDEyRG80QlpGZmgyZ3lzd1pkVklpTGcyc1hxRGZCZmV0cXA3MDJ0Nk1ma2dVWUxKYUhRaVJINDV5ZlczdE00ZlBTLXRMZ1dEbVQxMkYzRm9tSnAydTRLRng3UUdrdnNnQmVUYmExTFJ4X2twT0tZMnRMR2tQVUY3UDhleEVjbDlFaDFnWmJjLVZCbnp4SkVBRGtYQWlPQ3o2dFJn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794931382
-  },
-  {
-   "id": "d2ff6af617e92350",
-   "title": "Mike Winkeljohn Backs Josh Hokit To Become MMA GOAT Despite UFC 334 Loss To Ciryl Gane - NDTV Sports",
-   "summary": "Mike Winkeljohn Backs Josh Hokit To Become MMA GOAT Despite UFC 334 Loss To Ciryl Gane NDTV Sports",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOFNQZTJMS1hMemhINVlLd0NpYmo2Tkd4WkYyakRzcWttdkJ2RmtsYnExVkVtMHVtRERyMF9hZFhodkk5SWJxMG9ZbmthcjNxcVhiWlNLYkNtVUwtSXQ0WTlEV25PeE1FQmVYQlp1MzVCQVg2LUdqa21GcnFCYWc0RG9qdnpfckdmTXdYNlA4TVFmLTJ0WkNNS0hyUnVoMnMwVXIzX3pLYUljQlFLSjNXWHRqdzhMaDRTVmF5MmltQldpY1o2?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794931344
-  },
-  {
-   "id": "d61d499c25b6137c",
-   "title": "\"It Was A Great Battle’: Ciryl Gane Breaks Silence After UFC 334 Hospital Scare - NDTV Sports",
-   "summary": "\"It Was A Great Battle’: Ciryl Gane Breaks Silence After UFC 334 Hospital Scare NDTV Sports",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGxaOUU1RDh1RXc0WFM4WHFJVlh2dlhyaUdHaC16SW83VWlYRWx2d1JWVWN0OGhzMmV4c0FxTFplZjB0V3Fsb2xNa0xxZ0p1eVlJRldvajlIUUh5eDdTZkJHU05EU2lSMi1VVTdkU09oU0hLRjA0aG1qRU12bG13czYxaVhoTzlpSkRTRUxCTXRsV3FLLW1WN0tIcFlyT0xnWW1samhyUF9UU2JnX1hfQ2p0XzdLdzQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794930838
-  },
-  {
-   "id": "533eeca810d389e1",
-   "title": "Ilia Topuria Takes His Star Power Beyond the UFC In Major Miami Move - NDTV Sports",
-   "summary": "Ilia Topuria Takes His Star Power Beyond the UFC In Major Miami Move NDTV Sports",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekJta1pqc0VuNFhEWXlsWHV3U3M0c0hCTUxJNDVEUDU0ZTBmVTF5R3JPekpxM3RDVTA5eDM2YVZXQS00VTkxYk9OVlA5M2RhMFV6UkR4QjFiN2RmRmJrcktJWFQ4a2tmakRZWHBhZHdTUG1BYno4cnpPU09uNEdUSkxDdUFabEVjQzFOY3M0MDJJSWVHWm1YQlgyU1I2d3Ftcks4cWpERlVoMUNr?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794930808
-  },
-  {
-   "id": "bc530be93acf8ad1",
-   "title": "'God damnit ChatGPT': Bilal Hasan reacts to UFC 334 upset loss",
-   "summary": "Bilal Hasan appears to be taking his first-career loss in stride.",
-   "link": "https://sports.yahoo.com/articles/god-damnit-chatgpt-bilal-hasan-153041617.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794929441
-  },
-  {
-   "id": "d7916972e9051c1b",
-   "title": "Josh Hokit's coach lambasts referee and Ciryl Gane over eye poke at UFC 334 - MMA Sucka",
-   "summary": "Josh Hokit's coach lambasts referee and Ciryl Gane over eye poke at UFC 334 MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkpUSlhpZ0l6TXBmZEFhS1pKVkJGRlB3T1B2Y2laVUgyelVUdlpXYkhwZnFQdnltcDlZYkhyQjR0S0M0SWlsMXlUdklFX2NQbG9mNU0waDNYUXE0amRXNVJKdWtQc2VpNlBOeGZXcm9GRW5mZ1V2RVpfM3VJWGxZVE43Q1hnWHViSkZZSTIxTGV0NWVMVjlLX3pJYTd6d1VQdFlv?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794929361
-  },
-  {
-   "id": "54564a9dc4314738",
-   "title": "UFC Qatar: Procházka vs. Stirling Fight Card - news.bet365.com",
-   "summary": "UFC Qatar: Procházka vs. Stirling Fight Card news.bet365.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLTQ5WVc3a1VCRkt6N1FuNEpsYVZrQlhJM0QtYWRHR1FOTUplRWdsWmZjMW90N3VZSi1Da3RpNWZYOEEzS2R3UzVLcTBZWlpObUR6M3JERmlYR3pqRmhFNkpobnJsM3BpbGcybUV6c3FjbUljZjhYdllzSkN0UUNnMF92QjJveTBPbHZTbVN2WkhEN3FqbVBaQXpxbENjVEZ2NkE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794927747
-  },
-  {
-   "id": "6142f5924a9dba56",
-   "title": "Amir Albazi: 'I'm Looking To Finish Him A Second Time' | UFC Qatar - UFC.com",
-   "summary": "Amir Albazi: 'I'm Looking To Finish Him A Second Time' | UFC Qatar UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE95ZHE5RFpOS1BMUHoyWWVjWkhtd1lqWkhXRktad0Z4OVdheVVmUW82RzVjbUc0ZEUyRDF3YjBWdzlFREJaMHlz?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794926504
-  },
-  {
-   "id": "3c10036b5315da07",
-   "title": "Kayla Harrison, Ciryl Gane could be in line for rematches after UFC 334",
-   "summary": "What options do Harrison and Gane have after the first defenses of their titles at UFC 334?",
-   "link": "https://www.espn.com/mma/story/_/id/50494167/ufc-334-next-ciryl-gane-kayla-harrison-more",
-   "source": "ESPN",
-   "kind": "news",
-   "ts": 1794926481
-  },
-  {
-   "id": "456685c10135deaa",
-   "title": "Robert Whittaker: Laser-focused Israel Adesanya 'beats the brakes off' Shara Magomedov",
-   "summary": "Robert Whittaker is siding with his former foe to rebound at UFC Fight Night 295.",
-   "link": "https://sports.yahoo.com/articles/robert-whittaker-laser-focused-israel-144022673.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1794926422
-  },
-  {
-   "id": "dd3c1284ab5a9467",
-   "title": "MMA divisional rankings: Kayla Harrison is back and in top form",
-   "summary": "Here's a look at every weight class to determine the best of the best in UFC, PFL and beyond.",
-   "link": "https://www.espn.com/mma/story/_/id/21807736/mma-divisional-rankings-ufc-pfl-weight-class",
-   "source": "ESPN",
-   "kind": "news",
-   "ts": 1794926203
-  },
-  {
-   "id": "5499b5f116bbfa04",
-   "title": "Mike Perry signs whopping eight-fight UFC deal six months after bloody Nate Diaz win - talkSPORT",
-   "summary": "Mike Perry signs whopping eight-fight UFC deal six months after bloody Nate Diaz win talkSPORT",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTU5SGlxLUlBZm5tS09IX1AwdWdwaVRndlZYNTBUZkduYnJrMWtJMEdNaGVPclFBaURxQkJPajR4Q3QySjhtQTlPRmtuNHJBV01OOWVsOEJHbS1OcTg4X2RwaEZhOVlLczlRd3o1Q1lTTl93TTB5VnlXREUtZEdBcnR5Z09Qcm1NbDNXM3hKQkR5X0E?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794924933
-  },
-  {
-   "id": "91f9cfdf2061cb6f",
-   "title": "Matt Brown doubts Josh Hokit’s ability to become UFC heavyweight champion: ‘I don’t think he’s going to get better’",
-   "summary": "Josh Hokit went to war with Ciryl Gane at UFC 334, but ultimately came up short losing a unanimous decision after five rounds before calling for an immediate rematch. While Hokit remains ranked near the top of the division, retired UFC welterweight Matt Brown admits despite scor…",
-   "link": "https://www.mmafighting.com/ufc/521780/matt-brown-doubts-josh-hokits-ability-to-become-ufc-heavyweight-champion-i-dont-think-hes-going-to-get-better",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1794924000
-  },
-  {
-   "id": "a9fe5140db9034fa",
-   "title": "Jiří Procházka: 'I'm Ready For A Long Tactical Fight...Or To Smash Him' | UFC Qatar - UFC.com",
-   "summary": "Jiří Procházka: 'I'm Ready For A Long Tactical Fight...Or To Smash Him' | UFC Qatar UFC.com",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HOGViYVRwcnhMNkR4OFBCbDZoYUc2TEpCZ3FlejliTFNnVzhwRFI1UlFmbGFVS3V0bGp4cThIb2JrM0llX1Fn?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794923478
-  },
-  {
-   "id": "1a89402ec42e23f9",
-   "title": "UFC FIGHT PASS® and XFC® Reach Exclusive Streaming Agreement - The Manila Times",
-   "summary": "UFC FIGHT PASS® and XFC® Reach Exclusive Streaming Agreement The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdGxTTU5Jb3hpVGFWb1prTnd6UlA5SVlJbzhzTWJWTWhkTllabXNtanhWendhc2xUa2pnUWVQaktseUNDVjFvV0tjVTkzWkp2b1ZPMUpjd25IM01rRklfTzhoRHRHa1lEZllsSWl2X21mdVlxTWs3cFVpOUhJRUpTZng4UmZVbWx6cjBOZHZ1cjV2bldWSUZDX2FBU3ZtZzQ5M2JhbzJKelk2ZlY4NktnWG1ISGVxb0dSb2MxWk5mc054VHZDbU8xanlTcFPSAdIBQVVfeXFMTW5qYU1fV3hTZzBOc2NTQWpJY3B4LUFvbWNqZ3FPTzgxeTNWdzlxTFVaMm9tcFlZY2dYRVEwaHBaMnY3RnBjRXAwaUhoUzdPZ1VoaXZ0enVrU0d3TEo4MVhmeHJsRTJCOURuU2l0NXk1RVZUYWt0YWY3UjJtQ2FLS0FJeVBIZDQ5RWJ3bDBjS085S2FnNHRtM2ZiQ0U0ZmdMRDVfdFNIMXlzbzVjU3AxS3F4Rk1vNWhjbUgyemU3Z3p3dXl5QXVid05mNmFzY3MwTktB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1794923321
   }
  ]
 }
