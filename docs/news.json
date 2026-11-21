@@ -1,6 +1,402 @@
 {
- "updated": 1795251123,
+ "updated": 1795278903,
  "items": [
+  {
+   "id": "8cdec932cc33ffa2",
+   "title": "Derek Brunson shines in debut at BKFC Myrtle Beach, targets fellow UFC vet Darren Till - MMA Sucka",
+   "summary": "Derek Brunson shines in debut at BKFC Myrtle Beach, targets fellow UFC vet Darren Till MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWxhVlpwWEI0clZENE05Uk1aR0pwRnAycThiTjhabzZzcjFaQkxyT0d0aGp0NUJHc3psQk5zWWtsOGVxZnVVa0pnNW1fTFI3REJld3cwZVVxaHEwcC1JVm0xSklReU1SakY4QU8xUktwamdfYTRmTVFpYl9SMFR0RWZIWFNIVFRyQXRXWnRtcEY4X0szRjlzNXlfdmJjZUI1NGpkcjN3TlFkRTBtU0R5QXhB?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795278746
+  },
+  {
+   "id": "391f5d1af74453b8",
+   "title": "Diyar Nurgozhay Stops Alik Lorenz In Round 2 | UFC Qatar - UFC.com",
+   "summary": "Diyar Nurgozhay Stops Alik Lorenz In Round 2 | UFC Qatar UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE85MDFsQk5yczl0dzhVYTBWRlFyQmRGX1NaWVlpMWstQUdPSUZqejYteXRUS1lJMTQxNnZaMkxfcWt5cXZxV2hR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795276651
+  },
+  {
+   "id": "5172e8de1a2090e4",
+   "title": "Highlights! Diyar Nurgozhay swats away Octagon newcomer with smashing head kick knockout | UFC Qatar",
+   "summary": "Diyar Nurgozhay pushed his UFC win streak to three earlier today (Sat., Nov. 21, 2026) at UFC Qatar LIVE on Paramount+ from inside ABHA Arena in Doha, Qatar, smashing Octagon newcomer Alik Lorenz with a second-round TKO (head kick and punches). Nurgozhay, 29, came into Saturday…",
+   "link": "https://www.mmamania.com/latest-news/487829/watch-ufc-qatar-video-highlights-results-paramount-nurgozhay-head-kick-knockout-lorenz",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1795276639
+  },
+  {
+   "id": "e0d40b9a90d14641",
+   "title": "UFC Qatar Highlights! Nurgozhay Swats Away Newcomer With Head Kick KO - Yahoo Sports",
+   "summary": "UFC Qatar Highlights! Nurgozhay Swats Away Newcomer With Head Kick KO Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSkdSQTk0ZFFnU0ZlRE43QTB2XzNJWGNMSG84bWRrQVZ6bFhnbmNVempZQU5LbldQSW1GenI2bEt5X3l3QUZNYmlrZ29vNVVmRGlHdy1UcGVKNUNNUmR3d3gyY2k4bExBMzFmbko2NUxjbHc1SkRNalNUbExYVHNyVU9DdXhFbFc4MFhVUFJn?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795276639
+  },
+  {
+   "id": "3426325b8865b1d3",
+   "title": "Who is Navajo Stirling? The unbeaten Kiwi headlining UFC Qatar against Jiří Procházka - Nacionale",
+   "summary": "Who is Navajo Stirling? The unbeaten Kiwi headlining UFC Qatar against Jiří Procházka Nacionale",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWtDcmtOenlNc3lUdDRKTkZqQVpTcGJJRmplN2JkTnVrc3BXM0NrbUVqMk1pOGdRZzUzYmUwc2VHcmpHS2pXSzVJbHVvNUV4SUVVdXI5MEQ0MVFUbC1hZThCcklDS1ZiRVlMZXFOLWdCVzBQUXZMdTR0dlRXVU1CcU9fdlo1S0sydUVwYVVYam51N3dmblA3RnkyMXBGYXRhRGthR3ZzQUp3RHps?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795276461
+  },
+  {
+   "id": "de3d65035de06141",
+   "title": "John Mitchell Post-Fight Interview | UFC Qatar - UFC.com",
+   "summary": "John Mitchell Post-Fight Interview | UFC Qatar UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0xM2JWYnZFa0NWd2dhbW5KTERid0FjbEZXTUNKSzZlUkdsTE9DZ3BqMTdvNl9PWEF4ZUprZTFhY2dnRlFMT1B3?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795276396
+  },
+  {
+   "id": "25592c75bc004ee0",
+   "title": "“Smaller Guy”: Aljamain Sterling Questions Kevin Vallejos’ Size Ahead of UFC Qatar Showdown - MMA Sucka",
+   "summary": "“Smaller Guy”: Aljamain Sterling Questions Kevin Vallejos’ Size Ahead of UFC Qatar Showdown MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFk4N0ZZNlJxNExGNGRtUlBhZVpVYkE1ZDM0NUFxak4yVTZxUTRtRjkzUzBpQmR3emFXS0JnMjdXS3VrNUdhMVJvTk1iMVNSTjlIbHBTdTNmT1J4RE45YXJIbldGdnhxd3pMc3NxaFYyd1RKZHV3TjdxVU5rNVRuSDB1b3VaMEJBWEY5RWVZbG9WMjBQcWptaXNneVZDVVM4dXY5QVZLZ1VSYWE4bHNLOEFWTHY?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795276331
+  },
+  {
+   "id": "1f71545010d296a9",
+   "title": "UFC Qatar video: Diyar Nurgozhay's left high kick takes out Alik Lorenz - MMA Junkie",
+   "summary": "UFC Qatar video: Diyar Nurgozhay's left high kick takes out Alik Lorenz MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY1RsRXFaYjFZNmh4YnlHUU0tYXJ5VG5LV3RkSl94SDV6cm13T2dCeXJmYUplTUJ5X3AzV3VQMC1mMTZWRmxSZmdZMWFLQ1JkS1RxZ3h1ZEVXT2lfbzlBZnlHVTNmeVc5WnNjOHh2ajBJaE4waWN5bmRqekY0Mmh1UkdhY0RFLUE1b2MxMmU5N2VpRUhHMlU0VHMweWg1RlVOdm50M2pVa00ycjN2cC1lbkdEd0xGRUwzWVlYblhVYzhtQlgxdDJoaENONEd0OW9mN2dtcmZ4c3l3VTdLMlE2bXJjbkpHdTdjWWc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795276140
+  },
+  {
+   "id": "bbd7abfcb7b72c63",
+   "title": "UFC Qatar highlight video: Diyar Nurgozhay takes out Alik Lorenz - Sherdog",
+   "summary": "UFC Qatar highlight video: Diyar Nurgozhay takes out Alik Lorenz Sherdog",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdV8tQU8xeTlTd0NQdUF5VTdNMTVpbk5LWjk3RlNldlh3SVRjRW1ZNTNYWFlMenRLLWhkRnZ3cXdjNFRwenZGME5GTHZVcXJnV0dQMUZ5SWVHbTVUN0NXV0M4ZzdGeEhtSGlUSzRjd19FU2hHV3pjekE5REw3ekpOazRoMDBMTDRWVkllUUUxbzFlRnJfVkRNV0tNdG01TjBIZWc4amtfZ0lsaXc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795276066
+  },
+  {
+   "id": "e02862ffc9d7e634",
+   "title": "UFC Fight Night 294: Best photos from Qatar - MMA Junkie",
+   "summary": "UFC Fight Night 294: Best photos from Qatar MMA Junkie",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLVZMdnQ2V3ROMEZXYkZ6NVhGXzBqdjBrcXhpM1l2NFl0ODJDMnMtSmJOV2doV1hTbzlrYUppR1VqXzR6MklxZWpsX3M2Sk94TUFRZ3VVY2pMbjlDdDZVN3Zwa2FGd3pSUjFGZDg3aHBBMXFtb2Y3ZVhQVmRPZ0YySmtfdzJOOHZmdEZPdFg3ZHlIT2lVZ203UGlCaG56QjNUZ2RkMmN1Ry1ILWZEa25Xa1VKbHZhVFQ2eHhEeFZIQ1B4YjRaNDRPMTYtWkNZV0tBa0ZDd2lEeGk4aDlhTWQ4ZjRkTnZWT3J4?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795276020
+  },
+  {
+   "id": "02a7928681facb99",
+   "title": "LIVE UFC Qatar: Procházka vs. Stirling Results & Highlights",
+   "summary": "On Saturday the leading MMA promotion returns to ABHA Arena in Doha, Qatar. UFC Qatar will be headlined by a […]",
+   "link": "https://sports.yahoo.com/articles/live-ufc-qatar-proch-zka-120000757.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1795275813
+  },
+  {
+   "id": "0c7896deef8871bb",
+   "title": "UFC Qatar live results, highlights, play-by-play | Prochazka vs. Stirling - Yahoo Sports",
+   "summary": "UFC Qatar live results, highlights, play-by-play | Prochazka vs. Stirling Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTVEZXJwVEJPR1BIcjhzMXd3a3VMWm9EVTJIZkU0WHpEVkY1MXZ4QVBuU19MOWtkZTRJb1AtRlFYbkZfRXVxUlgwOWlnNWtvNzh1ZFZfam9RWjduQlhyVHlGZVhCbWJ6YmhITUo3ZXdZZmRfUmc2Xzh0cHJJY3RsMFROQW80OXhLc1E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795275512
+  },
+  {
+   "id": "6394faf584dad916",
+   "title": "UFC Qatar video: John Mitchell blasts Shoaib Yousaf with knee",
+   "summary": "John Mitchell timed the knee perfectly to take out Shoaib Yousaf at UFC Fight Night 294.",
+   "link": "https://sports.yahoo.com/articles/ufc-qatar-video-john-mitchell-153259433.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1795275179
+  },
+  {
+   "id": "d74f2d194b63c2f0",
+   "title": "Highlights! Ireland’s John Mitchell debuts on three days notice, delivers violent knee knockout | UFC Qatar",
+   "summary": "John Mitchell made a spectacular Octagon debut earlier today (Sat., Nov. 21, 2026) at UFC Qatar LIVE on Paramount+ from inside ABHA Arena in Doha, Qatar, stopping lightweight counterpart Shoaib Yousaf with a devastating first-round TKO (knee and punches). This “Prelims” opener c…",
+   "link": "https://www.mmamania.com/latest-news/487814/watch-ufc-qatar-video-highlights-results-paramount-mitchell-knockout-knee-debut-yousaf",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1795275085
+  },
+  {
+   "id": "f8b9acde7d7e8805",
+   "title": "UFC Qatar Highlights! John Mitchell Debuts With Violent Knee KO - Yahoo Sports",
+   "summary": "UFC Qatar Highlights! John Mitchell Debuts With Violent Knee KO Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdVhDWERHc0lPUXBuYzdRc0ZwQXFPbk1iS2pFWllSQkh6d0NjdGN6V1BJanFUMEhmbzhxTjBFajgzSjFKU3Y1ZEN6WFEtaDY4QjdvVXNGWnFQUmRfd3dRcWJMdWdFYXZLeG1KdzM1T1FWZkNMa3pteGJhWkF0RGRoNmNSa0tDV29xbkRZ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795275085
+  },
+  {
+   "id": "bef6d3f712f83d84",
+   "title": "UFC Qatar highlight video: John Mitchell knee ends Shoaib Yousaf’s night - Sherdog",
+   "summary": "UFC Qatar highlight video: John Mitchell knee ends Shoaib Yousaf’s night Sherdog",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMWE1Vjd3YlBLMGdGX29xak0tYlpab0tHNzhiOHQ0MU5hNFcxNWJOeUo1NW1vakpOWWNCSzdwOGFhUnFFalgyUURma0JGNi1vUUUwcUZuUUpTSmlBd0ZJaGZkVUVENGk3TTE1LVBibWlFUVJpaWl1YkJNNkJ3MFlna2Exa2FVUTh2aUk4YV8wUkJBRzZWbGx5TGM2OENzdTJVTFJjSE4xbVk0OGRXYkppTVdjdFdfRlpoX0VnNzZjOA?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795275000
+  },
+  {
+   "id": "09fc595dcaef9d5b",
+   "title": "John Mitchell defeats Shoaib Yousaf With TKO In Debut | UFC Qatar - UFC.com",
+   "summary": "John Mitchell defeats Shoaib Yousaf With TKO In Debut | UFC Qatar UFC.com",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVZnFoWl9MNjdiUlB5aDhMS2t6SFR2N0Z1Rmc4cTBuRkpnb09uNnlLdER3emNDV29JQ1UzWE5WeEVYcGdRV1lV?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795274982
+  },
+  {
+   "id": "f57b599fe3cb631b",
+   "title": "John Mitchell Makes UFC Debut Against Shoaib Yousaf in Qatar - cwibc.co.id",
+   "summary": "John Mitchell Makes UFC Debut Against Shoaib Yousaf in Qatar cwibc.co.id",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fWENvbHE1X1FSRkFRemgxNmJoc2NkNGdzdlc4RWdFc0Zqb1ZyWkJwT2c5c3J5OF9qZDJ3RGpaWlZLYkFXLUFaSlV5OXN0bUlfeF9uTnJ0RXU5T25WYmJhTUt6ZVk?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795274778
+  },
+  {
+   "id": "dba6679466468626",
+   "title": "LIVE UFC Qatar Results: Prochazka vs. Stirling - Yahoo Sports",
+   "summary": "LIVE UFC Qatar Results: Prochazka vs. Stirling Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU2xpZkR1ajBtelN4VFctZXBVQWhDcWI4RDh2Ri0wZzI2S1NWZkVsNWw5RUFVU09LSGpLV3RCTlNaOHlJU2F3QTAzd1FJYzltVjlIMmFuY1h6bnZ0YnNVREhWbzRmUUhTb25fMnVuc3poUFp3NVo2OVNpeXVlOE9xaHNJWS1fZw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795274387
+  },
+  {
+   "id": "756ebff2da59f5c0",
+   "title": "“There Is No Question”: Merab Dvalishvili Declares Aljamain Sterling Next in Line for UFC Title Shot - MMA Sucka",
+   "summary": "“There Is No Question”: Merab Dvalishvili Declares Aljamain Sterling Next in Line for UFC Title Shot MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMFNDUU1WZV9nakhkRjBSWHZNekN4U2V3UWRrVk5zUTh0WnIwZjVfT1VabUl1VlA4aHhaTnk4SWtyNVBseWRYUlljVmJOcjVETlI4T3hDNlVuTnh5S0tELWJ3N1JaX3lWUXM1dEFXUHFWS1NSSk15NER4VkVTd3FaTU9PeTZRQllYRF9EeXYwZXNLd3pDRktwOUYyZmVQckZ1UHdjMVFtRmVqSkJVdmRiWDNKWnlZRnNWS1o4NFMwNHE?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795274244
+  },
+  {
+   "id": "42d21b1aa7f28f59",
+   "title": "UFC Qatar Main Card Predictions: Prochazka vs Stirling Odds & Picks - Sports Betting Dime",
+   "summary": "UFC Qatar Main Card Predictions: Prochazka vs Stirling Odds & Picks Sports Betting Dime",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRGRIX3dZV1YyVzFldmRDZzRKX0YwUFVYOGdtZHNvQ3E0VTlzVzdGcmduS1lWN1BFc1I5OWstRXNmVGVtUG1JUzN1MlVhNWlZNlFOVHdhT1dxZXRPNFhYQXN4QXlCVWJYLXJuRWtfOGFlNzVXamNfaVBSckEyTjQ4SGU3YU9aaU5ZbXQ4UnZqb3gyWlh2N01Ma2FpaEZHeGxfcG9ZeEhzazh4eUVJ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795274100
+  },
+  {
+   "id": "ef693283f1f77183",
+   "title": "UFC Qatar: Prochazka vs. Stirling live results, analysis - theScore",
+   "summary": "UFC Qatar: Prochazka vs. Stirling live results, analysis theScore",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IaVZab2luQzRjdllxNUdzRWw2Q0JhYVRuTHpFd3FqYUZtX0NROUFITkhZcS1kb0ZHSmw3UG9hNjVUTml0bE43V0VGWG5Udw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795273299
+  },
+  {
+   "id": "5b3049aa741d7b17",
+   "title": "Sterling vs Vallejos Prediction, Odds & UFC Qatar Co-Main Event Picks - Sports Betting Dime",
+   "summary": "Sterling vs Vallejos Prediction, Odds & UFC Qatar Co-Main Event Picks Sports Betting Dime",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdFRZWlh1eTAxczdTUnEtbWlsUTRYVzFJY1JEYlNyUkwyM1VqM1E5M3pFMjM5Q2VrMUJmM05CdmdLQ2dfalV2OVdraXBPMkR5aEpEOGIzanlCaHAzMW5HTFR6bnBMSzVzd2ZuMWJNNnZfS29OVjhmTEE4ejBwdExCb0JrUWpzb1JYbEM3ejZUR0FYRnc3NkE4TGZ6V2hIYkk2aXZ1anp4dW4yMzFCd0Y4?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795272000
+  },
+  {
+   "id": "fa17fb35d6a50fa9",
+   "title": "Highlights! Former UFC contender Derek Brunson debuts with smashing TKO, calls out Darren Till | BKFC Myrtle Beach",
+   "summary": "Derek Brunson hadn’t fought in nearly three years entering his bareknuckle boxing debut on Friday night (Nov. 20, 2026) ay BKFC Myrtle Beach, but that didn’t stop the former UFC contender from turning in a dominant knockout performance. As mentioned above, it’s been a while sinc…",
+   "link": "https://www.mmamania.com/bare-knuckle-boxing-results-rules-ppv/487789/highlights-former-ufc-contender-derek-brunson-debuts-with-smashing-tko-calls-out-darren-till-bkfc-myrtle-beach",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1795269960
+  },
+  {
+   "id": "d17f34e99bab932e",
+   "title": "Open Thread, Saturday, November 21: Come hang out!",
+   "summary": "Here’s your open thread for Saturday (fight day!). Here’s a good place to stop in and talk all things not UFC… or UFC, if you want. I’m not your boss. Also, we got an app! MMA ADJACENT The Kyushu Basho ends tomorrow. It’s been great! Here’s a match between Ukraine’s Aonishiki an…",
+   "link": "https://www.mmamania.com/daily_mania_ufc_mma/487797/open-thread-saturday-november-21-come-hang-out",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1795269900
+  },
+  {
+   "id": "1fb16d078de47321",
+   "title": "UFC Qatar: Procházka vs. Stirling live results",
+   "summary": "The UFC Fight Night 294 live results from Qatar begin at 10 a.m. ET on MMAWeekly.com.",
+   "link": "https://sports.yahoo.com/articles/ufc-qatar-proch-zka-vs-140100281.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1795269660
+  },
+  {
+   "id": "c587c180da0d5276",
+   "title": "DraftKings promo code: Get $200 in bonus bets, free NBA League Pass for UFC Fight Night, Prochazka-Stirling - CBS Sports",
+   "summary": "DraftKings promo code: Get $200 in bonus bets, free NBA League Pass for UFC Fight Night, Prochazka-Stirling CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZzlQWDUxUE1PQXAtUExtN3llVlAxTTNCcUU2bWhzVHRjTDNtRUQyQlZMNEFWdWt5UjFkRFp3aWpKdW96WkxFdjR6MER2Y0s5RVMwSzNadV8tMmdyOEV2ZTkwb2N1OHNiQWxFMTJFcmh4TmlISEwyUkJWalU1ZTdHTGtrMmlVdzVDaGdFbmxMT0JSdGdjZXF4OS02V0lzblBIYldXQ212bm5Sa0ZDc3VqOWhGVVZHckp2R0h0VDRXVDMzaGs2azI0VmR6RWg2dE9ZcTRzZm5R?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795267529
+  },
+  {
+   "id": "51f05514f00bdb21",
+   "title": "Polymarket referral code CBSSPORTS: Get $25 bonus for UFC Fight Night, Prochazka vs. Stirling on Saturday - CBS Sports",
+   "summary": "Polymarket referral code CBSSPORTS: Get $25 bonus for UFC Fight Night, Prochazka vs. Stirling on Saturday CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU2piSzdKdEZNQjhiU2NjQmJCNzlDOXcwMEd3U3VYd3ZYUXM1TmNOV2hRcDAzdVA5Ymwyci1FVlZMVkFxY2pxNUU5Sk94UzRxR09QbDhlVzdtWG1wSzdOeVU0SlREWHVwSU80V2tHSm9CdGhCVUF1WUYxSDdGRUJhcmt1OWZ3S3VWYUd6RDMzbWcxTU5nY1JIQTRBZXhvYzdkenBySDhxb3FBMTZmWjZyaHUyNTFmSWZWdFlDUVlVT2ZMNVJYdjd6UWRhZXcta1NDVGFR?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795266943
+  },
+  {
+   "id": "79ed35135606a730",
+   "title": "Jiri Prochazka vs. Navajo Stirling: Odds, full fight preview and prediction | UFC Qatar",
+   "summary": "Ultimate Fighting Championship (UFC) Light Heavyweight strikers Jiri Prochazka vs. Navajo Stirling will clash TONIGHT (Sat., Nov. 21, 2026) inside ABHA Arena in Doha, Qatar for UFC Qatar. Prochazka enters this main event slot coming off one of the most irritating losses in recen…",
+   "link": "https://www.mmamania.com/ufc-events-ppv/487391/jiri-prochazka-vs-navajo-stirling-odds-full-fight-preview-and-prediction-ufc-qatar",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1795266900
+  },
+  {
+   "id": "635777496d274803",
+   "title": "UFC Qatar live updates: Jiri Prochazka vs. Navajo Stirling results",
+   "summary": "Follow along for live updates and round-by-round scoring for UFC Fight Night 294 in Qatar.",
+   "link": "https://sports.yahoo.com/articles/ufc-qatar-live-updates-jiri-130212410.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1795266132
+  },
+  {
+   "id": "62aee37eaba9bc77",
+   "title": "How and where to bet UFC Fight Night: Prochazka vs Stirling: Sportsbook promos, betting apps, picks, odds - CBS Sports",
+   "summary": "How and where to bet UFC Fight Night: Prochazka vs Stirling: Sportsbook promos, betting apps, picks, odds CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZkgyT0NqVzE0cjdkdTAwRkZYQUJoWjJmOU1RNHhEZU9jWW03MEZRX2JDT29QVV9IYS12cEV4RHBzTGsySm53TXdxM0hoYUVReVZqemRneDBNWFJiZ3dHX3VnMXpydDJqZDNrVlpIa21tamZ1RGVQanBnd0hoeGlpdjl6ODNHX3Y3WDQ3VXJOcHFBbTR3Tm9haUNYaTFKdEZxNlpoQXhwN0FBVUcxSDM0dk9OOF9RbjZtRi04Sk84dmhDZEQ5aVNDdTlINHlKMnNuNElHRnE0OA?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795266062
+  },
+  {
+   "id": "639dd2d0ba3e7e44",
+   "title": "Lerone Murphy vs Jean Silva Rumoured for UFC Manchester In March - MMA Sucka",
+   "summary": "Lerone Murphy vs Jean Silva Rumoured for UFC Manchester In March MMA Sucka",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmVQbXhfRVFDaWtiZzBtT19LS0FWTHljQmRWT2ZvbjZwUlRkbmlnM1h5U2NNd3k0SVMyNi16anc4ZFdIVkpHZmo4dk5vM3VYemNaMlktZ0xaMlNsa3pKNzhaWTUzeUFHMnVBa1hPMUJaNU5tQ2QyVzdnNzN3QU9NZkt3YTVvOTY0V19MZjNLMV9lUVdNb0E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795264339
+  },
+  {
+   "id": "ee385ad1358fac47",
+   "title": "UFC Qatar live results: Prochazka vs. Stirling updates, round-by-round scoring for today's fights",
+   "summary": "Follow UFC Qatar live results and round-by-round updates for the Jiri Prochazka vs. Navajo Stirling fight card on Saturday in Doha, Qatar.",
+   "link": "https://sports.yahoo.com/mma/live/ufc-qatar-live-results-prochazka-vs-stirling-updates-round-by-round-scoring-for-todays-fights-123000967.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1795264200
+  },
+  {
+   "id": "ce6d5814df41aa2c",
+   "title": "Yousaf vs Mitchell Prediction, Odds & UFC Qatar Opening Fight Picks - Sports Betting Dime",
+   "summary": "Yousaf vs Mitchell Prediction, Odds & UFC Qatar Opening Fight Picks Sports Betting Dime",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmR1azhHb0IweE5IQncydVpJZlJsRWt1S0tBNTY0bEprT28yNlJzUy1OV213SUdWRGI5d1dRTE1ldF9mZ0JING0tXzlISnJpWWJiSW5lWk9lZnNrYWhvTWMxVDB4d09heGk5YTcwVnBSTFQwdE5wZlBMTl8zd0g5T0hPYVVoeUh4QWVVSkVCTUVwVm0tM0NmYzloUEsxeFkxSEdPb3dTT3ZYeUJK?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795264200
+  },
+  {
+   "id": "924f4b786794fbe6",
+   "title": "UFC Qatar Prelims Picks & Predictions: Best Bets Include Albazi vs Costa - Sports Betting Dime",
+   "summary": "UFC Qatar Prelims Picks & Predictions: Best Bets Include Albazi vs Costa Sports Betting Dime",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUnk3ZDl4V19RUWFJMHo5OE0zYkRkNWxacUJGRkxwWlYzaGtHSGl5YWRaaWxkZi1SV0Z4cUk1YWc1RUktVGxvbnVqclBWQWdDYlJxdFcyOExfM2NlVk9RVS1NRUhkMkhFMGFPQkQxLU52dFdEc25vRG1YbTBxSEZkODBBTzVVWnlXdmF3Y01JN0E0bXpzY20tb0lkSmxNZVJiMnh6QTRSUnVPOGIzSkJv?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795263000
+  },
+  {
+   "id": "c18486936e968469",
+   "title": "UFC Qatar Predictions – Procházka vs. Stirling & All Main Card Fights Today - PrizePicks",
+   "summary": "UFC Qatar Predictions – Procházka vs. Stirling & All Main Card Fights Today PrizePicks",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbnN4UGNGNThsWnV3d0UzakFoWDU1cFN2TVZzRHdkWjlTRW1HWENJd3A5dVZ6aTN0dXZjRGdwb09FVUtKcElWdld0eVV1ZGpwRGNJLVk3SEV4ekM2dVltVV9qQXduakR4M2dZa3JsUnhSZlhXWTVocXVmeDd5UmdEQXUtbW1YVDVfZkUySGo3alo3QWpZX3c0YTRxNC1oQWFQaU5nMzFVenMzZ1hmY0QyZ2h2VVI?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795262659
+  },
+  {
+   "id": "ee2dce1b1fcb6ed4",
+   "title": "Here’s How to Watch UFC Fight Night: Procházka vs. Stirling Live Online for Free - Billboard",
+   "summary": "Here’s How to Watch UFC Fight Night: Procházka vs. Stirling Live Online for Free Billboard",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPclVYeWtnZjZGTlk4UWRzaW1wMU4zR3dtWk1NVFlWTGdHeHhKRHlPc0pIZGRPRFBycXBwQU5HTW81TnFHMDljck5SVGMxWjhYSEtPS21xOFdtZ0NuTVZWMUpTQTNhU0tRTzVXLThfb3lYYzluc3JjeVRpaDJBZWxMSDh2V09xTkFKTWJfWGROU2E1QWFhYm9jRUxaTEp2cjAzeHkwenpmc1VrN1p5MjNVTUxCTEVtbHVJRW4yUXk3a0M3R0F3a0E?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795262430
+  },
+  {
+   "id": "e154fe3bf72fffe7",
+   "title": "UFC Qatar: Free Live Stream Results & Highlights for Prochazka vs. Stirling - Sports Illustrated",
+   "summary": "UFC Qatar: Free Live Stream Results & Highlights for Prochazka vs. Stirling Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM0hoMGNLaU84cndfWkYyMnlWaGFrMzlQdEtTQnUyTnp1czB2cHhNQ0ktcGpVYjRJa3BsdWJSUWw0aWFuNFl4dGtxemNxSWRlTXpmODQtN0x6VUg4dlF4dXdDMzkzemJOQjVabEFaQnA2LVlIckkwdFFzaDJjSFVjWVl3QXo5YzZzS25ibEdsZzQza0t5ZmxtdVJ4RUo0SXBOYWNYSEhGbWM?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795258801
+  },
+  {
+   "id": "5987e76561cebb47",
+   "title": "UFC Fight Night: Prochazka vs. Stirling betting guide, preview, predictions, picks - New York Post",
+   "summary": "UFC Fight Night: Prochazka vs. Stirling betting guide, preview, predictions, picks New York Post",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkdJVmNRVV94enRrbmE3amZNNlR4Y2hBS1JPaXZhZl9BdE04MUZiVnFYR3M5dlhrV01iQ1Fhek5DQ1RySzduZVdzZWloeFA4V1RsaFFOVU5NcEQ4SGgxZnFJdVdNZnd1RW5BV1RVTnNhc2Q3UWFFcVM5VlM5WjBrNnpCSE1ickQ0WXEwa3F1SGE0dFpkOFFpQlhIQjQ2RjVuaWNSQ2JHQWRsRkxkRk8xSHE3dlBiZmc?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795258800
+  },
+  {
+   "id": "60f5b9d48b00dfc7",
+   "title": "Diyar Nurgozhay Head Kicks Way to Third Straight Win",
+   "summary": "After dropping his first two UFC fights, Diyar Nurgozhay seems to have gained momentum in the Octagon, scoring his third straight win after a head-kick-led KO at UFC Qatar.",
+   "link": "https://www.mmanews.com/article/diyar-nurgozhay-head-kicks-third-straight-win",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1795258342
+  },
+  {
+   "id": "64dbedd7aabd1414",
+   "title": "John Mitchell Catches Shoaib Yousaf with Knee for UFC Debut KO",
+   "summary": "A battle between former training partners, each taking the fight on days’ notice, leads to John Mitchell scoring a highlight KO in his UFC debut to kick off UFC Qatar.",
+   "link": "https://www.mmanews.com/article/john-mitchell-shoaib-yousaf-knee-ufc-debut-ko",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1795256982
+  },
+  {
+   "id": "c48e577b1ec552d5",
+   "title": "UFC Qatar start time, full fight card details | Jiri vs. Stirling",
+   "summary": "Ultimate Fighting Championship (UFC) is back in Doha, Qatar, later TODAY (Sat., Nov. 21, 2026) to stage UFC Qatar, featuring pivotal Light Heavyweight showdown between former champion, Jiri Porchazka, and rising star, Navajo Stirling. In the co-main event of the evening, Aljamai…",
+   "link": "https://www.mmamania.com/ufc-programming/487604/ufc-qatar-start-time-full-fight-card-details-jiri-vs-stirling",
+   "source": "MMA Mania",
+   "kind": "news",
+   "ts": 1795252800
+  },
+  {
+   "id": "5eb06b4cc089efad",
+   "title": "UFC Qatar Start Time, Full Fight Card Details",
+   "summary": "Ultimate Fighting Championship (UFC) is back in Doha, Qatar, later TODAY (Sat., Nov. 21, 2026) to stage UFC Qatar, featuring pivotal Light Heavyweight showdown between former champion, Jiri Porchazka, and rising star, Navajo Stirling. In the co-main event of the evening, Aljamai…",
+   "link": "https://sports.yahoo.com/articles/ufc-vegas-124-start-time-092000208.html",
+   "source": "Yahoo Sports",
+   "kind": "news",
+   "ts": 1795252800
+  },
+  {
+   "id": "3a8feed740982112",
+   "title": "Prince St. Pizza Puts UFC Stars Charles Oliveira and Diego Lopes Head-to-Head in Pizza Showdown - RestaurantNews.com",
+   "summary": "Prince St. Pizza Puts UFC Stars Charles Oliveira and Diego Lopes Head-to-Head in Pizza Showdown RestaurantNews.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0ZHNnFUUnlYRHVLZFBMY2tqQm9sZWhjWEJjTE15aHhzVm1faEZjRFBra05fUFBMSzZSYTdCZVRqSU45NHJyZEF5ZlUwU1RtbmVKQmVxc2NiVWFHQjNMVHRzbEZuQkJ6SGdUSEZySUpQemoyTWtJa0RnMnNJRnRyR1JGUHp2SnRzbmZQMjhLSVE4cXkyUDdpTzREdlQ?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795250977
+  },
   {
    "id": "b471fbbe96f2bb5c",
    "title": "Roster cuts! Three more fighters released, including former main event Featherweight",
@@ -407,6 +803,15 @@
    "ts": 1795215160
   },
   {
+   "id": "bdb0c0c002df5337",
+   "title": "Amir Albazi vs. Alessandro Costa prediction, odds, pick for UFC Doha - Yahoo Sports",
+   "summary": "Amir Albazi vs. Alessandro Costa prediction, odds, pick for UFC Doha Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQktObFRHU0FNNkMtVThVQWZUaGJkR3JieTdLQXh6SWE4djFwV05KUXB5UWM1SUhuOTBaREJhTFQ3R2tIdFZ0MXlKZUtyOGJ2WjBnc3A1OFRzWGlPaHR6SUszNTVIbjJDM3VvYVVvazc0NTM5aTFRNzB5eU1uUk9ObXhuNEpyOEU?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795214979
+  },
+  {
    "id": "65364b96f4cff1ce",
    "title": "Jake Matthews vs. Tahir Abdullayev prediction, odds, pick for UFC Doha - Yahoo Sports",
    "summary": "Jake Matthews vs. Tahir Abdullayev prediction, odds, pick for UFC Doha Yahoo Sports",
@@ -414,6 +819,15 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1795214950
+  },
+  {
+   "id": "b53550b753270af4",
+   "title": "Nikolas Motta vs. Dom Mar Fan prediction, odds, pick for UFC Doha - Yahoo Sports",
+   "summary": "Nikolas Motta vs. Dom Mar Fan prediction, odds, pick for UFC Doha Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KMWVYb2NCc3VCVUpXckQ0UmY3UGxnOHdwQVlvYk9fUFlILWdDQ2M3WTA1VTl0SG5ycjQ5WlZBXzFhMWVJUU1DMi1ITTI1MFVUd1pSYklvVHZIZW1VZjVNVkpmakYybWFEYVZYbDkzamNlVzdrSFBXbE5SRFJsdw?oc=5",
+   "source": "Google News",
+   "kind": "news",
+   "ts": 1795214909
   },
   {
    "id": "f60ea16f68d0c074",
@@ -1332,6 +1746,24 @@
    "source": "Google News",
    "kind": "news",
    "ts": 1795178234
+  },
+  {
+   "id": "a025927946bd9feb",
+   "title": "Daniel Cormier Reveals Phone Call With Josh Hokit",
+   "summary": "Daniel Cormier says he does not hate Josh Hokit and revealed the two had a great phone call after UFC 334, as he responded to accusations of biased commentary.",
+   "link": "https://www.mmanews.com/article/daniel-cormier-reveals-phone-call-josh-hokit",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1795177051
+  },
+  {
+   "id": "b29321e9afc4ced1",
+   "title": "Brian Ortega Blames UFC for Moicano Backlash",
+   "summary": "Brian Ortega says the UFC announced his March fight with Renato Moicano before he ever agreed to it, leading to unfair backlash ahead of his Dan Hooker bout.",
+   "link": "https://www.mmanews.com/article/brian-ortega-blames-ufc-moicano-backlash",
+   "source": "MMA News",
+   "kind": "news",
+   "ts": 1795176987
   },
   {
    "id": "6a26ff28491fc038",
@@ -3168,438 +3600,6 @@
    "source": "Yahoo Sports",
    "kind": "news",
    "ts": 1795038240
-  },
-  {
-   "id": "336c7f061358ab67",
-   "title": "UFC Qatar With Exciting Undercard Saturday, Nov. 21 - MMA Sucka",
-   "summary": "UFC Qatar With Exciting Undercard Saturday, Nov. 21 MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN0d4M1I5WnhORVc4LVBhXzZIMGF2QWJwenBYa2RJSU1La3d0THpSVWZXR09pWnR0SDdpWi1oU0FzOS1PeUZCWjZrbk11alFxanpmcDJfcEZ5MllYOUlsdWpUeVQtQUc4MHNKa2dNS1dvakttUzU4TEpDa2ZPMzBzWg?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795037973
-  },
-  {
-   "id": "a415d97c0ccd968a",
-   "title": "Opinion: Where does UFC 334 rank among the 10 Madison Square Garden UFC cards?",
-   "summary": "Every week I solicit questions in the feed. Sometimes, I get a question so good that I want to spend 1200+ words diving into it. This is one of those weeks. Was UFC 334 the worst Madison Square Garden card of all time? Was that the worst MSG card of all time? Other than a […]",
-   "link": "https://www.mmafighting.com/ufc/522148/opinion-where-does-ufc-334-rank-among-the-10-madison-square-garden-ufc-cards",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1795037400
-  },
-  {
-   "id": "9125b25145881f0a",
-   "title": "UFC Doha Odds: Prochazka Vs Stirling Prediction, Best Bets - RG.org",
-   "summary": "UFC Doha Odds: Prochazka Vs Stirling Prediction, Best Bets RG.org",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmFWOXhiRUx2a0g2N1ZHc2ZWLXM4bWhsTGRVbVkyVnc3SXpZOGRGNEl4SzF6NGhiT2dvdGV0WFB2QVlPRWVxUUhqUnppVGx6dkVNYldiWlBNR20wTUZITEhyNFlod2JjdVRaVUFPT2IwVXdfMlVZZWs3QU9OdHV1VEIzYXRZOExJTktFdDZibnRYdFlFVHBv?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795036950
-  },
-  {
-   "id": "f09a61d2d7370d60",
-   "title": "UFC Fight Night 294 pre-event facts: Will Navajo Stirling continue surge? - MMA Junkie",
-   "summary": "UFC Fight Night 294 pre-event facts: Will Navajo Stirling continue surge? MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUnZPejZIX3FDS25HNmtOaFZHaG15VHc4OXM4QkFJMWVzVDFORDRJQlhDRGdnYUFiUWVYQUtOQURKNExmTEw0WUFFeUhJQ3Zsb2lLRHpRS0lUS0gxZmpQbE5uVTYwR1NvRVg0Yjd4aGMyNXRYaDBERm1GbkV2XzdhVkl5QWNQZ1lMSEg3MDE0WFZoWTBDZEtmbkZ2a2JWNWJ6NXJ1SU1Fd3hWc1NJM21uQW1sYjh5bFhJYzZEQWo5VkVwX2h2WlpCbXMzbmw2UG4tOFc5eg?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795036800
-  },
-  {
-   "id": "30007f0b1b333577",
-   "title": "Conor McGregor celebrates GTA 6 launch by giving all 400 of his employees the day off",
-   "summary": "Former UFC champion Conor McGregor claims to have 400 employees scattered around the globe. Wherever they are and whatever they do, tomorrow will be a day of rest. That’s because Rockstar Games is releasing Grand Theft Auto (GTA) 6, the latest installment in the record-breaking…",
-   "link": "https://www.mmamania.com/ufc-news/487294/conor-mcgregor-celebrates-gta-6-launch-by-giving-all-400-of-his-employees-the-day-off",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1795036495
-  },
-  {
-   "id": "44cf58dff404bc53",
-   "title": "Ryan Hall parts ways with UFC 5 years after last fight",
-   "summary": "Ryan Hall hasn’t fought in nearly five years, and now, he’s officially out of the UFC roster, MMA Fighting has learned. Hall, who was last seen inside the octagon in a decision victory over Darrick Minner in December 2021, remained on the roster since, getting randomly drug test…",
-   "link": "https://www.mmafighting.com/ufc/522274/ryan-hall-parts-ways-with-ufc-5-years-after-last-fight",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1795035088
-  },
-  {
-   "id": "bc97a26a30d50a17",
-   "title": "UFC 334’s Cesar Almeida Wants Israel Adesanya Next - Cageside Press",
-   "summary": "UFC 334’s Cesar Almeida Wants Israel Adesanya Next Cageside Press",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3REVjbFFhNlVRV3dmeWN3V2VJYnZrX3RyZC0wSFdUWG9jOUZEVnFfVGMwNGc1Mm5vaG1HYTM2TmhFTjlTV1FkemsyVElSOTh1dGt2YjdmY3hYcS1iQ3FHVDJOUl8wRHZ6dnN2R2Q5UVlpV2ZPeDY0?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795034469
-  },
-  {
-   "id": "7371b125355c1acd",
-   "title": "Bilal Hasan Targets 2027 UFC Return After Loss to Gurule - MMA Sucka",
-   "summary": "Bilal Hasan Targets 2027 UFC Return After Loss to Gurule MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTZRYzlXYlRiX1ZOLXpDN0VrcVhGZnRPUUJFZWFXbXkyTU1rZjhuVElmNEViNldPN3A0emZmUGxaU29EVUNRcjNFdy1HLUIwZ3FoYS1Bb1gzOUFwdVJ3MnFDSC1pbG9DUHVUZThCQTFmUERWWlFKemNkZTY1Vzdqd0dteEJqYXp2WkFQTWZhRkhLa2hIOTJnRHdYSENWQUNTRFE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795034358
-  },
-  {
-   "id": "e35bc31c14f27114",
-   "title": "UFC Qatar Predictions: Best Bets & Picks for Nov. 21 - RotoWire",
-   "summary": "UFC Qatar Predictions: Best Bets & Picks for Nov. 21 RotoWire",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzg4UnBJNEJwbzhhTVFVMzBscW5CQVVlbnZ5MWZrcl9leTJTMlBOQTV4YWZTLUR5cll5SDV2VjQ1UnVRU1V3UEVpMXN4TVd5NUhCeDlTUElIa2sxaUFGa0xPbktEVzdVZC1fdlNabGxWeGN4dVNSUU82MW5KSFJYSWdJcERuVzZiUTdVNjZxWHRmYUpkTFJzVGg4eUFqREd6YUE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795033980
-  },
-  {
-   "id": "0d4ef941a20e6c19",
-   "title": "Mike Winkeljohn on Josh Hokit after UFC 334: 'He will be the greatest of all time'",
-   "summary": "Mike Winkeljohn, who isn't thrilled about the ongoing Jon Jones-Josh Hokit feud, has set a legendary expectation for his new heavyweight pupil.",
-   "link": "https://sports.yahoo.com/articles/mike-winkeljohn-josh-hokit-ufc-203015138.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1795033815
-  },
-  {
-   "id": "d45cf1d2fa699f05",
-   "title": "Fans Launch Petition to Remove Daniel Cormier Over Biased UFC 334 Commentary, Crosses 7,700 Signatures",
-   "summary": "Daniel Cormier is widely regarded as one of the greatest MMA fighters of all time. However, his accomplishments inside the Octagon have not necessarily translated into universal approval of his commentary career. The UFC Hall of Famer made his color commentary debut on October 1…",
-   "link": "https://sports.yahoo.com/articles/fans-launch-petition-remove-daniel-202724988.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1795033644
-  },
-  {
-   "id": "c27051544b37f593",
-   "title": "7-time UFC headliner calls himself the ‘true’ heavyweight champion over Ciryl Gane",
-   "summary": "Alexander Volkov wants the next shot at ‘Bon Gamin’. Ciryl Gane cemented his status as UFC heavyweight champion by beating Josh Hokit in his first successful title defence last Saturday.",
-   "link": "https://sports.yahoo.com/articles/7-time-ufc-headliner-calls-202405658.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1795033445
-  },
-  {
-   "id": "6e6f10d2c0cf5f5f",
-   "title": "Navajo Stirling says Jiri Prochazka 'gets hit a lot,' expects easy work",
-   "summary": "Navajo Stirling believes Jiri Prochazka ’s defensive openings could give him a path to victory in the UFC Qatar main event on Nov. 21.",
-   "link": "https://www.sherdog.com/news/news/Navajo-Stirling-says-Jiri-Prochazka-gets-hit-a-lot-expects-easy-work-203691",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1795033276
-  },
-  {
-   "id": "eb6fc85b69c5d26c",
-   "title": "UFC Fight Night: Prochazka vs. Stirling Main Card Betting Odds - bet365",
-   "summary": "UFC Fight Night: Prochazka vs. Stirling Main Card Betting Odds bet365",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMTdiODlpenFYaThENjBGMGotVll3MEtITzlkYmRRY0JNazhGOTJXbHdPVExCVmtaakpkMnFrY1ZSVFhTY01tWkVSNEo5aUxNYnhwRWpSUjhkd2t3d2s2TkhnVnB2OGloamg4aWRWeXN2ck1FdHlMU1l5NGdvbjVyZGlqanpjbnhsc1o3MlZKNmQyVE1NRXR2eWZtQlVEM0F1dUtMOEhPa1pEUEw0UTY4QVdGQXM2QnV3dlE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795033146
-  },
-  {
-   "id": "7f633d24eb4689be",
-   "title": "Khamzat Chimaev to defend RAF title against UFC legend Rashad Evans",
-   "summary": "Khamzat Chimaev will defend his Real American Freestyle light heavyweight crossover title against former UFC light heavyweight champion Rashad Evans at RAF 16 on Dec. 19.",
-   "link": "https://www.sherdog.com/news/news/Khamzat-Chimaev-to-defend-RAF-title-against-UFC-legend-Rashad-Evans-203690",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1795032637
-  },
-  {
-   "id": "7192db24e3fa12cc",
-   "title": "Alessandro Costa Happy For Rematch With Amir Albazi",
-   "summary": "Surging Brazilian Alessandro Costa Discusses Current Hot Streak, Chance To Secure A Place In The Rankings With Win In Rematch With Amir Albazi Read the Full Article Here",
-   "link": "https://www.ufc.com/news/alessandro-costa-happy-for-rematch-with-amir-albazi-ufc-doha",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1795032322
-  },
-  {
-   "id": "503c0bf1ace86749",
-   "title": "Kayla Harrison Has Valentina Shevchenko in Her Sights, but Amanda Nunes Wants the Rematch at 145 Pounds",
-   "summary": "Kayla Harrison successfully defended her bantamweight title against Amanda Nunes in the co-main event of UFC 334. The Olympic gold medalist secured the victory with a slick rear-naked choke in the fourth round. With the win, Harrison improved to 20-1 and added a victory over the…",
-   "link": "https://sports.yahoo.com/articles/kayla-harrison-valentina-shevchenko-her-195654348.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1795031814
-  },
-  {
-   "id": "aa615fff1d2fa83b",
-   "title": "Charles Oliveira opens up on UFC lightweight title picture, BMF fight with Diego Lopes at UFC 335 - MMA Sucka",
-   "summary": "Charles Oliveira opens up on UFC lightweight title picture, BMF fight with Diego Lopes at UFC 335 MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajFwc2pSMlVwRVV0X2p0RmV5N1N4eUdiOVkxX2xwQjNVRlhsTFlHTktvR2pnTDZkV2lKaUhOTmwxZ1ZBMzdoZFRUdHV3SFJzLVRkc21oempoNTNBMFU4cDhHaHA3eWkyOGhSWHZJTjdKQkVnZkswV3p3TG1FRVVQTDk0ZnN2MkZfUUFNb0dZYjhVMm00dzB6c3JfUE8tb0VyZnRlZVRHVWNMRzR2blZ4Y25NMS1Dbkx1dFU2X0FjTlQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795031660
-  },
-  {
-   "id": "ba8b99ac0352d752",
-   "title": "Melquizael Costa reacts to first lightweight win in four years at UFC 334 - MMA Junkie",
-   "summary": "Melquizael Costa reacts to first lightweight win in four years at UFC 334 MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXJSempybGRIZm93eDdaZUlHTjBKajFqcTlBSVV4RmZ5czFhYlVBMm1nU3FpQy04Wks0dWFCZExfQ0tWUHE1czZOb1NpcjItSFhETWxRQjV3bE5MNUhOTFEzcFZBMk4yMkhZN0pUazRWVFNuM05uNWlJSXFjcklja0NJTVlWeHdSVXY0QWVsM1dWZ0pBRzd2TmRZbDhqaEtrUERnTFhxZy1idDlEUjNKRGk4REdVbUtQTUtTQzd2dWJNNnM0dUJyWjR3?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795030800
-  },
-  {
-   "id": "db6cb7ae57552355",
-   "title": "Islam Makhachev wouldn’t rule out Jake Paul’s chances against Nate Diaz in MMA",
-   "summary": "Jake Paul isn’t giving up his pursuit of meeting Nate Diaz inside the cage. The polarising former Disney star beat Diaz in boxing three years ago, spoiling the fan favourite’s first match since leaving the UFC.",
-   "link": "https://sports.yahoo.com/articles/islam-makhachev-wouldn-t-rule-193817704.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1795030697
-  },
-  {
-   "id": "30d1f018fa8a2e9c",
-   "title": "Virna Jandiroba reacts to surprising UFC release just one year after title fight: “It did catch me off guard”",
-   "summary": "Released",
-   "link": "https://www.bjpenn.com/mma-news/ufc/virna-jandiroba-reacts-to-surprising-ufc-release-just-one-year-after-title-fight-it-did-catch-me-off-guard/?utm_source=rss&utm_medium=rss&utm_campaign=virna-jandiroba-reacts-to-surprising-ufc-release-just-one-year-after-title-fight-it-did-catch-me-off-guard",
-   "source": "BJPenn.com",
-   "kind": "news",
-   "ts": 1795030623
-  },
-  {
-   "id": "5398eac68e99a1bd",
-   "title": "Jon Jones rips Josh Hokit's takedown argument after UFC 334 loss",
-   "summary": "Jon Jones has dismissed suggestions that Josh Hokit was denied a victory against Ciryl Gane at UFC 334 .",
-   "link": "https://www.sherdog.com/news/news/Jon-Jones-rips-Josh-Hokits-takedown-argument-after-UFC-334-loss-203688",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1795030575
-  },
-  {
-   "id": "c48b6134ed547ee8",
-   "title": "UFC’s Dana White recounts White House briefing stunt, rules out political career - Las Vegas Sun",
-   "summary": "UFC’s Dana White recounts White House briefing stunt, rules out political career Las Vegas Sun",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0xfUDZHZGNnd1FCNHlsS0JrZnpEbUlKNFFnNDczWjdNdU9XSzR6MVRPN0YwcFljcnhvd2NpV21YRk5wOW8xcDZlSVgwVzZIM1VVVURTbllBNEM4MnR4RHlVakFKazVCQ2hqYk9neV92b0xwTElsb0dkbklqYlZLYzV5cjZHNWZBMDJsNkdwTjhMMXo0cGlr?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795030380
-  },
-  {
-   "id": "93c5419c9bd3caf7",
-   "title": "Jiri Prochazka says Navajo Stirling is like fighting his younger self",
-   "summary": "Jiri Prochazka sees some familiar traits in his upcoming opponent, Navajo Stirling , ahead of their light heavyweight showdown at UFC Qatar .",
-   "link": "https://www.sherdog.com/news/news/Jiri-Prochazka-says-Navajo-Stirling-is-like-fighting-his-younger-self-203687",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1795030037
-  },
-  {
-   "id": "5ad5916da20603d1",
-   "title": "Jon Jones Sees 'So Clear' Winner in Ciryl Gane-Josh Hokit UFC 334 Clash After Silent Rewatch - NY Fights",
-   "summary": "Jon Jones Sees 'So Clear' Winner in Ciryl Gane-Josh Hokit UFC 334 Clash After Silent Rewatch NY Fights",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQME0ya3NYSVQ4bUNGcGRsOUhWdHZySm5qbjY3WE1WdVJUT19Id21uSTI2NVRsWl8tZXM4aTlVTFNhSXNwMS1yeVBPU19TTERhUDFHVjREX2ZtNXRTX3hrU3VTa3EyYmlybFRma2FnckdGZGVGbXg2LXkxMW92Z3JNOXJNU1BjbmtiSDBlLWVuT0ZWZW5uNVE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795029485
-  },
-  {
-   "id": "a6a7a85fdff6a9c6",
-   "title": "UFC releases Virna Jandiroba, former title challenger, current No. 3 strawweight - ESPN",
-   "summary": "UFC releases Virna Jandiroba, former title challenger, current No. 3 strawweight ESPN",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZC16NlFNS05Mb0FYN1N5UTRqZUhmU3ZsdDktZm5ZTVdvbEg3c29jWF9HWUxuUFlmM2wwVGNEMDNjS29JYzlma2NoTVJWM1JmM1lsUENWaUE2b3FrdkpmbU5zS0REXzRRNXFfd0NUaDFhc2h5ekhBTmkxOGRLM1ZyeEQ4Y0gtNG9TTDV4Y2FBanpEMWJNNUhLOXNTNHc0V2J5c18zQ2NB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795028880
-  },
-  {
-   "id": "503f607993c22278",
-   "title": "‘Stop it’ – Amanda Nunes faces fan backlash after defending her UFC 334 game plan - Yahoo Sports",
-   "summary": "‘Stop it’ – Amanda Nunes faces fan backlash after defending her UFC 334 game plan Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOEc3TGFQN0NLZjVEQkQwb292SFBGcF93NXJsSmFhZ0lNWncybnd6UmhHZTFpa2poTDdsamJialRlV0FidFFmQnA4ZElaZFRNOTN0VkZ1Z09rLVIwNG1IWExickNKSjE3RW1Ub3BJaEFXOFFGeVVrX1ZuOHRIRXd0MTNB?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795028554
-  },
-  {
-   "id": "088c740b26ae22e2",
-   "title": "Jiří Procházka | New Dad, New Skills",
-   "summary": "Former Light Heavyweight Champion Jiří Procházka Looking To Defeat Navajo Stirling, Earn A Title Rematch With The Kiwi's Teammate Carlos Ulberg Read the Full Article Here",
-   "link": "https://www.ufc.com/news/jiri-prochazka-new-dad-new-skills-ufc-doha",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1795028515
-  },
-  {
-   "id": "14c0efbf106c847e",
-   "title": "Kevin Vallejos | Chasing A Championship Opportunity To Close Year Two",
-   "summary": "Argentinian Standout Kevin Vallejos Looks To Impress Champion Alexander Volkanovski With His Performance Against Aljamain Sterling On Saturday In Qatar Read the Full Article Here",
-   "link": "https://www.ufc.com/news/kevin-vallejos-chasing-championship-opportunity-close-year-two-ufc-qatar",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1795028456
-  },
-  {
-   "id": "8a5f797fd1ebb692",
-   "title": "Khamzat Chimaev to wrestle Rashad Evans for crossover title at RAF 19",
-   "summary": "Khamzat Chimaev’s tour of former UFC champions continues. On Tuesday, Real American Freestyle announced that Chimaev will defend his light heavyweight crossover title against former UFC light heavyweight champion Rashad Evans at RAF 16 on Dec. 19 at Nassau Veterans Memorial Coli…",
-   "link": "https://www.mmafighting.com/raf-wrestling/522142/khamzat-chimaev-to-wrestle-rashad-evans-for-crossover-title-at-raf-19",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1795028400
-  },
-  {
-   "id": "92102982779dcfa8",
-   "title": "Kayla Harrison Unseats Fellow UFC Star in New UFC Rankings Update",
-   "summary": "Kayla Harrison was one of the biggest winners in the latest update to the official UFC rankings following UFC 334.",
-   "link": "https://sports.yahoo.com/articles/kayla-harrison-unseats-fellow-ufc-185755118.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1795028275
-  },
-  {
-   "id": "49ef57500eb908ef",
-   "title": "Tim Welch says plan already in place for Tommy McMillen's UFC return after overdose",
-   "summary": "Tim Welch says the wheels are already in motion to have Tommy McMillen compete soon.",
-   "link": "https://sports.yahoo.com/articles/tim-welch-says-plan-already-185026096.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1795027826
-  },
-  {
-   "id": "1a6d7eefe894e129",
-   "title": "Dan Hooker | Here We Go Again",
-   "summary": "Dan ‘The Hangman’ Hooker Talks Losing Streaks, Pressure, And Hustling Back Into The Fray This Weekend Against Brian Ortega In Qatar Read the Full Article Here",
-   "link": "https://www.ufc.com/news/dan-hooker-here-we-go-again-ufc-qatar",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1795026692
-  },
-  {
-   "id": "c0c383200c55d35f",
-   "title": "Navajo Stirling stares down Jiri Prochazka, vows to ‘knock this dude out’ at UFC Qatar",
-   "summary": "Ultimate Fighting Championship (UFC) is just a couple of days away from the upcoming UFC Qatar mixed martial arts (MMA) event on Paramount+, locked and loaded for Sat., Nov. 21, 2026 at ABHA Arena in Doha. Heading the promotion’s return to Qatar is the light heavyweight banger b…",
-   "link": "https://www.mmamania.com/upcoming-ufc-events/487286/navajo-stirling-stares-down-jiri-prochazka-vows-knock-this-dude-out-ufc-qatar",
-   "source": "MMA Mania",
-   "kind": "news",
-   "ts": 1795026056
-  },
-  {
-   "id": "20b2ec6e68f28762",
-   "title": "Should the UFC Introduce a Dedicated Official to Catch Fouls? - MMA Sucka",
-   "summary": "Should the UFC Introduce a Dedicated Official to Catch Fouls? MMA Sucka",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOTNGeEhDOWd3SmZvSWlxS3dqWkFmcG5qd19YcVRTU2poU2FiNjVuR3dKVWJDUFlTeEEwMm8zOFE5T3JVOGdTenZfb1ppQVJGajFialhXVDVpMTFQYnlBdFZFN3NfR3prX25sZjVXRTJmN2x1ZHRTN2hvaG84NmNJUWZkZVRuSEtqR0NlTS1xX1Y?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795025680
-  },
-  {
-   "id": "d326ca539382f83f",
-   "title": "Virna Jandiroba Released by the UFC",
-   "summary": "Long-time UFC women’s strawweight fighter Virna Jandiroba announced on Wednesday that she has been released by the UFC.Jandiroba had been with the UFC since 2019, but as of today, she is no longer a member of the promotion’s roster.UFC Releases Virna JandirobaTaking to her socia…",
-   "link": "https://sports.yahoo.com/articles/virna-jandiroba-released-ufc-180956274.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1795025396
-  },
-  {
-   "id": "b38c1a3bc5c7bc9b",
-   "title": "Journey To Main Event | Navajo Stirling",
-   "summary": "New Zealander Looks To Secure Biggest Win Of His Career Against Former Champion Jiří Procházka In Qatar Read the Full Article Here",
-   "link": "https://www.ufc.com/news/journey-to-main-event-navajo-stirling-ufc-qatar",
-   "source": "UFC.com",
-   "kind": "news",
-   "ts": 1795025261
-  },
-  {
-   "id": "e22313559e59469d",
-   "title": "Josh Hokit Defends Controversial Moment From UFC 334 Fight With Ciryl Gane",
-   "summary": "Josh Hokit has detailed exactly why he flipped off UFC announcer Bruce Buffer immediately before his UFC 334 title fight with Ciryl Gane.",
-   "link": "https://sports.yahoo.com/articles/josh-hokit-defends-controversial-moment-180328475.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1795025008
-  },
-  {
-   "id": "348fa9c31522a4ed",
-   "title": "Pedro Rizzo questions why Amanda Nunes grappled with Kayla Harrison",
-   "summary": "Former Ultimate Fighting Championship heavyweight Pedro Rizzo has offered his assessment of the two title fights at UFC 334 .",
-   "link": "https://www.sherdog.com/news/news/Pedro-Rizzo-questions-why-Amanda-Nunes-grappled-with-Kayla-Harrison-203684",
-   "source": "Sherdog",
-   "kind": "news",
-   "ts": 1795024894
-  },
-  {
-   "id": "05dff94773ccd8a0",
-   "title": "Conor McGregor gives Josh Hokit highest of praise as UFC star - MMA Junkie",
-   "summary": "Conor McGregor gives Josh Hokit highest of praise as UFC star MMA Junkie",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWNsekoyNEpSc0FpMW12R1ctMWhhQXJPVklpZHhiZnQxUFd0eW5TY1dhZjc5eVA4eEE0VmJJRUo1MGRHOUNwTzlsbXctWnpjOGdDSVEwVkJ0ellQNXBiaWwxVHRuczJMbVNOUHlUTndjMjhFMEQwVFR3YzlXQ0pOajhTX3doc0g4TEV3d2NzVXFwNG1ZLUczMzhHd2JLYmVxa0l3S3ZDZmRvX3FLaVFjWVB0cHg?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795024800
-  },
-  {
-   "id": "ec30d4b952ed29c3",
-   "title": "Third-Ranked UFC Strawweight Virna Jandiroba Announces Her Release - Cageside Press",
-   "summary": "Third-Ranked UFC Strawweight Virna Jandiroba Announces Her Release Cageside Press",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYi15bHktSkFvODdnM1psNGZyS2llSEZjU3pxZFhmdlZ3ZVpWX29YWDFpZzQ3SG1Gb3I4U0ZmWTBWYk1fM2tDV1lncDNRZUNzeG5hR1M0S013TzVEWXRKSU4xZFpFRXRiZ2NVX0dteW11WWptX1FBdU1SMHVtQURzV0owUDZMclpSRkxVb1BFUGRFNWx2RnRBUHV6ZEdVMF9KbnNCZkhyQQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795024045
-  },
-  {
-   "id": "4d3aede3624e8061",
-   "title": "Joe Rogan Questions Marc Goddard’s Decision After Ciryl Gane Escapes Another Eye-Poke Punishment at UFC 334",
-   "summary": "UFC 334 proved to be a major test for Ciryl Gane. Heading into his title fight against Josh Hokit, many expected the Frenchman to dominate with his superior striking skills. However, the bout turned out to be one of the most physically demanding outings of his career. Although G…",
-   "link": "https://sports.yahoo.com/articles/joe-rogan-questions-marc-goddard-174132219.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1795023692
-  },
-  {
-   "id": "34e4cb8c16568d47",
-   "title": "Between the Links: UFC 334 fallout, Mike Perry re-signs, UFC Qatar, Josh Hokit vs. Jon Jones Twitter beef",
-   "summary": "UFC 334 certainly had it’s ups and downs, but the main event delivered in a big way between Ciryl Gane and Josh Hokit. Days later, people are still breaking down what they saw, how the fight was scored, and if an immediate rematch could be in play. What has been taken away most…",
-   "link": "https://www.mmafighting.com/ufc/522147/between-the-links-ufc-334-fallout-mike-perry-re-signs-ufc-qatar-josh-hokit-vs-jon-jones-twitter-beef",
-   "source": "MMA Fighting",
-   "kind": "news",
-   "ts": 1795023000
-  },
-  {
-   "id": "4baf570113f76d02",
-   "title": "Josh Hokit reacts to UFC GOAT pitching he fights Gable Steveson next following their first losses",
-   "summary": "Josh Hokit mocked Gable Steveson after a pitch for his next fight caught his attention. In the days following UFC 334, Hokit has been engaged in a constant back-and-forth with the former UFC heavyweight champion, Jon Jones.",
-   "link": "https://sports.yahoo.com/articles/josh-hokit-reacts-ufc-goat-172533464.html",
-   "source": "Yahoo Sports",
-   "kind": "news",
-   "ts": 1795022733
-  },
-  {
-   "id": "86f7f6ccb6db34f0",
-   "title": "Bruce Buffer praises Josh Hokit’s ‘warrior spirit’ despite being flipped off at UFC 334 - HITC",
-   "summary": "Bruce Buffer praises Josh Hokit’s ‘warrior spirit’ despite being flipped off at UFC 334 HITC",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ2pLUl9ibWtCYWlFRk9HU0dEemhaMmFMSU10X181WjBwdEFkYXdkQ2lxOTh5bnR6emtlZUJUVVU0dFlNUHJKS1htVFhEeGFKZTg2cVE3Z3gzOG5kcDhXMTN1U1h5YlRNZXJteWkyaWlES1RLaW85eDIxMUMtcGJnbWQ1T3ZDRjNoZEtDcGx2ay0yWlRHYWJLMkE5WGN3cGg5bUpnSVRFMG5Bdw?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795022706
-  },
-  {
-   "id": "a3b642f860e2030b",
-   "title": "Evan Elder Hoping for Quick Turnaround Following UFC 334 Battle - Cageside Press",
-   "summary": "Evan Elder Hoping for Quick Turnaround Following UFC 334 Battle Cageside Press",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xV2UxMUU4bHUzOHlUdlBjUW5xMHBLN3hxanVKcDJsSi1sX1R3T0EtMmN4ZzNxSzFwZzRkS3hfRFdkMExDd29XYmJRMkhFTzJudE9vREwtZXhPc2RyV2tOa3VNSFB1bHQwZUFSc2RCSld5cm9HSVE?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795022510
-  },
-  {
-   "id": "18e2c56e7995a165",
-   "title": "‘He’s a very smart guy’: Joe Rogan praises UFC fighter who called Michelle Obama ‘a man’ - Yahoo Sports",
-   "summary": "‘He’s a very smart guy’: Joe Rogan praises UFC fighter who called Michelle Obama ‘a man’ Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PMThtT0pjclVRR0UySzBiLVVSQ25KcXhmdEpaM1ZiMXc0NGd0eVZvT2NuMnJTX1hsZEVKNmV5QlRleW1WTldzT3d4TldaQnkwb0hpX1loVjhrZVFneDBsWm1mSVN0cm1RQmFDS0ZtNTdoSUo0Z2JOYzExcHh4QQ?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795022010
-  },
-  {
-   "id": "7efc016a797d575c",
-   "title": "Joe Rogan finds one thing 'crazy' about Ciryl Gane's UFC 334 win - Yahoo Sports",
-   "summary": "Joe Rogan finds one thing 'crazy' about Ciryl Gane's UFC 334 win Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50ejVCdmpiTGRROHRrRWl6UGNpT0piRVdYVHNIbDA1bHhJUnRwbEVtZWU2aFR4QjdMZFN5XzhvOUZRT0pIWlUxSjFZR0tncmw2TUFNd3VEcmhqVmRPaUZ3VEpHV3oxZjUxY0wySHdNNVFCMExOa3NObHJac09XenM?oc=5",
-   "source": "Google News",
-   "kind": "news",
-   "ts": 1795021827
   }
  ]
 }
